@@ -5,6 +5,8 @@ The links of the images are included and can be downloaded from the URLs.
 
 Please refer the paper if you are using the dataset.
 
-Runwei Situ, Zhenguo Yang*, Jianming Lv, Qing Li, Wenyin Liu, ``Cross-Modal Event Retrieval: A Dataset and a Baseline using Deep Semantic Learning", In Proceedings of the Pacific-Rim Conference on Multimedia (PCM), 2018. 
+Runwei Situ, Zhenguo Yang*, Jianming Lv, Qing Li, Wenyin Liu, "Cross-Modal Event Retrieval: A Dataset and a Baseline using Deep Semantic Learning", In Proceedings of the Pacific-Rim Conference on Multimedia (PCM), 2018. 
+
+Zhenguo Yang, Zehang Lin, Peipei Kang, Xudong Mao, Yun Ma, Jianming Lv, Qing Li, Wenyin Liu, "earning Shared Semantic Space with Correlation Alignment for Cross-modal Event Retrieval", 2019 (Manuscript)
 
 For more information, please contact me. Zhenguo Yang, E-mail: zhengyang5-c@my.cityu.edu.hk
