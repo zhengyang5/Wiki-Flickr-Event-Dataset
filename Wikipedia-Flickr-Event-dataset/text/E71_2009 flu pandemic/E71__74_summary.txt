@@ -1,5 +1,0 @@
-INTRODUCTIONThe 2009 pandemic influenza A (H1N1) virus (pH1N1) was first reported in the United States on 12 April 2009 [1, 2].
-Beginning 14 November 2009, the CDC published online monthly estimates of deaths, hospitalizations, and cases attributed to pH1N1 in the entire United States.
-Data SourcesTo estimate the burden of the pH1N1 influenza virus in the United States, we used data from 3 influenza surveillance systems.
-Estimates of the prevalence of pandemic (H1N1) 2009, United States, April–July 2009 , Emerg Infect Dis , 2009 , vol.
-NYC Swine Flu Investigation Team The severity of pandemic H1N1 influenza in the United States, from April to July 2009: A Bayesian analysis , PloS Med , 2009 , vol.

@@ -1,5 +1,0 @@
-NBC Olympics is working with satellite company SES to distribute its 4K/HDR coverage from the Winter Olympic Games from PyeongChang.
-NBC is providing select coverage, on delay, from the games in the advanced video format.
-Under the arrangement, NBC Olympics is distributing its HDR feed from the games to affiliates in the U.:S. via the SES-1 satellite, located at 101 degrees West.
-“NBC Olympics is pleased to work with SES to offer 4K HDR coverage of the PyeongChang Games to our valued distribution partners,” David Mazza, CTO and SVP, NBC Olympics, said in a statement.
-“The HDR feed distributed by SES, and presented by Xfinity, will complement our HDR Video On Demand offering available to MVPDs and satellite providers across the United States.”RELATED: Dish Gears Up for the Winter Olympics

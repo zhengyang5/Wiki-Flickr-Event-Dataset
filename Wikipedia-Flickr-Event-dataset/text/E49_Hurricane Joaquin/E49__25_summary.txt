@@ -1,5 +1,0 @@
-ZCZC MIATCDAT1 ALL TTAA00 KNHC DDHHMM TROPICAL STORM JOAQUIN DISCUSSION NUMBER 41 NWS NATIONAL HURRICANE CENTER MIAMI FL AL112015 500 PM AST WED OCT 07 2015 Joaquin has begun its transition into an extratropical cyclone.
-The cyclone's cloud pattern has become rather asymmetric, with the center partially exposed on the west side of weakening deep convection.
-Earlier ASCAT data still showed a large area of 55 to 60 kt winds, so the initial wind speed is held at 60 kt.
-The storm should gradually lose strength while it moves over progressively colder waters north of the Gulf Stream.
-Deep convection should disappear tonight when the SSTs drop below 20C, and Joaquin is expected to become post-tropical at that time.

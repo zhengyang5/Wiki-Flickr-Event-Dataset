@@ -1,7 +1,0 @@
-E27_2th_1		:https://www.flickr.com/photos/directrelief/15951942071/in/album-72157637564061343/
-E27_2th_2		:https://www.flickr.com/photos/directrelief/15331627014/in/album-72157637564061343/
-E27_2th_3		:https://www.flickr.com/photos/directrelief/15766615470/in/album-72157637564061343/
-E27_2th_4		:https://www.flickr.com/photos/directrelief/15928112036/in/album-72157637564061343/
-E27_2th_5		:https://www.flickr.com/photos/directrelief/15766612800/in/album-72157637564061343/
-E27_2th_6		:https://www.flickr.com/photos/directrelief/15953231852/in/album-72157637564061343/
-E27_2th_7		:https://www.flickr.com/photos/directrelief/15953889305/in/album-72157637564061343/

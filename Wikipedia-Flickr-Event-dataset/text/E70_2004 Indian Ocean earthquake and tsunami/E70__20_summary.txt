@@ -1,5 +1,0 @@
-Although similar seismographs have existed since the 1890's, it was only in the 1930's that Charles F. Richter, a California seismologist, introduced the concept of earthquake magnitude.
-The two largest reported moments are 2.5 X 1030 dyn·cm (dyne·centimeters) for the 1960 Chile earthquake ( M S 8.5; M W 9.6) and 7.5 X 1029 dyn·cm for the 1964 Alaska earthquake ( M S 8.3; M W 9.2).
-When an earthquake occurs, much of the available local stress is used to power the earthquake fracture growth to produce heat rather that to generate seismic waves.
-Of an earthquake system's total energy, perhaps 10 percent to less that 1 percent is ultimately radiated as seismic energy.
-For scientific purposes, this earthquake depth range of 0 - 700 km is divided into three zones: shallow, intermediate, and deep.

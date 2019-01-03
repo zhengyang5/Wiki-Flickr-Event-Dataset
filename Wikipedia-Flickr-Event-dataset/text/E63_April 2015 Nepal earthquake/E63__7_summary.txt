@@ -1,5 +1,0 @@
-The compressive strengths of stone masonry and brick masonry were found to be 12.38 and 18.75 MPa, respectively.
-Another well-known devastating earthquake prior to the Gorkha earthquake was the Nepal–Bihar earthquake of 1934 with a Richter magnitude of 8.4.
-Similarly, Schmidt hammer tests have also been used for stone masonry structures and brick masonry structures, even though they are not well defined for use with stone masonry.
-Therefore, to study stone masonry with mud mortar, we can use mortar strength combined with the compressive strength of the stone.
-The 2015 Gorkha Nepal earthquake: Insights from earthquake damage survey.

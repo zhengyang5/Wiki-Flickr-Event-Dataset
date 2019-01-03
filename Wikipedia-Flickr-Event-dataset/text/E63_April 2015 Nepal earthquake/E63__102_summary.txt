@@ -1,5 +1,0 @@
-They were volunteers around the world who analysed satellite imagery and other data, generating maps to provide relief agencies with crowdsourced information.
-Until a few years ago, crowdsourced disaster response was informal, uncoordinated and often haphazard.
-The platform’s apps help volunteers identify and map useful social media data by breaking down larger analytical tasks into small, easily completed microtasks.
-In disaster response, coordination has never been easy and Meier says it remains a challenge.
-“And leveraging a new, disruptive technology for disaster response is also a major challenge,” he writes in his blog, irevolution.

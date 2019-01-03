@@ -1,5 +1,0 @@
-Information message about destructive earthquake near the eastern coast of Honshu Island of Japana on March 11, 2011.
-Destructive earthquake with M=8.8 has occurred near the eastern coast of Honshu Island of Japan on March 11, 2011 at 05:46 GMT (08:46 Moscow time).
-Figure 1Figure 2IPC GS RAS also has obtained information with parameters of this event from some seismological centers, these data are given in table 1: Table 1 NN Time in origin h-min-s (GMT) Lat degr.
-GS RAS registered more than 90 aftershocks with M>5 within one day after the main shock.
-In accordance with latest information more than 50 thousand houses were partially or fully destroyed.

@@ -1,5 +1,0 @@
-From sensor-packed ski suits and virtual reality (VR) to “bullet time” and live 4K broadcasts, the 23rd Winter Olympics from February 9 to 25 looks set to be a showcase for the very latest hyped-up tech.
-Two Dutch athletes will be receiving feedback on their technique thanks to a fleet of sensors all over their bodies.
-Besides, only viewers with Windows Mixed Reality, Samsung Gear VR, Google Cardboard or Google Daydream headsets can watch in VR.
-KT and Intel will also be demonstrating a real-time 5G video system on the Alpensia ski slope.
-TV images will be captured in 3,840 x 2,160 pixels to fit the specifications of the latest 4K TVs.

@@ -1,5 +1,0 @@
-The social-media site's security team talks to The Atlantic -- revealing key details about a revolution that could become a parable for Internet activism.
-"There are a lot more Facebook users than Twitter users.
-Later, Zuckerberg popped up on a sign outside the Saudi Arabian embassy carried by Tunisian protesters demanding the arrest of Ben Ali.
-* * * After more than ten days of intensive investigation and study, Facebook's security team realized something very, very bad was going on.
-The software was basically a country-level keystroke logger, with the passwords presumably being fed from the ISPs to the Ben Ali regime.

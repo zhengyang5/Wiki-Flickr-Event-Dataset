@@ -1,5 +1,0 @@
-ZCZC MIATCDAT1 ALL TTAA00 KNHC DDHHMM TROPICAL STORM JOAQUIN DISCUSSION NUMBER 40 NWS NATIONAL HURRICANE CENTER MIAMI FL AL112015 1100 AM AST WED OCT 07 2015 Satellite images indicate that Joaquin continues to slowly weaken.
-Dvorak estimates are lower, so the initial wind speed is reduced to 60 kt.
-A gradual spin-down of the cyclone is expected while Joaquin moves over colder waters north of the Gulf Stream.
-Deep convection should probably disappear tonight when the SSTs drop below 20C, so the intensity forecast calls for Joaquin to become post-tropical at that time.
-The official intensity forecast is very close to the previous one, and is in closest agreement with the GFS forecast.

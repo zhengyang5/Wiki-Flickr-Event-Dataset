@@ -1,5 +1,0 @@
-Collateralized debt obligations, known as CDOs, are structured finance products that bunch together a portfolio of bonds and other fixed-income asset into a new blended security.
-This is because the value of CDOs is measured by a "marked to market" technique that pegs them to their value in the market, rather than their book value.
-Complicating the situation is the fact that CDOs containing mortgage-backed securities seldom trade, which can mean that their "marked to market" value does not reflect recent events.
-"This would force other hedge funds to similarly mark down the value of their holdings.
-He further cautioned that the impact of hedge fund losses would be pale in contrast to the likely impact of an open market auction of subprime CDOs.

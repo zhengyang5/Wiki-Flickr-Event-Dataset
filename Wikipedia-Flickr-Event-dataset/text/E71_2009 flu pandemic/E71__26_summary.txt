@@ -1,5 +1,0 @@
-Since height and weight are not uniformly recorded in UK hospital notes, obesity based on physicians' observations was captured when recorded on admission.
-The Influenza Clinical Information Network (FLU-CIN) surveillance network was established by the Department of Health in England on 11 May 2009.
-No patients were declined level 2 or level 3 care for non-clinical reasons during the study period.
-The median length of stay for patients with pneumonia was 6 days compared with 3 days for patients without pneumonia (p=0.0001).
-The median interval between onset of illness and admission recorded for 522 cases was 2 days (range 0–33; interquartile range 0–24).

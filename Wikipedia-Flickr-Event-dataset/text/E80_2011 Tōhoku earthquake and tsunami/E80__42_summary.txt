@@ -1,5 +1,0 @@
-Japan Earthquake May Have Shifted Earth's AxisRichard Gross, of NASA's Jet Propulsion Laboratory, calculates that last week's earthquake off Japan's coast may have shortened the length of Earth's days by about 1.26 microseconds and shifted its axis by about 6.5 inches.
-Well, that Japanese - the giant 9.0 Japanese earthquake shook up the entire planet, and it shifted the Earth's axis, yeah, shortening the day just a teeny-weeny little bit.
-The Earth's rotation changes all the time.
-So, the Earth rotates about its rotation axis, but the mass of the Earth is not balanced about that axis.
-This is - this model just computes consequence of the earthquake on the Earth's rotation.

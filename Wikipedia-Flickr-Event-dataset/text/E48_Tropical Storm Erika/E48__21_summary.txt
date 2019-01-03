@@ -1,5 +1,0 @@
-Event Tropical StormState PUERTO RICOCounty/Area Western InteriorWFO SJUReport Source Emergency ManagerNCEI Data Source CSVBegin Date 2015-08-27 22:00 AST-4End Date 2015-08-28 15:00 AST-4Deaths Direct/Indirect 0/0 (fatality details below, when available...)Injuries Direct/Indirect 0/0Property Damage 0.00KCrop Damage 0.00KEpisode Narrative Tropical Storm Erika affected Puerto Rico on August 27th 2015.
-Several winds damages associated with Tropical Storm force winds were reported.
-Several trees were downed as well as power lines.
-Agriculture sector damages were estimated around 17.37 million dollars.
-Dozens of electrical power poles were reported damages.

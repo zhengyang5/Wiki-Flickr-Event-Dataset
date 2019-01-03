@@ -1,5 +1,0 @@
-E27_3th_1		:https://www.flickr.com/photos/eu_echo/10844671034/in/album-72157637644943505/
-E27_3th_2		:https://www.flickr.com/photos/eu_echo/10844671044/in/album-72157637644943505/
-E27_3th_3		:https://www.flickr.com/photos/eu_echo/10844671344/in/album-72157637644943505/
-E27_3th_4		:https://www.flickr.com/photos/eu_echo/10844672554/in/album-72157637644943505/
-E27_3th_5		:https://www.flickr.com/photos/eu_echo/10844671754/in/album-72157637644943505/

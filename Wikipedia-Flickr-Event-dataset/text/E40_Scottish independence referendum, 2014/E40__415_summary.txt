@@ -1,5 +1,0 @@
-The electionforecast site is a joint project by experts at UEA, LSE and Durham, which uses a partial mean-reversion from current polling to forecast vote shares at the next election.
-If we assume a pattern of turnout similar to 2010, we can derive forecast vote shares from their seat-level vote projections.
-I’ll revist this analysis from time-to-time – one thing we can look forward to is some real Scottish polling from Lord Ashcroft.
-I’ll provide updates to this analysis periodically, whether or not any dedicated Scottish polling is done.
-Number Cruncher would like to thank Chris Hanretty of UEA for kindly providing helpful information on the electionforecast model.

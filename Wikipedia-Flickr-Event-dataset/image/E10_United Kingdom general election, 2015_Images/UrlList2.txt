@@ -1,7 +1,0 @@
-E10_2th_1		:https://www.flickr.com/photos/gdsteam/16934289154/in/album-72157650351891874/
-E10_2th_2		:https://www.flickr.com/photos/gdsteam/17369254470/in/album-72157650351891874/
-E10_2th_3		:https://www.flickr.com/photos/gdsteam/17370504979/in/album-72157650351891874/
-E10_2th_4		:https://www.flickr.com/photos/gdsteam/17554554512/in/album-72157650351891874/
-E10_2th_5		:https://www.flickr.com/photos/gdsteam/16936554323/in/album-72157650351891874/
-E10_2th_6		:https://www.flickr.com/photos/gdsteam/16936505493/in/album-72157650351891874/
-E10_2th_7		:https://www.flickr.com/photos/gdsteam/17556744941/in/album-72157650351891874/

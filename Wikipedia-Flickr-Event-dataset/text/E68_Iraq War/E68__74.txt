@@ -1,9 +1,0 @@
-Iraq Coalition Casualty Count
-
-Province Total Anbar 1298 Basrah 142 Muthanna 6 Qadisiyah 40 Najaf 32 Arbil 2 Sulaymaniyah 0 At-Ta'mim 90 Babil 202 Baghdad 1312 Dahuk 0 Dhi Qar 87 Diyala 244 Karbala 37 Maysan 23 Ninawa 238 Salah ad Din 387 Wasit 41
-
-%__EvalRadCallbackPanelScripts__%
-
-%__EvalRadCallbackPanelScripts__% Deaths by province and time period U.S. Only Loading... Year Anbar Baghdad SalahadDin Ninawa Babil Diyala Basrah DhiQar At Tamim Wasit Najaf Karbala Qadisiyah Maysan Muthanna Arbil NA 2003 54 127 58 48 32 22 30 56 6 11 6 18 6 6 4 1 95 2004 385 175 85 58 51 27 16 3 11 13 18 8 5 5 2 0 43 2005 323 242 102 51 37 31 18 11 12 9 0 2 6 5 0 0 48 2006 356 266 54 37 35 20 33 7 24 6 5 0 8 4 0 0 12 2007 161 404 69 29 37 119 43 5 32 2 2 9 13 3 0 1 12 2008 19 98 19 15 10 25 2 5 5 0 1 0 2 0 0 0 6 Total 1298 1312 387 238 202 244 142 87 90 41 32 37 40 23 6 2 216
-
-Note: Some deaths cannot be identifed by province. Where possible totals by province are based on incident location (wounded in Falluja [Anbar province], died in Germany).

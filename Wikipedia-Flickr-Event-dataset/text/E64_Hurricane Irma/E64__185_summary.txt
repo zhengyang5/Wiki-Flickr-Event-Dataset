@@ -1,5 +1,0 @@
-Max Winds: Estimated maximum sustained (1 min) surface (10 m) winds to occur along the U. S. coast.
-RMW: The radius of maximum winds (primarily for the right front quadrant of the hurricane), if available.
-Central pressure values in parentheses indicate that the value is a simple estimation (based upon a wind-pressure relationship), not directly measured or calculated.
-The winds indicated here are lower than in HURDAT and are lower than they were over Mexico.
-In this case, central pressure is given for the hurricane's point of closest approach.

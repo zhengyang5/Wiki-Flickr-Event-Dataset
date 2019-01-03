@@ -1,5 +1,0 @@
-A coroner today condemned the "glaring failures" that led to the killing of two British airmen when a US missile battery confused an RAF Tornado for an enemy attack.
-That seems to come back time and time again as the main issue - having a battery working on its own."
-He questioned the wisdom of "sticking an autonomous Patriot battery in a flight path without any appropriate system to alert that Patriot to friendly aircraft".
-But RAF engineers told the coroner yesterday that the IFF system could have blown a fuse or external electronic interference could have led the Patriot missile battery to identify the Tornado as a threat.
-The coroner added that he thought it "unfair" to blame the IFF system for what happened.

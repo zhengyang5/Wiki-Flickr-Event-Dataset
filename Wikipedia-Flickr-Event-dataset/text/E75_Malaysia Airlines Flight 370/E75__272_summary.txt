@@ -1,5 +1,0 @@
-NARRATOR: It begins as all airline flights do: a rote ritual exchange of jargon between crew and air traffic control, captured on these recordings.
-And that really is the important thing that you want to have air traffic control know.
-NARRATOR: The air traffic control system is designed to know where planes are at all times, but it works on the assumption that aircraft want to be seen.
-This 1940s technology remains a mainstay of air traffic control in the 21st century.
-In 2005, a Helios Airlines 737 stopped responding to air traffic control while en route from Cyprus to Athens.

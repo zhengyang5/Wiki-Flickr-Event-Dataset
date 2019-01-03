@@ -1,7 +1,0 @@
-E22_7th_1		:https://www.flickr.com/photos/isafmedia/4705324973/in/album-72157624287028068/
-E22_7th_2		:https://www.flickr.com/photos/isafmedia/4705968360/in/album-72157624287028068/
-E22_7th_3		:https://www.flickr.com/photos/isafmedia/4705969022/in/album-72157624287028068/
-E22_7th_4		:https://www.flickr.com/photos/isafmedia/4705326441/in/album-72157624287028068/
-E22_7th_5		:https://www.flickr.com/photos/isafmedia/4705969602/in/album-72157624287028068/
-E22_7th_6		:https://www.flickr.com/photos/isafmedia/4705969972/in/album-72157624287028068/
-E22_7th_7		:https://www.flickr.com/photos/isafmedia/4705970268/in/album-72157624287028068/

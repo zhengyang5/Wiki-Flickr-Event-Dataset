@@ -1,5 +1,0 @@
-We could therefore produce a different forecast by taking our forecast vote shares and applying a uniform national swing.
-Updates27th April We have revised how we use older constituency polls in constituencies with multiple constituency polls.
-We now exclude constituency polls that are more than four months old, if there are more recent polls in that constituency.
-More comprehensive seat-level details coming soon...20 August 2014 Today we added data from 12 constituency polls fielded by Lord Ashcroft.
-In the aggregate, not a lot changed: none of the constituency polls released today were very surprising results.

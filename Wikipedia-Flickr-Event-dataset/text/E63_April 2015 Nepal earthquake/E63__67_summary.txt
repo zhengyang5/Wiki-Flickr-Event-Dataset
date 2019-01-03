@@ -1,5 +1,0 @@
-This paper tests the hypothesis that spatial distributions of earthquake-induced landslides are determined by both the conditions at the time of the triggering earthquake (time-independent factors) and the legacy of past events (time-dependent factors).
-Spatial distributions of earthquake-triggered landslides are determined by a combination of earthquake and local characteristics, which influence the dynamic response of hillslopes.
-To identify the influence of a legacy from past events, we first use logistic regression to control for the effects of time-independent variables.
-We then assess whether variability unexplained by these variables may be attributed to the legacy of past events.
-Citation: Parker, R. N., Hancox, G. T., Petley, D. N., Massey, C. I., Densmore, A. L., and Rosser, N. J.: Spatial distributions of earthquake-induced landslides and hillslope preconditioning in the northwest South Island, New Zealand, Earth Surf.

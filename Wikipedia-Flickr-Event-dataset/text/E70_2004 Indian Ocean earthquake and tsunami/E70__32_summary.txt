@@ -1,5 +1,0 @@
-West Coast/Alaska Tsunami Warning CenterPosted December 31, 2004(last updated April 25, 2005)Indian Ocean Tsunami of 26 December, 2004The December 26 earthquake produced the largest trans-oceanic tsunami in over 40 years, and killed more people than any tsunami in recorded history.
-The gages are operated by many different agencies including the NOAA/National Ocean Service, the Pacific Tsunami Warning Center , the University of Hawaii , and the National Tidal Facility of Australia.
-Click on the site name to see a graph of the tsunami.
-Arrival times are the actual tsunami arrival time in UTC on gages where it can be determined.
-NOTE: The data is provided as recorded at the WC/ATWC � some gaps and repetitions occur within the data files.

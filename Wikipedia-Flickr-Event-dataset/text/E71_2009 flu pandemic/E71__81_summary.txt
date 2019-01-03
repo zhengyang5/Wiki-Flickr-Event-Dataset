@@ -1,5 +1,0 @@
-No one wants to catch the flu, and the best line of defense is the seasonal influenza vaccine.
-But producing an effective annual flu shot relies on accurately predicting which flu strains are most likely to infect the population in any given season.
-Once epidemiologists settle on target flu strains, vaccine production shifts into high gear; it takes approximately six months to generate the more than 150 million injectible doses necessary for the American population.
-Each year, epidemiologists forecast which flu strains are most likely to infect populations, typically settling on three or four.
-Researchers then attenuate or inactivate these strains so they can act as the mimics in that year's influenza vaccine without giving recipients the full-blown flu.

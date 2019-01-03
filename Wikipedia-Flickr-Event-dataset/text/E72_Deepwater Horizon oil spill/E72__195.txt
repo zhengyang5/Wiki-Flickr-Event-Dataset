@@ -1,4 +1,0 @@
-Deepwater Horizon/BP Oil Spill: Size and Percent Coverage of Fishing Area Closures Due to BP Oil Spill Date of Closure Area (sq mi) Area (sq km) Percent Coverage of Gulf EEZ Percent Change in Coverage May 2 6,817 17,648 2.8 N/A May 7 10,807 27,989 4.5 58.5 May 11 16,027 41,511 6.6 48.3 May 12 17,651 45,717 7.3 10.1 May 14 19,377 50,187 8.0 9.8 May 17 24,241 62,784 10.0 25.1 May 18 45,728 118,435 18.9 88.6 May 21 48,005 124,333 19.8 5.0 May 25 54,096 140,109 22.4 12.7 May 28 60,683 157,169 25.1 12.2 May 31 61,854 160,200 25.6 1.9 June 1 75,920 196,633 31.4 22.7 June 2 88,522 229,270 36.6 16.6 June 4 78,182 202,491 32.3 -11.7 June 5 78,603 203,582 32.5 0.5 June 7 78,264 202,703 32.3 -0.4 June 16 80,806 209,286 33.4 3.2
-
-
-

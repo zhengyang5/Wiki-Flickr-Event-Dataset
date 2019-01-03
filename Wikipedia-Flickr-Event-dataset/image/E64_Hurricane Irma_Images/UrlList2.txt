@@ -1,6 +1,0 @@
-E64_2th_1		:https://www.flickr.com/photos/joannova/36414217383/in/album-72157689050014915/
-E64_2th_2		:https://www.flickr.com/photos/joannova/37085908421/in/album-72157689050014915/
-E64_2th_3		:https://www.flickr.com/photos/joannova/37038276636/in/album-72157689050014915/
-E64_2th_4		:https://www.flickr.com/photos/joannova/37038260526/in/album-72157689050014915/
-E64_2th_5		:https://www.flickr.com/photos/joannova/36391369894/in/album-72157689050014915/
-E64_2th_6		:https://www.flickr.com/photos/joannova/36830867670/in/album-72157689050014915/

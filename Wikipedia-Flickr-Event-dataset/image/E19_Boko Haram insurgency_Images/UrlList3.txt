@@ -1,7 +1,0 @@
-E19_3th_1		:https://www.flickr.com/photos/129557156@N04/16175069889/
-E19_3th_2		:https://www.flickr.com/photos/eu_echo/19316193952/
-E19_3th_3		:https://www.flickr.com/photos/jeromestarkey/17105899631/
-E19_3th_4		:https://www.flickr.com/photos/farkoous/17316311415/
-E19_3th_5		:https://www.flickr.com/photos/jeromestarkey/16968711802/
-E19_3th_6		:https://www.flickr.com/photos/jeromestarkey/16968713122/
-E19_3th_7		:https://www.flickr.com/photos/unowas/17190055970/

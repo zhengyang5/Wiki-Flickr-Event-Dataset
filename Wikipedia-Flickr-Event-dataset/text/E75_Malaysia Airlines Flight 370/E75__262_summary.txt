@@ -1,5 +1,0 @@
-The disappearance of Malaysia Airlines Flight 370 is raising new questions about the tracking technology inside airplane cockpits.
-The primary transponder on board Flight 370 was turned off, preventing air traffic controllers from tracking the plane, CBS News' Jeff Pegues reports.
-In the case of Flight 370, after the primary transponder was powered down, the backup didn't activate, and the plane disappeared from radar.
-Once a plane is on the ground and within vision of air traffic control, a transponder in the "on" position could clutter radar.
-Transponders offer air traffic controllers a location of a plane by calculating airspeed and altitude.

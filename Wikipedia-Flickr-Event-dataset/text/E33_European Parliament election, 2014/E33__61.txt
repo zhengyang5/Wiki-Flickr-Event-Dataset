@@ -1,5 +1,0 @@
-Official data for the European Parliament elections.
-
-# List Number of votes Percentage 1. SDS 99,643 24.78 % 2. NSi in SLS 66,760 16.60 % 3. VERJAMEM! 41,525 10.33 % 4. DeSUS 32,662 8.12 % 5. SD 32,484 8.08 % 6. PS 26,649 6.63 % 7. ZDRUŽENA LEVICA 21,985 5.47 % 8. KONKRETNO 19,762 4.92 % 9. SNS 16,210 4.03 % 10. SANJSKA SLUŽBA 14,228 3.54 % 11. PIRATSKA STRANKA 10,273 2.56 % 12. SOLIDARNOST 6,715 1.67 % 13. DL 4,600 1.14 % 14. ZARES 3,808 0.95 % 15. ZELENI 3,335 0.83 % 16. SLOVENSKI NAROD 1,432 0.36 %
-
-NOTE: The calculation of the latest situation is done only to demonstrate the d'Hondt method of calculation and refers to preferential votes (Article 13 of the ZVPEP), and with each new entry from the polling station this can change. Posted estimates have no legal effect and cannot be the subject of any legal proceedings.

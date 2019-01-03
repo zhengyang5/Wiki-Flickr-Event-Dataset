@@ -1,5 +1,0 @@
-The fire performance of external cladding panels is not always understood, even by architects and specifiers, and the issues are not straightforward.
-The large factory had ceilings of composite panels with cores of EPS and PUR, and walls of composite panels with EPS, PUR and Rockwool cores.
-As a more appropriate test for external cladding systems now exists, we see no reason why it should not be used.
-Test method for non-loadbearing external cladding systems fixed to and supported by a structural steel frame.
-The extent of damage caused to the external cladding system is evaluated, specifically the ability of the external cladding system to resist the propagation of the fire 2.5m upwards for at least 15 minutes.

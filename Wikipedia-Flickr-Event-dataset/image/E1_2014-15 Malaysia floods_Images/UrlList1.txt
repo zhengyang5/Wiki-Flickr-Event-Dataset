@@ -1,9 +1,0 @@
-E1_1th_1		:https://www.flickr.com/photos/128895111@N02/15646514764/in/album-72157649859199598/
-E1_1th_2		:https://www.flickr.com/photos/128895111@N02/15646514624/in/album-72157649859199598/
-E1_1th_3		:https://www.flickr.com/photos/128895111@N02/15646514504/in/album-72157649859199598/
-E1_1th_4		:https://www.flickr.com/photos/128895111@N02/16243013776/in/album-72157649859199598/
-E1_1th_5		:https://www.flickr.com/photos/128895111@N02/15649038053/in/album-72157649859199598/
-E1_1th_6		:https://www.flickr.com/photos/128895111@N02/15649037993/in/album-72157649859199598/
-E1_1th_7		:https://www.flickr.com/photos/128895111@N02/15646514414/in/album-72157649859199598/
-E1_1th_8		:https://www.flickr.com/photos/128895111@N02/15646514374/in/album-72157649859199598/
-E1_1th_9		:https://www.flickr.com/photos/128895111@N02/16243013696/in/album-72157649859199598/

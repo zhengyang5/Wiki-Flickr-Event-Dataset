@@ -1,5 +1,0 @@
-Huge cyberattacks in the past few months were triggered by political events and involved hackers sympathetic to both the city's main political camps, a University of Hong Kong study has found.
-The academic behind the study said one attack on democracy supporters involved up to 10,000 computers around the world.
-Attacks on the government were less sophisticated but were "destructive and difficult to avoid", said Dr Chow Kam-pui, an associate professor of computer science.
-Chow said his study identified sudden spikes in cyberattacks aimed at stealing the personal information of people involved in last year's Occupy Central pro-democracy protests, and in attacks on government websites.
-Hackers made several attempts to plant spy programmes on the smartphones and computers of Occupy protesters, Chow said.

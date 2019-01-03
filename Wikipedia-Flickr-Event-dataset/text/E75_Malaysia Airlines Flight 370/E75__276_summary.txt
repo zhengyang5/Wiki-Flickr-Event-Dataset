@@ -1,5 +1,0 @@
-The data behind the search for MH370: Phase One data releasedGeoscience Australia is today releasing the sea floor mapping data collected during the first phase of the search for missing Malaysia Airlines flight MH370.
-The search was conducted in two phases - the first phase was a survey to collect bathymetry data, or data of the sea floor topography, to develop maps of the sea floor in the search area.
-Geoscience Australia is delivering the data on behalf of the Australian Government, with Phase One released today and Phase Two being released in mid-2018.
-We have also been responsible for the processing and analysis of the two phases of search data," Dr Minchin said.
-For more experienced users, the Phase One data is available through two data visualisation platforms on our website to interrogate the data in different ways.

@@ -1,5 +1,0 @@
-SATELLITE Satellite Communications If Acars updates are turned off, the plane still sends a “keep-alive” signal, that can be received by satellites.
-Detecting a Plane Mar.
-Search Area Expanded Mar.
-The midpoint of the new search area is 1,100 miles west-northwest of Perth, Australia.
-“It wouldn’t surprise me if there’s a reasonable probability it’s outside the defined search area,” he said.

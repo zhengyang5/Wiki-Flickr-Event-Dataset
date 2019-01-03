@@ -1,5 +1,0 @@
-When a party goes up or down in the polls there is inevitably speculation as to why.
-Daily polling does at least give us an idea of when movements in public opinion have happened, and therefore make inferences about what events may have caused them.
-The graph below shows a five day rolling average of UKIP’s support in YouGov’s daily poll since the end of 2011.
-All of this is still a far cry from proving what causes the ups and downs in UKIP support, after all, correlation does not prove causality.
-Note also the biggest drop in UKIP support, back at the end of 2011 at the time of David Cameron’s veto in Europe.

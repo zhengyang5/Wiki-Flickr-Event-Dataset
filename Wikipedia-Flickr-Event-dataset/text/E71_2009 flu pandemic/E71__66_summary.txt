@@ -1,5 +1,0 @@
-The international sharing of virus data is critical for protecting populations against lethal infectious disease outbreaks.
-Scientists must rapidly share information to assess the nature of the threat and develop new medical countermeasures.
-Governments need the data to trace the extent of the outbreak, initiate public health responses, and coordinate access to medicines and vaccines.
-Recent outbreaks suggest, however, that the sharing of such data cannot be taken for granted – making the timely international exchange of virus data a vital global challenge.
-This article undertakes the first analysis of the Global Initiative on Sharing All Influenza Data as an innovative policy effort to promote the international sharing of genetic and associated influenza virus data.

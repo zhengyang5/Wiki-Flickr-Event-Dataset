@@ -1,5 +1,0 @@
-To prevent another MH370 from happening, tracking and control systems must change.
-MH370 also carried an ADS-B, an automatic dependency system that broadcasts location information via radio frequency, was also deactivated.
-Flight crews on long-haul commercial flights over oceans or desolate and remote land mass report their position using either high-frequency radio or using satellite communications.
-Whoever was flying the aircraft was either unable to report its position using satellite communications or chose not to.
-Otherwise, it could take years before we can really reduce the chances of a disaster like MH370 from happening again.

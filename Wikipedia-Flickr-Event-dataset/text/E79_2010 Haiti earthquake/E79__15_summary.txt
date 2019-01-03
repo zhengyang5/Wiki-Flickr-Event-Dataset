@@ -1,5 +1,0 @@
-We thank V. Tsai, H. Benz, J. McCarthy, R. Bilham and three anonymous reviewers for their comments in improving this manuscript.
-We thank R. Bilham and R. Koehler for early field observations of coastal deformation.
-Early PALSAR data were provided under the Group on Earth Observation Geohazards Supersite programme and other scenes through the Alaska Satellite Facility.
-The ownership of PALSAR data belongs to METI (Ministry of Economy, Trade and Industry) and the Japanese Aerospace Exploration Agency.
-are partially supported under funds provided by the Gordon and Betty Moore Foundation through the Tectonics Observatory.

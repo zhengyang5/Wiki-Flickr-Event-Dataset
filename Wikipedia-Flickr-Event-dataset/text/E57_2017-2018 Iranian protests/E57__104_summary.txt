@@ -1,5 +1,0 @@
-<OR> ipv6 Relays Release of Tor Browser 7.0.11, containing tor 0.3.1.9, which adds an IPv6 address for the bridge authority bastet.
-blog post<OR> ipv6 Relays Release of Tor Browser 7.5a9, containing tor 0.3.2.6-alpha, which adds an IPv6 address for the bridge authority bastet.
-graphipv6 obfs4 Unknown Jump in IPv6 users of the Lisbeth default obfs4 bridge.
-mailing list postdeb.torproject.org upgrades from tor 0.2.9 to tor 0.3.0relay versions graph tweetobfs4 Outage of default obfs4 bridge frosty.
-It adds the new default obfs4 bridges cymrubridge31:80 and cymrubridge33:80.blog postmeek obfs4 Tor Browser 6.5.2 is released.

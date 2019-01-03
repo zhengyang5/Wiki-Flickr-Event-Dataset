@@ -1,5 +1,0 @@
-Our final combined forecast is for a Conservative majority 66.
-The markets and models predict that the polls are over estimating Labour and under estimating the Conservatives again.
-Note that the markets imply fewer seats forecast than there are actually are in the House of Commons.
-For the probability of a Conservative majority we give an average of the implied probability from sites offering this market.
-We use the proportion of poll respondents who think the Conservatives will win/there will be a Conservative majority, excluding don’t knows and re-percentaging, as the pseudo-probability of a Conservative majority.

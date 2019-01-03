@@ -1,6 +1,0 @@
-E26_3th_1		:https://www.flickr.com/photos/globovision/9508300799/in/album-72157635065993213/
-E26_3th_2		:https://www.flickr.com/photos/globovision/9508300011/in/album-72157635065993213/
-E26_3th_3		:https://www.flickr.com/photos/globovision/9511092138/in/album-72157635065993213/
-E26_3th_4		:https://www.flickr.com/photos/globovision/9511091912/in/album-72157635065993213/
-E26_3th_5		:https://www.flickr.com/photos/globovision/9511091016/in/album-72157635065993213/
-E26_3th_6		:https://www.flickr.com/photos/globovision/9508296913/in/album-72157635065993213/

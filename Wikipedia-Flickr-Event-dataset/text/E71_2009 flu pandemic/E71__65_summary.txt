@@ -1,5 +1,0 @@
-Though databases such as GenBank still play a vital role in sharing and archiving influenza viruses, GISAID's EpiFlu database provides a more complete picture of the flu data.
-Database exposes new virus structure and spreadIn late April, the first news of the novel H1N1 virus threatened to overwhelm the database, GISAID officials said.
-Following the request by governments of countries hit by avian influenza, GISAID also developed on its platform a system for tracking actual samples of H5N1 and other flu strains with pandemic potential.
-The Swiss Institute of Bioinformatics developed programming for the influenza database.
-System yields practical benefitsGISAIDs EpiFlu went live on May 15, 2008, with Indonesia supporting the project and promising to share its H5N1 sequences, and quickly achieved important milestones.

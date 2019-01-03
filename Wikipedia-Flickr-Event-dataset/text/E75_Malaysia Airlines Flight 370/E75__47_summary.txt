@@ -1,5 +1,0 @@
-Malaysian government publishes MH370 details from UK AAIBMalaysia’s Ministry of Transport has published an article detailing how Inmarsat helped to pinpoint the southern corridor flight path taken by MH370.
-It reports that Inmarsat informed them on 13 March that routine automatic communications between the Inmarsat satellite and MH370 could be used to determine several possible flight paths.
-The UK Air Accidents Investigation Branch (AAIB) then presented Inmarsat’s most recent findings on 24 March, indicating the southern corridor.
-The ground station log recorded six complete handshakes after ACARS, the aircraft’s operational communications system, stopped sending messages.
-Malaysian Ministry of Transport Facebook pagePress Briefing by Hishammuddin Hussein, Minister of Defence and Acting Minister of Transport

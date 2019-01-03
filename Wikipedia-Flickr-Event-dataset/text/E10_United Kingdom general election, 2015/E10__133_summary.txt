@@ -1,5 +1,0 @@
-Their main finding agrees with our own research: unrepresentative samples are to blame for the 2015 polling miss.
-As the inquiry makes clear, it is important to put the 2015 polling miss into context.
-Since turnout is often as much as thirty percentage points too high in polling samples, even demographic groups with low turnout often have high turnout percentages in the samples.
-Non-voters from low turnout demographic groups are replaced by voters from these demographic groups, skewing the voter sample.
-This is precisely what we think is to blame for the 2015 polling miss.

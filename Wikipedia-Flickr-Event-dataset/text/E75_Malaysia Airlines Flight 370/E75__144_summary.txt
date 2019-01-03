@@ -1,5 +1,0 @@
-From the ground station log it was established that after ACARS stopped sending messages, 6 complete handshakes took place.
-MH370 measured data against predicted tracksThe blue line is the burst frequency offset measured at the ground station for MH370.
-The red line is the predicted burst frequency offset for the northern route, which over the last 6 handshakes does not correlate with the measured values for MH370.
-Example southern tracksThis shows the southern tracks for a ground speed of 400 and 450 knots ground speed.
-It should be noted that further work is required to determine the aircraft speed and final position.

@@ -1,5 +1,0 @@
-Several existing technologies could do that, but ICAO's timeline means it could be a decade or more before planes equipped with those technologies begin entering service.
-Chris Hart, chairman of the U.S. National Transportation Safety Board, told The Associated Press that more should be done to put available technologies to use quickly.
-Inmarsat, a provider of satellite flight tracking services, has offered free tracking to all long-haul carriers.
-Besides flight tracking, ADS-B can be used to prevent collisions and allow planes to fly closer together.
-FLIGHT RECORDERSMH370's flight data recorder was equipped with an underwater locator beacon designed to last 30 days.

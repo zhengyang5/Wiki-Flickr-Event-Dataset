@@ -1,5 +1,0 @@
-From OpenStreetMap WikiFrom April 25 to June 8 2015, a significant crowdsourcing effort of the OSM community with more than 7,500 contributors from around the world supported the logistic of the Nepal government, UN Agencies and International organizations responding the Nepal Earthquake human relief.
-You also can assure the quality of the mapping by validating the Task manager tasks or using the various OSM Quality control tools.
-are invited to read the guidelines on Tagging Roads in Nepal and to revise the classification of roads.
-Mapping roads is a high priority, the Nepal roads page for proposed road conventions or guidelines for road categorization is a good reference.
-See Nepal imagery hosted by Google Crisis Response for a list of images and corresponding URLs.

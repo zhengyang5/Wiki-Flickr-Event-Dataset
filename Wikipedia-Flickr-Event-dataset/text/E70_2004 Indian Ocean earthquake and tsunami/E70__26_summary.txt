@@ -1,5 +1,0 @@
-For the first time, orbiting satellites have observed and measured a major tsunami event in open ocean, the Indian Ocean tsunami that resulted from the magnitude 9 earthquake southwest of Sumatra on December 26.
-The satellites flew over the Bay of Bengal about 150 kilometers (93 miles) apart approximately two hours after the quake.
-The inset is a computer model of simulated changes in sea surface height created by Kenji Satake of the National Institute of Advanced Industrial Science and Technology, Japan.
-It was followed by a trough of sea surface depression of 40 centimeters (1.3 feet) below normal.
-"The detection of these tsunami waves provides yet another demonstration of the important value of satellite radar altimeter observations.
