@@ -1,0 +1,55 @@
+US Secretary of State Hillary Clinton put forth Internet freedom as a main tenet of the United States' foreign policy agenda in 2010 [Getty]
+
+In the summer of 2009, the word on everyone's lips was "Iran." As the youthful Green Movement rose up against what they perceived to be a tampered election, the world banded together in solidarity. The hashtag #iranelection trended on Twitter for weeks, while media outlets spoke of a "Twitter revolution."
+
+In the end, Iranians didn't tweet the Mullahs out of power, but the events of summer 2009 turned the world's - and specifically, the West's - attention to Iran, and as a result, to digital activism and what it can accomplish. And while Twitter may not have been used to coordinate protests, it certainly allowed Iranians and their supporters to share news with the rest of the world.
+
+Now, as Tunisians take to the streets (and to the Internet) to protest unemployment and the oppressive and longstanding Ben Ali regime, the world's attention seems to be elsewhere. More specifically (and perhaps more importantly), the US government--which intervened heavily in Iran, approving circumvention technology for export and famously asking Twitter to halt updates during a critical time period—has not made any public overtures toward Tunisia at this time.
+
+Pervasive Internet filtering in Tunisia
+
+Although Iran and China tend to dominate media coverage vis-à-vis Internet filtering, Tunisia's censorship regime is comprehensive. Like Iran, Tunisia filters political content and social networking sites and like China, its methods are complex and multilayered; a recent report indicated that the country uses DNS tampering, IP address filtering and selective blocking by URL to accomplish its filtering goals.
+
+Furthermore, as the OpenNet Initiative found in 2006, Tunisia utilizes American-made software SmartFilter (founded by Secure Computing and acquired by McAfee in 2008) to implement its filtering regime and block sites across several categories, including human rights sites, social networking and video-sharing sites, sites containing LGBT content, dating sites, and a large swath of proxies and anonymizers.
+
+The OpenNet Initiative's 2009-2010 research on Tunisia found that the nation filters political and social content pervasively, putting it on par with China and Iran. And yet, in respect to Internet freedom, the global media pays disproportionate attention to the latter two countries, while the extensive censorship by the Tunisian regime goes largely ignored.
+
+Similar but not equal
+
+It should be fairly obvious to most observers why Iran gets so much attention: fear of nuclear weapons, fear of attacks on American ally Israel, and fear of political Islam all propel attention toward the Islamic Republic. The attention given to China makes sense as well; American business interests in the Asian nation are better off with a free Internet.
+
+Tunisia, on the other hand, is a friend of the United States, a secular country cooperative in the war on terror. But while Tunisia may be an ally to the United States, the United States is no ally to Tunisians, journalists and bloggers in particular. Tunisia regularly jails and threatens citizens who speak out against the longstanding Ben Ali regime, but for the duration of the regime's 24 years the US government has remained allied to it, rarely making public gestures for Tunisian dissidents.
+
+Contrast that to Iran; when Iranian-American journalist Roxana Saberi was jailed in 2009, Secretary of State Hillary Clinton demanded her release. Similarly, after jailed Chinese dissident Lu Xiabao was awarded the Nobel Peace Prize, Clinton demanded his immediate release from prison.
+
+When Tunisian journalist Slim Boukhdir was beaten and jailed in 2007 for insulting the president on the other hand, prompting the Committee to Protect Journalists (CPJ) to deem the country a "police state," Department of State officials responded to CPJ by letter, by stating that they were indeed concerned about Boukhdir’s case; nevertheless, the case did not receive the international attention that might have been garnered by a public statement. CPJ later named Tunisia as one of the ten worst places to be a blogger, based on its track record for arrests and abuse. Global Voices Advocacy lists 23 "threatened voices" in Tunisia.
+
+On January 6, three more were added to that list: bloggers Hamadi Kaloucha, Aziz Amami were reported arrested on Twitter, while Slim Amamou’s arrest was reported after he updated social networking site FourSquare from the Interior Ministry.
+
+"Internet Freedom"
+
+When in early 2010 Secretary of State Clinton put forth Internet freedom as a main tenet of the United States' foreign policy agenda, many observers applauded the effort. One year later, however, skepticism is growing, particularly amongst activist in US-allied countries like Egypt and Tunisia. Though millions of dollars have been spent on propagating circumvention technology—often with a focus on Iran and China - there is little evidence that it has effected real change.
+
+Tunisian activists, for their part, are outraged, and rightly so. In an essay in September 2010, Tunisian exile and activist Sami Ben Gharbia stated: "Just look at the number of op-eds in the US and Western media covering the crackdown on Iranian and Chinese bloggers and activists and compare that with the lack or the under-coverage reserved to Arab bloggers and activists from allied states."
+
+Walking the walk
+
+Clinton's January 2010 speech and the resulting Internet freedom agenda can only be as noble as its implementation. In her speech, Clinton called for Internet freedom as part of the "American brand," emphasizing the importance of unfettered access for all, and calling on US companies to take a principled stand against censorship.
+
+It is not enough, however, to wax philosophic about the importance of liberty or ask companies not to contribute to worldwide censorship; if the US government wants to "win the hearts and minds" of people living under repressive regimes, it seems prudent to take a more public stance on the human rights violations of its friends and allies.
+
+When a US government official makes a statement calling for freedom for a jailed blogger, the media—and by extension, the world - listens. According to Mauritanian activist and Civil Rights Outreach Director of the American Islamic Congress Nasser Weddady, "the press release issued by the US embassy in Mauritania after a long silence got imprisoned journalist Hanevy Ould Dahah out of prison in less than three days."
+
+Though diplomacy is no doubt a multilayered and sensitive effort, without a strong public stance, it's easy to understand why Tunisians have a hard time trusting the US government's motives after having lived under such an oppressive regime for so long.
+
+There are small but meaningful steps that can and should be taken. First off, the stated Internet freedom agenda—one that emphasizes access for all, particularly toward political and religious freedoms—can only work if it is proportionately focused on all countries with pervasive filtering regimes, secular allies like Tunisia and thriving democracies like South Korea, as well as "enemies" like Iran.
+
+Second, if the US is going to continue funding and propagating circumvention technology (and it is; this week a $30 mn funding scheme was announced), it ought to ensure that any such technology that it funds - or for that matter, provides an export license to - is rigorously tested for security.
+
+Perhaps most importantly, the United States governments $30 mn will be wasted so long as American companies are allowed to export filtering technology with impunity. Propagating circumvention technology while allowing US companies to export the very tools that need circumventing is like a plumber pouring grease down a drain. Rather, any American company that provides filtering technology to foreign nations for the purpose of government censorship ought to be sanctioned.
+
+Finally, to the American media, I offer the following reminder: You don't work for the government. This is not Iran, nor China, nor Tunisia; we have a thriving free press that has the liberty to pursue and cover whatever story it deems important. Just like Iranians did in 2009, Tunisians are taking to the streets to protest a brutal dictatorship, but unlike in the summer of 2009, the American media is largely silent. It's time to speak up.
+
+Jillian York is a writer, blogger, and activist based in Boston. She works at Harvard Law School's Berkman Centre for Internet & Society and is involved with Global Voices Online.
+
+The views expressed in this article are the author's own and do not necessarily reflect Al Jazeera's editorial policy.

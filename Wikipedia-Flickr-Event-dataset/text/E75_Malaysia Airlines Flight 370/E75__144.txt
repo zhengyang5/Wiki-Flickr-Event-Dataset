@@ -1,0 +1,51 @@
+INFORMATION PROVIDED TO MH370 INVESTIGATION BY UK AIR ACCIDENTS INVESTIGATION BRANCH (AAIB)
+
+On 13 March we received information from UK satellite company Inmarsat indicating that routine automatic communications between one of its satellites and the aircraft could be used to determine several possible flight paths.
+
+Inmarsat UK has continued to refine this analysis and yesterday the AAIB presented its most recent findings, which indicate that the aircraft flew along the southern corridor.
+
+As you have heard, an aircraft is able to communicate with ground stations via satellite.
+
+If the ground station has not heard from an aircraft for an hour it will transmit a ‘log on / log off’ message, sometimes referred to as a ‘ping’, using the aircraft’s unique identifier. If the aircraft receives its unique identifier it returns a short message indicating that it is still logged on. This process has been described as a “handshake” and takes place automatically.
+
+From the ground station log it was established that after ACARS stopped sending messages, 6 complete handshakes took place.
+
+The position of the satellite is known, and the time that it takes the signal to be sent and received, via the satellite, to the ground station can be used to establish the range of the aircraft from the satellite. This information was used to generate arcs of possible positions from which the Northern and Southern corridors were established.
+
+Refined analysis from Inmarsat
+
+In recent days Inmarsat developed a second innovative technique which considers the velocity of the aircraft relative to the satellite. Depending on this relative movement, the frequency received and transmitted will differ from its normal value, in much the same way that the sound of a passing car changes as it approaches and passes by. This is called the Doppler effect. The Inmarsat technique analyses the difference between the frequency that the ground station expects to receive and that actually measured. This difference is the result of the Doppler effect and is known as the Burst Frequency Offset.
+
+The Burst Frequency Offset changes depending on the location of the aircraft on an arc of possible positions, its direction of travel, and its speed. In order to establish confidence in its theory, Inmarsat checked its predictions using information obtained from six other B777 aircraft flying on the same day in various directions. There was good agreement.
+
+While on the ground at Kuala Lumpur airport, and during the early stage of the flight, MH370 transmitted several messages. At this stage the location of the aircraft and the satellite were known, so it was possible to calculate system characteristics for the aircraft, satellite, and ground station.
+
+During the flight the ground station logged the transmitted and received pulse frequencies at each handshake. Knowing the system characteristics and position of the satellite it was possible, considering aircraft performance, to determine where on each arc the calculated burst frequency offset fit best.
+
+The analysis showed poor correlation with the Northern corridor, but good correlation with the Southern corridor, and depending on the ground speed of the aircraft it was then possible to estimate positions at 0011 UTC, at which the last complete handshake took place. I must emphasise that this is not the final position of the aircraft.
+
+There is evidence of a partial handshake between the aircraft and ground station at 0019 UTC. At this time this transmission is not understood and is subject to further ongoing work.
+
+No response was received from the aircraft at 0115 UTC, when the ground earth station sent the next log on / log off message. This indicates that the aircraft was no longer logged on to the network.
+
+Therefore, some time between 0011 UTC and 0115 UTC the aircraft was no longer able to communicate with the ground station. This is consistent with the maximum endurance of the aircraft.
+
+This analysis by Inmarsat forms the basis for further study to attempt to determine the final position of the aircraft. Accordingly, the Malaysian investigation has set up an international working group, comprising agencies with expertise in satellite communications and aircraft performance, to take this work forward.
+
+In Annex I (attached) there are three diagrams, showing:
+
+Doppler correction contributions
+
+This diagram shows the Doppler contributions to the burst frequency offset.
+
+MH370 measured data against predicted tracks
+
+The blue line is the burst frequency offset measured at the ground station for MH370.
+
+The green line is the predicted burst frequency offset for the southern route, which over the last 6 handshakes show close correlation with the measured values for MH370.
+
+The red line is the predicted burst frequency offset for the northern route, which over the last 6 handshakes does not correlate with the measured values for MH370.
+
+Example southern tracks
+
+This shows the southern tracks for a ground speed of 400 and 450 knots ground speed. It should be noted that further work is required to determine the aircraft speed and final position.

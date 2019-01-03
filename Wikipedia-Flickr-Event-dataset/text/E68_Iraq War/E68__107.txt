@@ -1,0 +1,11 @@
+* Includes both hostile killed and non-hostile killed
+
+** Reported Killed but Unidentified Pending Notification of Next of Kin
+
+*** Included both Wounded in Action and non-hostile prior to 01 Apr 04
+
+**** Includes only Wounded in Action since 01 Apr 04
+
+See the Casualty Notes for explanations.
+
+See also: U.S. Military Hostile Casualties In Support Of Operations Iraqi Freedom And New Dawn DoD As of July 15, 2011 [XLS]

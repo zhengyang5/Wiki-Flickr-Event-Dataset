@@ -1,0 +1,5 @@
+JapaneseDecember 26 Tsunami in Indian OceanThe great earthquake (Mw 9.0) of December 26 off Sumatra generated the tsunami in the Indian Ocean.
+According to U.S.G.S., the aftershocks extended as far as 1,000 km toward north (the red circles indicate aftershocks occurred within 24 hours).
+Assuming that the aftershock area represents the tsunami source, the tsunami propagation was computed.
+Tsunami Travel Time (Hours)Tsunami Travel Time (in hours) for the entire Indian OceanThe above figures show that the tsunami reaches Phuket and Sri Lanka coasts in two hours after the earthquake, and African coast in 8-11 hours.
+The tsunami propagation is also animated (up to 5 hours) from a 1200 km fault.

@@ -1,0 +1,25 @@
+In the wake of the Paris attack, intelligence officials and sympathizers upset by the Edward Snowden leaks and the spread of encrypted communications have tried to blame Snowden for the terrorists’ ability to keep their plans secret from law enforcement.
+
+Yet news emerging from Paris — as well as evidence from a Belgian ISIS raid in January — suggests that the ISIS terror networks involved were communicating in the clear, and that the data on their smartphones was not encrypted.
+
+European media outlets are reporting that the location of a raid conducted on a suspected safe house Wednesday morning was extracted from a cellphone, apparently belonging to one of the attackers, found in the trash outside the Bataclan concert hall massacre. Le Monde reported that investigators were able to access the data on the phone, including a detailed map of the concert hall and an SMS messaging saying “we’re off; we’re starting.” Police were also able to trace the phone’s movements.
+
+The Telegraph reported that “eyewitness accounts and surveillance of mobile telephone traffic” suggested that Abdelhamid Abaaoud, the suspected strategist of both the Paris attack and one that was foiled in Belgium, was staying at the safe house.
+
+Details about the major ISIS terror plot averted 10 months ago in Belgium also indicate that while Abaaoud previously attempted to avoid government surveillance, he did not use encryption.
+
+A prescient bulletin sent out in May by the Department of Homeland Security assessed “that the plot disrupted by Belgian authorities in January 2015 is the first instance in which a large group of terrorists possibly operating under ISIL direction has been discovered and may indicate the group has developed the capability to launch more complex operations in the West.”
+
+Abaaoud’s planned operation in Belgium was blown when authorities, who had been closely surveilling his three accomplices, stormed their safe house in the city of Verviers after determining that they were planning a major attack — very much like the one that took place in Paris on Friday. A pitched firefight between Belgian commandos and the ISIS veterans firing Kalashnikov rifles and lobbing grenades ended with two suspects dead and a third captured.
+
+Belgian investigators concluded that Abaaoud directed the foiled operation there by cellphone from Greece — and that despite his attempts to avoid surveillance, his communications were in fact intercepted. Just a few days after the raid, Belgian news website RTL Info ran a whole article titled “What the Terrorist Suspects under Surveillance Were Saying.” It described surveillance over several months, through wiretaps and listening devices placed in the suspects’ car and their apartment.
+
+Photo: RTBF video
+
+Some of the telephone conversations that were intercepted used code or obscure Morroccan dialects. Ironically, the suspects were overheard discussing the need to frequently swap out their cellphones.
+
+Abaaoud has a brilliant history of avoiding capture — in fact, in an interview with ISIS’ Dabiq magazine he bragged that his “name and picture were all over the news yet I was able to stay in their homeland, plan operations against them, and leave safely when doing so became necessary.”
+
+But when it comes to defeating electronic surveillance, there’s good reason to question his tradecraft. After all, he wore a video camera on his head (what is that, a GoPro 3?) And he lost a cellphone in Syria that was full of unencrypted pictures and videos.
+
+A journalist, Etienne Huver, obtained the phone from sources in a Syrian refugee camp last year. His report for RTBF Belgian television, about the contents of the phone of the most wanted man in Europe included footage of Abaaoud clowning around, posing with a rifle, and driving a car dragging the corpses of Free Syrian Army fighters.

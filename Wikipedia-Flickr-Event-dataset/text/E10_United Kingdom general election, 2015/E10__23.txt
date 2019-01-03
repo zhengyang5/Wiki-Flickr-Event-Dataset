@@ -1,0 +1,85 @@
+Exclusive Guardian analysis of current polling suggests main two parties are neck-and-neck and would have to create a multi-party alliance to form a stable government
+
+Labour and the Conservatives would have the same number of seats in the House of Commons and would need to form an alliance with the SNP plus the Lib Dems to form a stable government, according to an analysis by the Guardian of the current crop of opinion polls.
+
+If Britain votes along the lines of the average of the polls, the two main parties are projected to win a total of 273 seats each, compared with the 326 required for an outright majority, while the Scottish National party’s current support would translate into 49 seats at Westminster if a general election was held today.
+
+Nicola Sturgeon, the SNP’s leader, has said her party would not form a coalition with David Cameron’s Conservatives, but has indicated that she would be prepared to work with Labour, making a Labour-SNP alliance the most likely starting point for any government after May.
+
+But together they would be four short of an overall majority, which means that even if Nick Clegg’s Lib Dems lose half their seats they could still be instrumental in forming the next government. The Lib Dems are currently projected to win 28 seats on the Guardian projection.
+
+
+
+Meanwhile, because of the UK’s first-past-the-post voting system, Ukip’s support would translate to a relatively modest five seats. The Greens would retain the one seat they currently hold, Brighton Pavilion.
+
+It is worth keeping in mind that in Northern Ireland, the DUP is expected to retain its eight seats. In scenarios where a handful of votes could change the balance of power, those eight MPs may also prove crucial.
+
+The impact of Ukip and the Greens on the election will not be represented by the limited number of seats they are projected to win but the number of seats where their performance influences the outcome.
+
+Based on the Guardian’s current average of polls, this is how the next parliament would look:
+
+The polling shows there are at least 50 seats where the party currently in the lead is ahead by only the tiniest of margins (marked in a lighter shade above). The result in these contests will often depend on how well Ukip and the Greens perform.
+
+
+
+
+
+Labour’s chances of taking places like Brighton Kemptown, Plymouth Sutton and Devonport, Bristol West, Watford and Hove will depend on how the vote on the left – between Miliband’s party, the Lib Dems, and the Greens – eventually falls.
+
+Emblematic of the split on both the left and the right are several constituencies in the south-west that the Lib Dems are defending from the Conservatives.
+
+Where the Lib Dems are defending seats such as St Ives, North Cornwall, St Austell and Newquay from the Conservatives, the result may well be decided by how many vote Green or Ukip.
+
+As for Ukip, support for Farage’s party is most likely to split the vote on the right and put Conservative-held seats such as Amber Valley and Pudsey at risk. Only in a tiny number of constituencies, such as Great Grimsby, will Ukip directly challenge Labour.
+
+
+
+Over the next few weeks we will be looking at these races, and others, in more detail.
+
+Scotland is shaping up to be a separate race in itself. Recent polls have the SNP ranging between 35 and 55 seats, and Labour between four and 20.
+
+But in none of the seats Labour won in 2010, and in which the SNP came second, was the gap less than 10 points. This probably explains why most analysts expect the gap between the SNP and Labour to narrow as the election nears, because of the size of Labour’s majorities.
+
+The swing implied in polls as compared with 2010 is so extraordinary that it seems hard to believe it will be seen in the final election result. But nevertheless, right now the polls say Labour is on course to lose most of its seats north of the border.
+
+Methodology
+
+No model is perfect, and of course the election is three months away. What the Guardian’s model does is take the average of the polls as they stand today and suggest how that might translate into seats. It’s one projection among many but it should reflect how the changing polls between now and election day might translate into change in the House of Commons.
+
+It’s important to note this is not a prediction of what will happen on voting day. Instead, it’s a model of how parliament might look if the nation votes exactly like the average of the latest polls. It does that by looking at national polls, sub-UK data, and constituency polling, plus some historical context.
+
+The UK votes on 7 May in what is expected to be the most uncertain election in recent memory. Over the course of the past five years Britain’s electorate has become increasingly fragmented.
+
+This has led to a shift from a two-and-a-half-party system to one comprising six parties. Modelling what might happen on a playing field of six parties is extremely complicated, and a world away from the days of the old “swingometer”. Anybody who says they can apply the patterns of the past to today is being speculative.
+
+May’s election is also the first time in generations that British voters expect a coalition, although that was the unexpected outcome of the 2010 election. How this will influence behaviour such as tactical voting is impossible to anticipate.
+
+The Guardian’s average of polls aims to best represent a snapshot of the polls as they stand. The model aims to translate what polling figures would mean in terms of seats if an election were to take place today (and, of course, if the polls were right).
+
+Here’s how the model works.
+
+To reach a projection of seats we take a three-step approach to the many polls that are released on an almost daily basis.
+
+1. Constituency-level polling
+
+Firstly, we look at constituency polls. These are the ideal source of data, but there are several limitations with the data at this local level. There aren’t many companies polling constituencies, because it’s so expensive and surveys aren’t carried out regularly. Because of this, where there is limited and relatively old data, the figures are adjusted based on the change in the national average of polls since the constituency poll was carried out. For example if we have a poll for Pendle, but it was conducted in October 2014, we continue to use that poll as a starting point, but impose the swing in this seat which we register in our rolling average of polls since that date.
+
+This approach is obviously only applied to project seats where constituency polls are available.
+
+2. Polling in the nations and English regions
+
+Secondly, we look at Scottish, Welsh or other polls conducted in the nations or English regions. For those seats where we have both constituency and sub-UK polls, the former is adjusted and bought up to date in light of an average of the latter.
+
+These polls therefore serve two purposes: to both project seats where there isn’t constituency-level polling, and to adjust, where applicable, constituency polls.
+
+3. National-level polling
+
+Finally, for all remaining seats we use an average of polls based on about 20 days of figures. Because different firms publish results with varying frequency, for those pollsters that release figures more regularly we apply an average over the course of the analysed period. This means that no single pollster is given a greater weight compared to others.
+
+We then impose the change in party support in each seat that we recorded in the relevant tier of data – constituency if it’s available, sub-UK if that option is there instead, or UK-wide polling – for that constituency.
+
+We have considered additional adjustments and different transition models, which look at proportional rather than absolute swings, but felt that these wouldn’t provide a noticeable systematic advantage to the approach we have adopted, while instead adding considerable complexity and clutter to our model.
+
+We only use polls carried out by Lord Ashcroft and by members of the British Polling Council.
+
+Ours is just one model for analysing the polls. There are many other different and valid approaches, which you can check out here.

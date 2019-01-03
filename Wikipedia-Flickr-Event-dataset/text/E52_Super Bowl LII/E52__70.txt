@@ -1,0 +1,55 @@
+Live From Super Bowl LII: NBC Sports Embarks on Largest-Scale Live Game Production in History
+
+An army of personnel and gear are deployed in Minneapolis — and then it’s off to the Olympics
+
+Each year, the Super Bowl broadcaster looks to up the technological ante at America’s highest-profile sports event. This year, to put it simply, NBC’s overall presence in the Twin Cities this week is mind-blowing: 14 trucks, 250 engineers, 126 cameras, 32 EVS replay systems totaling 295 channels, 130-plus microphones. And not to be forgotten: just five days after the final whistle, the Peacock will embark on an even larger-scale production in Korea with the Opening Ceremony at the PyeongChang Olympic Games.
+
+“This has been 2½ years of planning, and we have meticulously walked through every aspect technically and operationally,” says Ken Goss, SVP, remote operations and production planning, NBC Sports Group. “There is no better way to exhibit all that we have accomplished this year than the Super Bowl, and it is also the perfect launch pad into the Olympics for our whole team. Our team [does] it seamlessly. That’s where experience of our team comes together the best.”
+
+Covering Every Angle: NBC’s Largest Camera Complement Ever
+
+In terms of the game production, camera levels are (not surprisingly) at an all-time high. The 73-camera complement (including 20 pylon cameras provided by Admiral Video) deployed on Sunday will feature a bevy of 4K and high-speed systems: four Sony HDC-4800 4K robos, three HDC-4300’s in 4K mode, four HDC-4300’s running at 4X slo-mo, another seven HDC-4300’s running at 6X slo-mo, and two more HDC-4300’s at 8X slo-mo.
+
+“Outside of the Super Bowl, the Kentucky Derby is our biggest show, with about 55 cameras. We outrival that pretty significantly when you count our pregame and remotes here,” says Tim Dekime, VP, NFL operations, NBC Sports Group. “So this is easily the largest camera deployment we’ve ever done. And what’s amazing is, [producer] Fred [Gaudelli] and [director] Drew [Esocoff] are so squared away that we were here a year and a half ago and they had pretty much all the cameras selected already.”
+
+NBC will also once again deploy two SkyCam systems – a low and a high – as it did for selected games in the second half of the season on SNF and TNF.
+
+The camera complement also features nearly a dozen robos (provided by Fletcher), including a pair of new positions: an HDC-4800 overlooking the entirety of each end zone to capture close plays along the side or back lines. Two robos apiece are also positioned in the hallways for the Patriots’ and Eagles’ walkout from the locker room.
+
+“You could say that we do a Super Bowl every week with the [camera and equipment] levels we have on [TNF and SNF], but there is truly nothing like a Super Bowl,” says Keith Kice, senior technical manager, NBC Sports. “To go through the whole football season and have it culminate with an amazing Super Bowl production is just awesome. Our job is to bring the fan experience here at the stadium to the fan at home that doesn’t have the opportunity to be here. If you can make them get chills while sitting at home, that is our goal.”
+
+On the lens front, NBC is deploying almost exclusively Canon lenses – 66 in all, including five 100x’s, 20 95x’s, and five 22x’s – with the only exceptions being 85x Fujinon lenses on the HDC-4800’s and Fuji 18x lenses on the two SkyCam systems.
+
+Inside the NBC Compound … Actually, Make That Compounds
+
+With 14 mobile units onsite, NBC Sports was forced to expand its compound beyond the loading-dock area inside U.S. Bank Stadium. Although this is the norm at any Super Bowl, the potential subzero temperatures of a Minneapolis February made an outdoor compound unviable. As a result, NBC has erected a massive climate-controlled tent just outside the stadium to house the overflow trucks.
+
+“We planned this knowing that there could be inclement weather and that we would have a tremendous amount of equipment that needed to be housed outdoors,” says Goss. “Since we have an interior upper and lower compound, that takes weather out of the equation. It’s another example of our team thinking ahead and accounting for all the possible scenarios.”
+
+Inside the primary compound in the bowels of U.S. Bank Stadium, NEP’s ND1 (A, B, C, and D units) is housing the primary game production, accompanied by ND4 (A and B) for tape release and additional camera/replay sources. The pregame studio show’s mobile unit, ND7’s A and B units, is also in the main compound. Because there was no room for a full truck, for transmission and distribution management, NBC worked with NEP to build an ESU flypack, which is also located in the lower compound.
+
+The upper-level tented truck compound houses ND7’s C and D units, NCP14 serving Telemundo’s Spanish-language game production, and two Denali trucks. AVS and BSI have their mobile units on hand to manage RF needs for video and audio, respectively.
+
+“I would have to say that this is the most challenging Super Bowl that I’ve ever been a part of,” says NEP Senior Technical Manager John Roché. “A huge amount of planning went into this, and we had to account for a lot of different factors. But we’re definitely ready and excited for this week. We just want to make sure that the best seat in the house is in front of your TV. [Gaudelli] and [Esocoff] and their team are the artists. We just want to give them the tools to be successful.”
+
+Joining the typical denizens of NBC’s compound — NEP, AVS, BSI — is a new face – Aggreko, which is supplying a custom-design a quad-redundant 1,250-kW UPS for Super Bowl LII. The Aggreko UPS system — which powers all NBC facilities in the compound, in the stadium, and at nearby Nicollet Mall — is fed by three redundant 1,500-kVA generators, and a fourth 1,500-kVA generator feeds a failover switch should all three go down.
+
+Transmission: Closely Connected to Stamford and Beyond
+
+On the transmission side, CenturyLink has provided a 10-Gbps fiber circuit between the stadium and NBC Sports headquarters in Stamford, CT. The pipe muxed to create 10 outbound feeds from Minneapolis to feed various sources and cameras to Stamford and 30 Rock (where commercial integration takes place), including the primary program feed.
+
+NBC’s extensive file-transfer operation is also running on the CenturyLink fiber circuit, with the first file transfers beginning more than a week and a half ago.
+
+The return feed on the fiber circuit is carrying nine or 10 sources from Stamford to Minneapolis. Other feeds are also being sent to Stamford, such as a connection for a live shot from Korea during the pregame show and live cityscape shots from NBC affiliates in Philadelphia and Boston. These shots are trafficked through Stamford and on to U.S. Bank Stadium to be integrated into the program feed.
+
+“Any ancillary elements that are not within this compound, go to Stamford, and then they send it to us — like the cityscapes and the pregame piece from Korea,” says Mike Meehan, SVP, sports operations, NBC Sports. “As is the norm, we use a lot of Stamford edit bays to finish product, which saves us equipment and manpower onsite. We are providing a high level of connectivity to make that happen.”
+
+No Rest for the Wicked: It’s Off to PyeongChang on Monday
+
+Although Sunday will mark the final chapter in NBC’s three-year Super Bowl journey, it’s just the beginning of its Winter Olympics effort. On Monday, a large chunk of the NBC Sports operations and production team will board a chartered plane to PyeongChang, while the rest head back to Stamford to handle NBC’s massive at-home operation for the Winter Games.
+
+“One of the challenges for NBC this year was the fact that we also have the Games, so our resources were challenged both facility- and manpower-wise,” says Craig Bernstein, senior director, technical operations, NBC Sports. “But we spent three years planning for this all the way from [Super Bowl XLIX in] Phoenix to now, and we’ve always planned for that. Every single thing we have done has been a run-up to this, so we know it’s going to be a great production and the perfect lead-in to the Olympics.”
+
+Roché adds, “The Super Bowl is always the culmination of the best of everything we do in broadcast television, and, this year, it is even more special for NBC because it’s an incredible lead-in to the Olympic Games. We are going from the biggest show in the country to the biggest show in the world.”
+
+Stay tuned SVG’s SportsTechLive Super Bowl LII blog for full coverage of NBC Sports Group’s massive on-site studio and shoulder programming effort tomorrow.

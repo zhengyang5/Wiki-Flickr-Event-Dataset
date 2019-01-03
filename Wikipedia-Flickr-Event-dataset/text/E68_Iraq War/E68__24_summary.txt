@@ -1,0 +1,5 @@
+These findings provide the most up-to-date estimates of the death toll of the Iraq war and subsequent conflict.
+For this study, based on a population-based mortality survey, the researchers modified and improved their methodology in response to critiques of earlier surveys.
+Population-based mortality survey methods—asking representative survivors about deaths they know about—were developed by public health researchers to estimate death rates.
+The density map was generated using a kernel density estimation of civilian deaths from the Wikileaks Iraq War Logs release [55] .
+Figure 4 portrays the raw number of adult deaths (reported by siblings) by year and cause, 2001–2011, illustrating findings similar to the pattern of household deaths.

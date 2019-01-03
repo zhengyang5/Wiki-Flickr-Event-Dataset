@@ -1,0 +1,35 @@
+The earthquake that created the devastating Asian tsunami on 26 December 2004 was three times more powerful than first thought, say researchers analysing long-period seismic waves.
+
+The finding could upgrade the quake to the second strongest ever recorded and explain why the tsunami caused such great damage across the ocean in Sri Lanka and India.
+
+Earthquakes are classified on the Richter scale by their largest-amplitude seismic wave. These seismic waves come in a variety of periods, or wavelengths - but only the most powerful quakes pack a lot of energy into long-period waves.
+
+Seismologists initially used seismic waves with periods of about 300 seconds to set the magnitude of the Sumatran earthquake at 9.0 - making it the fifth most powerful event on record.
+
+Now, seismologists Seth Stein and Emile Okal at Northwestern University in Evanston, Illinois, US, have scrutinised seismograms taken from 7 stations around the world in the week or so following the earthquake. They looked for the longest-period waves possible - those lasting about 3200 seconds (53 minutes).
+
+"We found, to our surprise, that there was three times more energy out there than at the 300-second period," Stein told New Scientist. "It was colossal." The new work reclassifies the earthquake on the logarithmic Richter scale at magnitude 9.3 - second only to the 9.5-magnitude quake recorded in Chile in 1960.
+
+Built-up pressure
+
+The Asian earthquake occurred at the eastern edge of the Indian Ocean where, over millions of years, the Indian tectonic plate has been disappearing beneath the Burma plate. This "subduction" zone had been locked for perhaps 200 years before the built-up pressure was finally released in the slippage of 26 December.
+
+The Burma plate rebounded upwards by about 10 metres at the quake's epicentre - setting the deadly tsunami waves in motion. And the process continued along the border between the two plates, causing the earth to rupture along the fault line - running from south to north. But seismologists are not sure exactly where the rip stopped.
+
+Some think the rupture only made it through the southern third of the 1200-kilometre-long zone that was rocked by aftershocks. "But if the earthquake is three times more powerful then previously believed, that's telling you the fault area is three times bigger," says Stein. "We think the entire aftershock zone ruptured." The northern two-thirds of the zone may have taken longer to slip, which is why its energy was released in longer-period waves.
+
+This could be actually be positive news for survivors living near the zone. Having released such a large amount of energy, Stein thinks it will take another few hundred years for the zone to build up the strain necessary for another huge earthquake.
+
+Localised tsunamis
+
+But he warns that smaller earthquakes could still occur, perhaps spawning localised tsunamis. Furthermore, other locked sections of the fault - further to the south, near Java, for example - could still rupture catastrophically.
+
+If the rupture did indeed occur along the whole length of the aftershock zone, it could explain why some distant regions were so devastated by the tsunami. While the lower third of the zone directed tsunami waves to the southwest, the upper portion has a different orientation and sent waves due west - straight towards hard-hit Sri Lanka and southern India. However, other factors, such as the topography of the sea floor, may also explain why the waves gathered so much force in those regions.
+
+Other seismologists have also calculated that the Asian earthquake was significantly larger than initially thought. Teh-Ru Alex Song, at the California Institute of Technology in Pasadena, California, US, and colleagues used long-period waves from about 20 seismometers around the world to confirm that the earthquake was two to three times more powerful than magnitude 9.0 .
+
+But he says it is not clear yet how fast or slow the slip proceeded along the fault. The group arrived at their preliminary result on Sunday and will continue to refine their analysis.
+
+Song hopes seismologists will develop a technique to analyse and convey the magnitude of any earthquakes that could spawn tsunamis as they actually happen - information that could come from waves with periods of 200 to 500 seconds.
+
+"You need that kind of index so everybody around the world knows the magnitude and you can issue a tsunami warning to local people," he told New Scientist.

@@ -1,0 +1,23 @@
+Live From Super Bowl LII: NBC To Debut Virtual 3D Graphics Tech Incorporating Player Body Scans
+
+The ‘volumetric-AR‘ technology features life-like player animations, was developed by an army of vendors
+
+NBC Sports is taking its use of augmented reality and virtual graphics to the next level at Super Bowl LII with the debut of “volumetric-AR” technology, which will allow lifelike 3D player animations to be inserted into AR graphics in the telecast.
+
+On Monday, the production team completed body scans of six players from the Patriots and Eagles, including quarterbacks Tom Brady and Nick Foles. These scans will provide NBC with 3D player animations that will replace the 2D images in the on-screen AR elements superimposed on the field.
+
+“During the game, when we do graphics on the players — not all the time, but a few special ones — you’ll see the players themselves in full three dimensions with their information designed into the shot,” NBC Sports producer Fred Gaudelli said this week. “We’re really excited to take a look at that.”
+
+Developed by NBC Sports in conjunction with Ross Video and an army of tech vendors from the U.S. and Europe, the 3D virtual graphics will be available on the same three cameras as Ross Video’s standard AR system: both end-zone goalpost cameras (with encoded lenses) and the lower SkyCam cable-cam system.
+
+In addition, an exterior beauty shot from an encoded camera also will feature these virtual 3D graphics and other AR elements.
+
+The system is driven by Ross Video’s Frontier gaming video-graphics–rendering engine (powered by The Future Group) and creates photorealistic scenery for AR environments for broadcasts.
+
+Besides the NBC Sports team, many vendors are involved in the project: Rocket Surgery/Ross Creative Services (which creates NBC’s AR elements for Thursday Night Football and Sunday Night Football), Ross Virtual Solutions, SMT for virtual positioning data, The Future Group for Frontier development, Fanview and Repronauts for the player scans, and RealMedia to handle cleanup, rigging, and animation in the Unreal game engine.
+
+On Monday, NBC scanned Tom Brady, Danny Amendola, and James Harrison of the Patriots and Nick Foles, Fletcher Cox, and Brandon Graham of the Eagles, using technology developed by Fanview/Repronauts.
+
+These scans were sent to RealMedia’s facility in Kansas to clean them up and prep them for air. Completed scans were imported into the Frontier system (powered by The Future Group), where the Ross Video Creative Services team onsite in Minneapolis has been working all week to create the in-game animations.
+
+Those final elements will be integrated into the AR elements traditionally deployed by NBC Sports for TNF and SNF. The usual 2D graphics will be used for players who were not scanned.

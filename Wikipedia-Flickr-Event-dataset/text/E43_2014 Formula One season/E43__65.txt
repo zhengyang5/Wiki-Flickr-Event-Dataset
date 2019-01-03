@@ -1,0 +1,123 @@
+There are plenty of technical regulation changes for fans - not to mention the teams and drivers - to get their heads around before the 2014 season begins in Australia in March. With that in mind, we guide you through the most important rule revisions and the impact theyll have
+
+
+
+Rule change: Introduction of new power unit consisting of a 1.6-litre V6 turbo engine and two Energy Recovery Systems (ERS)
+
+Implications: The 2.4-litre normally-aspirated V8 engines of 2013 produced around 750bhp, with an additional 80bhp available for around six seconds per lap from KERS. The 2014 V6s put out around 600bhp. However, the two ERS systems (ERS-K and ERS-H) will give drivers an additional 160bhp or so for approximately 33 seconds per lap.
+
+
+
+Unlike in 2013, the driver no longer has to push a button to active ERS - the power is simply delivered to the rear wheels via the throttle pedal (with a little help from the cars electronics). Therefore, whilst you could still lap relatively competitively without KERS in 2013, an ERS problem in 2014 will be much more debilitating to performance.
+
+
+
+And weve not even mentioned the strategic implications of the new ERS - just how will each team use the extra power at their disposal? To a large extent that will depend on how good a system each power unit manufacturer develops. For example, those with less fuel efficient systems may need to use the extra power differently to those with very efficient powertrains. Because the powertrain has two power sources (fuel and electrical), drivers will be able to play with the balance to either increase performance or save fuel. As a result theyll be relying on their race engineers to keep them informed of the correct fuel delta, so expect plenty of radio traffic.
+
+
+
+One certainty is that the motor generator units used in the ERS will ensure that cars produce more torque at lower revs than last years machines. This is something that Formula One racings official tyre supplier Pirelli had to consider when designing their 2014 F1 rubber, but also something that could prove tricky for the drivers to adapt to - good throttle control will be more important than ever.
+
+
+
+As ever, reliability will be hugely important. Last year each driver could use eight engines before incurring a penalty. This year its slightly more complicated: the power unit is deemed to consist of six separate elements: (1) the engine, (2) the motor generator unit-kinetic (MGU-K), (3) the motor generator unit-heat (MGU-H), (4) the energy store (ES), (5) the turbocharger (TC) and (6) the control electronics (CE). Should a driver use more than five of any one component during the season he faces a penalty ranging from a five-place grid drop to starting the race from the pit lane.
+
+
+
+Finally, the increased cooling demands of the new power units mean that the sidepods will have to be a little wider in 2014 to house the necessary coolers and radiators (as well the mandatory deformable crash structures). Radiators and cooling systems may not be the sexiest areas of an F1 car, but teams have spent a great deal of time refining them for the 2014 cars. To give you an idea of the challenge, MGU-K generates three times as much heat as the old KERS unit.
+
+
+
+The general feeling is that Ferrari and Mercedes may have a slight advantage over non-works teams in terms of integrating the new power units because chassis development could be carried out alongside in-house power unit development. Of course, we wont know if this is really the case until the cars hit the track
+
+
+
+Rule change: 100kg fuel limit for race
+
+Implications: Last year, while there was no race fuel limit or fuel flow limit, cars used in the region of 160kg of fuel per race with a fuel flow limit of 170kg per hour. From 2014 things are radically different: each car has a 100kg fuel limit per race (around one third less than before) whilst fuel flow is limited to 100kg per hour. That means that while the cars will likely be run at the limit of fuel flow during much of practice and qualifying, it will have to be a different story during races when cars are running for well over an hour.
+
+
+
+Drivers will have to save fuel and that could lead to some interesting and conflicting strategies, as well as changes to driving styles and tactics. Success could well hinge on which of the power unit manufacturers (Renault, Mercedes and Ferrari) achieves the best fuel efficiency. Of course, any team that exceeds the 100kg fuel limit faces exclusion. Therefore the reliability of each cars fuel sensor is arguably now as important as the reliability of their power unit.
+
+
+
+Rule change: Introduction of eight-speed, fixed ratio gearboxes
+
+Implications: In 2013 teams had the luxury of nominating 30 gear ratios ahead of the season and the choice of running any seven of those (plus reverse) at a Grand Prix. From 2014, F1 gearboxes have an extra gear; however those eight gears must be selected before the first race of the season and then those same ratios must be used at every track on the calendar. For this year only teams are allowed to change the ratios once (in case they get their gearing wildly wrong), but after that any changes will incur penalties. Therefore its imperative that teams come up with a range of ratios suitable for every track - no easy task with circuits ranging from tight and twisty Monaco to flat-out Monza.
+
+
+
+Each driver may use no more than one gearbox for six consecutive events. Every unscheduled gearbox change will require the driver to drop five places on the grid at that race so, as with the power unit, reliability is paramount. However, teams are at least allowed to change gears or dog rings at any time during an event provided that the FIA technical delegate is satisfied that there is physical damage to the parts in question.
+
+
+
+Rule change: Narrower front wing
+
+Implications: The front wing has been reduced from 1,800mm to 1,650mm wide - the origin of the change was to reduce the number of punctures caused by an endplate catching the rear tyre of a competitors car. A 150mm reduction may sound small on the face of it, but it has massive implications aerodynamically.
+
+
+
+In real terms, each front wing endplate has moved inwards by 75mm, placing them almost directly ahead of the front tyres - a tricky problem for aerodynamicists trying to control airflow across the car, not least because tyres are constantly changing angle.
+
+
+
+Whereas last years wider wings meant that most of the airflow could be directed around the tyres and then down the car, 2014s narrower wings mean that a portion of air will have to be directed between the front wheel and the chassis before (hopefully) joining up with the rest of the airflow behind the tyre. Expect a slightly different approach to endplate and front wing flap design as a result.
+
+
+
+Rule change: Shallower rear wing flap and abolition of beam wing
+
+Implication: The virtual box in which the rear wing flap must fit is 20mm smaller than last year and therefore the flap is slightly shallower in profile. This, along with the abolition of the conventional beam wing, means the rear wing will be capable of producing less downforce in 2014 than it did in 2013 - a factor that will be most noticeable at high-downforce tracks.
+
+
+
+Teams will look to try to claw back as much rear downforce as possible, and one way of doing this is to use more aerodynamically-profiled rear suspension parts. This is nothing new - teams have been doing it for some time - but some will no doubt try to be even more inventive in this area.
+
+
+
+A couple of final notes on the rear wing: firstly, though the beam wing has been outlawed, the smaller monkey seat winglets are still allowed, as are central support pillars. Secondly, the DRS flap can now open as wide as 65mm, 15mm wider than last year. This should ensure that the DRS remains an effective overtaking aid in this new era.
+
+
+
+Rule change: Minimum weight increased by 48kg
+
+Implications: The minimum weight of car and driver has been increased by 48kg from 2013, up from 642kg to 690kg to compensate for the increased weight of the new power unit and associated systems. However, concerns were raised last year that the new regulations havent increased the minimum weight enough. Its been argued by many that, in a sport where every gram has a performance effect, taller (and therefore heavier) drivers will be at a significant disadvantage to their smaller rivals. One thing is certain: you can expect F1 drivers to be leaner than ever in 2014.
+
+
+
+Rule change: Nose and chassis height reduced
+
+Implications: For safety reasons, the height of the chassis has been reduced from 625mm to 525mm, whilst the height of the nose has been dramatically slashed from 550mm to 185mm. The major aim of these changes was to prevent cars launching upwards in the event of nose to rear tyre collisions (think back to Mark Webbers scary aerial crash at Valencia in 2010).
+
+
+
+Of course, the changes have had other implications, chiefly for aerodynamicists who had gradually raised nose and chassis height over the years in order to maximise airflow under the car and in the process increase downforce. We will certainly see some unusual nose designs as designers try their best to take advantage of the new regulations, though dont assume that what is seen on cars at launch is what will be raced in Melbourne.
+
+
+
+The lower chassis will also affect front suspension geometry as the mounting points on the chassis will have to drop. Whether this - or the changes to the front wing - results in any team switching from pushrod to pullrod suspension (or vice versa) remains to be seen.
+
+
+
+A final implication of the reduction in chassis height is the change in driving position it brings about. Most drivers will notice a subtle change in 2014 as their feet will be around 100mm lower in the car than in 2013.
+
+
+
+Rule change: Single exhaust with central exit
+
+Implications: The developments in exhaust technology over the past few years have led to terms such as coanda effect and blown diffusers becoming common parlance in the paddock. But these buzz phrases will disappear from common usage in 2014 thanks to the repositioning of the exhaust.
+
+
+
+No longer will designers be able to divert hot exhaust gases into the diffuser to gain downforce as the new regulations stipulate a single exhaust tailpipe that exits centrally behind the rear wheel centreline. This regulation change will hurt some teams more than others.
+
+
+
+Those who had mastered exhaust blowing will feel the downforce loss the most, whilst those who always struggled with the concept will breathe a sigh of relief.
+
+
+
+For tickets and travel to 2014 FORMULA 1 races, click here.
+
+For FORMULA 1 merchandise, click here.

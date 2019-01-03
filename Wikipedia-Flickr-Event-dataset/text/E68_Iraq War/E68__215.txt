@@ -1,0 +1,33 @@
+Burden of Victory The Painful Arithmetic of Stability Operations
+
+By James T. Quinlivan
+
+James Quinlivan is a military analyst and senior mathematician at RAND.
+
+AP/WIDE WORLD PHOTOS/VISAR KRYEZIU Some 200 U.S. soldiers fill the sky as they parachute near the town of Vitina in eastern Kosovo on July 11, 2002. The soldiers participated in training exercises and peacekeeping patrols with NATO-led KFOR units.
+
+When external powers such as the United States act as "the world's policeman" to stabilize countries such as Iraq, a good way to think about the force requirement is roughly similar to the way that one would think about policing a civil society. The objective is not to destroy an enemy but to provide security for residents so that they have enough confidence to manage their daily affairs and to support a government authority of their own.
+
+It turns out that the number of "world policemen" required is roughly proportional to the size of the population being protected or controlled. At the low end of the scale is the proportion of police officers required for day-to-day law enforcement duties among generally peaceful populations such as those in the United States. Peaceful populations require force ratios of somewhere between one and four police officers per thousand residents. The United States as a whole has about 2.3 sworn police officers per thousand residents. Larger cities tend to have higher ratios of police to population.
+
+For cases drastic enough to warrant outside intervention, the required force ratio is much higher. Although numbers alone do not constitute a security strategy, successful strategies for population security and control have required force ratios either as large as or larger than 20 security personnel (troops and police combined) per thousand inhabitants. This figure is roughly 10 times the ratio required for simple policing of a tranquil population.
+
+The British are acknowledged as the most experienced practitioners of the stabilization art. To maintain stability in Northern Ireland, the British deployed a security force (consisting of British army troops plus police from the Royal Ulster Constabulary) at a ratio of about 20 per thousand inhabitants. This is about the same force ratio that the British deployed during the Malayan counterinsurgency in the middle of the 20th century.
+
+More recently, successful multinational operations have used initial force ratios as large as the British examples or larger. In its initial entry into Bosnia in 1995, the NATO Implementation Force brought in multinational forces corresponding to more than 20 soldiers per thousand inhabitants. After five years, the successor Stabilization Force finally fell below 10 per thousand. Operations in Kosovo during 2000 showed the same pattern; the initial forces were sized at somewhat above 20 per thousand.
+
+These population-driven force ratios yield a number of daunting implications both for the size of the force itself and for the prospect of maintaining such a force over time. To begin with, stability operations usually take long periods of time to succeed. The proportionally large British forces operated for more than 25 years in Northern Ireland and for more than a decade in Malaysia (from 1948 to 1960). The operation in Bosnia is now in its eighth year.
+
+The rotating deployments of troops over time cause complications across the military forces. In Northern Ireland, the British have limited the tour of duty for most troops to about six months. The sixmonth tour has become standard in most militaries for peacekeeping deployments to places like Bosnia, Kosovo, and the Sinai. The British have tried to keep the time between deployments at about 24 months or more. In professional militaries where soldiers remain in service for years at a time, therefore, five troops would be required for every one deployed at any given time. If a stabilization effort cannot adhere to this so-called "rule of five," then either the deployment time must be longer than six months or the time between deployments must be shorter than 24 months.
+
+The population of Iraq today is nearly 25 million. That population would require 500,000 foreign troops on the ground to meet a standard of 20 troops per thousand residents. This number is more than three times the number of foreign troops now deployed to Iraq (see figure). For a sustainable stabilization force on a 24-month rotation cycle, the international community would need to draw on a troop base of 2.5 million troops. Such numbers are clearly not feasible and emphasize the need for the rapid creation of indigenous security forces even while foreign troops continue to be deployed. The extremely low force ratio for Afghanistan, a country with a population even larger than that of Iraq, shows the implausibility of current stabilization efforts by external forces.
+
+No one has discovered successful stabilization strategies that avoid large troop commitments while trying to bring order to large populations. Proposals have been made in a number of countries for personnel policies that seek to avoid the painful arithmetic of large deployments, lengthy tours of duty, and sustainable periods between deployments by using deployed forces built around short-service conscripts or volunteers. So far, however, all of the western countries have chosen to rely on their professional militaries.
+
+Related Reading
+
+"The Equation of Our Time: Using Simple Math to Fully Understand the Personnel Tempo Dimensions of Military Deployments," Armed Forces Journal International, February 2001, pp. 44-45, James T. Quinlivan.
+
+"Flexible Ground Forces," James T. Quinlivan, in Cindy Williams, ed., Holding the Line: U.S. Defense Alternatives for the Early 21st Century, Cambridge, Mass.: The MIT Press, 2001.
+
+"Force Requirements in Stability Operations," Parameters, Winter 1995, pp. 59-69, James T. Quinlivan. Available online from the U.S. Army website

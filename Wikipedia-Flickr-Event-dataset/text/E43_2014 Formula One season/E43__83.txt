@@ -1,0 +1,42 @@
+Red Bull Racing has been disqualified from the Australian Grand Prix after it was found in post race inspection that the RB10 driven to second place by Daniel Ricciardo broke the new fuel flow rate rule. In 2014 Formula 1 cars are limited to 100kg of fuel in the race and it cannot flow to the engine at a rate of more than 100kg per hour. It is this second part the, flow rate which Red Bull exceeded. The teams second car retired early with engine trouble.
+
+The problem which lead to the disqualification stemmed from Red Bull lacking faith in the reliability of the FIA fuel flow meter and deciding to not use it in the race and relying on a backup mathematical solution instead.
+
+The following is an edited version of what happened according to the stewards:
+
+In free practice 1 the team noticed a difference in the flow reading between the first three runs and the fourth. Then that difference carried on throughout Free Practice 2. As a result the team used a different sensor on Saturday but did not get readings that were satisfactory to them or the FIA, so they were instructed to change the sensor within Parc Ferme on Saturday night.
+
+They reverted back to the original sensor which had given the different readings in Free Practice 1. After qualifying the FIA’s technical representative in charge of the flow meters instructed Red Bull to apply an offset to their fuel flow such that the fuel flow would have been legal.
+
+The FIA technical representative went on to state to the Stewards that there is variation in the sensors. However, the sensors fall within a known range, and are individually calibrated (by Calibra Technologies). They then become the standard which the teams must use for their fuel flow.
+
+Red Bull then told the stewards that based on the difference observed between the two readings in FP1, they considered the fuel flow sensor to be unreliable. Therefore, for the start of the race they chose to use their internal fuel flow model, rather than the values provided by the sensor, with the required offset.
+
+A technical directive issued by the FIA at the start of march does set out the methodology by which the sensor will be used, and, should the sensor fail, the method by which the alternate model could be used (which is apparently what Red Bull did).
+
+a. The Technical Directive starts by stating: “The homologated fuel flow sensor will be the primary measurement of the fuel flow and will be used to check compliance with Articles 5.1.4 and 5.1.5 of the F1 Technical Regulations…” This is in conformity with Articles 5.10.3 and 5.10.4 of the Technical Regulations.
+
+b. The Technical Directive goes on to state: “If at any time WE consider that the sensor has an issue which has not been detected by the system WE will communicate this to the team concerned and switch to a backup system” (emphasis added by the FIA.)
+
+c. The backup system is the calculated fuel flow model with a correction factor decided by the FIA.
+
+The FIA’s technical representative observed through the telemetry during the race that the fuel flow was too high and contacted the team, giving them the opportunity to follow his previous instruction, and reduce the fuel flow such that it was within the limit, as measured by the homologated sensor – and thus gave the team the opportunity to be within compliance. The team chose not to make this correction.
+
+The stewards decided to disqualify the Red Bull as the team chose to run the car using their fuel flow model, without direction from the FIA. This is a violation of the procedure set out in the technical directive. Although the sensor showed a difference in readings between runs in P1, it remained the homologated and required sensor against which the team is obliged to measure their fuel flow, unless given permission by the FIA to do otherwise (which the FIA did not do).
+
+The Stewards were satisfied that by making an adjustment as instructed, the team could have run within the allowable fuel flow and regardless of the team’s assertion that the sensor was fault, it is not within their discretion to run a different fuel flow measurement method without the permission of the FIA.
+
+Red Bull however denies any wrong doing and has said that it intends to appeal “following the decision of the FIA that Infiniti Red Bull Racing is in breach of Article 3.2 of the FIA Formula One Sporting Regulations and Article 5.1.4 of the FIA Formula One Technical Regulations with car three, the team has notified the FIA of its intention to appeal with immediate effect. Inconsistencies with the FIA fuel flow meter have been prevalent all weekend up and down the pit lane. The team and Renault are confident the fuel supplied to the engine is in full compliance with the regulations.”
+
+Gill Sensors however have responded to the claims that its product is unreliable issuing the following statement
+
+“Following the Australian Grand Prix last weekend, the FIA have provided Gill Sensors with positive feedback on the performance of the Fuel Flow Meter, confirming their confidence in the development and stating the meters meet the FIA’s accuracy specification.
+
+The meter development included an extensive testing programme, which involved liaising with many of the F1 teams for their valuable feedback on meter design and functionality. Meter calibration is handled by the FIA’s third party calibration company.
+
+The meters utilise ultrasonic technology which was selected for its resilience in extreme operating conditions. The FIA chose Gill Sensors for this complex development because of Gill’s 29 years of proven experience in Ultrasonics.”
+
+
+
+If the flow meters (above) are unreliable then it is likely more teams will have issues through the season, not just in Formula 1 but also in the World Endurance Championship which uses identical units in the LMP1 category. The flow meter is supplied by UK company Gill Sensors. Its method of operation and details of how the FIA and ACO are using can be found in the 2014 Racecar Engineering F1 preview – which can be downloaded free below.
+

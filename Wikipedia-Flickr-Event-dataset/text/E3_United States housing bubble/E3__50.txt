@@ -1,0 +1,33 @@
+America’s housing market in five interactive charts
+
+WHAT a difference a decade makes. In 2006 house prices in America hit an all-time high, after rising unabated for the previous ten years. The crash that followed brought the entire global financial system to its knees. As our cover leader this week explains, despite efforts to fix the plumbing of the American mortgage market, housing in the United States remains a dangerous menace to the world economy. In the meantime property prices in the country, underpinned by low interest rates, forge ahead. On average, American home prices have recovered nearly all their losses from the 2006 crash, but when adjusted for inflation they are still 20% below the 2006 peak.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Could another correction be just across the street? To gauge the frothiness of America’s housing market, The Economist looks at two measures of affordability: the ratio of price to income and price to rent. Encouragingly, across America prices appear to be at fair value when compared to their long-run averages. Yet in some cities, such as San Francisco, affordability looks stretched when compared against income—prices in the City by the Bay are 40% above their long-run average when compared to income. Theory suggests that they should eventually fall back down to earth.
+
+Explanation:
+
+This interactive chart allows readers to compare the ups and downs of housing in America’s biggest cities as tracked by Zillow, a property website, across five measures:
+
+• House-price index: rebased to 100 at a selected date and in nominal terms
+
+• Prices in real terms: prices in $'000 at 2015 prices (deflated by CPI)
+
+• Prices to income: the ratio of house prices to median household incomes compared to their long-run average
+
+• Price to rent: the ratio of house prices to annual private-sector rents compared to their long-run average
+
+• Percentage change: shows the change in inflation-adjusted prices between two selected dates
+
+We also publish interactive house-price guides to global markets and British regions.

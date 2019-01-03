@@ -1,0 +1,5 @@
+It is calculated by subtracting the likes for the Better Together campaign’s page from the likes for the Yes Scotland page.
+But for the most part, the YS campaign has maintained an advantage over the BT campaign.
+At the beginning of our analysis, the BT campaign had actually tweeted more times than the YS campaign.
+This remained the case until mid-March 2014, when the YS campaign surpassed the BT campaign for the first time in number of tweets.
+Figure 2 ‘Yes Scotland’ (YS) score minus the ‘Better Together’ (BT) score for two Twitter indicators over time (for further details see text).

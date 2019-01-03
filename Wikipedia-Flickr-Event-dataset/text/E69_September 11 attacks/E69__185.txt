@@ -1,0 +1,137 @@
+(9/8/2006, ARCHIVE, incorporated into 9/19/2011 update)
+
+What is NIST?
+
+The National Institute of Standards and Technology (NIST) is an agency of the Commerce Department's Technology Administration. NIST promotes U.S. innovation and industrial competitiveness by advancing measurement science, standards, and technology in ways that enhance economic security and improve our quality of life.
+
+What are the goals of NIST's investigation of the World Trade Center disaster?
+
+The goals are to investigate the building construction, the materials used, and the technical conditions that contributed to the outcome of the World Trade Center (WTC) disaster following the terrorist attacks of Sept. 11, 2001. The investigation will serve as the basis for:
+
+improvements in the way buildings are designed, constructed, maintained, and used;
+
+improved tools and guidance for industry and safety officials;
+
+revisions to building and fire codes, standards, and practices; and
+
+improved public safety.
+
+
+
+What are the main objectives of the investigation?
+
+The primary objectives of the NIST-led technical investigation of the WTC disaster are to determine:
+
+why and how the WTC 1 and 2 (the WTC towers) collapsed after the initial impact of the aircraft, and why and how WTC 7 collapsed;
+
+why the injuries and fatalities were so low or high depending on location (by studying all technical aspects of fire protection, evacuation, and occupant behavior and emergency response);
+
+the procedures and practices that were used in the design, construction, operation, and maintenance of the WTC Buildings; and
+
+which building and fire codes, standards, and practices warrant revision and are still in use.
+
+
+
+Why is NIST doing this investigation?
+
+NIST scientists and engineers are world-renowned experts in analyzing a building's failure and determining the most probable technical cause. Since NIST is not a regulatory agency and does not issue building standards or codes, the institute is viewed as a neutral, "third party" investigator.
+
+Additionally, under the National Construction Safety Team (NCST) Act, signed into law in October 2002, NIST is authorized to investigate major building failures in the United States. The NIST investigations will establish the likely technical causes of the building failure and evaluate the technical aspects of emergency response and evacuation procedures in the wake of such failures. The goal is to recommend improvements to the way in which buildings are designed, constructed, maintained, and used.
+
+When did the investigation begin and when will it be completed? The investigation officially began on Aug. 21, 2002. When the NCST Act was passed in October of that year, the WTC investigation was moved under its authorities. The final report on the collapses of WTC 1 and 2 was issued on Oct. 26, 2005. The investigation of the collapse of WTC 7 will be completed in 2008.
+
+In addition to the investigation into the collapse of the WTC buildings, is NIST conducting related research or programs?
+
+The investigation is part of a broader NIST response plan to the WTC disaster. In addition to the investigation, NIST also is concurrently conducting two related programs:
+
+a multiyear research and development program to provide the technical basis for improved building and fire codes, standards, and practices; and
+
+an industry-led dissemination and technical assistance program that will provide practical guidance and tools to better prepare facility owners, contractors, designers, and emergency personnel to respond to future disasters.
+
+
+
+Will the results of the investigation lead to reforms in building and fire safety codes, standards, and practices?
+
+NIST research typically provides the technical basis for new and improved standards, codes, and practices. NIST will actively work with organizations and bodies designed to make appropriate changes to ensure that results from the investigation are put to use.
+
+For example, the final report from the investigation of the WTC towers included 30 recommendations for improving building and occupant safety derived from the findings. In March 2006, the first proposed changes to model building codes (used as templates for codes legislated, implemented, and enforced by state and local jurisdictions) based upon and consistent with the NIST WTC recommendations were submitted to the International Code Council (ICC).
+
+The proposed changes—submitted by building code experts associated with two ICC committees, the National Institute of Building Sciences and the U.S. General Services Administration—address areas such as increased resistance to building collapse from fire and other incidents, use of spray-applied fire resistive materials (commonly known as "fireproofing"), performance and redundancy of fire protection systems (i.e., automatic sprinklers), elevators for use by first responders and evacuating occupants, the number and location of stairwells, exit path markings, and fuel oil storage/piping.
+
+In May 2007, the ICC adopted the first set of these building code changes. NIST is committed to continuing our work to support industry and the nation's building and fire safety officials so that the remaining recommendations also are fully considered.
+
+A Web-based system for tracking the progress toward implementing all of the NIST WTC recommendations may be accessed at http://wtc.nist.gov.
+
+Will the results of the investigation help prevent future disasters?
+
+The NIST investigation has been valuable in establishing the probable technical causes of the collapses of WTC 1 and 2 after aircraft impact, replacing speculative observations with objective and fact-based findings, deriving instructive information from the disaster, and identifying needed improvements to building and fire standards, codes, and practices and to the safety of tall buildings nationwide. Implementation of the results of this investigation and those of the investigation of WTC 7—in conjunction with those of the research and development and dissemination and technical assistance elements of the NIST response plan—will help restore public confidence by making tall buildings safer nationwide, enhance the effectiveness and safety of fire and emergency responders, and better protect building occupants and property in the future.
+
+The results of the NIST investigation also will support and guide future work to develop and disseminate guidance and tools, assess and reduce vulnerabilities, and produce the technical basis for cost-effective changes in national practices and standards. A private-sector coalition—representing key industry, standards, codes, and professional organizations—has worked with NIST to establish the response plan to meet these longer-term needs. The goal of the longer-term program is to produce cost-effective retrofit and design measures and operational guidance for building owners and emergency responders.
+
+How has the investigation been funded?
+
+The agency received $16 million for the investigation in September 2002 from the fiscal year 2002 supplemental appropriation.
+
+Is NIST consulting with outside experts?
+
+NIST has marshaled world-class technical expertise from both within and outside the agency. External experts have been drawn from academia, practice, and government, and used on an as-needed basis in various phases of the investigation.
+
+Did the investigation include an examination of the "human" element?
+
+In the investigation of WTC 1 and 2, NIST studied the disaster holistically, paying particular attention to the interplay among the building, the occupants, and the emergency responders. To determine the behavior and fate of occupants and responders—both those who survived and those who did not—NIST collected and analyzed information on occupant behavior, human factors, egress, and emergency communications in WTC 1 and 2, to evaluate the performance of the evacuation system on Sept. 11, 2001.
+
+The data were analyzed to study the movement of people during the evacuations, decision-making and situation awareness, and issues concerning persons with disabilities.
+
+No one was in WTC 7 when it collapsed, so that investigation does not include a "human" element.
+
+What is the National Construction Safety Team Advisory Committee?
+
+The National Construction Safety Team (NCST) Advisory Committee advises the NIST director on carrying out investigations of building failures conducted under the authorities of the NCST Act, which became law in October 2002. That includes providing advice on the composition and function of investigation teams and reviewing procedures and reports.
+
+Does NIST agree with the recommendations for studies put forth by the Building Performance Assessment Team (BPAT)? The BPAT, led by the American Society of Civil Engineers (ASCE) and sponsored by the Federal Emergency Management Agency (FEMA), was designed to study the event of Sept. 11, 2001, at the WTC Complex, provide preliminary assessments, and serve as the foundation for a more extensive technical and scientific investigation. Or as the BPAT Report executive summary states: "to present recommendations for more detailed engineering studies to complete the assessments and produce improved guidance and tools for building design and performance evaluation."
+
+The NIST response plan addressed all of the major recommendations contained in the report issued by the BPAT. The NIST plan also identified other critical issues that needed study, especially in areas that impact life safety and engineering practice.
+
+How has NIST kept the public informed? NIST established a secretariat to coordinate NIST-level activities in support of the investigation and to maintain ongoing liaison with the Executive Branch, Congress, the public, and the news media. NIST has maintained an ongoing liaison with the professional community, the public, and local authorities over the course of the investigation through briefings, presentations, and opportunity for comment on key investigation reports. NIST also assigned a special liaison to interact with the families of building occupants and first responders.
+
+A Web site dedicated to the WTC investigation has been maintained at http://wtc.nist.gov. The final report on the WTC towers is available there in its entirety (43 documents totaling some 10,000 pages).
+
+The Web site also provides access to the WTC investigation archives where the public can follow the complete history of the effort so far, including the two interim progress reports, two public updates and 22 news releases issued during the WTC towers portion of the investigation, as well as documentation from eight public meetings, eight media briefings, seven meetings of the NCST Advisory Committee, and the September 2005 technical conference on putting the NIST recommendations from the WTC towers study into practice.
+
+Can NIST's findings be used in court?
+
+As part of the NCST Act, no part of any report resulting from investigations can be admitted as evidence or used in any suit or action for damages. Additionally, NIST employees are not permitted to serve as expert witnesses.
+
+The NCST Act gives NIST the authority to subpoena information or witnesses during an investigation. Was the power used in the WTC investigation?
+
+If the quality or completeness of an investigation is impeded by the lack of specific data, NIST will use the subpoena power under the NCST Act to access that information. To this point in the WTC investigation, NIST has been able to obtain all of the data it needed through teamwork and negotiation, and without the need of a subpoena.
+
+Has NIST previously conducted building collapse and fire investigations?
+
+NIST has more than 30 years of experience investigating building fire and structural failures. Scientists and engineers in NIST's Building and Fire Research Laboratory (BFRL) often lead a failure investigation. BFRL has experts in concrete and steel construction, earthquake engineering, and fire performance in structural systems. Other NIST experts, such as materials scientists, manufacturing engineers, and electronic engineers, often provide their specialized knowledge to investigations.
+
+Besides the WTC investigation, NIST has conducted one other study under the authorities of the NCST Act, an investigation of the Feb. 20, 2003, fire at The Station nightclub in West Warwick, R.I. This work was completed in June 2005.
+
+Examples of past failure investigations that NIST either has led or participated in include:
+
+terrorist bombing, Murrah Federal Building, Oklahoma City, Okla., 1995;
+
+terrorist bombing, World Trade Center, New York, N.Y., 1993;
+
+building fire, Happylands Social Club, Bronx, N.Y., 1992;
+
+building fire, Dupont Plaza Hotel, San Juan, Puerto Rico, 1986;
+
+collapse of walkway, Hyatt Regency Hotel, Kansas City, Mo., 1981; and
+
+condominium collapse, Cocoa Beach, Fla., 1981.
+
+
+
+Has NIST responded to those who believe that the WTC towers collapsed in ways other than the mechanisms determined by the NIST investigation?
+
+When the final report on the WTC towers was released in October 2005, many in the building design, construction, fire, rescue, safety, and legislative communities praised the three-year effort as the authoritative accounting of the events that took place and began working with NIST to use the report's 30 recommendations to improve building codes, standards, and practices. However, there have been claims from so-called "alternative theory" groups that factors other than those described in the NIST report brought the towers down.
+
+To respond to a number of the questions raised, NIST has posted a fact sheet on the investigation Web site (http://wtc.nist.gov/). The fact sheet explains how NIST found no corroborating evidence for alternative hypotheses suggesting that the WTC towers were brought down by controlled demolition using explosives planted prior to 9/11, or that missiles were fired at or hit the towers. Instead, the fact sheet describes how photographs and videos from several angles clearly showed that the collapse initiated at the fire and impact floors and that the collapse progressed from the initiating floors downward, until the dust clouds obscured the view.
+
+NIST respects the right of others to hold opinions that do not agree with the findings in its report on the collapses of WTC 1 and 2. However, the WTC Investigation Team stands solidly behind the collapse mechanisms for each tower and the sequences of events (from aircraft impact to collapse) as described in the report.

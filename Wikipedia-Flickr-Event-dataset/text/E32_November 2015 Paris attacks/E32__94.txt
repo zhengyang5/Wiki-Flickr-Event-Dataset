@@ -1,0 +1,17 @@
+The Al-Hayat media group (daesh) has posted a link and explanation on how to get to their new darknet site today on the Shamikh forum (jihadi bulletin board in the clearnet) and linked it to Twitter as well to search for how to’s and links.
+
+بسم الله الرحمن الرحيم نظراً للتضييق الشديد على موقع #إصدارات_الخلافة بحيث أنه يتم حذف أي نطاق جديد بعد نشره نعلن إنطلاق الموقع على “Dark web” *وسيعمل لمُستخدمي الTor وللمستخدمين العاديين رابط مستخدمي الTor : XXXXXXXXXX رابط المستخدمين العاديين : XXXXXXX ونعدكم بأننا مستمرون فى مُحاولة الحصول على نطاق جديد عادي وسننشره إن شاء الله عند الحصول عليه بجانب نطاق الTor {ولله العزة ولرسوله وللمؤمنين}
+
+I have redacted the site from the post but the right people are in the know now as to the location. The site mirrors many of the other standard bulletin boards that the jihadi’s have had over the years replete with videos and sections in all languages. Given that this site has popped up today in the darknet just post the attacks in Paris, one has to assume that an all out media blitz is spinning up by Al-Hayat to capitalize on the situation.
+
+As you can see from the picture here they have also included their (semi) new encrypted chat/messaging program of choice (Telegram) which they used in their claim on the Paris attacks. There are several accounts as well as other new ones I have seen popping up on jihadi Twitter accounts as well as Facebook. The rub in this Telegram service is that it is run by ex-pat Russians.
+
+(correction: The Russian government has no control it seems over the owners and the physical location of the company is Germany. Also within the time since the original post here they have started to drop accts that daesh were using for propaganda)
+
+Oddly enough today POTUS met with Vladimir Putin for about thirty minutes to have a serious discussion about Syria and the Paris attacks. I would like to see Putin and the FSB do a little work on the Telegram company to get some intel but yeah, then it strays into that whole privacy thing that we are all upset about. It’s a hard game to play and unfortunately with da’esh using this it will be hard to break.
+
+Another problematic thing about da’esh now having a real site in the darknet is that all the videos and files that they want to upload and have users access will also be in some backend on the darknet. This means that trying to intercept them or tamper with the supply chain is going to be all the much more hard. Of course given the recent turn of events with the exploit against the darknet by UM and the FBI this all may be moot enough if they employ their new attack against this site. I would expect that soon this site will b e attacked anyway by various players and in the end may be exposed for backend IP addresses and raids thereafter.
+
+The site is still being explored and mirrored so once I have more on it I will post.
+
+K.

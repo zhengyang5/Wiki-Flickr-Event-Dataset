@@ -1,0 +1,93 @@
+Noted below are the code change numbers and brief descriptions of the 2007/2008 Proposed Changes to the International Codes for those proposals that are associated with NIST's recommendations. Also included are links to the full text of the proposals.
+
+Structural Collapse S59 (IBC) – The purpose of this proposal is to increase the robustness of building structural systems to guard against the possibility of collapse, property loss, and casualties that are disproportionate to the original damaging event. It is based upon provisions that have been a part of the British Codes for a generation. This proposal addresses Recommendation 1 of the NIST WTC Report.
+
+Wind Tunnel Testing S81 (IBC) – The purpose of this proposal is to achieve uniformity in results where the design requires wind tunnel testing, either as required by ASCE 7 or where the designer determines that wind tunnel testing is necessary. The proposed revision also stipulates that minimum design wind loads cannot be less than the minimums of ASCE 7 (10 psf). This proposal addresses, in part, Recommendation 2 of the NIST WTC Report.
+
+Structural Collapse S101 (IBC) – The purpose of this proposal is to generally enhance the structural integrity and resistance of structures by establishing minimum requirements for tying together the primary structural elements. This proposal addresses Recommendation 2 of the NIST WTC Report.
+
+Fire Command Center F84 (IFC) – The purpose of this proposal is to increase the minimum size of the Fire Command Center to 250 ft2 to allow necessary personnel to effectively perform the required tasks associated with a Fire Command Center. This proposal addresses, in part, Recommendations 13, 14, 15, 23, and 24 of the NIST WTC Report.
+
+Fire Command Center F85 (IFC) – The purpose of this proposal is to provide additional information to first responders in buildings having fire command centers. The proposal will require schematic building plans to include the location of fire walls, fire barriers, fire partitions, smoke barriers, and smoke partitions. This proposal addresses, in part, Recommendations 13, 14, 15, 23, and 24 of the NIST WTC Report.
+
+Fire Command Center F86 (IFC) – The purpose of this proposal is to increase the ability of firefighters and other emergency responders to develop a clear picture of conditions throughout the building which will enable them to better manage evacuation, fire suppression, and other emergency response activities. It will also enhance the safety of emergency responders in buildings over 420 feet in height by requiring a two-hour fire resistance rated enclosure for the emergency command center. This proposal addresses, in part, Recommendations 13, 14, 15, 23, and 24 of the NIST WTC Report.
+
+Emergency Responder Communication F87 (IFC) – The purpose of this proposal is to provide for an adequate level of communication is available within the building. The proposed change will apply to both new and existing buildings. An appendix to the proposal provides design, construction, maintenance, and testing criteria. This proposal addresses Recommendation 22 of the NIST WTC Report.
+
+Fire Service Elevator Lobby F95 (IFC) – This proposal is focused upon storage and furnishings within the fire service access elevator lobby. It is intended to reduce obstructions that could hamper the ability of the fire service to fully utilize these areas and to eliminate potential fire loads from fire service elevator lobbies. This proposal addresses, in part, Recommendation 21 of the NIST WTC Report.
+
+Emergency Responder Communication F171 (IFC) – This proposal is intended to address NIST Recommendation 24 of the NIST WTC Report. This proposal provides revised provisions for fire department two-way communications systems, including bi-directional amplification systems.
+
+Emergency Responder Communication F204 (IFC) – This proposal will provide provisions covering the use of bi-directional radio amplifier systems to improve fire and life safety protection for building occupants and firefighter personnel. The proposal addresses Recommendation 24 of the NIST WTC Report.
+
+Exit Path Markings F211 (IFC) – This proposal will require the use of luminescent exit path markings in existing buildings having occupied floors more than 75 feet above the lowest level of fire department vehicle access. The proposal responds to Recommendation 17 and 18 of the NIST WTC Report.
+
+Fire Rated Wall Impact Resistance FS7 (IBC) – This proposal would require that fire-resistance rated wall assemblies required by other provisions of the code to have not less than a 2-hour fire-resistance rating to be able to withstand a substantial physical impact. The proposal addresses Recommendation 18 of the NIST WTC Report.
+
+Structural Frame FS113 (IBC) – The intent of this proposal is to clarify the code provisions regarding what portions of the structure should be considered “primary structural frame” and therefore require a fire-resistive rating. The proposal addresses Recommendation 7 of the NIST WTC Report.
+
+Structural Frame FS114 (IBC) – The intent of this proposal is to enhance the IBC provisions related to the structural frame. The proposal addresses Recommendation 7 of the NIST WTC Report.
+
+Structural Frame FS115 (IBC) – The intent of this proposal is to make the structural frame provisions more technically sound and to improve coordination with other provisions of the IBC. The proposal addresses Recommendation 7 of the NIST WTC Report.
+
+Sprinkler Redundancy G46 (IBC) – The purpose of this proposed change is to increase the reliability of fire suppression systems in very tall buildings, those that exceed 420 feet in height, by requiring looping of sprinkler lines and street-level water feeds. This proposal addresses Recommendation 12 of the NIST WTC Report.
+
+Burnout G51 (IBC) – The purpose of this change is to establish a specific performance objective: that very tall buildings (those over 420 feet in height) be analyzed to ensure that they will survive a building contents fire without collapse. This proposal responds to Recommendation 8 of the NIST WTC Report.
+
+Burnout G52 (IBC) – The purpose of this change is to establish a specific performance objective: that very tall buildings (those over 420 feet in height) be analyzed to ensure that they will survive a building contents fire without collapse. Currently, it is unclear whether modern building styles can resist a total fire burnout without collapse. Until proper testing and analysis is completed it is necessary to raise the minimum fire resistance for public safety. This proposal responds to Recommendation 8 of the NIST WTC Report.
+
+Emergency Responder Communication G53 (IBC) – The purpose of this proposal is to allow the emergency services to communicate properly throughout the building during an emergency. This proposal will replace the typical hardwired communications system with a radio system that will work with the fire department radio system and provide adequate radio communications. This proposal addresses Recommendation 22 of the NIST WTC Report.
+
+Exit Enclosure Impact Resistance G56 (IBC) – The purpose of this change is to establish a standard for the structural robustness of exit stairway enclosures. The proposal responds to Recommendation 18 of the NIST WTC Report.
+
+Exit Enclosure Impact Resistance G57 (IBC) – The purpose of this proposal is to “harden” the exit stairway enclosures in super high-rise buildings in order to provide adequate fire and life safety for not only the occupants of the building but also for the responding fire department and other emergency personnel who may be using those stairs to gain access to the fire floor as well as to assist in evacuation of the occupants. The proposal addresses Recommendation 18 of the NIST WTC Report.
+
+Stairway Communication G58 (IBC) – The purpose of this proposal is to increase the ability of firefighters, and other emergency responders, to develop a clear picture of conditions throughout the building which will enable them to better manage evacuation, fire suppression, and other emergency response activities. The proposal responds to Recommendations 13, 14, and 15 of the NIST WTC Report.
+
+Fire Services Elevator Lobby G60 (IBC) – This proposal would require that the elevator hoistway, enclosed elevator lobbies and stairways directly accessed from the lobby that are contiguous with the Robust Fire Service Elevators be pressurized at levels identical to those used for stair pressurization in high rises currently. This proposal addresses Recommendation 21 of the NIST WTC Report.
+
+Exit Remoteness G61 (IBC) – The purpose of this proposal is to require that stair shafts meet remoteness criteria in addition to the separation distance requirements for exit access doorways. The proposals addresses Recommendation 18 of the NIST WTC Report.
+
+Exit/Elevator Enclosure Impact Resistance G65 (IBC) – The intent of this proposal is to incorporate a reference to ASTM Standard C1629 into the code. The standard was developed through the ASTM process to directly address impact resistance requirements for materials that could be incorporated into stair and elevator enclosures in high rise construction. The proposal responds to Recommendation 18 of the NIST WTC Report.
+
+Additional Exit Stair G66 (IBC) – The purpose of the proposed change is to put the requirement for additional egress beyond what is normally required by Chapter 10 into terms that are already defined and used within the context of the Code. The proposed change also gives the authority having jurisdiction a little more flexibility in what can be considered while at the same time reducing the overall construction cost and increasing design flexibility for super tall buildings. This proposal responds to Recommendation 17 of the NIST WTC Report.
+
+Additional Exit Stair G67 (IBC) – This proposal would delete without substitution the requirement that buildings over 420 feet in height to have an additional stairway beyond the minimum number required by the code. This proposal responds to Recommendation 17 of the NIST WTC Report.
+
+Sprayed Fire Resistive Materials G68 (IBC) – This proposal would clarify the requirements for sprayed fire resistive materials by requiring that the specified bond strengths must be achieved throughout the building and not just on those portions exceeding the heights specified in the table. This proposal addresses Recommendation 6 of the NIST WTC Report.
+
+Sprayed Fire Resistive Materials G69 (IBC) – The purpose of this proposal is to delete the provision specifying minimum bond strengths for sprayed fire resistive materials in buildings over 75 feet in height. This proposal responds to Recommendation 6 of the NIST WTC Report.
+
+Buildings Requiring Risk Assessment G108 (IBC) – This proposal would require risk assessments for those few structures that could be a target of attack in any community due to their size (over 420 feet in height and an occupant load greater than 5,000) or large occupant load (an occupancy greater than 10,000). It also provides the opportunity for building officials and other authorities having jurisdiction to designate special structures, which in their communities also could be targets of attack. This proposal addresses Recommendation 1 of the NIST WTC Report.
+
+Fire Service Elevator G193 (IBC) – This proposed change is intended to change the terminology from “fire service access elevator” to “robust fire service elevator.” The basis for the change is that all elevators have some level of fire service access associated with them and the current terminology does not highlight the enhanced features that requirements provide. This proposal addresses Recommendation 21 of the NIST WTC Report.
+
+Fire Service Elevator G194 (IBC) – This proposal addresses the physical integrity of elevator hoistway enclosures by requiring that they be able to pass the hose-stream following an ASTM E119 exposure one-half the duration of the fire resistance rating for the enclosure assembly. This proposal addresses, in part, Recommendation 21 of the NIST WTC Report.
+
+Fire Service Elevator G195 (IBC) – The purpose of this proposal is to provide illumination to assist firefighters as they advance up into the building. The proposal addresses, in part, Recommendation 21 of the NIST WTC Report.
+
+Fire Service Elevator G196 (IBC) – This proposal for revision to lobby doorways as part of the newly approved Fire Service Access Elevator requirements is intended to bring consistency to the door specification requirements found in the code. This proposal addresses, in part, Recommendation 21 of the NIST WTC Report.
+
+Fire Service Elevator G197 (IBC) – This proposal is intended to enhance the new provisions for the Fire Service Access Elevator by specifying a minimum size for the fire service access elevator lobby. This proposal addresses, in part, Recommendation 21 of the NIST WTC Report.
+
+Fire Service Elevator G198 (IBC) – This proposal is intended to enhance the new requirements for fire service access elevators by adding a second backup air supply from an alternate source to serve the elevator machine rooms to ensure continued operation of the equipment. This proposal addresses, in part, Recommendation 21 of the NIST WTC Report.
+
+Fire Service Elevator G199 (IBC) – This proposal is intended to provide two-hour fire protection to wires and cables providing normal and standby power, control signals, communication with the car, lighting, heating and air conditioning, ventilation and fire-detecting systems in the fire service access elevators. This proposal addresses, in part, Recommendation 21 of the NIST WTC Report.
+
+Fire Service Elevator G200 (IBC) – This proposal is intended to keep water from sprinklers from disabling the elevators firefighters will use by directing water to drains and away from elevator hoistways. This proposal addresses, in part, Recommendation 21 of the NIST WTC Report.
+
+Evacuation Plans E3 (IBC) – The purpose of this proposal is provide consistent requirements for jurisdictions regarding fire safety and evacuation plans. This proposal responds to Recommendation 16 of the NIST WTC Report.
+
+Evacuation Plans E4 (IBC) – This proposal is intended to provide consistent requirements for jurisdictions regarding emergency planning and preparedness in all jurisdictions that adopt of the IBC. This proposal responds to Recommendation 16 of the NIST WTC Report.
+
+Occupant Evacuation Elevators E14 (IBC) – This proposal is intended to introduce requirements for the arrangement and design of protected elevators for occupant egress into the code without mandating them. This proposal addresses Recommendation 17 of the NIST WTC Report.
+
+Vertical Exit Continuity E135 (IBC) – The purpose of this proposal is to reduce occupant confusion created by the use of horizontal transfer corridors between vertical exit enclosures. This proposal addresses Recommendation 18 of the NIST WTC Report.
+
+Exit Path Markings E145 (IBC) – This proposal ensure visibility of luminous markings, either luminous strips or paints. This proposal addresses Recommendation 18 of the NIST WTC Report.
+
+Exit Path Markings E146 (IBC) – The purpose of this proposal is to correct terminology to conform to the terminology used in UL1994 and to clarify the graphic requirements for the proper execution of egress path marking. This proposal addresses Recommendation 18 of the NIST WTC Report.
+
+Exit Path Markings E147 (IBC) – The purpose of this proposal is to modify the section on Exit Path Markings to include the egress path marking components that are already required in high rise buildings in New York City. This proposal addresses Recommendation 18 of the NIST WTC Report.
+
+Exit Path Markings E148 (IBC) – This proposal would add a requirement for stairway floor number signs to be provided with the minimum means of egress illumination for at least 60 minutes while the building is occupied. The proposal addresses Recommendation 18 of the NIST WTC Report.

@@ -1,0 +1,31 @@
+Egyptian investigators have failed to pinpoint the cause of the fire which destroyed an EgyptAir Boeing 777-200 at Cairo.
+
+But the inquiry suggests a possible short-circuit or other fault resulted in electrical heating of the first officer's oxygen system hose, stored beneath the right-hand cockpit window.
+
+This oxygen-rich environment contributed to the intensity and speed of the blaze which occurred as the twinjet was preparing to operate a service to Jeddah.
+
+"The cause of the fire could not be conclusively determined," admits the Egyptian civil aviation ministry's central aircraft accident investigation directorate.
+
+"It is not yet known whether the oxygen system breach occurred first, providing a flammable environment, or whether the oxygen system breach occurred as a result of the fire."
+
+A short-circuit might have resulted from contact between oxygen system components and aircraft wiring, if multiple wiring clamps were missing, or fractured, or if wires were incorrectly installed.
+
+Routine checks by the crew, in preparation for the 29 July 2011 flight, revealed the oxygen system pressure was normal. But while the pilots waited for the last few passengers to board, the first officer said there was a "bang" from the right side of his seat and he saw a 10cm "crack" appear in the side-wall adjacent to the oxygen mask.
+
+The cockpit-voice recorder captured a "pop" followed by a hissing noise, similar to the escape of pressurised gas, says the inquiry.
+
+"I unfastened the seat-belt immediately and stood up very quickly," the first officer told investigators. "At the same time the captain left his seat quickly. The smoke and fire were spreading very quickly. After that, the captain ordered me to get out of the cockpit."
+
+The captain attempted to extinguish the fire but said: "The fire bottle was completely depleted without any influence on the fire intensity."
+
+Investigators say the aircraft was immediately evacuated through two forward left-hand doors and fire-fighting personnel arrived after 3min. The fire was extinguished and aircraft cooling was completed around 90min after the blaze broke out.
+
+"The aircraft experienced major damage resulting from the fire and smoke," says the inquiry. But there were no fatalities among the 317 occupants, although seven individuals suffered mild smoke inhalation.
+
+Three years earlier an ABX Air Boeing 767-200 preparing to depart San Francisco suffered a fire in the supernumerary compartment behind the cockpit. The crew had similarly mentioned hearing popping and hissing sounds at the time.
+
+US investigators attributed the fire to a "lack of positive separation" between electrical wiring and conductive oxygen system components. This allowed a short-circuit to breach a combustible oxygen hose which fed a rapid fire.
+
+The National Transportation Safety Board pointed out, in its inquiry into the ABX event, that the US FAA had failed to require installation of non-conductive oxygen hoses.
+
+In the wake of the EgyptAir fire the FAA has ordered the replacement of hoses on 777s with non-conductive versions to reduce the risk of combustion.

@@ -1,0 +1,11 @@
+GOCE: the first seismometer in orbit
+
+Satellites map changes in Earth’s surface caused by earthquakes but never before have sound waves from a quake been sensed directly in space – until now. ESA’s hyper-sensitive GOCE gravity satellite has added yet another first to its list of successes.
+
+Earthquakes not only create seismic waves that travel through Earth’s interior, but large quakes also cause the surface of the planet to vibrate like a drum. This produces sound waves that travel upwards through the atmosphere.
+
+The size of these waves changes from centimetres at the surface to kilometres in the thin atmosphere at altitudes of 200–300 km.
+
+Only low-frequency sound – infrasound – reaches these heights. It causes vertical movements that expand and contract the atmosphere by accelerating air particles.
+
+On Monday, Japan remembers the 20 000 people who died in the earthquake and tsunami that devastated its northeastern coast two years ago. New studies have revealed that this massive quake was also felt in space by ESA’s GOCE satellite.

@@ -1,0 +1,5 @@
+Ottawa, Canada -- Avaya engineers are putting the final touches on a network capable of handling up to 54Tbps of traffic when the Winter Olympics opens on Feb. 7 in the Russian city of Sochi.
+Network World - Ottawa, Canada -- Avaya engineers are putting the final touches on a network capable of handling up to 54Tbps of traffic when the Winter Olympics opens on Feb. 7 in the Russian city of Sochi.
+The Sochi network will serve 30,000 athletes, administrators and staff, media, IOC officials, and volunteers with data, voice, video, and full Internet access through the Games sites.
+Network upgradeIn Vancouver, Avaya installed the first all-IP converged voice, data and video network at Layer 2.
+“But we expect this equation to turn on its head at Sochi, with wireless being the four and wired traffic being the one.

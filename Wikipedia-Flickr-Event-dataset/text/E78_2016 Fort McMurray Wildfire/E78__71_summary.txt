@@ -1,0 +1,3 @@
+Hourly Data Report for May 03, 2016All times are specified in Local Standard Time (LST).
+Add 1 hour to adjust for Daylight Saving Time where and when it is observed.
+FORT MCMURRAY CSALBERTANotes on Data Quality.

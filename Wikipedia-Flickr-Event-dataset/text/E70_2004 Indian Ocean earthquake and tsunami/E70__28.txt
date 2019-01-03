@@ -1,0 +1,51 @@
+NOAA SCIENTISTS ABLE TO MEASURE TSUNAMI HEIGHT FROM SPACE
+
+Jan 10, 2005 � After reviewing data from four Earth-orbiting radar satellites, NOAA scientists today announced they were able to measure the height of the devastating tsunami that erupted in the Indian Ocean. The ability to make depth surveys from space may lead to improvements in the models that forecast the hazardous effects of tsunamis. (Click NOAA image for larger view of tsunami wave height as measured by satellites two hours after the event. Click here for high resolution version, which is a large file. Click here for PDF version. Please credit “NOAA.”)
+
+The height goes down over time as the wave spreads over the ocean and the energy is expended on shore. At 2 hours after the quake, it was 60 cm (about 2 feet) high. By 3 hours 15 minutes after the quake, that dropped to around 40 cm (about 16 inches) high. By 8 hours 50 minutes after the quake, the wave spread over most of the Indian Ocean and was quite small in most areas—5 to 10 cm (2 to 4 inches)—about the limit of the satellite resolution. However, the wave was still large enough after all that elapsed time that it was still bouncing around in the Bay of Bengal still appears about 25 cm high (10 inches) as measured by the satellites.
+
+
+
+(Click NOAA image for larger view of tsunami wave height as measured by satellites two hours and five minutes after the event. Click here for high resolution version, which is a large file. Click here for PDF version. Please credit “NOAA.”) (Click NOAA image for larger view of tsunami wave height as measured by satellites three hours and 15 minutes after the event. Click here for high resolution version, which is a large file. Click here for PDF version. Please credit “NOAA.”) (Click NOAA image for larger view of tsunami wave height as measured by satellites seven hours and 10 minutes after the event. Click here for high resolution version, which is a large file. Click here for PDF version. Please credit “NOAA.”) (Click NOAA image for larger view of tsunami wave height as measured by satellites eight hours and 50 minutes after the event. Click here for high resolution version, which is a large file. Click here for PDF version. Please credit “NOAA.”)
+
+Several days after the Indian Ocean tsunami, scientists from the NOAA Laboratory for Satellite Altimetry in Silver Spring, Md., examined data from the four spacecraft—the TOPEX/Poseidon and Jason, operated jointly by NASA and the French space agency, CNES; the European Space Agency's Envisat and the U.S. Navy's Geosat Follow-On.
+
+"By chance, these satellites were in the right place at the right time," said Walter H.F. Smith, a geophysicist at the NOAA LSA, which routinely monitors sea-level variations from space using radar measurements taken by several satellites. The measurements are used to make simple charts of unexplored ocean basins and to forecast the intensification of hurricanes, the onset of an El Niño, and other weather and climate events.
+
+NOAA ANIMATION SHOWS WORLDWIDE REACH OF INDIAN OCEAN TSUNAMI The massive tsunami triggered by an undersea earthquake in the Indian Ocean literally rippled around the world. NOAA scientist Vasily Titov, using seismic data, rendered an animation showing how the tsunami waves propagated across the Earth. Some of the waves reached the United States and many other nations outside the Indian Ocean.
+
+Click NOAA screen capture for larger view of tsunami worldwide propagation. Click here for high resolution version. Please credit "NOAA." Titov used the numerical model called Method of Splitting Tsunami, or MOST. He used this model hours after the tsunami first struck showing the quake’s epicenter and how the tsunami moved across the Indian Ocean.
+
+
+
+The animation covers a period of 44 hours and 27 minutes of tsunami propagation. The tsunami reached the Atlantic and Pacific coasts of the United States about the same time—some 28 hours after the earthquake struck on Dec. 26, 2004, at 00.59 UTC or 7:59 p.m. EST. The MOST model also was used to interpret the data for the tsunami's wave height from four satellites. Please credit “NOAA” in your Chyron or in print. Please note: "Right-click" the links below to download the very large files. MPG || AVI || MOV NOAA Tsunami Research
+
+Upon further investigation of satellite data, NOAA researchers were able to detect the Indian Ocean tsunami in profiles of sea level along the satellites' flight paths by comparing the sea level seen on Dec. 26, 2004, with the sea level measurements the satellites picked up a few days, or weeks, earlier.
+
+Also, U.S. and French teams, working in parallel with data from the joint NASA/French Space Agency's Jason and TOPEX/Poseidon, independently confirmed the satellites' measurements of the height of the tsunami waves. "These observations are unique and of tremendous value for testing and improving tsunami computer models and developing future tsunami early warning systems," said Lee-Lueng Fu, of NASA's Jet Propulsion Laboratory in Pasadena, Calif.
+
+Smith emphasized that LSA does not get the satellite data until several hours after a tsunami has developed—too late to be used as a real-time forecast.
+
+"Right now, this technique is not a first line of defense in tsunami hazard monitoring and warnings, but it gives scientists a window to tsunami activity in the deep and in remote parts of an ocean basin, too far away from coastal tide gauges and other instruments that could detect it," Smith added.
+
+Smith said NOAA researchers proposed that the best application of satellite data to improve tsunami hazard forecasts would be a reconnaissance mapping of the ocean floor from space. "The detailed shape of the sea bed, all across the ocean basin, determines the focusing—or diffusion—of tsunami energy barreling toward the coast."
+
+At the NOAA Pacific Marine Environmental Laboratory in Seattle, scientists have developed a computer model, showing how the tsunami moved across the Indian Ocean. Combined with the data from LSA, the PMEL model showed the changing sea levels along the flight paths of the four satellites, which crossed the ocean basin after the earthquake.
+
+PMEL scientists apply the tsunami computer model to provide hazard assessments for communities at risk and develop a real-time forecast system for the NOAA Tsunami Warning Centers.
+
+Vasily Titov, an oceanographer at PMEL, said the satellite observations would be used in ongoing research to improve the understanding of how tsunamis move across the ocean.
+
+The NOAA Satellites and Information Service is America's primary source of space-based oceanographic, meteorological and climate data. It operates the nation's environmental satellites, which are used for ocean and weather observation and forecasting, climate monitoring and other environmental applications. Some of the oceanographic applications include sea-surface temperature for weather forecasting and sea-surface heights for prediction of El Niño and hurricane intensification.
+
+
+
+NOAA is dedicated to enhancing economic security and national safety through the prediction and research of weather and climate-related events and providing environmental stewardship of the nation�s coastal and marine resources. NOAA is part of the U.S. Department of Commerce.
+
+Relevant Web Sites
+
+NOAA Satellites and Information Service
+
+NOAA Laboratory for Satellite Altimetry
+
+NOAA Satellites

@@ -1,0 +1,33 @@
+Sochi itself is a sprawling city of 350,000 people located on the Black Sea. Archeologists have found human remains in the area that date back tens of thousands of years. Today, Sochi’s subtropical climate makes it a popular Russian tourist spot.
+
+Ottawa, Canada -- Avaya engineers are putting the final touches on a network capable of handling up to 54Tbps of traffic when the Winter Olympics opens on Feb. 7 in the Russian city of Sochi.
+
+Network World - Ottawa, Canada -- Avaya engineers are putting the final touches on a network capable of handling up to 54Tbps of traffic when the Winter Olympics opens on Feb. 7 in the Russian city of Sochi.
+
+Sochi itself is a sprawling city of 350,000 people located on the Black Sea. Archeologists have found human remains in the area that date back tens of thousands of years. Today, Sochi’s subtropical climate makes it a popular Russian tourist spot.
+
+The two locations where the Olympics will take place -- the Olympic village in Sochi and a tight cluster of Alpine venues in the nearby Krasnaya Polyana Mountains -- are completely new construction, so this project represents a greenfield environment for Avaya.
+
+In addition to investing in a telecom infrastructure, Russia is spending billions of dollars to upgrade Sochi’s electric power grid, its transportation system and even its sewage treatment facilities. (Watch a slideshow version of the story.)
+
+“The whole town is nothing but a constantly changing, $50 billion construction site; for instance we’ve seen the road outside our hotel be torn up at least four times. As for modern IT infrastructure? There was none to speak of. We have really had to start from scratch, right down to the laying of conduit before we could even begin installing fiber and cabling,’’ says Dean Frohwerk, Avaya’s chief network architect.
+
++ ALSO ON NETWORK WORLD Avaya's Wi-Fi set up in the last winter Olympics +
+
+That’s quite a contrast from 2010, when Frohwerk and his team provided telecom and networking services for the games in Vancouver.
+
+And this time around, the demands for bandwidth and connectivity dwarf anything that Avaya delivered in Vancouver, where the network was capable of handling only 4Tbps.
+
+The Sochi network will serve 30,000 athletes, administrators and staff, media, IOC officials, and volunteers with data, voice, video, and full Internet access through the Games sites.
+
+Adding to the challenge, “We expect these people to be carrying and using multiple wireless devices,” says Frohwerk. “In Vancouver, we only had to provision one device per user. This means that we really have to have the capability to support up to 120,000 users on the Sochi Wi-Fi network, without issues or interruptions.”
+
+Plus, Avaya has to deliver 30 IPTV dedicated HD Olympic channels via its telecom backbone, and has to make these channels available to Olympic family users over the converged network. (IPTV support is an Olympic first on the network, eliminating the need for a separate CATV HFC network.)
+
+Network upgrade
+
+In Vancouver, Avaya installed the first all-IP converged voice, data and video network at Layer 2. “That network was laid out like a single mammoth installation, which worked well given that wired traffic outnumbered wireless four to one,” says Frohwerk.
+
+“But we expect this equation to turn on its head at Sochi, with wireless being the four and wired traffic being the one. That’s why we have had to change our approach.”
+
+Another lesson from Vancouver, he says, is that “requirements evolve and change during the Games, and that you have to be able to adapt the network configuration to accommodate these changes. We have also seen that ease of use is paramount: With so much going on, network operators must find it simple to make changes on the fly.”

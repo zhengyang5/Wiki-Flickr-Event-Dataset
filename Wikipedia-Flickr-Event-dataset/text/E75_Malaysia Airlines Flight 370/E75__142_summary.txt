@@ -1,0 +1,5 @@
+“The Malaysia Airlines ACARS avionics communications via the SITA network is proprietary to the airline.
+We are fully supporting the airline and all the relevant authorities in their on-going investigation of flight MH370,” says a SITA spokeswoman, declining further comment.
+Runway Girl Network tweeted Mills’ comments from the Satellite 2014 conference in Washington DC.
+Inmarsat’s Classic aero service underpins the ACARS messaging via satellite that SITA provides.
+The service provider [in this case SITA] is verifying it’s a valid terminal and then you have your connection.

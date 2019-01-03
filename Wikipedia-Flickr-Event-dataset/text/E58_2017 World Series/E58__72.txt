@@ -1,0 +1,27 @@
+Most Runs in a World Series Game, Combined
+
+The most runs scored by both teams in a World Series game, with final score, game number and year:
+
+29 -- Toronto (15) at Philadelphia (14), Game 4, 1993
+
+25 -- Florida (14) at Cleveland (11), Game 3, 1997
+
+23 -- St. Louis (16) at Texas (7), Game 3, 2011
+
+22 -- N.Y. Yankees (18) at N.Y. Giants (4), Game 2, 1936
+
+21 -- San Francisco (10) at Anaheim (11), Game 2, 2002
+
+21 -- N.Y. Yankees (8) at Brooklyn (13), Game 2, 1956
+
+20 -- Oakland (13) at San Francisco (7), Game 3, 1989
+
+20 -- St. Louis (9) at Boston (11), Game 1, 2004
+
+20 -- Anaheim (4) at San Francisco (16), Game 5, 2002
+
+
+
+Copyright 2011 by The Associated Press
+
+This story is from ESPN.com's automated news wire. Wire index

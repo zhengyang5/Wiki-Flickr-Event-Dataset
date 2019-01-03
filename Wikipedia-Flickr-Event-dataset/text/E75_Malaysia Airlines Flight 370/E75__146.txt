@@ -1,0 +1,9 @@
+The interruption of electrical power on board the Beijing-bound plane could have been the result of a hijacking attempt, said aviation expert Peter Marosszeky from the University of New South Wales.
+
+“If there was a crew wanting to do something that was rather sinister or there were hijackers on board, they would remove power by opening up the bus-tie breakers and opening up the battery control switch. That way the aircraft virtually loses all power to just about all systems except the engines,” he said.
+
+“The engines have their own little computer and they have their own power source by a generator on the gearbox.
+
+“You can reset the power in some way, this way the aircraft would go dead as far as any satellite contact or any information being transmitted by transponders. They can reinstate it and re-initialise the flight management computers … it has to be a very clever pilot or person that really knows that aeroplane to be able to achieve that.”
+
+The power failure could be the result of tampering to minimise the use of the aircraft's systems, aviation safety expert David Gleave from Loughborough University told the UK’s The Telegraph.

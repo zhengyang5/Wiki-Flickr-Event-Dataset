@@ -1,0 +1,5 @@
+Live From Super Bowl LII: NBC To Debut Virtual 3D Graphics Tech Incorporating Player Body ScansThe ‘volumetric-AR‘ technology features life-like player animations, was developed by an army of vendorsNBC Sports is taking its use of augmented reality and virtual graphics to the next level at Super Bowl LII with the debut of “volumetric-AR” technology, which will allow lifelike 3D player animations to be inserted into AR graphics in the telecast.
+On Monday, the production team completed body scans of six players from the Patriots and Eagles, including quarterbacks Tom Brady and Nick Foles.
+These scans will provide NBC with 3D player animations that will replace the 2D images in the on-screen AR elements superimposed on the field.
+In addition, an exterior beauty shot from an encoded camera also will feature these virtual 3D graphics and other AR elements.
+Those final elements will be integrated into the AR elements traditionally deployed by NBC Sports for TNF and SNF.

@@ -1,0 +1,21 @@
+This is not original, but for reference I find some charts useful. In what follows I show data for the euro area minus Malta and Cyprus — 15 countries. I use red bars for the GIPSIs — Greece, Ireland, Portugal, Spain, Ireland Italy — and blue bars for everyone else.
+
+There are basically three stories about the euro crisis in wide circulation: the Republican story, the German story, and the truth.
+
+The Republican story is that it’s all about excessive welfare states. How does that hold up? Well, let’s look at public social expenditures as a share of GDP in 2007, before the crisis, from the OECD Factbook:
+
+Hmm, only Italy is in the top five — and Germany’s welfare state was bigger.
+
+OK, the German story is that it’s about fiscal profligacy, running excessive deficits. From the IMF WEO database, here’s the average budget deficit between 1999 (the beginning of the euro) and 2007:
+
+Greece is there, and Italy (although its deficits were not very big, and the ratio of debt to GDP fell over the period). But Portugal doesn’t stand out, and Spain and Ireland were models of virtue.
+
+Finally, let’s look at the balance of payments — the current account deficit, which is the flip side of capital inflows (also from the IMF):
+
+We’re doing a lot better here — especially when you bear in mind that Estonia, a recent entrant to the euro, had an 18 percent decline in real GDP between 2007 and 2009. (See Edward Hugh on why you shouldn’t make too much of the bounceback.)
+
+What we’re basically looking at, then, is a balance of payments problem, in which capital flooded south after the creation of the euro, leading to overvaluation in southern Europe. It’s not a perfect fit — Italy managed to have relatively high inflation without large trade deficits. But it’s the main way you should think about where we are.
+
+And the key point is that the two false diagnoses lead to policies that don’t address the real problem. You can slash the welfare state all you want (and the right wants to slash it down to bathtub-drowning size), but this has very little to do with export competitiveness. You can pursue crippling fiscal austerity, but this improves the external balance only by driving down the economy and hence import demand, with maybe, maybe, a gradual “internal devaluation” caused by high unemployment.
+
+Now, if you’re running a peripheral nation, and the troika demands austerity, you have no choice except the nuclear option of leaving the euro, coming soon to a Balkan nation near you. But non-GIPSI European leaders should realize that what the GIPSIs really need is a general European reflation. So let’s hope that they get this, and also give each of us a pony.

@@ -1,0 +1,43 @@
+In the wake of the Eric Garner and Michael Brown cases, questions have arisen regarding the grand-jury system and whether working relationships between prosecutors and law enforcement complicate the process when it comes to cases involving officers.
+
+A protester attends a rally outside the Barclays Center in Brooklyn against a grand jury's decision not to indict the police officer involved in the death of Eric Garner.
+
+Two grand juries in recent weeks – one in New York and one in Missouri – declined to indict two police officers in the deaths of two unarmed black men, raising questions and public outcry about why grand juries rarely charge police officers with crimes.
+
+Q: What is the purpose of the grand jury system?
+
+At its most basic, the grand jury system is another check on government power. Before the government can charge a citizen with a serious crime, in many cases it must first get the approval of a panel of 12 to 23 impartial peers. Unlike a trial jury, also called a petit jury, a grand jury does not determine innocence or guilt beyond a reasonable doubt, and it does not require a unanimous decision. A grand jury only determines whether the government has enough “probable cause” to press formal charges.
+
+Q: Do all serious crimes require an indictment from a grand jury?
+
+No. The Fifth Amendment of the US Constitution requires a grand jury indictment for the federal government to bring serious charges, but this does not apply to states. Rules vary, but about half the states require grand juries for felony prosecutions, with varying rules and jury sizes.
+
+Q: How often do grand juries make indictments?
+
+Nearly always. As a famous joke goes, a grand jury would “indict a ham sandwich” if that’s what a prosecutor wanted. In 2010, federal prosecutors sought indictments in about 162,000 cases, according to the US Bureau of Justice Statistics. Grand jurors declined to indict in 11 of these federal cases. On a state level, grand juries returned indictments in similar numbers.
+
+One reason a grand jury could “indict a ham sandwich” is that a very low bar is required to establish probable cause.
+
+As Justice Elena Kagan remarked in a Supreme Court case last year, for a grand jury, “Probable cause ... we have often told litigants, is not a high bar: It requires only the ‘kind of “fair probability” on which “reasonable and prudent [people,] not legal technicians, act.” ’ ”
+
+Typically, grand juries remain secret. The prosecutor controls the proceedings, and in most jurisdictions, no judge or defense counsel is present. And in the vast majority of cases, the prosecutor only presents one or two witnesses, as well as additional physical or forensic evidence if necessary. This normally takes place in a day or two.
+
+Q: How many police officers are indicted by grand juries?
+
+Very few. According to studies, US police officers kill approximately 1,000 citizens per year in the line of duty. On average, four officers are indicted for causing gun-related deaths on duty every year, according to a study by Bowling Green State University in Ohio.
+
+In one sample, grand juries in Harris County, Texas, haven’t indicted a police officer in a decade. Grand juries in Dallas looked at 81 possible cases of police criminality between 2008 and 2012, but handed down only one indictment, according to the Houston Chronicle.
+
+Q: Why is it so rare for prosecutors to indict police officers?
+
+The reasons are manifold. Police officers are given the power to kill in society, and they are often given the benefit of the doubt in cases in which they may face life-threatening danger. Many often have qualified immunity as well – part of a deeply held social compact that recognizes the pressures of the job.
+
+Some suggest that jurors have a built-in bias to trust the word of police officers, who know the system and understand the law. But prosecutors and police officers mostly work hand in hand in the nation’s criminal-justice system. Prosecutors rely on police to gather evidence and provide personal security. They fraternize closely with police on a day-to-day basis. Critics suggest that this close working relationship makes it difficult for prosecutors to have an incentive to aggressively pursue indictments against police.
+
+In grand jury cases such as the one in Ferguson, Mo., that decided not to indict Police Officer Darren Wilson in the death of Michael Brown, and the grand jury case on Staten Island, N.Y., that decided not to indict Police Officer Daniel Pantaleo in the death of Eric Garner, prosecutors took the unusual step of presenting nearly all the evidence to the grand jury – including the testimony of the officers.
+
+But critics contend that this evidence did not undergo rigorous cross-examination by opposing counsel, giving the prosecutors sole control over the shape of the case.
+
+Q: What are states doing to ensure trust in the grand jury system when it comes to police killings?
+
+Because of the close working relationship between prosecutors and police officers, many have called for independent investigations whenever a person dies in police custody. This April, Wisconsin Republican Gov. Scott Walker signed the nation’s first law requiring a team of at least two investigators from an outside agency to lead reviews of such deaths and a public report to be released if criminal charges are not filed.

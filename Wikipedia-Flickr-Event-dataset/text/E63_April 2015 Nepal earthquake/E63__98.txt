@@ -1,0 +1,61 @@
+View Images In the above animation, thousands of humanitarian mappers have filled in the gaps in the map of Nepal to help speed movement of food and other supplies to rural villages.
+
+Animation courtesy ©Mapbox ©OpenStreetMap
+
+It took just 48 hours after the earthquake hit Nepal for a global network of volunteer geeks to fill in big gaps in the nation's map for relief workers on the ground.
+
+In a country known for its poor roads, which are still passable? Which patches of land can serve as helipads, or, lacking space, drop zones? Where are the landslides? And how many structurally sound buildings will aid workers fine once they arrive?
+
+Answering those questions is the goal of crisis mapping, which has become an important assist to first responders in Nepal as they try to untangle logistics and respond to needs for medical care, shelter, and food and water since calamity struck last Saturday.
+
+The “digital humanitarians” staffing the effort are scattered across the world, hunched over laptops from London to Lima. Working with high-resolution satellite imagery, they quickly located 13,199 miles of roads and 110,681 buildings and added them to OpenStreetMap, an online, open global mapping platform that the United Nations, the Nepal Army and the Red Cross are using to pinpoint navigable routes into villages in the quake’s epicenter.
+
+“Telling the UN a bridge is destroyed in Nepal is pointless,” says Patrick Meier, director of the Qatar Computing Research Institute in Doha and a National Geographic Emerging Explorer. “They need to know where it is.”
+
+View Images A volunteer for the group MapAction created this map to show roads and towns into the Dhading district, outside Kathmandu.
+
+Map courtesy MapAction.org
+
+Meier is one of the pioneers in a network of digital humanitarian groups that has bloomed since the Haiti earthquake in 2010 and transformed digital mapping into an increasingly important tool for emergency aid efforts. In Haiti—essentially unmapped before the quake—Meier spearheaded digital mapping to steer the U.S. Marine Corps to isolated quake victims desperate for supplies.
+
+“Crisis mapping saves us a lot of time,” says Dale Kunce, a geospatial engineer with the international relief agency. “We have a telecommunications group on the ground; they’ve asked us where they can put equipment so that it reaches the maximum number of people and they need to know how to get from one village to another village.”
+
+National Geographic Emerging Explorer Patrick Meier explains how crisis mapping works. This footage is from a National Geographic Live event in Washington, D.C.
+
+Evolving Maps
+
+Crisis mappers have used an expanding digital toolkit in the years since the Haiti quake to respond to large disasters, natural and man-made. They mapped the Philippines after Typhoon Haiyan swept through in 2013, hundreds of refugee camps for displaced Syrians on the move in the Middle East and the Ebola crisis in West Africa.
+
+By the time Cyclone Pam all but flattened the tiny Pacific island of Vanuatu this past March, Meier had begun using drones to better assess the damage.
+
+“Satellite images give you a vertical image, looking straight down. That’s not helpful in making a disaster damage assessment,” says Meier. “With drones, we get oblique imagery, taken at an angle, which gives you a much better idea of what the damage is.”
+
+By Tuesday, Meier had six drones in Kathmandu, staged to fly over inaccessible regions. He is also enlisting a mix of social media platforms that didn’t exist in 2010 quake to create a more complete picture of the situation in Nepal’s disaster zone. MicroMappers, for example, taps “digital Jedis,” as Meier calls them, to map relevant tweets, texts and photos, enabling relief workers to assess conditions more quickly.
+
+View Images A damaged mountain-top village lies near the epicenter of Saturday’s earthquake in Nepal’s Gorkha District. Aid reached the hilly district for the first time Wednesday, April 29, 2015.
+
+Photograph by Wally Santana, Assocaited Press
+
+Works in Progress
+
+But online mapping that relies on volunteers with varying skills to interpret satellite images has its limitations. The imagery itself can be fuzzy, or dated, as was the case in immediate aftermath of the Philippines typhoon. A study of the digital mapping used in the Philippines found that more than a third of the plot points were inaccurate.
+
+“Accuracy will never be resolved,” says Nuala Cowan, a geography professor at George Washington University in Washington, D.C. “Accuracy can be in how one interprets an image, how general or specific they are. It’s a volunteer community. This is not the work of engineers. No one went out there and got those coordinates.”
+
+Mapping will continue to improve, Cowan says, as software developers devise new features to prevent error and more sophisticated volunteers become involved. Consider Wikipedia, she says. “When Wikipedia first started, everybody thought it was junk,” she says. “It’s become a lot better because more knowledgeable people are contributing. That’s what we’re seeing with OpenStreetMap. ”
+
+We need to map vulnerable people around the world before disaster happens. Dale Kunce Geospatial engineer, Red Cross
+
+The Red Cross wants to map the entire globe to get ahead of events and anticipate future disasters.. It launched a Missing Maps project last fall.
+
+“We need to stop mapping after the disaster has happened,” says Kunce. “We need to map the vulnerable people around the world before disaster happens.”
+
+View Images A mother and her child wait at a makeshift shelter in Lubu, 57 km southeast of Kathmandu, Nepal on Thursday, April 29, 2015. The quake killed more than 5,000 and injured more than 10,000 people.
+
+Photograph by Yomiuri Shimbun, Associated Press
+
+In Nepal, one of the most geographically unstable regions in the world, digital mappers organized the Kathmandu Living Labs several years ago to chart the densely populated Kathmandu Valley where 2.5 million people live in the capital city and its environs.
+
+“They were doing an inventory in the poorer communities where they didn’t have a very good sense of the quality of buildings,” says Cowan, whose students helped add Kathmandu’s buildings and roads to OpenStreetMap. “Their priorities were hospitals, clinics, schools. How many students in a school? What materials is it made of? All of this was being gathered for a potential earthquake. They were going around on bicycles with GPS units to collect the data.”
+
+Cowan says her students mapped 16,000 buildings in two weeks. “Parts of that city looked like one big cluster of buildings with goat paths in between. That was only scraping the surface of the amount of work to be done.”

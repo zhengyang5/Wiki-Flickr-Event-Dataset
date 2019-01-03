@@ -1,0 +1,51 @@
+Questions & Answers
+
+Vaccine Selection for the 2010–2011 Influenza Season
+
+How are the viruses selected to make flu vaccine?
+
+The influenza (flu) viruses selected for inclusion in the seasonal flu vaccines are updated each year based information about which influenza virus strains are identified, how they are spreading, and how well current vaccine strains protect against newly identified strains. Currently, 130 national influenza centers in 101 countries conduct year-round surveillance for influenza and study influenza disease trends. These laboratories then send influenza viruses to the four World Health Organization (WHO) Collaborating Centers for Reference and Research on Influenza located in Atlanta, Georgia, USA (Centers for Disease Control and Prevention, CDC); London, United Kingdom (National Institute for Medical Research); Melbourne, Australia (Victoria Infectious Diseases Reference Laboratory); Tokyo, Japan (National Institute for Infectious Diseases) for additional analyses. The seasonal flu vaccine is a trivalent vaccine (a three component vaccine) with each component selected to protect against one of the three main groups of influenza viruses circulating in humans. (Last year’s 2009 H1N1 vaccine was made in response to the pandemic first recognized in April 2009. Unlike seasonal flu vaccines, the pandemic vaccine protected against only one flu virus strain, the 2009 H1N1 virus.)
+
+What flu viruses are included in the Northern Hemisphere seasonal vaccine for 2010-2011?
+
+The three vaccine viruses are chosen to maximize the likelihood that the main circulating viruses during the upcoming flu season will be well covered by the vaccine. WHO recommends specific vaccine viruses for vaccine production, but then each individual country makes their own decision for licensing of vaccines in their country. In the United States, the US Food and Drug Administration (FDA) determines what viruses will be used in U.S.–licensed vaccines.
+
+WHO recommended that the Northern Hemisphere's 2010–2011 seasonal influenza vaccine contain the following three vaccine viruses:
+
+an A/California/7/2009 (H1N1)–like virus;
+
+an A/Perth/16/2009 (H3N2)–like virus;
+
+and a B/Brisbane/60/2008–like virus.
+
+The H1N1 virus recommended for inclusion in the 2010-2011 seasonal influenza vaccine is a pandemic 2009 H1N1 virus and is the same vaccine virus as was used in the 2009 H1N1 monovalent vaccine.
+
+This recommended composition of the seasonal vaccine for the Northern Hemisphere, including the United States, is the same composition that was recommended for the Southern Hemisphere’s 2010 influenza vaccines.
+
+What flu viruses are included in the Southern Hemisphere seasonal vaccine for 2011?
+
+On September 29, 2010, in Geneva, Switzerland, WHO recommended that the Southern Hemisphere’s 2011 seasonal influenza vaccine contain the following three vaccine viruses:
+
+an A/California/7/2009 (H1N1)-like virus;
+
+an A/Perth/16/2009 (H3N2)-like virus;*
+
+a B/Brisbane/60/2008-like virus.
+
+*Note: A/Wisconsin/15/2009 and A/Victoria/210/2009 are A/Perth/16/2009-like viruses.
+
+These are the same virus strains that the Food and Drug Administration (FDA) selected for inclusion in the Northern Hemisphere vaccine being used in the United States during the 2010-2011 season.
+
+The WHO recommendation and summary report are available on the WHO website. In addition, a frequently asked questions document on the vaccine strain selection process is also available on the WHO website.
+
+Who is included in the group that makes the vaccine virus selections at WHO?
+
+The WHO vaccine virus decision meetings include WHO representatives from the WHO Collaborating Centers, Essential Regulatory Laboratories, and others from the Global Influenza Surveillance Network (GISN). After WHO makes its recommendations, the US FDA Vaccines and Related Biological Products Advisory Committee (VRBPAC) meets to concur with or modify WHO's recommendation for the United States.
+
+When and where did the WHO group meet to determine the vaccine composition for the 2010-2011 seasonal influenza vaccine for the Northern Hemisphere?
+
+On January 14 and February 4, 2010, the WHO selection process for which viruses to include in the seasonal influenza vaccine for the Northern Hemisphere began with teleconferences discussing surveillance data. The final WHO Vaccine Composition Meeting was held February 14–19, 2010 at the WHO headquarters in Geneva, Switzerland.
+
+When and where was it decided what the vaccine composition would be for the 2010-2011 seasonal vaccine for the United States?
+
+After WHO made its recommendations for the Northern Hemisphere, the US FDA Vaccines and Related Biological Products Advisory Committee (VRBPAC) met in Bethesda, Maryland on February 22, 2010 and concurred with WHO's recommendation. So the U.S. seasonal vaccine for the 2010–2011 season, includes an A/California/7/2009 (H1N1)-like virus, an A/Perth/16/2009 (H3N2)-like virus, and a B/Brisbane/60/2008-like virus.

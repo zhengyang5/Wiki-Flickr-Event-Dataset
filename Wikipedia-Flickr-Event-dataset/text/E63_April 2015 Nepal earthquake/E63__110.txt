@@ -1,0 +1,67 @@
+21 May 2015, SPIE Newsroom. DOI: 10.1117/2.2201505.01
+
+This spring, Nepal was torn apart by two massive earthquakes. A magnitude-7.8 earthquake on 25 April 2015, followed by a magnitude-7.3 on 12 May, combined with tremors and aftershocks, killed more than 8,500 people and injured at least 21,000.
+
+Chaos ensued, but within minutes of the first earthquake, the very latest in imaging technology was focusing on the devastation to provide life-saving data to disaster-response teams.
+
+High-resolution satellite images are crucial to relief efforts following any natural disaster, with key organizations ensuring information reaches the hundreds of emergency services groups planning recovery operations. Immediately after the first Nepal earthquake, the Global Disaster Alert and Coordination System, a joint United Nations and European Commission initiative, instructed UN satellite imagery program, UNOSAT, and partners to start mapping the region.
+
+Under the International Charter on Space and Major Disasters, myriad satellite-related organizations acquired images of priority regions, which UNOSAT swiftly integrated into a web-map, and posted online. A US-based commercial satellite operator, DigitalGlobe, played a key role in these rapid-mapping efforts and also released its own imagery of affected areas to all response and recovery efforts.
+
+Company research scientist Georgios Ouzounis designs and develops advanced algorithms and methods for global satellite and aerial image processing.
+
+"The morning after the earthquake struck, we were able to capture imagery across the devastated regions using [several] of our satellites," Ouzounis said. "Crucially, the areas of Nepal affected by the earthquake were within our most recently launched WorldView-3 satellite's field of view, during one of its 15 orbits around Earth."
+
+According to Ouzounis, static imagery of this region some 13 km by 13km in area was collected and pieced together to produce longer strips as the satellite moved along its orbit. DigitalGlobe describes its latest satellite as one of the world's most technologically advanced commercial systems, which can cover an incredible 680,000 sqare kilometers every day, producing images with a resolution as high as 30cm.
+
+Ground movement and future risk
+
+Satellite imagery from around the world is also being used to pinpoint areas at greatest risk from future earthquakes. The European Space Agency, for one, has produced interferograms from data captured by its radar satellite Sentinel-1A, revealing ground movement across Nepal; these will assist in future disaster planning.
+
+Here, imagery acquired before and after the earthquake has been combined to produce interference patterns that researchers use to quantify ground movement. These interferograms have already shown that the maximum land deformation following the earthquake was only 17km from Nepal's capital, Kathmandu, explaining the extensive damage in that area.
+
+Prof. Tim Wright from Leeds University (UK) works with ESA as part of a project called Earthquakes without Frontiers. "We are using the Sentinel satellite and other radar satellites to map continuously how the ground has deformed," he said. "We can relate this information to what happened in the earthquake, and work out which bits of fault slipped, and equally importantly, which bits didn't slip and have the potential to fail in future earthquakes."
+
+Interferogram over Kathmandu, Nepal, generated from two Sentinel-1A scans on 17 and 29 April 2015, before and after the 25 April earthquake. Each ‘fringe' of color represents about 3 cm of deformation. The large amount of fringes indicates a large deformation pattern with ground motions of 1 m or more. Click to enlarge image. (Copyright contains Copernicus data 2015/ESA/DLR Microwaves and Radar Institute/GFZ/e-GEOS/INGV-ESA SEOM INSARAP study)
+
+But while satellite imagery is critical in relief efforts, other sources of data are becoming increasingly important. As part of his ESA efforts, Wright has been working with Prof. Jean-Philippe Avouac, from the UK-based Cambridge Earth Systems Sciences, to combine radar satellite measurements with GPS data, as well as general seismic observations. With the combined data, the researchers can better understand the physics of Nepal's earthquakes and model what's happened below the earth's surface to assess future potential earthquakes.
+
+"GPS [data] provides a time history of events, so you can in principle track measurements every second or even more frequently," Wright said. "This really helps us to nail down the temporal evolution [of post-seismic motion] particularly in the first few days between the earthquake and first radar acquisition."
+
+Similarly, researchers from Caltech and NASA Jet Propulsion Laboratory (JPL) have combined satellite radar-imaging data with GPS data and worldwide seismic observations to estimate the slippage of the fault beneath Nepal (see images). The research forms part of the Advanced Rapid Imaging and Analysis (ARIA) project, and according to Prof. Mark Simons from Geophysics at Caltech, will provide tools and data for relief groups.
+
+With the number of satellites in orbit growing, said Simons, "the time taken to acquire an image of an impacted area will decrease, so [these] tools can become more rapidly available. I expect that within five years, this kind of information will be available within hours of a disaster, resulting in an ability to save more lives."
+
+More eyes in the skies
+
+Drone footage has also proven critical to relief efforts. Images from these unmanned aerial vehicles (UAVs) were among the first to reveal the post-earthquake devastation, and have helped responders pinpoint where aid is needed.
+
+Throughout relief efforts, Aeryon Labs (Waterloo, Canada) has supported Canada-based GlobalMedic by supplying three small unmanned aerial systems (sUASs) and a flight engineer to capture aerial photography and live videography for detailed mapping of disaster zones. According to Aeryon, infrared cameras capture images closer to the ground than satellites or manned aircraft, with operators able to locate a human face some 300m into the distance.
+
+Poised for action: Aeryon's sUAVs were instrumental to mapping regions of devastation to help GlobalMedic relief workers. (GlobalMedic)
+
+"We used [the sUASs] to grab imagery of damaged areas, and these images were cross-stitched into maps and layered with additional information." said Rahul Singh, executive director at GlobalMedic. "Basic maps show inaccessible areas and population movements so appropriate amounts of aid are delivered to regions, to meet population needs."
+
+Meanwhile, a novel search-and-rescue technology dubbed FINDER -- Finding Individuals for Disaster and Emergency Response -- located four men trapped under some ten feet of rubble. Under development by the US Department of Homeland Security Science and Technology Directorate and NASA JPL, FINDER uses low-power microwave radar to detect small movements from breathing and heartbeats of buried victims.
+
+According to FINDER task manager Jim Lux, the suitcase-sized tool relies on sophisticated signal processing to cancel unwanted data. "Data comes in, we model the heartbeat and then we use algorithms to detect the variation in the instantaneous heart rate due to respiration," he said. "This variation is characteristic of mammals and allows us [to] locate individuals."
+
+As Lux explains, working with first responders has been crucial to the development of FINDER. "When you show up at a disaster, the people who are buried under shallow rubble, within say a meter of the surface, have probably already been rescued," he said. "So we're looking for people who are deeper. We've recently added functions to the tool, so you can detect victims that are, say, more than five but less than 15 metres away."
+
+Big data
+
+While satellite images, GPS data, aerial imagery and novel location tools have helped to save lives across Nepal in recent weeks, crowdsourcing has played a massive part in recovery and rescue missions as well. As part of its relief efforts, DigitalGlobe activated Tomnod, a crowdsourcing platform that has allowed online volunteers to pore over satellite images, comparing new images with old, and tag damaged infrastructure.
+
+"Since Nepal's first earthquake on April 25, more than 30,000 volunteers have used the platform," said DigitalGlobe's Georgios Ouzounis. "And to date, thousands of damaged roads, buildings and areas of major destruction have been catalogued."
+
+Clearly the volumes of data produced from Tomnod are vast, but as Ouzounis explained: "This crowdsourced data is plugged into an algorithm that identifies frequent tag agreements to discover which areas are in need of the most help." Relief groups can then target survivors in need of food, water, tents and medical supplies, said Ouzounis.
+
+UNOSAT's live web maps combine layers of data to, for example, illustrate the relationship between building damage assessments and ground displacement. The circles illustrate the distance from the epicenter of the first Nepal earthquake (20, 40 and 60 km respectively). (UNOSAT)
+
+
+
+Meanwhile, UNOSAT had developed a free smartphone app called UN-ASIGN that automatically uploads photos taken by volunteers in disaster regions to the organisation's web-maps. Used in Nepal, volunteer images have validated satellite imagery as well as provided accurate details on damage in specific locations.
+
+For its web maps, the organization has also drawn on information that has been pouring out of the OpenStreetMap community. In Nepal, thousands of OpenStreetMap volunteers worldwide have been rapidly editing satellite imagery to provide information on, say, displaced-person camps and open spaces that could be used for helicopter landing. For relief organizations, the impact has been profound. As one web-map user told UNOSAT: "I cannot emphasize enough how helpful these analyses have been."
+
+Rebecca Pool is a UK-based freelance writer.

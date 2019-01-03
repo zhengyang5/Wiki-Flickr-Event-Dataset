@@ -1,0 +1,81 @@
+The disappearance of Malaysia Airlines flight MH370 has raised the disturbing question of how a modern aircraft packed with communications equipment can apparently vanish without trace.
+
+Evidence has emerged to suggest that the Boeing 777-200ER aircraft flew on for hours after being reported missing.
+
+The plane, with 239 people on board, disappeared from air traffic control screens at approximately 01:20 local time on Saturday 8 March - just an hour after leaving Kuala Lumpur bound for Beijing.
+
+The investigation is now focusing on the actions of the air crew, as officials believe that the plane was deliberately diverted, with key communications systems switched off.
+
+So, how do you track a plane and what do we know about the movements of flight MH370?
+
+Normal aircraft tracking
+
+Air traffic control - standard international practice is to monitor airspace using two radar systems: primary and secondary.
+
+Primary radar -based on the earliest form of radar developed in the 1930s, detects and measures the approximate position of aircraft using reflected radio signals. It does this whether or not the subject wants to be tracked. Secondary radar, which relies on targets being equipped with a transponder, also requests additional information from the aircraft - such as its identity and altitude.
+
+All commercial aircraft are equipped with transponders (an abbreviation of "transmitter responder"), which automatically transmit a unique four-digit code when they receive a radio signal sent by radar.
+
+The code gives the plane's identity and radar stations go on to establish speed and direction by monitoring successive transmissions. This flight data is then relayed to air traffic controllers.
+
+However, once an aircraft is more than 240km (150 miles) out to sea, radar coverage fades and air crew keep in touch with air traffic control and other aircraft using high-frequency radio.
+
+How did flight MH370 vanish?
+
+The Boeing 777 disappeared from air traffic control screens when its transponder signal stopped. The last definitive sighting on civilian radar showed the aircraft flying north east across the Gulf of Thailand.
+
+The final radio message received by air traffic control - "Alright, goodnight" - suggested everything was normal on board.
+
+Military radar shows that the plane then turned and headed west across Malaysia towards the Andaman Sea.
+
+On 15 March, satellite data emerged to suggest the plane could be somewhere on an arc stretching either north up to to central Asia, or south, to the Indian Ocean and Australia.
+
+Can't planes be tracked with GPS?
+
+Yes, but while GPS (Global Positioning System) is a staple of modern life, the world's air traffic control network is still almost entirely radar-based.
+
+Aircraft use GPS to show pilots their position on a map, but this data is not usually shared with air traffic control.
+
+Some of the most modern aircraft are able to "uplink" GPS data to satellite tracking services, but handling large volumes of flight data is expensive and such systems are usually only used in remote areas with no radar coverage.
+
+The satellite data which suggests flight MH370 flew on for several hours are basic 'pings' sent by the plane, and so far only help to identify two very approximate flight corridors north and south.
+
+Over the next decade, a new system called ADS-B (Automatic Dependent Surveillance Broadcast) is expected to replace radar as the primary surveillance method for air traffic control
+
+ADS-B will see aircraft work out their position using GPS and then relay data to the ground and other planes.
+
+But, as with existing secondary radar, ADS-B coverage does not extend over the oceans.
+
+ADS-B is already used by flight-tracking websites, but the Malaysian aircraft disappeared from these at the same time it vanished from air traffic control screens.
+
+Could other data systems provide clues?
+
+When Air France flight 447 crashed into the mid Atlantic in 2009, its onboard data system - Aircraft Communications Addressing and Reporting System (ACARS) - gave investigators an early insight into what had gone wrong.
+
+ACARS is a service that allows computers aboard the plane to "talk" to computers on the ground, relaying in-flight information about the health of its systems.
+
+Image copyright AFP/Brazilian Navy Image caption ACARS data from Air France Flight 447 revealed how things started to go wrong.
+
+Messages are transmitted either by radio or digital signals via satellites, and can cover anything from the status of the plane's engines to a faulty toilet.
+
+This provides ground crews with vital diagnostic information, allowing maintenance to be carried out more quickly.
+
+In the Air France case, ACARS highlighted faulty speed readings, which caused the air crew to become disorientated.
+
+The final message from the ACARS onboard the Malaysian plane came at 01:07 and investigators believe the system was then deliberately shut down.
+
+Turning off ACARS is no easy feat, requiring a person with technical knowledge to climb down through a trapdoor into the plane's hull to remove circuit breakers.
+
+Media playback is unsupported on your device Media caption The BBC's Richard Westcott takes a look at the technology used to track a plane in flight
+
+What about the 'black boxes'?
+
+The mystery of flight MH370 may only ever be solved when the aircraft's "black box" flight recorders are recovered.
+
+However, retrieving them from the sea is not easy. In the case of Air France flight 447, it took nearly two years.
+
+If under water, the boxes emit ultrasonic signals - but these signals have a limited range, and search crews may not detect them unless close to the crash site.
+
+Image copyright Getty Images Image caption "Black boxes" may be the only way of establishing what went wrong.
+
+Black boxes - described by aviation reporter Stephen Trimble in The Guardian as "one of the most galling anachronisms of modern aviation technology" - are not currently equipped with any form of GPS location transmitter.

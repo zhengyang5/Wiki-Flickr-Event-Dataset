@@ -1,0 +1,3 @@
+It has been reported that the Tunisian President has stopped the Internet censorship in the country. We have confirmation from a few Tunisians that Tor works from within the country, without requiring bridges. And that Youtube and some other sites are no longer censored. There is cautious optimism that this is real, however many continue to use Tor to protect their Internet traffic as a safeguard.
+
+Two graphs show the current state of Tor usage in Tunisia:

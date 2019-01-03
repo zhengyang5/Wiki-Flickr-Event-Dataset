@@ -1,0 +1,291 @@
+Iran Protests in Iran, blocking of various services including Tor. Instagram was unblocked 2018-01-06. Telegram was unblocked 2018-01-13.
+
+Wikipedia OONI report relay graph bridge graph tweet
+
+Release of tor 0.3.2.8-rc, intended to fix the KIST bug that enabled a DoS on relays by running them out of memory.
+
+announcement ticket
+
+ipv4 ipv6 geoip and geoip6 databases updated to "December 6 2017 Maxmind GeoLite2 Country" ( geoip-db-digest 1D486694A710145631B295CC39ECC5682F75858C , geoip6-db-digest F33231CAC761A71F7C19273DB1E11CEE01E2D982 ).
+
+commit
+
+Bridges Unknown Drop in the number of measured bridges.
+
+graph mailing list post
+
+meek Outage of the meek.bamsoftware.com (unthrottled for public use), meek.bamsoftware.com:7443 (former meek-azure, now unused), and gaeuploader.meek.bamsoftware.com (used by GAEuploader) bridges.
+
+
+
+<OR> ipv6 Relays Release of Tor Browser 7.0.11, containing tor 0.3.1.9, which adds an IPv6 address for the bridge authority bastet.
+
+blog post
+
+<OR> ipv6 Relays Release of Tor Browser 7.5a9, containing tor 0.3.2.6-alpha, which adds an IPv6 address for the bridge authority bastet.
+
+blog post
+
+Bridges The bridge authority was down for unknown reasons.
+
+graph mailing list post
+
+<OR> ipv6 Relays Release of tor 0.2.8.17, 0.2.9.14, 0.3.0.13, 0.3.1.9, and 0.3.2.6-alpha, which add an IPv6 address for the bridge authority bastet.
+
+ticket blog post
+
+meek Outage of meek-amazon bridge.
+
+ticket
+
+<OR> Relays Release of Tor Browser 7.5a8, containing tor 0.3.2.4-alpha, which adds a new directory authority bastet, and changes the IP address of the directory authority Longclaw.
+
+blog post
+
+<OR> Relays Release of Tor Browser 7.0.10, containing tor 0.3.1.8, which adds a new directory authority bastet, and changes the IP address of the directory authority Longclaw.
+
+blog post
+
+Outage of the op-hk OnionPerf instance.
+
+op-hk graph
+
+ipv4 ipv6 geoip and geoip6 databases updated to "November 6 2017 Maxmind GeoLite2 Country" ( geoip-db-digest E3C910F3B2A6C916C7BE33A943091EF57048B72C , geoip6-db-digest E8BD5B2E6554C27F718F1222667C09680D75F799 ).
+
+commit
+
+meek Turned off the old meek-amazon CDN endpoint d2zfqthxsdq309.cloudfront.net.
+
+mailing list post
+
+<OR> Relays Release of tor 0.2.5.15, 0.2.8.16, 0.2.9.13, 0.3.0.12, and 0.3.1.8, which add a new directory authority bastet, and change the IP address of the directory authority Longclaw.
+
+blog post Bastet blog post bastet ticket Longclaw ticket
+
+snowflake Activated client IP address statistics on the Snowflake server and standalone proxies.
+
+comment
+
+ipv4 ipv6 geoip and geoip6 databases updated to "October 4 2017 Maxmind GeoLite2 Country" ( geoip-db-digest 3A59213E5CFEE380F544B72DC1105366C6BD1CDE , geoip6-db-digest 1B8C975E5C62CF0FB5B4E598AE27B7189952BB09 ).
+
+commit
+
+Bridges The bridge authority was down due to an issue with its offline master key.
+
+graph mailing list post
+
+Bridges Outage of the bridge authority Bifroest.
+
+
+
+ipv4 ipv6 geoip and geoip6 databases updated to "September 6 2017 Maxmind GeoLite2 Country" ( geoip-db-digest 0CE9EA8882EDED265451C36B49AE7BBB06A11C16 , geoip6-db-digest C4573496EBD1CC335843067107DA49E482568FF6 ).
+
+commit
+
+obfs4 Unknown About a 35% increase in obfs4 users before returning to normal. Happened in many countries. Other transports do not have it.
+
+graph
+
+ipv6 obfs4 Unknown Jump in IPv6 users of the Lisbeth default obfs4 bridge.
+
+comment
+
+Outage of the op-hk OnionPerf instance. Reported timeouts on the tor network increased, download speed improved.
+
+torperf graph torperf-failures graph op-hk graph
+
+snowflake Tor Browser 7.5a4 released, including Snowflake for macOS.
+
+blog post
+
+ipv4 ipv6 geoip and geoip6 databases updated to "August 3 2017 Maxmind GeoLite2 Country" ( geoip-db-digest 75AABD32582AC554AF252DDC7BBBABE7C6F28B28 , geoip6-db-digest A52EFFEF8CF6F3CAA8EBD34961361544E959FAE1 ).
+
+commit
+
+meek Outage of meek-amazon bridge, caused by an expired certificate.
+
+Atlas expired certificate new certificate
+
+ipv4 ipv6 geoip and geoip6 databases updated to "July 4 2017 Maxmind GeoLite2 Country" ( geoip-db-digest 3D04F191098640F2E03B4D5F7800088D14B7EC30 , geoip6-db-digest A3649B9E909C59942FB3D8F874AB4BEA36E8BEC1 ).
+
+commit
+
+obfs4 Outage of default obfs4 bridge dragon.
+
+mailing list post
+
+obfs4 Outage of default obfs4 bridge frosty.
+
+mailing list post
+
+deb.torproject.org upgrades from tor 0.2.9 to tor 0.3.0
+
+relay versions graph tweet
+
+obfs4 Outage of default obfs4 bridge frosty.
+
+mailing list post
+
+obfs4 Outage of default obfs4 bridge dragon.
+
+mailing list post
+
+meek Outage of meek-azure bridge.
+
+start end
+
+obfs4 Outage of default obfs4 bridge dragon.
+
+mailing list post
+
+obfs4 Outage of default obfs4 bridge frosty.
+
+mailing list post
+
+obfs4 Increased the file descriptor limit on default obfs4 bridges ndnop3 and ndnop5 from 4096 to 32768. They had been failing bootstrap attempts from a test location in the U.S. about 40% of the time.
+
+graph showing failed connections
+
+ipv4 ipv6 geoip and geoip6 databases updated to "June 8 2017 Maxmind GeoLite2 Country" ( geoip-db-digest AFD609025B66305AD9FA8E0B15AF4F2BC82271F1 , geoip6-db-digest A69FD14ACE46EE695F589ACE0EB7B915285B51B4 ).
+
+commit
+
+obfs4 Set AssumeReachable 1 on the default obfs4 bridges cymrubridge31 and cymrubridge33 in an attempt to make them publish statistics.
+
+mailing list post
+
+obfs4 Default obfs4 bridge LeifEricson rejects connections due to a broken firewall forwarding rule. This didn't affect the bridges "real" obfs4 port, but it did affect the port at that time configured in Tor Browser.
+
+
+
+ipv4 ipv6 geoip and geoip6 databases updated to "May 2 2017 Maxmind GeoLite2 Country" ( geoip-db-digest B2E5105287668771E34A66F90B34982D419727EF , geoip6-db-digest 8DA8AC3C8158CBFDF7DB53BBF73338246872371A ).
+
+commit
+
+snowflake Set AssumeReachable 1 on the Snowflake bridge 2B280B23E1107BB62ABFC40DDCC8824814F80A72 in an attempt to make it start publishing statistics.
+
+mailing list post
+
+meek The meek-amazon bridge upgrades to meek-server 0.27.
+
+
+
+meek obfs4 scramblesuit Tor Browser 7.0a3 is released. It changes the app.update.url . It removes the last remaining scramblesuit bridge. It changes the meek-amazon backend. It adds the new default obfs4 bridges cymrubridge31:80 and cymrubridge33:80.
+
+blog post
+
+meek obfs4 Tor Browser 6.5.2 is released. It changes the app.update.url . It changes the meek-amazon backend. It adds the new default obfs4 bridges cymrubridge31:80 and cymrubridge33:80.
+
+blog post comment about app.update.url
+
+ipv4 ipv6 geoip and geoip6 databases updated to "April 4 2017 Maxmind GeoLite2 Country" ( geoip-db-digest 0F3D4A456E5078CC9E49398ADCB04C40EA49B793 , geoip6-db-digest 04F41F05FA167EF6EEE3FE953404AB0BCCD33008 ).
+
+commit
+
+meek Orbot 15.4.0 beta-2 multi is released, containing the new meek-azure CDN configuration.
+
+mailing list post commit
+
+ipv4 ipv6 geoip and geoip6 databases updated to "March 7 2017 Maxmind GeoLite2 Country" ( geoip-db-digest 63921843E3AAA632088D189D877F836A373CD40D , geoip6-db-digest 2B93B9C6679BB09E1746F212A6DCDC6E710F5F52 ).
+
+commit
+
+meek scramblesuit Tor Browser 6.5.1 is released, containing the new meek-azure CDN configuration, and removing the last remaining scramblesuit bridge.
+
+blog post meek ticket scramblesuit ticket
+
+meek Stopped the meek-azure CDN endpoint az668014.vo.msecnd.net.
+
+mailing list post
+
+meek Stopped the meek-azure CDN endpoint az786092.vo.msecnd.net.
+
+mailing list post
+
+meek Stopped the (unused) meek-azure CDN endpoint meek-reflect.azureedge.net.
+
+mailing list post
+
+ipv4 ipv6 geoip and geoip6 databases updated to "February 8 2017 Maxmind GeoLite2 Country" ( geoip-db-digest C0C6099CE335916862978F77756C0B42521A74B2 , geoip6-db-digest A54B14B9D47584E010F763D3EAE23C4726F4A8D5 ).
+
+commit
+
+<OR> exit Measurement error from bandwidth authority causes decrease in measured bandwidth in Europe.
+
+mailing list post
+
+webstats Tor Browser update pings roughly halve. The beginning corresponds with the release of Tor Browser 6.5.2, which changed the app.update.url . The end doesn't correspond to any release.
+
+ticket
+
+snowflake Tor Browser 7.0a1 released, including Snowflake for GNU/Linux only.
+
+blog post
+
+Tor Browser 6.5 is released. It changes the app.update.url , which causes an apparent drop in update pings.
+
+blog post graph ticket comment about app.update.url
+
+meek 1.0-beta release of GAEuploader, a tool that automates the setting up of meek.
+
+mailing list post
+
+meek Decreased the rate limit on the meek-azure bridge to 2.0 MB/s, from 3.0 MB/s.
+
+
+
+ipv4 ipv6 geoip and geoip6 databases updated to "January 4 2017 Maxmind GeoLite2 Country" ( geoip-db-digest 672C29A4FA9BF81DE97CFE128741445E2BDE8097 , geoip6-db-digest 81F380639A8E1000539204949A363FD3BFAFBA74 ).
+
+commit
+
+<OR> Relays Unknown Drop in relay users.
+
+metrics-team thread thread continues
+
+obfs4 Tor Browser 6.5a6 is released. It fixes the app.update.url . It adds (uncomments) the default obfs4 bridge NX01:443. It activates timing obfuscation for certain obfs4 bridges. It changes the port of other obfs4 bridges.
+
+blog post
+
+ipv4 ipv6 geoip and geoip6 databases updated to "December 7 2016 Maxmind GeoLite2 Country" ( geoip-db-digest 1317BB3525E85E01FB34A89E04CE549AC23D07BD , geoip6-db-digest 865048C69BEC02B37268BFBAD66D9729B21CFCF5 ).
+
+commit
+
+meek Decreased the rate limit on the meek-amazon bridge to 2.0 MB/s, from 3.0 MB/s.
+
+
+
+obfs4 Default obfs4 bridge Lisbeth turns on timing obfuscation ( iat-mode=1 ).
+
+ticket
+
+Tor Browser 6.5a4 is released. It changes the app.update.url .
+
+blog post ticket
+
+meek Tor Browser 6.0.6 is released, unbreaking meek on macOS 10.12 (Sierra). (See 2016-09-20 breaking event.)
+
+blog post ticket
+
+obfs4 Default obfs4 bridges ndnop3 and ndnop5 turn on timing obfuscation ( iat-mode ).
+
+mailing list post ticket
+
+ipv4 ipv6 geoip and geoip6 databases updated to "November 3 2016 Maxmind GeoLite2 Country" ( geoip-db-digest 363C038D0BE61D6E0A63C43DE8EA70771ED7BEA5 , geoip6-db-digest 6110A2B794AFF0180FD096A4759434CABD289C40 ).
+
+commit
+
+meek Increased the rate limit on the meek-amazon bridge to 3.0 MB/s, from 1.0 MB/s.
+
+
+
+meek Decreased the rate limit on the meek-amazon bridge to 1.0 MB/s, from 3.0 MB/s.
+
+
+
+meek Large decrease in meek users, perhaps caused by problems in Orbot 15.0.2 BETA 1 that were fixed in Orbot 15.2.0 RC8.
+
+ticket initial email followup email Orbot mail
+
+ipv4 ipv6 geoip and geoip6 databases updated to "October 4 2016 Maxmind GeoLite2 Country" ( geoip-db-digest C14DF5AE94101562DEACDD296278B0EFA3EA26E5 , geoip6-db-digest A88A828020A558D37F97CF683D4521270F0511A2 ).
+
+commit

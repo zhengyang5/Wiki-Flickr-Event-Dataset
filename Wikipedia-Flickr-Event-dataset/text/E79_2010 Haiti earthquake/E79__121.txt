@@ -1,0 +1,81 @@
+At a time where "Social Media for Social Change" has become an overused too often abused term, I sat down with Anna Curran, organizer for Crisis Camp NYC to get a better picture of Crisis Camp, the 3 main apps being built by the NYC camp, and to learn more about how tech and non-tech volunteers can become more involved in crisis preparedness and response.
+
+are self-organized groups of web developers and tech savvy volunteers, they're located wherever there's an organizer willing to lead a group through development cycles. A new form of volunteerism dedicated towards crisis response, recovery, and rebuilding they are innovating and breaking new ground for NGOs, traditional non-profits, and impacting the activity taking place on the ground in unexpected and serendipitous ways.
+
+At a time where some of the smartest minds in tech innovation are distracted by cool apps for Twitter, the outpouring of response to develop technologies to: disperse food, map the area, translate information into Creole, and design visualizations that track donation money are causing the biggest change to how, who, and where volunteers participate.
+
+Created a website and data source that holds non-profits and others to a higher level of public accountability Translated critical documentation into the survivors' native language(s) Built a web app that could help NGOs disperse food and water
+
+under Anna's leadership, has come together and done the following:
+
+Here is the transcript of our interview:
+
+1. What are some of the most serious challenges facing the disaster response community that Crisis Camp NYC and Crisis Camp At-Large tackling?
+
+The biggest challenge facing the disaster response community is coordination. There are individuals, organizations, corporations and government agencies all working tirelessly to aid Haiti. But there is no set system or over-arching organization that is choreographing all of the complicated maneuvering that needs to take place to deliver the goods and services Haiti desperately needs. I keep hearing, "We need a central place where we can get all the information we are looking for. We need a Haiti Relief Portal website."
+
+
+
+One project that still needs to be taken on is creating an assessment tool that would geographically display situation reports for medical, food, water, shelter, transportation, and communication. There are teams that are working in other cities on portions of this tool, but no one has taken on the project as a whole. There are a number of serious challenges that need to be addressed in order to make something like this work. We would need organizations who are doing assessments to publish their findings, and there are a number of technological issues that need to be sorted out as well. If there is someone reading this article who would like to take on this project, they can find me on Twitter @AnnaCurran and send me a message.
+
+
+
+2. Disasters, by their very nature, are unpredictable, how do you see Crisis Camp growing and establishing itself as a more regular and integrated response (with readiness) in between disasters?
+
+So, technically Crisis Camp is an event, not an organization. Although, Crisis Commons is working right now to establish itself as an organization with an ongoing presence. I envision Crisis Commons New York City growing into a network of volunteers who are ready to coordinate and respond in the wake of a disaster. Our New York group has gotten to know one another very well over the course of the past two weekends. To me, it is the strength and depth of our relationships with one another and with the community that is the key to our ability to respond with readiness the future.
+
+3. In traditional disaster response methodology, many of the on-the-ground roles are already predefined by years of trial and error, what are some of the things you've learned about the roles that are needed for the technical/virtual community to fill in future response efforts?
+
+I don't have any formal training in disaster response, although I did live through several hurricanes while in Florida. I got to witness what the aftermath of disaster looks and feels like thanks to Hurricane Charlie.
+
+All I know is that there are a lot of people working on the relief effort but communication and coordination among the organizations is lacking. It's not that the organizations are doing anything wrong. Its just a result of magnitude of the devastation in Haiti and the number of responding organizations. One of the most critical roles I see involves bridging capital (See Robert Putnam if you want more info). People who are involved with several organizations alleviate the devastating effects of silos of information. Getting the information to flow from organization to organization and agency to agency is critical to lubricating the whole relief process.
+
+4. What technology do you see being produced out of Crisis Camps that best demonstrates how external innovators can contribute to NGOs and other typically slower-moving organizations to make them more nimble and to offer support to their efforts?
+
+Two great examples are projects we have been working on here in New York:
+
+Reliefoversight.org
+
+Reliefoversight.org is an easy-to-search, publicly generated, data-driven application to monitor the activities and effectiveness of organizations soliciting donations for disaster relief. Traditional NGO fundraising oversight has focused upon fiscal and governance issues to the exclusion of more programmatic effectiveness information.
+
+On reliefoversight.org you can get information like does the organization have a history of providing services in Haiti? It also allows citizens and relief workers to post activity reports providing a greater depth of information about organizations and their activities.
+
+To date, there has been a team of 15 developers Led by Nathan Wheeler in Austin Texas and Ben Guhin in New York who have contributed to to build the website. Liz Gomez, a PhD in Crisis Management has contributed as has a team of researchers from New York and Calgary who were trained by Esty Stein, a New York Volunteer. Translation Team
+
+Translation Team, the second project focuses on rebuilding the educational infrastructure in Haiti and is sponsored by two non-profits: One Lap Top Per Child and Wave Place and is led by Adam Holt and Allison Bland from Boston Massachusetts.
+
+These two organizations have plans to deploy a large amount of computers to school children in Haiti. However the 20 text book curriculum is written in English and needs to be translated into Haitian Creole.
+
+A group led by Carmina Blaise and Geraldine Zepheirin set up a translation team and began contacting publishers for content that is written in Creole. Crisis Camp NYC has been able to provide volunteer capacity so that when the computers are deployed, they will have Creole curriculum and culturally appropriate content Haiti-earthquake-information.org (still under development)
+
+Haiti Earthquake Information is a project led by Micheal Caudy. The purpose of the site is to provide an integrated resource that collects and distributes as much information as possible about what the specific immediate needs are in Haiti, for specific people and organizations, at specific locations in Haiti.
+
+The site aggregates Haiti Earthquake Information News by aggregating feeds and tweets. Relative information is then made available to the appropriate aid groups, as they are discovered. In the near future, the site will also launch a way for people to tweet "We have, We need" in an effort to pair individuals and organizations together in many diverse locations.
+
+It's Michael's vision that anyone who wants to help can use these tools to read the urgent requests for help, and to try to search for and find the requested resources in a nearby location, and then to make that info available to the persons in need.
+
+5. What are the rules of organizing around a crisis?
+
+Get it done. That's the only rule I know.
+
+6. How do you see social media, the Twitter and Facebook communities contributing to longer-term rebuilding efforts outside of fundraising, or is fundraising the name place where those online communities play a powerful role?
+
+There is a Ning community called The New Haiti Project which now has 761 members and lots of groups focused on different aspects of the relief effort. Some are connecting to rebuild schools, some are focused on medical needs, while others are interested in construction resources.
+
+
+
+We are lucky enough to have a super-connectors like Marilyn Pratt as a part of our Crisis Camp Community. She has been recruiting translators and researchers tierlessly for reliefoversight.org and the One Laptop Per Child translation team.
+
+7. What technology would have made Crisis Camp easier to mobilize? Or, is it more about establishing the culture of crisis camp (much like people know to respond with blood donations etc.)
+
+Ironically, I don't think that technology could make Crisis Camp easier to mobilize. I think it's a question of having human relationships in place so that when you need to act, you already know who to call and what their expertise is. Building and developing the New York community of concerned technologists, crisis management experts, and community organizers- that's what can improve our ability to respond more efficiently in the future.
+
+This new form of virtual volunteerism has a long journey ahead and a lofty goal moving towards building a global community dedicated to solving disaster relief challenges through technology--to innovate and be nimble where most NGOs struggle to maneuver. These developers are playing an incredible role in the unfolding story of modern crisis response. I asked Anna how long she'd be managing Crisis Camp NYC, knowing that web apps can 1.) live forever 2.) expire quickly 3.) depend on developers who get distracted by day jobs. Her response? "I will continue to keep hosting these events until it's just me and the donuts."
+
+Bio: Anna Curran is an entrepreneur and digital strategy consultant based in New York. An expert in web design, email marketing, and social media, she specializes in balancing successful creative with business results. Her clients include leading conferences, companies launching in the US, and startups. Anna spends some of her free time volunteering for the Disaster Accountability Project as well as taking Pilates classes at the gym. She graduated with BA in Studio Arts from Rollins College and lived in Florida for over a decade. Anna's professional background includes owning and operating Allume Jewelry for five years. Before moving back to New York she managed political campaigns for three years, working on a congressional race, a mayoral race, and state house races. You can follow her on Twitter @AnnaCurran.
+
+For more information on CrisisCamps, please visit Crisiscommons.org. There will be a few follow-up articles in this series tracking these projects, their successes, failures, and futures.
+
+Tony Bacigalupo for donating New Work City's coworking space (supplying a great place to meet and work with internet access and more) for Anna to host CrisisCamps. Special thanks tofor donatingcoworking space (supplying a great place to meet and work with internet access and more) for Anna to host CrisisCamps.
+
+Get in touch with Chrissie Brodigan or work with her at Jjomedia.com

@@ -1,0 +1,25 @@
+Enlarge image The tsunami wave height as measured by satellites two hours after the earthquake (Image: NOAA)
+
+A pair of satellites that happened to be over the Indian Ocean just after the massive Sumatran earthquake on 26 December have captured the only measurements of the tsunamis' height in deep water. The images will help improve future forecasts of the deadly waves.
+
+The US-French satellites, called TOPEX/Poseidon and Jason-1, passed over the Bay of Bengal two hours after the massive earthquake struck just off the coast of Indonesia.
+
+That is "just about the time the leading edge of the tsunami was hitting Sri Lanka and India", says Lee-Lueng Fu, project scientist for the satellites at NASA's Jet Propulsion Laboratory in Pasadena, California, US.
+
+The satellites did not observe coastal areas. But for eight minutes, they used radar to measure the sea level along a 3000-kilometre-long track of ocean. This image of the bay as the tsunami rolled through it provides a unique and valuable continuous measure of the waves. In contrast, the floating sensors suggested as part of any future early-warning system can only provide measurements at single points, says Fu.
+
+"There are no other observations of a similar nature anywhere in the world," he told New Scientist.
+
+Fast as jets
+
+The satellites saw the first two wavefronts produced by the main quake, spaced 500 to 800 kilometres apart. These waves reached a maximum height of 50 centimetres in the open ocean, only reaching their full devastating height when entering the shallow waters of the coast.
+
+By comparison, wind-driven waves typically reach 10 metres. However, these waves only involve water close to the ocean surface and are separated by at most several hundred metres.
+
+Tsunami waves have a very deep reach indeed - 4000 metres or more. "These waves involve the entire depth of the ocean. Their energy is thousands of times more than a monster storm," Fu says. And even though tsunamis barely ripple the surface, they speed through the water as fast as jet airliners.
+
+Fu hopes the observations will improve tsunami warning systems by providing vital new data to calibrate tsunami models. Just after an earthquake, seismometers around the world help pinpoint the source. That data is then sent to tsunami modellers who use the information to compute the probable height and arrival of any resulting waves.
+
+The key number in the modelling is wave height in deep water, as this indicates energy, and that is exactly what the radar recorded. Fu adds that, because the waves take time to travel to land, "when you see waves in the open ocean this large, you have time to warn people on the coast".
+
+The observations also showed smaller features. Piggybacking on top of the main waves were smaller ripples about 100 or 200 kilometres apart. "This is the first observation of details of tsunami waves," says Fu.

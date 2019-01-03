@@ -1,0 +1,67 @@
+A perspective on high rise building fires involving the façade
+
+The recent fire that occurred on the 9th November 2016 involving the Neo-Soho project in Jakarta has left a desire to look at the phenomena of external fire spread in high rise buildings. Over the past 10 years we have seen many high rise building fires that have spread into the outer facade cladding systems, and then rapidly developed both vertically and horizontally across the façade face of the building.
+
+Focusing on the Middle East and Asia regions there are many, recent examples of this phenomenon occurring in occupied buildings as well as buildings that are still under construction.
+
+Many questions are asked as to the quality of façade design, choice of materials and method of installation. The general public and media assumption is that highly flammable materials are repeatedly being used on building facades, and very often contractors are blamed for cutting cost by using poor quality materials.
+
+Let us first understand the difference between flammable and combustible materials. Flammable materials have a flash point below 61°C, combustible materials have a flash point above 61°C, therefore flammable materials are generally combustible but combustible materials are not necessarily flammable.
+
+Materials used within a façade system include:
+
+A moisture barrier; Thermal insulation; Decorative external finish (cladding).
+
+A moisture barrier is a coating that is applied to the structural outer wall, usually concrete or blocks work.
+
+Thermal insulation is often a mineral wool, which can be based on glass or rock or other mineral fiber.
+
+The most common external finish is composite aluminum or crystallized stone panels. Composite aluminum panels may have an infill, which also provides thermal insulation and is usually foam, better known as expanded plastic.
+
+Aluminum will melt at 660°C, melting and dripping in the form of small fire balls. As long as a flame exists around the aluminum panel it will burn within the flame. All the façade needs is a good air supply under minimum pressure (a light wind) and the results can be catastrophic.
+
+While many components used in façade systems pass prescribed, standard fire tests, the combination of components in a façade system may not perform as expected when exposed to a fire.
+
+This is due to the fact that fire tests conducted under laboratory conditions do not always represent the worst case under exposure to environmental conditions. Standard fire tests are a benchmark which helps us to understand and compare materials that meet compliance with minimum code requirements.
+
+Fires do no generally begin outside of the building, in or on the façade. The majority of fires begin within the building, and where weakness appears in the fire rating between floors, especially where a slab meets the façade, or in fire stopping around openings, a fire can spread quickly into the façade system.
+
+The problem begins when the façade is exposed to a fire condition. Moisture barriers that are bitumen based, mineral wool insulation that contains resin binders, and composite aluminum itself, can become involved in the fire, with wind and complex vortex movement at higher levels assisting in the flame propagation.
+
+This may be difficult to understand so here is an example of how complex flammability and combustibility can be: Let’s take a candle. Made up of a block of wax with a wick inserted through its’ center.
+
+The wax is very difficult to ignite with an external ignition source. If exposed to heat or flame it will melt, but not catch fire. If the wax is subjected to direct exposure to a fire it will appear to burn within the fire.
+
+The wick does not burn readily, when exposed to a flame it will burn within the flame, take the flame away, the wick goes out, carbonizing and delivering a soot residue.
+
+If the wick and the wax are joined together, as in a candle, a small ignition source such as a normal lighter is enough to ignite the wick, and we have a sustainable flame.
+
+Moisture barriers of bitumen origin may have a low flame spread index under ideal fire test conditions, but on the other hand can attribute to flame spread within the façade cavity.
+
+Mineral wool insulation may also pass prescribed fire tests, but when involved in a real fire, driven by adverse environmental conditions, the resins and fibers become molten and as the fibers disintegrate, they can fly out of the cavity as small embers and contribute to fire spread on other floors via balconies loaded with combustible materials or within the cavity itself.
+
+Expanded plastics that are often used as composite panel infill can do the same thing, become involved in a fire and drip molten droplets inside or outside of the façade, helping the spread of fire. As the aluminum melts away, air movement inside the façade cavity increases and the fire develops upwards and downwards with ease. The additional danger is that a façade fire can find its’ way back into the building far away from the origin of fire, even in the horizontal plane.
+
+Solutions to the problem are possible, but come with a certain engineering complexity and additional cost to the project. Many buildings are constructed without a fire incident, and even enjoy a long life without a fire.
+
+It is the uncertainty, the risk, the consequences and the cost of a fire that should lead all stakeholders to consider their options.
+
+It is essential that we mention the fire fighters that attend such devastating fires. As architects and engineers we may not consider the risk to life that is a consequence of our performance in design and construction of buildings.
+
+The Neo-Soho fire in Jakarta brought many divisions of Jakarta ‘s fire department together, from the initiating call to the fire department at 20.40pm until completion of the operation at 23.45pm. Within these three hours, the fire fighters involved were exposed to life threatening conditions, inside the building as well as outside. Large pieces of debris falling off of the building, endangered fire fighters below who were dealing with the external fire. Trapped workers on upper floors had to be rescued by firemen who entered the building and climbed stairs to reach them. An exhausting, and dangerous operation.
+
+Their expertise, dedication and bravery brought a successful conclusion to the operation, …… this time.
+
+Praise and thanks to all those brave men. And a special word of recognition to the men who led the operation, taking all their men safely back home to their families:
+
+Jakarta Head Chief of Fire & Rescue– Dr. H Subejo (He is the Chairman of Indonesia Fire Services Association, namely APKI/Asosiasi Pemadam Kebakaran Indonesia)
+
+Director and Chief of Operations – Ir. Rahmat Kristantio
+
+West Jakarta Fire & Rescue Chief – Drs. Hardisisman
+
+Head of Operations West Jakarta HQ – RomlihSetiawan
+
+For more information, email peter.petrus@firerescue-indonesia.org
+
+Or email b.bell@wagner.ae

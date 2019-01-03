@@ -1,0 +1,5 @@
+Data SourcesThe IFHS is a two-stage, stratified survey of households, with an original target sample size of 10,080 households.
+Population estimates for Iraq for the survey period were projected by the Central Organization for Statistics and Information Technology.
+The analysis period was divided into a pre-invasion period (January 2002 through February 2003) and a post-invasion period (March 2003 through June 2006).
+The analysis of death rates among siblings was not used in the preparation of the final estimate of post-invasion deaths.
+Methods proposed by Gakidou and King10 were adapted to adjust for two forms of bias in the estimation of death rates from data regarding the survival of siblings.

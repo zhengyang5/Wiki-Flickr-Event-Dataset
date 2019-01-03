@@ -1,0 +1,53 @@
+Less than a day after the horrific attacks in Paris, Daesh (al-dowla al-islaamiyya fii-il-i'raaq wa-ash-shaam, a.k.a. ISIS/ISIL) took the Al-Hayat propaganda machine to the Darknet and published a new video celebrating the Paris attacks.
+
+The new website is a collection of propaganda by Al-Hayat Media Center, the media division of Daesh. It hosts the usual anti-Western iconography, as well as songs (Nasheeds) and poems for mujahids in various locations.
+
+The website also contains translations from the recent statement issued by Daesh claiming credit for the Paris attacks in English, Turkish, and Russian.
+
+The new propaganda hub was discovered by researcher Scot Terban, who shared his findings with Salted Hash. Terban came across the new Al-Hayat hub while performing jihadi research over the weekend.
+
+In a post on the Shamikh forum (a known jihadi bulletin board), someone posted the new address and instructions for reaching it.
+
+The post explained that the new Al-Hayat hub was needed, because other websites were removed almost as soon as they are registered. The hope is that by existing on the Darknet, Daesh can thwart most efforts to shut them down.
+
+Over the years, there have been several claims made that Daesh had propaganda and recruitment hubs on the Darknet, but no one has ever published proof of those claims or explored how the propaganda machine operates in public.\
+
+Terban has mirrored the website and its files; he says he plans to publish more details in the coming days.
+
+"The site mirrors many of the other standard bulletin boards that the jihadi’s have had over the years replete with videos and sections in all languages. Given that this site has popped up today in the Darknet just post the attacks in Paris, one has to assume that an all out media blitz is spinning up by Al-Hayat to capitalize on the situation," Terban wrote.
+
+The new propaganda hub also directs visitors to Telegram, the encrypted chat / messaging platform that became the key communication tool for Daesh after Twitter and Facebook started to take action against their supporters.
+
+Telegram's Channels feature has enabled the terrorist group to reach nearly 20,000 people instantly, as it acts as a sort of RSS feed.
+
+In the hours after the public started to realize the scope of the attacks on Paris, intelligence officials, lawmakers, and pundits focused on Daesh's use of Telegram as a means of communication with supporters and active members.
+
+In a story by the New York Times, later removed without explanation [archive], the situation in Paris was used to reignite the encryption debate.
+
+The story focused on comments from European officials who were "briefed on the investigation" that said the Paris attackers had used encrypted communications, adding that authorities have a hard time monitoring such channels.
+
+"Intelligence officials have been pressing for more leeway to counter the growing use of encryption," the story added.
+
+But newspaper of record isn't the only agency attempting to turn the terror attacks in Paris into a tool to remove privacy.
+
+In the UK, a story published by The Telegraph calls for the passing of the Snooper's Charter, "or London will be next."
+
+The Snooper's Charter is draft legislation that if passed would require ISPs and telecom companies to maintain records of each user's Internet browsing activity, including social media, email, VoIP, gaming, and mobile phone messaging services, while storing this data for up to 12 months.
+
+"In the coming weeks the government’s surveillance bill will be passing through the Commons. If we truly believe in standing in solidarity with Paris, we must let it pass. We must demand it passes," the Telegraph article states.
+
+Sunday's media push for a new fight on encryption was expected in some circles.
+
+In September, the Washington Post published a story detailing comments made by the intelligence community's top lawyer, Robert S. Litt, who wrote in an email to colleagues that, while "the legislative environment is very hostile" towards efforts to weaken encryption, "it could turn in the event of a terrorist attack or criminal event where strong encryption can be shown to have hindered law enforcement."
+
+During Sunday's Face the Nation broadcast, Mike Morell, former deputy director of the Central Intelligence Agency, opened the door for more fighting about encryption by stating that a public debate was needed.
+
+"We have in a sense had a public debate. That -- that debate was defined by Edward Snowden, right, and the concern about privacy. I think we're now going to have another debate about that. It's going to be defined by what happened in Paris," he said.
+
+As the newly launched Daesh propaganda portal proves, terrorists and criminals will always find away around laws and law enforcement efforts such as bulk collection.
+
+Encryption didn't cause the senseless, cowardly acts in Paris, evil human beings did.
+
+While a quick fix would be welcome, there isn't one.
+
+Bulk record collection and weakened encryption will do nothing to stop terrorism. Using the attacks in Paris as an excuse to do both of those things is insulting to the good men and women who died this weekend.

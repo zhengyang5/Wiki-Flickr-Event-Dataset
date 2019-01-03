@@ -1,0 +1,83 @@
+On Saturday, 25 April 2015 6:11UTC, an earthquake with a magnitude of 7.8 and a depth of 15km struck Nepal affecting 6.5 Million people within 100km (cf. GDACS). Several aftershocks have occured since then, notably a 6.6. magnitude aftershock about 30min after the initial earthquake and a 6.7 magnitude aftershock on Sunday 26 April 2015 at 7.09UTC (cf. JRC Situation report No.1).
+
+On the 12th of May a magnitude 7.3 earthquake occurred with an epicenter close to Mount Everest, 18km South East of Kodari at 7:05:19 UTC (12.35 am local time) followed by a magnitude 6.3 earthquake at 7:36:53 UTC, 33km NNE of Ramechhap (cf. USGS). It occurred at a depth of 11.5 miles. A number of smaller aftershocks were recorded by the USGS. These aftershocks caused more buildings to collapse and landslides to occur.
+
+To support the response to the disaster, several actors are involved in producing useful information. UN-SPIDER compiles this information here to make it easily accessible. This page is constantly being updated. If you are aware of additional information, please contact the UN-SPIDER team at un-spider [at] unoosa.org and we will include it in the list.
+
+Last Update: 22/05/2015 9.59am gmt
+
+Content:
+
+Needs and Areas of Interest
+
+Satellite-based Emergency Mapping
+
+Satellite-based risk and pre-event information
+
+Crowdsource Community Mapping
+
+Satellite imagery
+
+Maps and Geodata
+
+Direct links to the maps and data
+
+There is a report of over 100 people stranded in Gauri Shankar VDC of Dolokha district. They have requested organistions to check the coordinates 27.8707N; 86.4635E to see if there is anything close to that location.
+
+in Gauri Shankar VDC of Dolokha district. They have requested organistions to check the coordinates 27.8707N; 86.4635E to see if there is anything close to that location. Following the most recent aftershocks on the 12th of May, Dolokha, Sindhupalchowk, Gorkha, Rasua and Ramechhap districts have suffered extensive damage. A major concern is the status of glacial lakes and landslide dammed lakes.
+
+With monsoon season approaching there are concerns about potential flooding and risks to spontaneous IDP camps. Once monsoon rains begin, access to high-lying and remote areas will be seriously curtailed.
+
+Humanity Road's latest Situation Report (May 12th, 2015) can be found here. It details relevant helplines, reunification sites and the status of roads and hospitals in Nepal. It also reports on the districts that have been affected in the latest aftershock and casualties.
+
+can be found here. It details relevant helplines, reunification sites and the status of roads and hospitals in Nepal. It also reports on the districts that have been affected in the latest aftershock and casualties. The World Food Programme Nepal Situation Report #7 (May 18th, 2015), and UNOCHA report #16 (May 18th, 2015) give further details on needs and areas of interest.
+
+Nepal Situation Report #7 (May 18th, 2015), and report #16 (May 18th, 2015) give further details on needs and areas of interest. The Humanitarian Open Street Map Team (HOT OSM) has identified areas that need high resolution imagery for both base mapping and damage assessment. The team stresses the urgent need for cloud free imagery directly north of the Kathmandu valley , as these areas are still cut off from any relief/aid. Areas requested by HOT OSM are highlighted in bright blue on this map: http://umap.openstreetmap.fr/en/map/hot-imagery-coordination_37804#9/28.0623/85.2251
+
+, as these areas are still cut off from any relief/aid. Areas requested by HOT OSM are highlighted in bright blue on this map: http://umap.openstreetmap.fr/en/map/hot-imagery-coordination_37804#9/28.0623/85.2251 Experts on the ground in Nepal recommend moving towards assessment of damages in small towns and villages, mapping of landslides which may block rivers as well as to asses road accessibility.
+
+which may block rivers as well as to asses road accessibility. Areas of focus as requested from the ground in Nepal include monitoring of lakes (see Excel table and kmz file for their location).
+
+(see Excel table and kmz file for their location). The maps produced by Micromappers, MapAction, and Humanity Road contain information regarding data and information needs (cf. below under Crowdsourcing Community).
+
+(cf. below under Crowdsourcing Community). GDACS LiveMap includes under GDACS satellite mapping coordination areas of interest that are completed, in progress, and planned. It is also intended to provide an ongoing record of satellite image analysis results over Nepal from different sources including COPERNICUS, UNOSAT, and NGA. All results are preliminary and unverified. Imagery Sources: International Charter on Space and Major Disasters; Analysis Sources: UNOSAT, NGA. (cf. link to GDACS LiveMap).
+
+that are completed, in progress, and planned. It is also intended to provide an ongoing record of satellite image analysis results over Nepal from different sources including COPERNICUS, UNOSAT, and NGA. All results are preliminary and unverified. Imagery Sources: International Charter on Space and Major Disasters; Analysis Sources: UNOSAT, NGA. (cf. link to GDACS LiveMap). The Epicenter of the Earthquake was located at 28.26N 84.66E (cf. CSEM EMSC).
+
+The worst affected districts include Sindulpalchowk, Kavre, Nuwakot, Rasuwa, Dolakha in the CR and Kaski, Gorkha, Lamjung in the western region.
+
+Last year the EU satellite centre elaborated products over Kathmandu including image maps based on satellite imagery over the city and the airport and an Index Card book including all the information available related to Medical Services in Kathmandu. An Emergency Web Portal was generated by the EU SatCen, on Kathmandu potential crisis evacuation. This service includes features related to the location of the EU Delegation, EU embassies and other international delegations (non-EU countries and UN), hospitals, police stations, large hotels, some important governmental buildings and possible helicopter landing sites, main transportation hubs (airport) and open places that could be used for evacuation purposes. It is possible to access and Download the products by double clicking on the SATCEN logo: https://maps.eusc.europa.eu/kathmanduGP (user: kathmanduadm; pasword: kathmanduadm%)
+
+Copernicus EMS Risk and Recovery Mapping was activated for Nepal in 2014 to prepare for the big earthquake. A large amount of maps were produced: http://emergency.copernicus.eu/mapping/list-of-components/EMSN012
+
+If you have not registered on either EarthExplorer or HDDS,
+
+please click the register button in the top right corner of the screen and go through the registration process. It is a very simple process. Once registered, you will have accessto EarthExplorer and HDDS download capabilities.
+
+To sign up for the event access -
+
+go to http://hddsexplorer.usgs.gov go to the login button in the upper right corner of the screen enter your usercode and password Click on fill out an access request form select the event you require access for complete the justification box and submit
+
+Free satellite imagery at Global Land Cover Facility for #nepal http://glcf.umd.edu/data/
+
+aster landsat modis srtm ikonos quickbird orbview: https://www.mapbox.com/bites/00129/#10/27.7425/85.1344
+
+Pacific Disaster Center (PDC): http://www.pdc.org/web-story/2015_Nepal_Earthquake/
+
+USGS Earthquake Maps: http://earthquake.usgs.gov/earthquakes/eventpage/us20002926#impact_shakemap
+
+http://earthquake.usgs.gov/earthquakes/eventpage/us20002926#impact_shakemap Wiki OpenStreet Map : http://wiki.openstreetmap.org/wiki/2015_Nepal_earthquake
+
+: http://wiki.openstreetmap.org/wiki/2015_Nepal_earthquake hdx datasets : https://data.hdx.rwlabs.org/nepal-earthquake
+
+: https://data.hdx.rwlabs.org/nepal-earthquake Servir maps and geodata : https://www.servirglobal.net/Himalaya/MapsData.aspx
+
+: https://www.servirglobal.net/Himalaya/MapsData.aspx Nepal planning map (2007) by UN Cartographic Section :http://www.un.org/Depts/Cartographic/Nepal_EQ/4295.1_R1_Nepal%20Planning%20Aug07.pdf
+
+:http://www.un.org/Depts/Cartographic/Nepal_EQ/4295.1_R1_Nepal%20Planning%20Aug07.pdf USGS digital library : http://hdds.usgs.gov/digital-libraryhttp://hdds.usgs.gov/digital-library
+
+EMOPS: http://emops.pdc.org/emops/
+
+Nepal
+
+The following data is available via HDDS. It is constantly being updated on the HDDS site of USGS. (cf. above how to register and access the data)

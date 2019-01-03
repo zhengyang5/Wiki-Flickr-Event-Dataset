@@ -1,0 +1,73 @@
+The near collapse of Long Term Capital Management didn't change anything. Although some lawmakers expressed new fervor for addressing the risks of derivatives, Congress went ahead with the law that placed a six-month moratorium on any CFTC action regarding the swaps market.
+
+The battle left Born politically isolated. In April 1999, the President's Working Group issued a report on the lessons of Long Term Capital's meltdown, her last as part of the group. The report raised some alarm over excess leverage and the unknown risks of the derivative market, but called for only one legislative change -- a recommendation that brokerages' unregulated affiliates be required to assess and report their financial risk to the government.
+
+Greenspan dissented on that recommendation.
+
+By May, Born had had enough. Although it was customary at the agency for others to organize an outgoing chairman's going-away bash, she personally sprang for an ice cream cart in the commission's beige-carpeted auditorium. On a June afternoon, employees listened to subdued, carefully worded farewells while serving themselves sundaes.
+
+In November, Greenspan, Rubin, Levitt and Born's replacement, William Rainer, submitted a Working Group report on derivatives. They recommended no CFTC regulation, saying that it "would otherwise perpetuate legal uncertainty or impose unnecessary regulatory burdens and constraints upon the development of these markets in the United States."
+
+Toward Self-Regulation
+
+
+
+Throughout much of 2000, lobbyists were flying in and out of congressional offices. With Born gone, they saw an opportunity to settle the regulatory issue and perhaps gain even more. They had a sympathetic ear in Texas Sen. Phil Gramm, the influential Republican chairman of the Senate Banking Committee, and a sympathetic bill: the 2000 Commodity Futures Modernization Act.
+
+Gramm opened a June 21 hearing with a call for "regulatory relief." Peering through his wire-rimmed glasses, he drawled: "I think we would do well to remember the Lincoln adage that to ask a society to live under old and outmoded laws -- and I think you could say the same about regulation -- is like asking a man to wear the same clothes he wore when he was a boy."
+
+Greenspan and Rubin's successor at the Treasury, Larry Summers, still held sway on keeping the CFTC out of the swaps market. But Treasury officials saw an opportunity to push forward on a self-regulation idea from the Working Group's November 1999 report: an industry clearinghouse to hold pools of cash collected from financial firms to cover derivatives losses. But the report had also called for federal oversight to ensure that risk-management procedures were followed.
+
+The swaps industry generally supported the clearinghouse concept. One amended version of the bill made federal oversight optional. Treasury officials scrambled to act, and a provision introduced by Leach requiring oversight prevailed.
+
+The House passed the bill Oct. 19, but then the legislation stalled. Gramm was holding out for stronger language that would bar both the CFTC and the SEC from meddling in the swaps market. Alarmed, SEC lawyers argued that the agency at least needed to retain its authority over fraud and insider trading. What if a trader, armed with inside knowledge, engaged in a swap on a stock? Treasury Undersecretary Gary Gensler brokered a compromise: The SEC would retain its antifraud authority but without any new rulemaking power.
+
+On the night of Dec. 15, with the nation still focused on the Supreme Court decision three days earlier that settled the 2000 presidential election in George W. Bush's favor, the act passed as a rider to an omnibus spending bill. The clearinghouse provision remained. At the time, it seemed like a breakthrough.
+
+A clearinghouse would have created layers of protections that don't exist today, said Craig Pirrong, a markets expert at the University of Houston. "An industry-backed pool of capital could have cushioned against losses while discouraging risky bets."
+
+But afterward, the clearinghouse idea sat dormant, with no one in the industry moving to put one in place.
+
+'An Absolute Siege'
+
+
+
+In 2004, the SEC pursued another voluntary system. This one, too, didn't work out quite as hoped.
+
+For years, Congress had allowed a huge gap in Wall Street oversight: the SEC had authority over the brokerage arms of investment banks such as Lehman Brothers and Bear Stearns, but were in the dark about deals made by the firms' holding companies and its unregulated affiliates. European regulators, demanding more transparency given the substantial overseas operations of U.S. firms, were threatening to put these holding companies under regulatory supervision if their American counterparts didn't do so first.
+
+For the SEC, this was deja vu. In 1999, the SEC had sought such authority over the holding companies and failed to get it. Late in the year, Congress passed the Gramm-Leach-Bliley Act, dismantling the walls separating commercial banks, investment banks and insurance companies since the Great Depression. But the act did not provide for any SEC oversight of investment bank holding companies. The momentum was all toward deregulation.
+
+"I remember saying at the time, people don't get it -- the level of missed opportunities to address some of these problems," said Annette Nazareth, then the SEC's head of market regulation. "It was an absolute siege on regulation."
+
+Five years later, the European regulators were forcing the issue again. Restricted by Gramm-Leach-Bliley, the SEC proposed a voluntary system, which the big investment banks opted to join. The holding companies would be permitted to follow their own computer models to assess how much risk they were taking; the SEC would get access to make sure the complex capital and risk-management models were up to the job.
+
+At an April 28 SEC meeting, commissioner Harvey Goldschmid expressed caution. "If anything goes wrong, it's going to be an awfully big mess," said Goldschmid, who voted for the program.
+
+Last month, the SEC's inspector general concluded that the program had failed in the case of Bear Stearns, which collapsed in March. SEC overseers had seen Bear Stearns's heavy focus on mortgage-backed securities and over-leveraging, but "did not take serious action to limit these risk factors," the inspector general's report said.
+
+SEC officials say the voluntary program limited what they could do. They checked to make sure Bear Stearns was adhering to its risk models but did not count on those models being fundamentally flawed.
+
+On Sept. 26, with the economic meltdown in full swing, SEC Chairman Christopher Cox shut down the program. Cox, a longtime champion of deregulation, said in a statement posted on the SEC's Web site, "the last six months have made it abundantly clear that voluntary regulation does not work."
+
+It was too late. All five brokerages in the program had either filed for bankruptcy, been absorbed or converted into commercial banks.
+
+Second Thoughts
+
+
+
+On Sept. 15, 2005, Federal Reserve Bank of New York president Timothy F. Geithner gathered senior executives and risk-management officers from 14 Wall Street firms in the Fed's 10th-floor conference room in lower Manhattan for another discussion about a voluntary mechanism. Also arrayed around the wood rectangular table, covered by green-felt tablecloths, were European market supervisors from Britain, Switzerland and Germany.
+
+E. Gerald Corrigan, managing director of Goldman Sachs and one of Geithner's predecessors at the New York Fed, had reported in July that the face value of credit-default swaps had soared ninefold in just three years. Without an automated, electronic system for tracking the trades or collateral to back them, the potential for systemic risk was increasing. "The growth of derivatives was exceeding the maturity of the operational infrastructure, so we thought we would try to narrow the gap," Geithner said in an interview.
+
+Talks have continued on a range of issues, including how to set up a clearinghouse with reserves in case of default -- the same concept in the 2000 legislation -- and what kind of government oversight would be allowed. But three years later, there is no system in place. Some major dealers have preferred to go it alone, and no one in the government told them they couldn't.
+
+With last month's death spiral of American International Group, the world's largest private insurance company until it was seized by the government, regulators saw their fears play out. AIG had sold $440 billion in credit-default swaps tied to mortgage securities that began to falter. When its losses mounted, the credit-rating agencies downgraded AIG's standing, triggering a clause in its credit-default swap contracts to post billions in collateral that it didn't have. The government swooped in to prevent AIG's default, hoping to ward off another chain reaction in the already shaky financial system.
+
+The economic crisis has added momentum to the Fed's attempts to organize a voluntary clearinghouse. Geithner held two meetings last week with several firms and major dealers interested in setting up such a mechanism. Last week, the Chicago Mercantile Exchange announced it would team with Citadel Investment Group, a large hedge fund, to launch an electronic trading platform and clearinghouse for credit-default swaps. Other private companies and exchanges are working on their own systems, seeing opportunities for profit in becoming a shock absorber for the system.
+
+The crisis has prompted second thoughts. Goldschmid, the former SEC commissioner and the agency's general counsel under Levitt, looks back at the long history of missed opportunities and sighs: "In hindsight, there's no question that we would have been better off if we had been regulating derivatives -- and had a clearinghouse for it."
+
+Levitt, too, thinks about might-have-beens. "In fairness, while Summers and Rubin and I certainly gave in to this, we were not in the same camp as the Fed," he said. "The Fed was really adamantly opposed to any form of regulation whatsoever. I guess if I had to do it over again, I certainly would have pushed for some way to give greater transparency to products which turned out to be injurious to our markets."
+
+Researchers Brady Dennis and Robert Thomason contributed.

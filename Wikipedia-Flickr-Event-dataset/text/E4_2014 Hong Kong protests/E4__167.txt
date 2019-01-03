@@ -1,0 +1,35 @@
+The intense skirmishes inside Hong Kong’s Occupy Central protests haven't just taken place on the streets, but online too. The largest cyber attack in history has been carried out against independent media sites in Hong Kong over the past few months, according to the company protecting them, increasing in their intensity each time pro-democracy activists announced new activities or developments.
+
+The distributed denial of service (DDoS) attacks have been carried out against independent news site Apple Daily and PopVote, which organised mock chief executive elections for Hong Kong. Now the content delivery network Cloudflare, which protects Apple Daily and PopVote, says the DDoS attacks have been unprecedented in scale, pounding the sites with junk traffic at a remarkable 500 gigabits per second.
+
+It’s been “many times larger” than the Spamhaus cyber attacks last year that were credited with slowing down Internet speeds across the globe, and which saw 300 Gbps of attack traffic. The record since then had been a 400 Gbps DDoS attack in Europe, reported in February.
+
+“[It’s] larger than any attack we’ve ever seen, and we’ve seen some of the biggest attacks the Internet has seen,” said Cloudflare CEO Matthew Prince in a telephone interview. Cloudflare provides DDoS protection service for Apple Daily and PopVote, the Hong Kong site which held an unofficial civil referendum on extending suffrage rights to Hong Kong. Representatives of PopVote could not be reached for comment.
+
+The attacks originally targeted PopVote in June and moved on to include Apple Daily, evolving in their ability to evade traditional protection measures by disguising junk packets as legitimate traffic, and using the firepower of at least five botnets.
+
+Over the last few months the attackers have hijacked servers from the cloud services of Amazon (an outlet which Amazon engineers have since shut down) and European hosting provider LeaseWeb, to launch their attack. They also hacked into the sites’ systems and targeted PopVote staffers with phishing attacks.
+
+The attacks have hit other Cloudflare customers in Hong Kong, and increased in intensity whenever a significant news story emerged about the student protests - such as last week's news about a trio of Hong Kong student protest leaders who were denied travel permits to Beijing.
+
+Though 500 Gbps is extremely high, the attackers have more worryingly learned over the last few months how to make it more difficult for internet service providers to distinguish legitimate visitors to the Hong Kong sites.
+
+That has prompted some ISPs like Virgin Media in the UK to play into the hands of the attackers by proactively blocking access to protect their own infrastructure, says Prince, something that he has never seen happen.
+
+“It’s perverse because it means that even though the PopVote infrastructure and Cloudfare were able to defend the attack, there were still some ISPs around the world who were blocking access to the site.”
+
+The obvious suspect behind the attacks is the Chinese government, but Cloudflare’s co-founder says he doesn’t know if that’s the case. Last year’s attack on spam filtering service Spamhaus was launched by a lone teenager in London, he points out.
+
+"It’s safe to say the attackers are not sympathetic with the Hong Kong democracy movement, but I don’t think we can necessarily say it’s the Chinese government. It could very well be an individual, or someone trying to make the Chinese government look bad.”
+
+A key feature of the Hong Kong attacks are the way attackers have targeted the Internet’s DNS infrastructure, a simple and increasingly popular way to perform DDoS attacks. Without getting too far into the weeds, all ISPs rely on DNS resolvers which process the millions of queries we make each day by clicking on a link or typing in a web address.
+
+Through their network of infected personal computers and servers, the attackers have been sending a flood of spoof requests linked to the Hong Kong sites, forcing the ISPs to look up their IP addresses via the DNS global infrastructure. Overwhelmed with requests, ISPs like Virgin halted legitimate connections to the sites.
+
+“We’re seeing over 250 million DNS requests per second, which is probably on par with the total DNS requests for the entire Internet in a normal second,” said Prince.
+
+Cloudflare contacted around a dozen ISPs in Hong Kong and around Asia to explain that the attackers were targeting the internet’s DNS infrastructure, and to show them how to “hard-code their responses” to allow regular visitors to access the sites.
+
+Attacks like these could ultimately threaten the Internet’s ability to act as an meritocratic landscape, Prince says, and poses the risk of a more balkanized Internet. More sites may have to rely on firewall providers who in turn must inform ISPs each time a politically-motivated cyber attack is underway.
+
+“The thing that’s great about the Internet is you can be a protestor in Hong Kong and tell your story in New York or London,” says Prince. “There’s no technical solution that Cloudflare can create to solve this problem unless we re-architect the Internet.”

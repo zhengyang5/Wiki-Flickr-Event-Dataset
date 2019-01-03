@@ -1,0 +1,85 @@
+The last (and only) defense against the ongoing Deepwater Horizon oil spill in the Gulf of Mexico is tiny—billions of hydrocarbon-chewing microbes, such as Alcanivorax borkumensis. In fact, the primary motive for using the more than 830,000 gallons of chemical dispersants on the oil slick both above and below the surface of the sea is to break the oil into smaller droplets that bacteria can more easily consume.
+
+
+
+"If the oil is in very small droplets, microbial degradation is much quicker," says microbial ecologist Kenneth Lee, director of the Center for Offshore Oil, Gas and Energy Research with Fisheries and Oceans Canada, who has been measuring the oil droplets in the Gulf of Mexico to determine the effectiveness of the dispersant use. "The dispersants can also stimulate microbial growth. Bacteria will chew on the dispersants as well as the oil."
+
+
+
+For decades scientists have pursued genetic modifications that might enhance these microbes' ability to chew up oil spills, whether on land or sea. Even geneticist Craig Venter forecast such an application last week during the unveiling of the world's first synthetic cell, and one of the first patents on a genetically engineered organism was a hydrocarbon-eating microbe, notes microbiologist Ronald Atlas of the University of Louisville. But there are no signs of such organisms put to work outside the lab.
+
+
+
+"Microbes are available now but they are not effective for the most part," says marine microbiologist Jay Grimes of the University of Southern Mississippi. At this point, there are no man-made microbes that are more effective than naturally occurring ones at utilizing hydrocarbons.
+
+
+
+The natural world is replete with a host of organisms that combine as a community to decompose oil—and no single microbe, no matter how genetically enhanced, has proved better than this natural defense. "Every ocean we look at, from the Antarctic to the Arctic, there are oil-degrading bacteria," says Atlas, who evaluated genetically engineered microbes and other cleanup ideas in the wake of the Exxon-Valdez oil spill in Alaska. "Petroleum has thousands of compounds. It's complex and the communities that feed on it are complex. A superbug fails because it competes with this community that is adapted to the environment."
+
+
+
+Nor is it easy to help the existing communities of thousands of microbes, such as various species of Vibrio and Pseudomonads, to eat the oil faster—seeding experiments have generally failed. "Microbes are a lot like teenagers, they are hard to control," says marine chemist Chris Reddy of the Woods Hole Oceanographic Institution. "The concept that nature will eat it all up is not accurate, at least not on the time scale we're worried about."
+
+
+
+Just like your automobile, these marine-dwelling bacteria and fungi use the hydrocarbons as fuel—and emit the greenhouse gas carbon dioxide (CO2) as a result. In essence, the microbes break down the ring structures of the hydrocarbons in seaborne oil using enzymes and oxygen in the seawater. The end result is ancient oil turned into modern-day bacterial biomass—populations can grow exponentially in days. "Down in the Gulf of Mexico there is an indigenous population [of microbes] adapted to oil from so much marine traffic and daily spills. Oil is not new," says Lee, who has also been monitoring the plumes of oil beneath the surface. "There are so many natural seeps around the world that if it wasn't for microbes we would have a lot of oil in the oceans."
+
+
+
+Already, measurements of oxygen depletion of as much as 30 percent in the Gulf of Mexico seawater suggest that the microbes are hard at work eating oil. "I take the 30 percent depletion of oxygen in water near the oil as indicating bacterial degradation," Atlas says.
+
+
+
+That happens best near the surface, whether at land or sea, where warm-water bacteria such as Thalassolituus oleivorans can thrive; colder, deeper waters inhibit microbial growth. "Metabolism slows by about a factor of two or three for every 10 degree[s] Celsius you drop in temperature," notes biogeochemist David Valentine of the University of California, Santa Barbara, who just received funding from the National Science Foundation to characterize the microbial response to the ongoing oil spill. "The deeper stuff, that's going to happen very slowly because the temperature is so low."
+
+
+
+Unfortunately, that's exactly where some of the Deepwater Horizon oil seems to be ending up. "They saw the oil at 800 to 1,400 meters depth," says microbial ecologist Andreas Teske of the University of North Carolina at Chapel Hill, whose graduate student Luke McKay was on the research vessel Pelican that first reported such subsurface plumes—as predicted by small-scale experiments, such as the U.S. Minerals Management Services Project "Deep Spill". "It is either at the surface or hanging in the water column and possibly sinking down to the sediment."
+
+
+
+Yet, microbes are the only process to break down the oil deeper in the water, far away from physical processes on the surface such as evaporation or waves. "The deep waters are dominantly microbial" when it comes to oil degradation, although these communities are not as well studied as those at the surface, notes microbial geochemist Samantha Joye of the University of Georgia. "As long as there is oxygen around, it will get chewed up."
+
+
+
+To understand how the microbes will work and how quickly, however, will require a better understanding of exactly how much oil is out there. "It's a function of size, and we don't know size," Joye says. "We need to know how much oil is leaking out. Without that information we can't begin to make any kind of calculation of potential oxygen demand or anything else." BP now admits that its original estimate of roughly 200,000 gallons per day was far too low without providing an alternative; independent experts have offered estimates as high as four million gallons per day.
+
+
+
+It is possible to add fertilizers, such as iron, nitrogen and phosphorus, to stimulate the growth of such bacteria, an approach used to speed up microbial activity in the sediment along the Alaska coast after the Exxon-Valdez spill. "We saw a three to five times increase in rate of biodegradation," Atlas says, suggesting the technique might prove effective along the oil-inundated Louisiana coast as well. "It was hundreds of miles of shoreline, the largest bioremediation project ever."
+
+
+
+But that's strictly onshore. "In the ocean, how do you keep the nutrients with the oil?" Lee asks. "It's much easier to add to soil. That's why you don't see bioremediation in the open ocean." And aerating soils in wetlands can have its own problems; Lee tried tilling oil-soaked wetlands in Nova Scotia where there was limited oxygen to increase microbial activity. "That didn't work. We had large erosion as a result," he says. "If the oil reaches shore, our recommendation was to leave the oil alone and let nature do it."
+
+
+
+But sediment, whether the muck of Louisiana marshland or the deep ocean seafloor, suffers from a dearth of oxygen. That means it's up to anaerobic microbes—ancient organisms that live via sulfate rather than oxygen—to do the dirty work of consuming the spill. "What occurred in 10 days aerobically, took 365 days to occur anaerobically," says Atlas of the breakdown of oil in the wake of the Amoco Cadiz spill off the coast of France in 1978. Adds Teske: "The heavy components are sinking to the sediment and forming an oily or tarry carpet or getting buried. Then they are much harder to degrade."
+
+
+
+Such anaerobic environments can develop locally in the seawater itself, thanks to a ready supply of oil and blooming microbes eager to devour it. In deepwater, where there's less mixing with the surface waters to provide fresh supplies of oxygen, a dead zone may result. "It's not exchanging with the atmosphere," Joye notes. "Once the oxygen is gone, how are you going to replace it? It's not going to get mixed up by winter storms." That's bad news for the speedy breakdown of oil as well as for the Lophelia coral and other sessile deepwater life.
+
+
+
+At the same time, the addition of 130,000 gallons of dispersants deep beneath the surface is having uncertain effects; it may even end up killing the microbes it is meant to help thanks to the fact that Corexit 9527A contains the solvent 2-butoxyethanol, which is a known human carcinogen and toxic to animals and other life. But the U.S. Environmental Protection Agency, National Oceanic and Atmospheric Administration and others are monitoring whether adding such dispersants ends up boosting microbe-growth and hence dangerously depletes oxygen levels, among other potential environmental ill effects.
+
+
+
+Nor is it clear how fast the microbial community will respond. "Which microbial communities are the fastest responders?" Teske asks. "That would be interesting to know" and this oil spill may provide the real- world answer. Some research suggests that oil spills may actually feed themselves nitrogen by stimulating the growth of various bacteria that fix the vital nutrient, Joye notes. At the same time, microbial predators such as protozoa tend to dampen the efficiency of would-be oil-eating microbes.
+
+
+
+Scientists are still working to deploy known oil-eaters, such as Alcanivorax, in the form of booms laced with slow-release fertilizer and the microbes. In experiments such microbial booms ate heavy fuel oil in two months and "the experimental waste water was clean enough to be released back to the sea," says environmental geneticist Peter Golyshin of Bangor University in Wales. But "in the Gulf of Mexico, the amount of oil is simply too big. The oil gets dispersed but there is not enough [nitrogen] and [phosphorus] to feed bacterial growth."
+
+
+
+Ultimately, it is only microbes that can remove the oil from the ocean. "In the long run, it's biodegradation that removes most of the oil from the environment in these situations," Lee says. Or, as Joye puts it, "They're clever, they're tough, they can basically eat nails…. The microbes have to save us again."
+
+
+
+Regardless, the oil will linger in the environment for a long time. The microbes break down hydrocarbons in "weeks to months to years, depending on the compounds and concentrations—not hours or days," Atlas notes. "Much of the real tar or asphalt compounds are not readily subject to microbial attack…. Tar tends to persist. Asphalt tends to persist."
+
+
+
+Adds Valentine: "We wouldn't make roads out of them if the bacteria ate them."

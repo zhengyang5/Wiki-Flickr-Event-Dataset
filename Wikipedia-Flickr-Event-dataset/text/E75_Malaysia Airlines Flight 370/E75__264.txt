@@ -1,0 +1,33 @@
+Image copyright Getty Images
+
+The mystery of flight MH370 is unlikely to be solved until the flight recorder - known as a black box - is found. There are actually two boxes - a cockpit voice recorder and a data recorder. But these devices have their limitations.
+
+The voice recorder only captures the final two hours
+
+Listening to the last moments of Air France flight 447, which crashed into the Atlantic in 2009, gives a chilling insight into the confusion that had overcome the pilots. Such a record of what went on in the cockpit would be a priceless tool for investigators trying to work out whether the Malaysia Airlines plane was the victim of foul play or a mechanical fault. But it's not that simple even if the black box is found. The cockpit voice recorder continually records over itself as the flight goes on. US firm Honeywell Aerospace says the black box on the missing airliner - which it provided - only retains two hours of recording. That's the length of time that regulations demand. The principle is in place because it is normally the last section of a flight that determines the cause of the crash. But in the case of the Malaysia Airlines 777 it might well be the case that the key events happened long before the actual crash. On the other hand, Steve Buzdygan, a former BA 777 pilot, says the data recorder would provide a wealth of useful information. "You can almost reconstruct the flight path from it."
+
+Why is a 'black box' orange? The original flight recorders were painted black but the colour was changed to orange to make them easier to find by investigators
+
+The flight data recorder records a stream of flight information
+
+The cockpit voice recorder stores conversations and other noises made in the cockpit
+
+The battery life is short
+
+The black box sends out a ping - activated by immersion in water - that can be picked up by a microphone and a "signal analyser". There's another beacon - the emergency locator transmitter - which transmits a distress signal on impact. But these don't work in water. Both the voice recorder and the data recorder each have their own pinger. But there's a problem - the battery of the pinger on MH370 will only last for 30 days, says Steve Brecken, media director at Honeywell. Some pingers last for 90 days. The variation stems from the fact the rules changed after Air France flight 447. It took nearly two years to find its black box and new guidelines were issued that the ping should last for 90 days to give search teams longer to find it. Some planes have since been updated, but apparently not the MH370. Even after the batteries for the pinger run out, the recorded data remains intact.
+
+It is a small object to find
+
+The black box is bolted into the tail of the aircraft to avoid damage in a head-on crash. It is small - about the size of a shoe box, says Dr Guy Gratton of Brunel University's Flight Safety Lab. Contrary to the name, it is bright orange. But it's not easy to see it in the middle of the ocean. The search will aim to try to locate the wreckage before moving in to pinpoint the black box by picking up the ping. If the pinger has expired then other techniques - such as magnetic detection - are going to be necessary.
+
+It doesn't float
+
+The box is made out of aluminium and designed to withstand massive impact, fierce fire or high pressure. That means it's heavy - about 10kg for what is a small box - and will sink quickly. The Indian Ocean has very deep sections. The search area ranges between 1,150m (3,770ft) and 7,000m (23,000ft) deep, media reports suggest. So investigators will have to consider the prospect of it being out of reach of many sonar devices. "You have to ask if there's terrain in the way. The seabed could be as mountainous as the Alps," says David Barry, an expert on flight data monitoring at Cranfield University.
+
+Image copyright Getty Images
+
+The pinger's range is only a few miles
+
+Honeywell, who made MH370's pinger, say the signal can typically only be picked up a mile away. David Mearns, director of Blue Water Recoveries, says this means aircraft really needs to be almost directly on top of the black boxes to hear the ping. There are also factors that may diminish the signal. Wreckage on the surface, or if the black boxes are submerged in mud or sediment on the seabed, he adds. But if the pinger is deep on the ocean floor navies have hydrophone technology that has a better chance of locating it than conventional detectors. The Air France black box was not found until after its ping had expired. It was eventually located by slow moving unmanned underwater vehicles. A modern submarine - such as one of the Royal Navy's hunter-killer models - could potentially at least hear a ping from many miles away, Gratton says. The US, China and Australia all have similar submarines, he says. "By now there will be a submarine down there. I'm certain the Chinese will have put something out there." The US has deployed a ship that will tow a special black box locator through the water. According to the Associated Press, "the Towed Pinger Locator, which is pulled behind a vessel at slow speeds, has highly sensitive listening capability so that if the wreck site is located, it can hear the black box pinger down to a depth of about 20,000ft (6,100m)". However, there is a further complication, says Barry. The black box may be giving off pings from the ocean floor. But if those pings hit a layer of warmer or colder water above, the signal might be refracted or reflected.
+
+Follow @BBCNewsMagazine on Twitter and on Facebook

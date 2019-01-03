@@ -1,0 +1,51 @@
+When Russia was awarded the Sochi Olympics back in 2007, there were celebrations as the country secured its first major sporting event since 1991. Vladimir Putin himself travelled to Guatemala, addressed the International Olympic Committee in English and basked in the limelight. The Sochi Olympics became his personal pet project.
+
+With the city situated close to the various insurgencies of the North Caucasus, it soon became apparent that security concerns would be paramount. But it was not only the terrorist threat that had to be considered.
+
+Russia's leadership is notoriously paranoid about perceived foreign meddling, and the conventional package of security measures that comes as standard with any major modern event in any country was augmented by a heightened interest in clandestine surveillance.
+
+So as the oligarch-funded construction firms started building the venues and infrastructure for the Olympics, the FSB began making plans for a more shadowy kind of network, to address the vulnerabilities of the event.
+
+The main role in providing security for the Olympics was handed over to the FSB in 2010, and in May of that year, Oleg Syromolotov, one of the bureau's deputy directors, was appointed as chairman of the interdepartmental operations staff to provide security at the Games. Intriguingly, Syromolotov has never been involved in counterterrorism.
+
+Instead, he is the long-standing chief of the FSB's counterintelligence department. He has spent his entire career at the KGB and then the FSB, hunting down foreign spies. His training and experience is in identifying foreign threats.
+
+At a conference in September 2010, a presentation ordered by the FSB was given on security in Sochi. The presentation, which we have obtained, was mostly about cyber threats, but it also said that Sorm, Russia's main system for intercepting communications, should be significantly updated in Sochi. It also specified this should be done in secret.
+
+Sorm's tactical and technical foundations were developed by a KGB research institute in the mid-1980s, and have been updated ever since. Now, the Sorm-1 system captures telephone and mobile phone communications, Sorm-2 intercepts internet traffic, and Sorm-3 collects information from all forms of communication, providing long-term storage of all information and data on subscribers, including actual recordings and locations.
+
+Since 2010, according to procurement and tender documents collated from the communications watchdog, Roskomnadzor, Russian authorities have been busy making sure that Sorm equipment is properly installed in the Sochi region; and several local ISPs were fined when it was discovered they had failed to install Omega, the Sorm device recommended by the FSB.
+
+One record from Roskomnadzor shows that last November, the ISP Sochi-Online was warned officially for "failing to introduce the required technical equipment to ensure the functioning of Sorm".
+
+Mobile networks in Sochi have also been significantly updated. In June, Rostelecom, Russia's national telecom operator, launched a 4G LTE network around Sochi, pledging the fastest Wi-Fi networks in Olympic history, free of charge. But simultaneously, according to documents seen by our investigation, Rostelecom is installing DPI ("deep packet inspection") systems on all its mobile networks, a technology which allows the FSB not only to monitor all traffic, but to filter it.
+
+Visitors determined to take their laptops and smartphones to Sochi may be under the impression their communications are safe, thanks to the sophisticated encryption provided by most web giants such as Google and Facebook. They are likely to be wrong.
+
+In March, Russia's communications ministry introduced new Sorm regulations for ISPs. The regulations are the first document in which major servers based in the west, such as Gmail and Yahoo are mentioned as services that should be able to be intercepted. The decree is not yet signed, but the intention is clear.
+
+Conventional security measures will also be high at Sochi, with more than 40,000 police on duty, more than 5,000 surveillance cameras installed across the city and drones hovering overhead. Sochi will be the first time that surveillance drones have been used at an Olympics, with both the FSB and the interior ministry acquiring drones and planning to use them, according to information in the FSB's in-house magazine.
+
+The FSB has also purchased two sonar systems to detect submarines and protect the Olympics from a sea-launched terror attack.
+
+All protests have been banned during the runup to the Olympics, and the city will be in lockdown with only accredited vehicles allowed to enter.
+
+Last week an FSB official, Alexei Lavrishchev, denied that Sochi would look like a "concentration camp", saying that compared with London, the security would be "invisible". He is not wrong. Snooping on communications will not be visible. But that doesn't mean it won't be there.
+
+• Andrei Soldatov and Irina Borogan run the web portal agentura.ru and conducted this investigation in collaboration with CitizenLab and Privacy International
+
+Sochi facts
+
+
+
+• The estimated cost of the Olympics is £32bn, making it by some way the most expensive games ever. The London Olympics cost less than £9bn, while even the highest estimates put the last Winter Games, in Vancouver in 2010, at no more than $6bn.
+
+• An estimated £4.9bn was allegedly spent on just one road that links the airport with the mountain cluster at Krasnaya Polyana. A Russian magazine noted that for the same price, the road could be paved with a thick layer of foie gras or caviar.
+
+• Much of the construction is being funded by Russia's oligarchs, as part of the informal contract that in return for keeping their wealth, they must help out with major state projects. Privately, some of the leading investors have complained about spiralling costs.
+
+• During a tour of the construction sites in February, Vladimir Putin asked some meek aides who was responsible for a ski jump project going over budget. He fired the offending official, who has since fled the country, on the spot.
+
+• All protests, rallies and demonstrations have been banned in Sochi for a 10-week period before and during the Games.
+
+• Approximately 40,000 police will be on duty during the Games, and many have been learning foreign languages in order to be able to help out visitors.

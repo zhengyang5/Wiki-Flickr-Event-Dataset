@@ -1,0 +1,27 @@
+The ICAO Council adopted new provisions aimed at preventing the loss of commercial aircraft experiencing distress in remote locations.
+
+ICAO announced new amendments to Annex 6 to the Chicago Convention (Operation of Aircraft) which will take effect between now and 2021. They relate primarily to:
+
+The requirement for aircraft to carry autonomous distress tracking devices which can autonomously transmit location information at least once every minute in distress circumstances.
+
+The requirement for aircraft to be equipped with a means to have flight recorder data recovered and made available in a timely manner.
+
+Extending the duration of cockpit voice recordings to 25 hours so that they cover all phases of flight for all types of operations.
+
+The provisions relating to one-minute distress tracking are performance-based, meaning that airlines and aircraft manufacturers may consider all available and emerging technologies which can deliver the one-minute location tracking requirement specified.
+
+The new flight recorder data recovery provisions are also performance-based, meaning that related technology solutions may or may not entail the need for deployable flight recorders.
+
+On March 8, 2014 Malaysia Airlines flight MH370 went missing over the Indian Ocean, triggering an industry-wide effort for a.o. better flight-following in remote areas.
+
+Share this: Facebook
+
+Twitter
+
+Google
+
+
+
+Filed under: Regulations by Harro Ranter
+
+Comments Off on ICAO updates Annex 6 with requirements to help avoid recurrence of MH370-type disappearances

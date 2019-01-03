@@ -1,0 +1,120 @@
+By Simon Hradecky, created Friday, Mar 11th 2011 09:24Z, last updated Wednesday, Mar 23rd 2011 13:51Z Japan's Sendai Airport (elevation 2 meters above sea level, partly up to 7 meters above sea level) was entirely under water after a massive Tsunami reported to be up to 15 meters (50 feet) high rolled through Sendai City following a 8.9 magnitude earthquake in the Pacific with the epicenter just 150km east of Sendai. People on the ground fled onto the roofs of the terminal buildings and into the control tower of Sendai Airport. About 1400 people were saved that way, while cars, a number of general aviation aircraft, equipment including trucks of the aerodrome and houses around were washed away. At the time of the arrival of the Tsunami no airliners were on the ground in Sendai.
+
+
+
+The Tsunami rolled through the entire Pacific Area hitting as far as South America (Chile) within 24 hours after the earthquake, that happened at 05:46Z (14:46L). Islands across the Pacific, including Hawaii, were on alert.
+
+
+
+Tokyo's Narita Airport was closed for about 6 hours, too.
+
+
+
+The Hawaiian Airports of Lihue, Honolulu, Kahului and Hilo have been temporarily closed due to the Tsumani, equipment has been moved onto higher ground. Western Hawaii has already seen Tsumani waves up to 13 feet (4 meters) high, Hawaii Main Island (most eastern island) later reported fish ending up on the streets. Hawaii declared a state of emergency due to damages received while the Tsunami passed the islands.
+
+
+
+A number of flights were being diverted as result of the Tsunami.
+
+
+
+At approx. 10:00Z Saturday (Mar 12th) the Japanese government had issued another Tsunami Alert for the same coasts as yesterday stating that Tsunami waves of more than 3 meters are to be expected (this warnung was released following an admission of the Japanese Government, that a huge explosion had occurred at Fukujima's nuclear power plant reactor building #1 and a radiation leak causing radiation levels of 1015 MicroSieverts per hour - the maximum permissable amount a human may be exposed in one year to - and an evacuation 12 statute miles around the reactor).The Tsunami warning was later cancelled without any wave arriving.
+
+
+
+Following reports on Monday (Mar 14th) that another explosion occurred at Fukujima's reactor #3, reactor #2 being critical, as well as an American battle ship being exposed to radiation a number of airlines decided to add precautions to their flights to Japan now requiring specialists to measure radiation on board of their aircraft. Airlines consider to stop their international flights to Tokyo altogether, crisis teams are permanently evaluating further developments in Japan. Crews are no longer overnighting in Tokyo, operational stops outside Japan for crew changes have been scheduled on long haul flights to/from Tokyo.
+
+
+
+On Mar 15th, following the explosion of reactor #2, a fire in reactor #4 and Japanese government reports of radiation levels up to 400 MilliSievert per hour, the European Central Flow Management Unit (CFMU) Network Operations Portal issued a nuclear emergency declaration (see below) released by the Volcanic Ash Advisory Center London (VAAC), which also received the authority to warn of possible nuclear clouds. The declaration was cancelled by Mar 19th and replaced by the ICAO statement.
+
+
+
+On March 18th the International Civil Aviation Organisation (ICAO) released a statement based on information from the United Nations World Health Organisation (WHO), that there is no medical basis for imposing flight restrictions to Japan. "Screening for radiation of international passengers from Japan is not considered necessary at this time. Currently available information indicates that increased levels have been detected at some airports, but these do not represent any health risk."
+
+
+
+The European Aviation Safety Agency (EASA) have released Safety Information Bulletin 2011-04 for all aircraft stating: "Although ICAO, the World Health Organisation (WHO), the World Meteorological Organisation (WMO), the International Maritime Organisation (IMO) and the IAEA have not issued travel restrictions to Japan, Operators may wish to conduct a risk assessment in accordance to safety management principles." EASA did not release a recommendation.
+
+
+
+http://ad.easa.europa.eu/blob/SIB_201104.pdf/SIB_2011-04_1
+
+VAAC/CFMU Emergeny Declaration released March 15th:
+
+London VAAC has issued at 0300 UTC a
+
+NUCLEAR EMERGENCY
+
+DTG: 20110315/0300UTC
+
+ORIGIN: VAAC LONDON
+
+INFO SOURCE: IAEA
+
+STATUS: EMERGENCY
+
+SITE: FUKUSHIMA
+
+LOCATION: N0037E0141
+
+START OF RELEASE: 20110315/0300 UTC
+
+END OF RELEASE: ONGOING
+
+FIR NAMES: FUKUOKA, MANILA, TAIBEI, SHANGHAI, INCHEON,
+
+PYONGYANG, VLADIVOSTOK, KHABAROVSK, YUZHNO-SAKHALINSK, ANCHORAGE.
+
+FIR CODES: RPHIZRZX, RCAAZQZX, ZSSSYMYX, RKRRZQZX,
+
+UHWWZRZX, UHHHZRZX, UHSSZRZX, PAZAZQZX
+
+Pls note that the above message is not published in VAAC website.
+
+
+
+Relevant NOTAMs:
+
+PHNL (Honolulu): 03/043 - SVC ASDE U/S. 11 MAR 18:00 2011 UNTIL 11 MAR 19:30 2011. CREATED: 11 MAR 10:38 2011
+
+RJAA (Tokyo Narita): A1132/11 - AD-CLSD DUE TO EARTHQUAKE EXC/DEP,HEL,EMERG ACFT. 11 MAR 10:00 2011 UNTIL 11 MAR 14:00 2011 ESTIMATED. CREATED: 11 MAR 10:01 2011
+
+RJAA (Tokyo Narita): A1129/11 - VOR PORTION OF NASU VOR/DME/NZE-U/S DUE TO TROUBLE. 11 MAR 09:09 2011 UNTIL UFN. CREATED: 11 MAR 09:11 2011
+
+RJAA (Tokyo Narita): A1128/11 - LOW LVL WIND SHEAR ADVS (BY DOPPLER RADAR) NOT PROVIDED DUE TO TROUBLE. 11 MAR 08:57 2011 UNTIL UFN. CREATED: 11 MAR 08:59 2011
+
+RJAA (Tokyo Narita): A1117/11 - AMI VOR/DME/TLE-U/S DUE TO TROUBLE. 11 MAR 06:34 2011 UNTIL UFN. CREATED: 11 MAR 06:36 2011
+
+RJSS (Sendai): B1012/11 - SENDAI VOR/DME/SDE-U/S DUE TO TROUBLE. 11 MAR 09:10 2011 UNTIL UFN. CREATED: 11 MAR 09:11 2011
+
+RJSS (Sendai): B1010/11 - MIYAKO VOR/DME/MQE-U/S DUE TO EARTHQUAKE TROUBLE. 11 MAR 08:34 2011 UNTIL UFN. CREATED: 11 MAR 08:34 2011
+
+RJSS (Sendai): B1009/11 - AD-CLSD DUE TO EARTHQUAKE. 11 MAR 06:06 2011 UNTIL UFN. CREATED: 11 MAR 06:10 2011
+
+RJTT (Tokyo Haneda): B1011/11 - APCH-GUIDANCE-LGT NO.6-2 FOR RWY 16L/16R-U/S DUE TO TROUBLE. 11 MAR 08:26 2011 UNTIL UFN. CREATED: 11 MAR 08:37 2011
+
+
+
+Video of the Tsunami rolling across Sendai Airport (Video: AP):
+
+http://www.youtube.com/watch?v=6FvJ62qvLBY
+
+
+
+Aerial picture of Sendai Airport some time after the Tsunami (Photo: AFP/HO/NHK):
+
+
+
+
+
+Sendai Airport (Satellite Image: Google Earth):
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,221 @@
+Expense claims and a Westminster sex scandal were deleted from MPs' Wikipedia pages by computers inside Parliament before the election, The Telegraph has found.
+
+Details of a police arrest, electoral fraud allegation and the use of "chauffeur-driven cars" were also been wiped by people inside the Commons.
+
+The revelation will raise suspicion MPs or their political parties deliberately hid information from the public online to make candidates appear more electable to voters.
+
+More than a dozen online biographies of sitting MPs were doctored from computers with IP addresses owned by the Houses of Parliament in the run-up to the election.
+
+Requests for comment were made to all the MPs in question via their party press offices, but just a handful replied to say the changes had nothing to do with them.
+
+Anyone can edit Wikipedia, an online encyclopaedia kept up to date by users. However each change is tracked and linked to an IP address - a unique string of numbers that identifies each computer using an internet network.
+
+By looking at the changes made by computers with IP addresses owned by the Houses of Parliament it is possible to see what edits are being made from inside the Commons.
+
+The Telegraph has discovered persistent changes to MPs’ biographies made from Parliament in what appears to be a deliberate attempt to hide embarrassing information from the electorate.
+
+Former Conservative minister Stephen Hammond’s page had sentences revealing he was one of the most frequent users of chauffeur-driven cars while in government deleted.
+
+Tory backbencher Robert Blackman’s biography was changed so links to news stories revealing he had been “caught with his pants down” after conducting an 11-year affair were erased.
+
+Labour MP Geraint Davies’s entry was wiped of the fact he spent £2,285 on his kitchen and £1,500 on his living room at the taxpayers’ expense through parliamentary expenses.
+
+Tory MP Craig Whittaker’s arrest for alleged assault on his son in 2012 was deleted from his Wikipedia page by someone inside the Commons. (Mr Whittaker was released with no charges.)
+
+The entire section about expenses on Joan Ryan’s page was deleted. Ms Ryan spent thousands on repairs and decorations at her Enfield home before ‘flipping’ it to another property.
+
+The changes were made while Ms Ryan was not an MP and she has denied any involvement. She was re-elected to Parliament this month.
+
+Tory MP Gavin Barwell’s biography has a local newspaper’s criticism of his “persistent attempts at headline-grabbing” deleted, while fellow backbencher Stewart Jackson’s profile was wiped of references to how David Cameron was “appalled” by Tory expenses claims.
+
+The expenses scandal has been attributed with increasing disillusionment with politics among voters
+
+Many other MPs’ pages were added with complimentary sections ahead of the general election.
+
+The page of Gordon Birtwistle, a former Liberal Democrat MP, was given an entire 298-word “record of delivery” on January 14 – four months before seeking re-election from his constituents. He lost.
+
+Former Tory frontbencher Bill Wiggin’s biography was enhanced with a 121-word section explaining how he improved local broadband connections while Tory MP George Freeman’s defeat in 2005 was recast as “narrowly missing overturning the 8000 majority”.
+
+Dozens of other smaller changes to MP pages were made including adding references to flattering newspaper articles, citing political awards, and adding “Rht Hn” in front of the names. Some changes were later reversed by other users.
+
+It is impossible to prove the changes were made by the MP in question or their staff. However it is unclear why people unconnected to the politician or party would gloss up the Wikipedia biographies from inside Parliament.
+
+Mark Lane, managing director of information security company Portcullis, confirmed that the changes were all made from IP addresses that are owned by the Houses of Parliament.
+
+Spokesmen for the Conservatives, Labour and Liberal Democrats declined to comment but said all MPs were made aware of the specific changes and had the opportunity to comment individually.
+
+A spokesman for Ms Ryan said: “This is nonsense. Joan Ryan did not even have access to the Parliamentary Internet network from which these changes were made.”
+
+------FULL DETAILS OF WHAT WIKIPEDIA CHANGES WERE MADE FROM PARLIAMENT COMPUTERS------
+
+Stephen Hammond's page
+
+DELETED
+
+In spite of his keenness for sports, he does not particularly like walking. He has recently been revealed as one of the most frequent users of the chauffeur-driven cars which carry ministers or their red boxes across the UK, according to official documents. This is in spite of the fact he lives a mere six miles from Westminster.
+
+27 October 2014
+
+Craig Whittaker's page
+
+DELETED
+
+In 2012, Craig Whittaker was arrester [sic] for assaulting his son in a petrol station.
+
+6 January 2015
+
+A Conservative spokesman said Mr Whittaker was arrested over allegations of assault in 2012 but was released with no charges.
+
+Gordon Birtwistle's page
+
+DELETED
+
+He originally entered politics as a Labour councillor in the 1970s. He was one of only a few Lib Dem MPs to oppose allowing same-sex couple to marry, saying "gay marriage is just not on".
+
+14 January 2015
+
+ADDED
+
+Record Of Delivery
+
+Gordon’s main priority in Parliament has been representing Burnley and delivering jobs and growth for the town.
+
+Gordon campaigned to get an ambulance service returned to Burnley hospital. He secured Government funding for a £9 million new emergency unit which includes ambulance bays and ensures an A&E consultant is back at Burnley hospital.
+
+Gordon first became the town's champion after successfully fighting the closure of Burnley care homes. He campaigned with three retired residents from the homes, who became known as 'The Three Musketeers'. Gordon went on to raise a record £63,000 as mayor, for the mayor's charity, to purchase a prostate cancer scanner at the hospital and has launched another appeal to replace the scanner that has become outdated. He is aiming to raise £75,000 that will include the purchase of a hand held scanner.
+
+Gordon helped deliver the funding to ensure that the Burnley Bridge industrial development got underway and the money was found to build the bridge connecting the M65 to the site-delivering 1500 new jobs for Burnley.
+
+Gordon won the RGF funding to ensure the Todmorden curve was reopened which creates a much needed fast rail link to Manchester and a new station at Manchester road.
+
+£9 million pound of investment was also secured to develop the Weavers Triangle site. On part of the site is now a University Technical College. This has secured extra private investment and created 150 jobs.
+
+Gordon convinced the government of the value of capital investment in the former Michelin site in north Burnley to create an advanced aerospace park.
+
+Apprenticeship numbers have doubled since he was elected- over 1100 were created in 2011/2012 and Gordon has boosted the number of apprenticeships by challenging local firms to create 100 apprenticeships in 100 days.
+
+14 January 2015
+
+Gavin Barwell's page
+
+DELETED
+
+The local paper the Croydon Advertiser called on Mr Barwell to "stop launching campaigns" and persistent attempts at headline-grabbing in December 2014, saying "Gavin, we get it, there's an election on."
+
+19 February 2015
+
+Stewart Jackson's page
+
+DELETED
+
+David Cameron, leader of Jackson's Conservative Party, declared himself appalled at the raft of revelations made by the Telegraph relating to claims submitted by some of his parliamentary party colleagues, and stated that disciplinary action could be taken against those who had acted illegally or outside of the rules.
+
+8 July 2014
+
+Joan Ryan's page
+
+DELETED
+
+Involvement in Expenses Scandal
+
+In May 2009, it was reported that Ryan had claimed more than £4,500 under the Additional Costs Allowance for work on a house she had designated as her second home. In February 2010, based on an audit report looking into the United Kingdom parliamentary expenses scandal, Ryan was asked to repay £5,121 mortgage interest.
+
+In 2012, The Independent reported that "[a]t least 10 attempts have been made from computers in Parliament to remove information about [Ryan's] expenses claims and a further 20 efforts to delete the information, some from her constituency of Enfield, have also been recorded in Wikipedia's logs. The sustained effort has proved successful and there is now no mention of Ms Ryan's Parliamentary expenses on her Wikipedia page."
+
+29 October 2014
+
+A spokesman for Ms Ryan said: “This is nonsense. Joan Ryan did not even have access to the Parliamentary Internet network from which these changes were made.”
+
+Robert Blackman's page
+
+DELETED
+
+[Reference links at bottom of page]
+
+Alex Wellman, "Caught with his pants down: Top Tory MP who praised sanctity of marriage had 11-YEAR AFFAIR", Daily Mirror, 15 December 2012.
+
+"Quote of the day: “Bob was a terrible lover ...", London Evening Standard, 17 December 2012.
+
+5 February 2015
+
+EDITED
+
+From: In 2015 The Independent Parliamentary Standards Authority (IPSA) found that Blackman had submitted more than 700 "inaccurate" mileage claims, meaning he may have to repay £1,000 in wrongly-claimed expenses.
+
+To: In 2015, the Compliance Officer for the The Independent Parliamentary Standards Authority (IPSA) provisionally made a judgement that Blackman had submitted 732 "inaccurate" mileage claims, adjusting all claims of 7 miles to 6, potentially creating a repayment of £781.86. Bob Blackman has disputed this judgement.
+
+5 February 2015
+
+Geraint Davies's page
+
+EDITED
+
+From: Mr.Davies repaid £156 used to post his annual report calendars to constituents who contacted him because he used prepaid envelopes instead of stamps amidst suspicion that MPs who sent more correspondence were more likely to win re-election.
+
+To: Mr.Davies repaid £156 used to post his annual report calendars by prepaid envelopes instead of stamps.
+
+9 December 2014
+
+EDITED
+
+From: According to the Daily Telegraph Davies spent £4,000 renovating his designated second home before losing his seat in 2005 - £2,285 on the kitchen two years before the election deadline and £1,500 on the living room expecting to be returned as an MP in 2005 having increased the Labour vote to 47.2% versus the Conservatives at 38.2%. It also claimed he was reimbursed for late night taxi fares which were not then permitted.
+
+To: The Telegraph claimed he spent £4,000 renovating his designated second home before the 2005 election - having increased the Labour vote to 47.2% versus the Conservatives at 38.2% in 2001, and that he was reimbursed for late night taxi fares before such claims were permitted.
+
+9 December 2014
+
+EDITED
+
+From: For the year 2004–05, Davies' MP costs, including four staff and two fully equipped offices in Parliament and his constituency, were £176,026, which was the highest for that year
+
+To: For the year 2004–05, Davies' MP costs, including staff and offices in Parliament and his constituency, were the highest for that year.
+
+9 December 2014
+
+George Freeman's page
+
+EDITED
+
+From: Freeman stood as Conservative Parliamentary Candidate in Stevenage in the 2005 general election, being defeated by incumbent Labour MP Barbara Follett, despite a considerable Conservative swing.
+
+To: Freeman stood as Conservative Parliamentary Candidate in Stevenage in the 2005 general election, narrowly missing overturning the 8000 majority of incumbent Labour MP Barbara Follett, despite a considerable Conservative swing.
+
+26 Feb 2015
+
+ADDED
+
+In 2014, he was appointed Minister for Life Sciences at the Department of Health and the Department for Business, Innovation and Skills (BIS).
+
+10 Oct 2014
+
+Natascha Engel's page
+
+ADDED
+
+For her work in Parliament she was awarded Parliamentarian of the Year in 2013 by the Political Studies.
+
+18 December 2013
+
+Ms Engel said neither she nor anyone in her team made the change.
+
+Bill Wiggin's page
+
+ADDED
+
+Campaigns for improve rural communications networks
+
+Wiggn has long campaigned for faster broadband speeds and better mobile telephone coverage in Herefordshire, both of which are vocal issues in the constituency. Herefordshire is part of the Fastershire programme which aims to take faster broadband to areas not covered by any commercial rollout plans, although this has been very delayed. Wiggin has welcomed recent improvements to the network.
+
+Wiggin has also supported local residents in their campaign for a new mobile telephone mast in Fownhope. He has repeatedly petitioned the Government regarding the decision not to build a new mast, and met with Secretary of State Sajid Javid in June 2014 He also collected a petition from local residents to present to the Government.
+
+18 July 2014
+
+Robert Jenrick's page
+
+[From ‘Eye Manor’ Wikipedia page]
+
+DELETED
+
+It was purchased by the Conservative politician Robert Jenrick for £1.1 million in 2009.
+
+21 November 2014

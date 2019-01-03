@@ -1,0 +1,5 @@
+The Deepwater Horizon oil spill is unparalleled among environmental hydrocarbon releases, because of the tremendous volume of oil, the additional contamination by dispersant, and the oceanic depth at which this release occurred.
+Here, we present data on general toxicity and mutagenicity of upper water column waters and, to a lesser degree, sediment porewater of the Northeastern Gulf of Mexico (NEGOM) and west Florida shelf (WFS) at the time of the Deepwater Horizon oil spill in 2010 and thereafter.
+Microtox toxicity was nearly totally absent by December 2010 in the Northeastern Gulf of Mexico (3 of 8 cruises with one positive station).
+In contrast, QwikLite toxicity assay yielded positives at each cruise, often at multiple stations or depths, indicating the greater sensitivity of the QwikLite assay to environmental factors.
+The Microscreen mutagenicity assays indicated that certain water column samples overlying the WFS were mutagenic at least 1.5 years after capping the Macondo well.

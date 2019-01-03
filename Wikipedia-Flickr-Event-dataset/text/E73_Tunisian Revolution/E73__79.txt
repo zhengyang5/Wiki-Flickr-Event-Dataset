@@ -1,0 +1,47 @@
+A debate has been raging on the role social media—especially Facebook and Twitter— played in the apparently successful uprising in Tunisia. Most of the discussion seems to be centered around the use of the term “Twitter Revolution.”
+
+Ethan Zuckerman responds that “the Internet can take some credit for toppling Tunisia’s government, but not all of it.” When you read Ethan Zuckerman’s great piece –and he is, along with Jillian C. York—among the few people participating in this debate who were in touch with Tunisian dissidents on the ground not just through this crisis but over the years, it becomes clear that being able to disseminate information using social media was key in multiple respects:
+
+“[In spite of lack of attention compared to the Iranian protests] … the irony is that social media likely played a significant role in the events … Ben Ali’s government tightly controlled all forms of media, on and offline. Reporters were prevented from traveling to cover protests in Sidi Bouzid, and the reports from official media characterized events as either vandalism or terrorism. Tunisians got an alternative picture from Facebook, which remained uncensored through the protests, and they communicated events to the rest of the world by posting videos to YouTube and Dailymotion.” …
+
+His colleague, Jillian C. York wrote a post titled “Not a Twitter, Not a Wikileaks: Human Revolution” argues that the revolution would have happened without the Internet:
+
+Evgeny Morozov’s question–”Would this revolution have happened if there were no Facebook and Twitter?”–says it all. And in this case, yes, I–like most Tunisians to whom I’ve posed this question–believe that this would have happened without the Internet.
+
+Evgeny Morozov is the most die-hard opponent of the idea that social media can bring about positive social change poses another counterfactual: what if it had failed? Then what would be the contribution of social media?:
+
+So let’s assume that the protests in Tunisia had eventually gone the way of the Green Revolution in Iran: the government stayed in power, regrouped, and began a massive crackdown on its opponents. This brings me to a somewhat depressing conclusion: if the dictator doesn’t fall in the end, the benefits of social mobilization afforded by the Internet are probably outweighed by its costs (i.e. the ease of tracking down dissidents – let alone organizers of the protests).
+
+And even while Morozov agrees that social media was important in feeding information to key conduits to the world, Al Jazeera and France 24, he doesn’t think social media was used to organize protests:
+
+I don’t deny that the Internet may have played a role in publicizing the protests in Tunisia; it’s just that the conditions in which the protests took place do not strike me as those where the leaders of the protest movement had to post updates on where to meet and when. Maybe I am wrong, but it all seemed to be somewhat chaotic and decentralized.
+
+So what to make of all of this? I say, let’s bring in Aristotle! Aristotle distinguished between four types of causation: material, formal, efficient and final. I want to specifically bring the notions of material, efficient and final causation into this debate. Here’s Aristotle –from that other Wiki, Wikipedia, which has turned 10 years old this week–:
+
+“Cause” means: (a) in one sense, that as the result of whose presence something comes into being—e.g. the bronze of a statue and the silver of a cup, and the classes which contain these [i.e., the material cause]; … (c) The source of the first beginning of change or rest; e.g. the man who plans is a cause, and the father is the cause of the child, and in general that which produces is the cause of that which is produced, and that which changes of that which is changed [i.e., the efficient cause]. (d) The same as “end”; i.e. the final cause; e.g., as the “end” of walking is health. For why does a man walk? “To be healthy,” we say, and by saying this we consider that we have supplied the cause [the final cause]. (Full text is here )
+
+In this schema, material causes are the substrate of things. Does metal cause cars? In some sense, cars as we know them wouldn’t exist without metals so it meets a “but for” definition of causality. So, in some sense cars are caused by metals in that no metals, on cars–at least in their current form. However, in everyday usage, most of us tend to use the other two definitions, the efficient cause, i.e. cars are there because someone manufactured them; or the final cause, i.e. cares are there to take us from place A to place B in a speedy (but polluting!) manner.
+
+So, I think most of the people using the term “social media revolution” are using it in the sense of a material cause. As I asked on Twitter during the debate, would we call the French Revolution a printing press revolution? Surely, the invention of the press is a strong antecedent of that revolution. But also surely, that revolution was made by people, through political action. So, the printing press just defines the milieu in which the revolution took place; it is an inseparable part of the French revolution even though it is not the efficient (political uprising) or the final (establishing a republic) cause of the French revolution. But you cannot really imagine a French Revolution, of the kind that happened, without the printing press.
+
+You can see this distinction by looking at Ethan’s objection to the term “Social Media/Twitter/Facebook revolution” as stated by Ethan:
+
+Tunisians took to the streets due to decades of frustration, not in reaction to a WikiLeaks cable, a denial-of-service attack, or a Facebook update.
+
+What Ethan is saying in his piece is that social media facilitated the events in ways that were crucial (material cause), but the revolution was made by the people of Tunisia at great human cost (the efficient cause) and it was aimed at overthrowing to corruption, unemployment and tyranny (the final cause).
+
+And I think this is more and more what we will see; people will be using social media tools as an integral part of politics during those times that politics takes to the frontstage like uprisings and elections. Evgeny Morozov’s argument is that these tools are not the best suited for promoting democracy, especially in authoritarian regimes, because they also strengthen the surveillance, propaganda and censorship. As I argued in many places, however, they also strengthen capacity for political action through multiple means:
+
+1- Social media lower barriers to collective action by providing channels of organization that are intermeshed with mundane social interaction and thus are harder to censor.
+
+2- Social media can help create a public(ish) sphere in authoritarian regimes, thereby lowering the problem of society-level prisoner’s dilemma in which everyone knows that many people are unhappy but the extent to which this is the case remains hidden as official media is completely censored.
+
+3- Social media helps strengthen communities as it is the antidote to isolating technologies (like suburbs and like televison) and community strength is key to political action.
+
+4- Social media seems to have been key allowing the expatriate and exiled community to mobilize and act as key links between rest of the Arab sphere as well as Francophone parts of Europe and ultimately the rest of the world
+
+5- Social media can be a key tool for disseminating information during a crisis. As we saw in the case of Iran, Burma, Moldova, Tunisia and others, the world had a strong sense of what was happening not because there were many reporters on the ground covering the events but because thousands of citizens armed with basic cell phones could record and transmit in real-time the situation on the ground. Yes, such reports are inevitably chaotic, and yes, the ability to disseminate information is not a sufficient cause for success, but it is surely a necessary one.
+
+In that sense, I respect Jillian’s sensitivity to any wording that seems to take the credit away from the accomplishment of the Tunisian people that came at a great human cost. However, as a material cause, as a key part of the media and information substrate in which the events took place, it seems clear to me that social media was crucial. About 20 percent of Tunisians have Facebook accounts which remained uncensored throughout the crisis.
+
+I find it hard to believe that the ability to disseminate news, videos, tidbits, information, links, outside messages that easily, transparently and without censorship reached one in five persons (and thus their immediate social networks) within a country that otherwise suffered from heavy censorship was without a significant impact. (More background here on the particulars of the general political situation in Tunisia). To say that social-media was a key part of the revolution does not necessarily mean that people used GPS-enabled phones to coordinate demonstrations; that is simplistic and misses the point in which social media shapes the environment in general. What it means is that the people acted in a world where they had more means of expressing themselves to each other and the world, being more assured that their plight would not be buried by the deep pit of censorship, and a little more confidence that their extended families, their neighbors, their fellow citizens were similarly fed up, as poignantly expressed by the slogan taken up by the protestors: “Yezzi Fock! Enough!”

@@ -1,0 +1,63 @@
+Pandemic (H1N1) 2009 - update 100
+
+Weekly update
+
+14 May 2010 - As of 9 May, worldwide more than 214 countries and overseas territories or communities have reported laboratory confirmed cases of pandemic influenza H1N1 2009, including over 18036 deaths.
+
+WHO is actively monitoring the progress of the pandemic through frequent consultations with the WHO Regional Offices and Member States and through monitoring of multiple sources of information.
+
+Situation update:
+
+The most active areas of pandemic influenza virus transmission currently are in parts of the Caribbean and Central America, and to a lesser extent in West Africa and South and Southeast Asia. In the temperate zone* of the northern and southern hemisphere, overall pandemic influenza activity remains sporadic. Seasonal influenza virus type B continues to be detected at low levels across parts of Asia, Africa, and Europe.
+
+In the tropical region of the Americas, pandemic influenza virus transmission remains most active in parts of the Caribbean, and to a lesser extent in Central America. In Cuba, pandemic influenza activity continued to decline after a recent period of intense transmission which began during late February 2010 and may have peaked during late April 2010. Geographically widespread pandemic influenza activity was reported in Jamaica (during much of February through May 2010) and in the Dominican Republic (since late April); however, other respiratory viruses are known to be co-circulating in the region and overall respiratory disease activity during this period was reported to remain low to moderate. The overall SARI** rate from sentinel sites in selected Caribbean countries (Dominica and Jamaica) increased since mid April 2010, however, the extent to which this was due circulating pandemic influenza virus versus other respiratory viruses is not known. In Central America and the tropical regions of South America: Nicaragua, Honduras, Guatemala, Columbia, Bolivia, and Peru all reported regional spread of influenza during one or more weeks since late April 2010 suggesting that low levels of circulating pandemic influenza virus persist in the region. In addition, there is evidence from several countries in this region that there is ongoing co-circulation of influenza with other respiratory viruses (including respiratory syncytial virus (RSV), and adenovirus).
+
+In Asia, the most active areas of pandemic influenza virus transmission currently are in parts of South and Southeast Asia, particularly in Bangladesh, Malaysia, and Singapore. In Bangladesh, a consistently increasing trend of respiratory disease associated with co-circulation of pandemic influenza and seasonal influenza type B viruses have been reported since mid April 2010; however, the overall intensity of respiratory diseases activity remains low to moderate. In Malaysia, limited data suggest that recent pandemic influenza activity began during early April 2010 and has been stably elevated since mid April 2010. In Singapore, the overall level of ARI remained stably elevated above baseline since early April 2010; 38% of respiratory specimens tested positive for pandemic influenza virus infection during the most recent reporting week. In Thailand, a recent period of sustained transmission of pandemic virus, extending from January until early April 2010, appears to have largely subsided. In India, low levels of pandemic influenza virus continued to be detected in several western and southern states, however, the overall level of respiratory diseases in the population remains low. In Indonesia, a period of low level circulation of seasonal H3N2 viruses which began during early February 2010 now appears to be subsiding. In East Asia, pandemic influenza virus is being detected only sporadically, however, persistent but declining levels of circulating seasonal influenza type B viruses continued to be reported, particularly in China, Hong Kong SAR (China), and in Chinese Taipei.
+
+In Sub-Saharan Africa, limited data from several countries suggest that active transmission of pandemic influenza virus continues to decline in parts of West Africa, while low levels of seasonal influenza type B viruses continue to circulate in parts of Central Africa and to a lesser extent in East Africa. In Ghana, pandemic influenza virus detections continued decline after peaking during early April 2010; during the most recent reporting week, 10%of respiratory specimens tested positive for pandemic influenza virus. There was no report of influenza activity in Senegal where a peak of pandemic influenza activity was observed in late February 2010. In central Africa, Cameroon continued to report co-circulation of pandemic and seasonal influenza type B viruses; the latter continued to be predominant during the most recent reporting week with approximately 31% of all respiratory samples testing positive for seasonal influenza type B and 4% testing positive for pandemic influenza virus. Sporadic detections of seasonal influenza H3N2 and influenza B viruses have been reported across eastern and western Africa over the past month.
+
+In the northern and southern temperate regions of the Americas, only sporadic detections of influenza viruses have been reported, except in Chile, which continued to report localized areas of increased ILI activity associated with co-circulation of pandemic influenza and other respiratory viruses.
+
+In Europe, pandemic influenza virus continues to be detected sporadically as the overall intensity of respiratory diseases remained low across the continent. Low level circulation of seasonal influenza type B virus persists in parts of southern and eastern Europe, notable in the Russian Federation and in Italy. The Global Influenza Surveillance Network (GISN) continues monitoring the global circulation of influenza viruses, including pandemic, seasonal and other influenza viruses infecting, or with the potential to infect, humans including seasonal influenza. For more information on virological surveillance and antiviral resistance please see the weekly virology update (Virological surveillance data, below).
+
+Weekly update (Virological surveillance data)
+
+As of May 12 May 2010, 4 additional cases of oseltamivir resistant pandemic influenza A (H1N1) 2009 viruses have been reported. It brings the cumulative total to 289 so far. All but one of these have the H275Y substitution and are assumed to remain sensitive to zanamivir.
+
+*Countries in temperate regions are defined as those north of the Tropic of Cancer or south of the Tropic of Capricorn, while countries in tropical regions are defined as those between these two latitudes.
+
+
+
+**Abbreviations: influenza-like-illness (ILI), acute respiratory infection (ARI), and severe acute respiratory infection (SARI)
+
+MAP OF INFLUENZA ACTIVITY AND VIRUS SUBTYPES (WEEK 17: 25 APRIL - 1 MAY 2010)
+
+Map of influenza activity and virus subtypes
+
+png, 228kb
+
+Description: Displayed data reflect the most recent data reported to Flunet (www.who.int/FluNet), WHO regional offices or on Ministry of health websites in the last 2 weeks. The percent of specimens tested positive for influenza includes all specimens tested positive for seasonal or pandemic influenza. The pie charts show the distribution of virus subtypes among all specimens that were tested positive for influenza. The available country data were joined in larger geographical areas with similar influenza transmission patterns to be able to give an overview (http://www.who.int/csr/disease/swineflu/transmission_zones/en)
+
+Qualitative indicators (Week 29 to Week 17: 13 July 2009 - 1 May 2010)
+
+The qualitative indicators monitor: the global geographic spread of influenza, trends in acute respiratory diseases, the intensity of respiratory disease activity, and the impact of the pandemic on health-care services.
+
+The maps below display information on the qualitative indicators reported. Information is available for approximately 60 countries each week. Implementation of this monitoring system is ongoing and completeness of reporting is expected to increase over time.
+
+Geographic spread of influenza activity
+
+Trend of respiratory diseases activity compared to the previous week
+
+Intensity of acute respiratory diseases in the population
+
+Impact on health care services
+
+Laboratory-confirmed cases of pandemic (H1N1) 2009 as officially reported to WHO by States Parties to the IHR (2005) as of 9 May 2010
+
+The countries and overseas territories/communities that have newly reported their first pandemic (H1N1) 2009 confirmed cases since the last web update (No. 99): none.
+
+The countries and overseas territories/communities that have newly reported their first deaths among pandemic (H1N1) 2009 confirmed cases since the last web update (No. 99): none.
+
+*The reported number of fatal cases is an under representation of the actual numbers as many deaths are never tested or recognized as influenza related.
+
+**No update since 7 March 2010

@@ -1,0 +1,83 @@
+The H1N1 virus has begun to spread in earnest and the high-profile death of a 13-year-old Toronto boy has awakened the public to the potential dangers of the virus. Many readers are worried and looking for clear information about the threat posed by H1N1 influenza. The Globe and Mail's public health reporter, André Picard, tries to clear up the “conflusion” by answering reader questions. Mr. Picard has also answered your questions on the vaccine and questions from parents about treatment for children.
+
+Please note that this information is not medical advice. Rather, it is an attempt to synthesize and explain in plain language information from public health officials and medical experts.
+
+Question: What's the difference between H1N1 flu and the seasonal flu?
+
+Answer: The formal name for the strain that has captured our attention is influenza A/H1N1/California (H1N1 or swine flu for short). Various strains of influenza circulate every year; they are usually mutated forms of earlier flu bugs, meaning many people have full or partial immunity. H1N1 is different – it jumped directly from animals to humans. That means it has the potential to infect and sicken a lot more people.
+
+Q: It’s called swine flu. Does that mean we get it from pigs?
+
+A: Many animals and birds get the flu, but those strains do not usually pose a threat to humans. At some point earlier this year H1N1 jumped from a pig to a human. But the virus now has nothing to do with pigs; it spreads human-to-human. Early on, the virus was dubbed swine flu because it resembled a strain that circulates in pigs. Genetic testing later showed that swine flu actually is a mixture of two types of swine flu, an avian flu and a human flu.
+
+Q: What do the all the letters in influenza A H1N1 stand for?
+
+A: There are three types of influenza viruses: A, B, and C. Only type A influenza can cause a pandemic and it causes the most serious illness in humans. Influenza A viruses are classified by two proteins on their surface: H for hemagglutinin and N for neuraminidase. There are 16 H subtypes: H1, H2 and H3 are found in human influenza viruses. There are at least nine subtypes of neuraminidase; N1 and N2 are associated with humans. Influenza B can cause epidemics but not pandemics; it causes illness, but tends to be less deadly. Influenza C causes mild illness.
+
+Q: So what are my odds of getting the flu?
+
+A: In an average year, 10 to 20 per cent of Canadians get sick with the flu. With a pandemic strain like H1N1, that number could jump to 30 to 50 per cent. According to mathematical modelling done as part of the Canadian Pandemic Influenza Plan, a new strain could kill between 11,000 and 58,000 Canadians in a period of six to eight weeks. It could also result in the hospitalization of 35,000 to 138,000 people and leave 4.5 million to 10.6 million others too sick to work, which would have a devastating economic impact. But that’s a worst-case scenario.
+
+Q: Is H1N1 actually more deadly?
+
+A: There was a long-running assumption that a pandemic strain of influenza would be more deadly than seasonal flu. So far, H1N1 is not proving more deadly. If anything, it will probably be less lethal than a seasonal flu. But remember, a run-of-the-mill seasonal flu kills an estimated 4,000 to 8,000 Canadians each year.
+
+Q: Is the risk of contracting the flu and dying the same for everyone?
+
+A: Anyone can contract the flu – seasonal or H1N1 – unless they have some immunity, either from prior exposure or vaccination. But, generally speaking, the healthier a person is, the better they can fight off infections. Seasonal flu usually kills the frail elderly and others with chronic health conditions. H1N1 is unusual in that it is killing younger people (under 50), some of them quite healthy prior to contracting the flu. Two-thirds of those dying of H1N1 are women, a fact that researchers can’t really explain. People born prior to 1957 (when a similar flu strain circulated) seem to have partial immunity so a lot fewer seniors are getting sick than with the seasonal flu. However, when older people do contract H1N1, the death rate is quite high.
+
+Q: Are smokers more at risk of swine flu?
+
+A: Smokers are not at greater risk of contracting H1N1. But studies show that if smokers – and their children - are infected with influenza, they are at greater risk of complications. There is no reason to believe it is any different with H1N1. This is not surprising as influenza is a respiratory illness.
+
+Q: I keep reading that there is an “epidemic” and a “pandemic,” which implies there is an imminent threat. But I just don't see an epidemic or pandemic out there, just a lot of fear-mongering.
+
+A: Epidemic and pandemic are technical terms that refer to the geographical spread of a disease, not its severity. H1N1 is a pandemic because it has spread to virtually every country in the world since it first surfaced in humans in March. To date, swine flu has been classified as mild.
+
+Q: There is flu every year. Is this year any different?
+
+A: The flu always travels from West to East across the country. It usually starts in November, peaks in January, and peters out by March. With H1N1, the flu season has started much earlier this year. Does that mean it will be done earlier? That's possible. But a more likely scenario is that there will be a second wave of influenza after Christmas, probably with a seasonal strain.
+
+Q: I've had the flu before. What's the big deal?
+
+A: The “flu” has become a catch-all term but it is not a cold, or a gastrointestinal bug. Influenza (H1N1 or otherwise) is unpleasant and will put you out of commission for about a week: You suffer fever, coughing, chills, muscle aches, and extreme fatigue; many people have trouble getting out of bed. The vast majority of those infected will get better with rest and plenty of fluids but, in some cases, the symptoms can be so severe that they can result in hospitalization and death.
+
+Q: How do I know if my flu is the serious kind?
+
+A: The flu is a respiratory illness. A person who has trouble breathing should seek immediate medical attention, as should someone with persistently high fever (particularly children). H1N1 can be treated with antivirals if treatment begins early enough. One of the distinguishing factors of those who have died of H1N1 far is that they waited too long to seek treatment.
+
+Q: How is the flu treated?
+
+A: Generally, bed rest will do it, but when symptoms are more serious there are two prescription drugs available, the antivirals oseltamivir (Tamiflu) and zanamivir (Relenza).
+
+Q: Can I take antivirals to prevent getting the flu?
+
+A: Some countries, like the U.K., has used antivirals extensively as a prevention measure. In Canada, the approach is different: They are used almost exclusively for treatment.
+
+Q: Can the flu really kill you – I mean, it’s just the flu?
+
+A: The little H1N1 viruses in your body are not carrying knives to stab you in the heart. But the virus can, in some cases (about one in 1000), get deep into the lungs, causing pneumonia. The lungs fill with liquid and a person essentially drowns. Patients with severe infection are put on respirators and sometimes even heart-lung machines but about one in five die. People with the flu are also susceptible to other bacterial infections.
+
+Q: If you go to a hospital with H1N1 symptoms and are tested for H1N1, how long does it take to get results to determine if you do indeed have H1N1?
+
+A: Current policy is to test only people who are so sick that they require hospitalization. The H1N1 test is quick and easy but testing everyone would be a tremendous waste of money and limited lab resources. If you have the flu, it is almost certainly H1N1; sentinel testing showed that last week 99 per cent of influenza cases were H1N1.
+
+Q: How long can an infected person spread this virus to others?
+
+A: Generally speaking, people infected with the flu shed virus and they can infect others from one day before getting sick, to up to seven days after. New research has shown people with H1N1 can be infectious up to 13 days after contracting the illness themselves.
+
+Q: If people can infect others before they get sick and after they get better shouldn’t we all stay home?
+
+A: It is true that people can infect others when they have no visible or audible symptoms. But the reality is that they are far more likely to spread the virus when they are sick because of the coughing, runny nose and so on.
+
+Q: Is it possible that the H1N1 virus will mutate and the vaccine will be useless?
+
+A: It is possible but highly unlikely. To date, the H1N1 virus has been remarkably stable and the vaccine more effective than expected (for example requiring only one shot, not two). But when flu season comes around next year, you will need a new shot because the circulating strains will be different.
+
+Q: When will this all be over?
+
+A: With H1N1, the flu season started early, so it will probably end early – the flu will likely have spread all over the country by Christmas. What happens after Christmas remains unclear, but likely the strains of seasonal flu will start to spread more aggressively.
+
+Q: Who can I call if I have more questions?
+
+A: The Public Health Agency of Canada has a H1N1 hotline 1-800454-8302. Most provinces and health regions also have telehealth lines that you can call for information, including where to get a flu shot.

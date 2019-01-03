@@ -1,0 +1,29 @@
+It’s no surprise that how aircraft are tracked and monitored has been headline news this year. The tragic disappearance of MH370 in March put the spotlight on aircraft surveillance like never before.
+
+From the inside workings of transponders, to the differences between primary and secondary radar, I can’t remember a time when the technicalities of air traffic management were under greater public scrutiny.
+
+The ongoing uncertainty surrounding the last moments and whereabouts of MH370 has left many people surprised at the realities of current aircraft tracking and surveillance technologies. The fact that in the modern digital age we don’t have a way of independently monitoring the location of aircraft wherever they are on the planet may seem incredible to those outside the industry, especially given that positional GPS data is commonplace within your car, phone and even your watch.
+
+Primary radar, the workhorse of our industry, may have become more powerful and accurate, but the fundamental principles have remained unchanged since before the Second World War. Even with secondary radar, we rely on having onboard ‘cooperation’ in the form of an active and operational transponder.
+
+Over the ocean, where there is no radar coverage, controllers depend upon pilots following strict procedures, following set routes at set speeds and reporting their position over the radio.
+
+This is not to say that what the world currently uses to track and monitor aircraft isn’t safe. It is. Thousands of flights take place every single day and current technology has been hugely successful in keeping them safely separated and guided. It is however not perfect, as the disappearance of MH370 so starkly highlighted.
+
+So what is to be done?
+
+IATA has launched the Aircraft Tracking Task Force (ATTF) focused on identifying near-term options for global tracking of aircraft. One of its primary activities will be to assess the products and services that exist today to see how they might be used to implement global flight tracking. However, it’s important to note the focus is on tracking as opposed to surveillance as the two are subtly different. Aircraft surveillance is an ATC function for the purpose of providing a separation service, whereas tracking is about being able to independently locate an aircraft at any given point.
+
+It will certainly be interesting to see what progress the task force makes over the coming months.
+
+From an air traffic management perspective, the next step is the introduction of space based ADS-B, where aircraft are monitored via orbiting satellites. Not only will this reduce the need for traditional ground based radars, it will provide the kind of oceanic surveillance that is currently impossible and could have made an enormous difference in narrowing the search area for MH370.
+
+From a NATS point of view, the North Atlantic is already the busiest piece of oceanic airspace in the world, but the advent of satellite based surveillance would allow us to boost capacity and provide more efficient routes for our customers while at the same time either maintaining or improving safety.
+
+Over land, the ability to monitor aircraft without the need to build and maintain expensive ground based infrastructure has obvious advantages, doubly so in remote, developing or hostile regions.
+
+Space based ADS-B has the potential to provide near global aircraft surveillance. So why haven’t we done it? The adoption of new technologies is famously slow within the aviation industry and perhaps even more so for air traffic management. That’s with good reason when you’re responsible for the safety of millions of passengers every day, but space based ADS-B is coming. Last year NATS agreed to work with the US company Aireon to help develop their solution and by 2016 the first satellites will have entered low Earth orbit.
+
+The next step is to build a robust safety case from which to agree regulations and procedures. ICAO is taking a leading role in this to ensure we have a set of international standards that are as uniform as possible.
+
+There is no doubt that ANSPs around the world are watching these developments with great interest. Not only will they be able to pass on the cost and operational benefits to their airline customers, but the ability to better track and monitor aircraft over the ocean has obvious benefits in the rare and tragic instances when an aircraft goes missing.

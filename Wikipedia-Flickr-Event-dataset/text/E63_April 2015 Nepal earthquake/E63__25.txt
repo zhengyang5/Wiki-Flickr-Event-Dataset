@@ -1,0 +1,221 @@
+In the following discussion, we mainly focus on the role of the
+
+contrast of granulometry and retain that thickness is an increasing
+
+function of intensity for a given lithology.
+
+4.3.6. Comparison of historic and pre-historic seismites in the
+
+Kathmandu basin
+
+The comparison of the seismites developed during the 1833
+
+earthquake and the ~11 kyr BC event is possible because several
+
+conditions are similar during their development: a) the hydraulic
+
+conditions were similar for the seismites associated with the 26
+
+August 1833 seism that formed during the monsoon season in the
+
+ﬂ ooding plain of the Bagmati River and for the paleo-seismites that
+
+developed in the delta plain of the paleo-lake; b) the levels affected by
+
+soft-deformation have the same lithological characteristics at Kotes-
+
+wor, Gokarna and Gothatar sites, with soft-sediment deformation that
+
+mainly affects sandy silt; c) the Bagmati and Koteswor seismites are
+
+located in zones affected by the same ampli ﬁ cation effect of the basin
+
+ﬁ lling as suggested by the distribution of the 1934 damages ( Fig. 2 ).
+
+The Bagmati se ismites have nea rly a ~3 0 cm thickness not
+
+in ﬂ uenced by a litholog ical contrast (see Secti on 3.6.3 ). These
+
+seismites are located in an area where the village of Gokarna was
+
+more strongly affected by the 1833 earthquake than most of the
+
+Kathmandu valley villages (from Campbell, 1833 , printed in Bilham,
+
+1995 ). Therefore, though the gross estimation of the intensity in the
+
+Kathmandu basin varies from MM VIII to X ( Bilham, 1995; Chitrakar
+
+and Pandey, 1986 ), the Gothatar and Gokarna sites have probably
+
+suffered an MM X intensity.
+
+At Koteswor, the thickness of the ~11 kyr BC seismite is limited by
+
+the lithological contrast between the deformed silty level and the
+
+underneath undeformed sandy level. The maximum thickness of the
+
+seismite is 90 cm and gives a minimum value for the thickness of the
+
+soft-sediment deformation level induced by the ~11 kyr BP event.
+
+Because the Koteswor seismite is at least three times thicker than the
+
+Bagmati seismites, we consider that the intensity of the Koteswor
+
+earthquake was much greater than the intensity reached during the
+
+1833 earthquake in the Gokarna area, i.e. greater than MMI X.
+
+Fig. 11 shows the averag e shear stress leve l that would be reach ed at
+
+depth during the ~11 kyr BP and 1833 AD events. Only two constrains
+
+(thick hori zontal lines on Fig. 11 ) allow to buildthe strength curve of the
+
+Kathmand u basin sediment and the wi dth of the unce rtainty doma in
+
+outlines the dif ﬁ culty to go farther in qu anti ﬁ catio n.
+
+4.4. Mega-earthquake occurrences in Himalaya
+
+4.4.1. Paleo-seism record in the Kathmandu basin
+
+The record of paleo -seisms is very d iscontinuous i n ﬂ uvial
+
+sediment since ~ 10 kyr and numerous events, like the 1934 AD or
+
+1255 AD earthquakes, are missing. Nonetheless, the ~ 11 kyr seismite
+
+indicates that earthquakes shocked the Kathmandu basin with an
+
+intensity greater than MMI X. Such intensity could not be related to
+
+earthquakes located at a shorter distance than the 1833 or 1934
+
+events because their ruptures extended at a distance of less than
+
+10 km from the center of Kathmandu ( Bilham, 1995; Chen and
+
+Molnar, 1977 ). A minimum estimation of the ~ 11 kyr earthquake
+
+magnitude is obtained for a rupture that extended beneath the
+
+Kathmandu basin and even in this conservative case, the great
+
+seismite thickness is related to an event with a source magnitude
+
+greater than the 1934 event. The development of mega-seismites in
+
+the Kathmandu Valley during shaking events with magnitude greater
+
+than M 8.1 therefore argues for one interpretation among those
+
+proposed ( Lavé et al., 2005 ) for the more than 14 m-surface slip that
+
+occurred during the ~ 1100 AD earthquake (trench 2 on Fig. 1 ): i) the
+
+14 m-surface slip could be the sum of several surface motions
+
+occurring during a short period and therefore dif ﬁ cult to individualize
+
+from trench dating; ii) it could be related to an earthquake that
+
+released the elastically stored deformation at the tip of previous
+
+ruptures restricted to the northern part of Himalaya; the ~ 1100 AD
+
+earthquake would ﬁ nally deliver to the surface a sum of several
+
+events; ii) medieval-like earthquakes could nucleate below the High
+
+Himalaya, and break through the surface trace of the MFT, leading to
+
+cross-strike distance along the MHT of about 100 km. We favor this
+
+last seismo-tectonic interpretation that agrees with great seismite
+
+thickness and large surfac e displacement, hence M ≥ 8.6 paleo-
+
+earthquakes ( Lavé et al., 2005 ).
+
+4.4.2. The 1255 AD event
+
+The 1255 AD event badly damaged Kathmandu and is the most
+
+catastrophic event recorded in the Nepalese historic archives (e.g.
+
+Shava, 1992 ). Localization of its epicenter from historical archives is
+
+not possible because information is restricted to the Kathmandu area.
+
+In order to precise the location of the 1255 event, a cross-section
+
+through the MFT is described in the following and several
+
+14
+
+C ages
+
+( Table 3 ) are added to a previous study performed in the western
+
+Nepal ( Mugnier et al., 2005 ).
+
+In the western Ne pal, (site 3 on Fig. 1 ), the M FT thrusts above 1225 –
+
+1271 yr Cal AD sediment ( Table 3 and Mugni er et al., 2005 )a n dat e rr a c e
+
+(T5) is folded abo ve the MFT ( Fig. 12 D) with ~ 6 m vertical offset. Six
+
+hundred met ers north of the M FT, T5 is locate d ~ 13 m above the
+
+present-d ay river bed and ~9 m above the T2 ter race ( Fig. 12 C) . The T5
+
+de ﬁ nitiv e abandonment occ urred after 1398 – 1442 Cal A D from a
+
+charcoal sa mple ( Table 3 ). As the ab andonment occu rred after the uplift
+
+related to the ear thquake, the upli ft occurred betw een 1225 and 1442
+
+Cal AD. We thu s suggest that ~8 m slip occ urred along the M FT in
+
+relation wi th the 1255 AD sei smic event and ca used ~6 m uplift of the
+
+hanging-w all; the knick point retre at that controls the upst ream
+
+incision ( Whipple, 2004 ) would occurred at a rate of 3 – 4m / y r i n
+
+order to induce t he abandonment of the up stream part of T5 terra ce
+
+between 139 8 and 1442 Cal AD. An al ternative i nterpretatio n is that the
+
+8 m-surf ace-slip is the sum o f several events and w ould explain the
+
+abandonme nt of several smallterrace levels (T3 and T4) ( Mugnier et al.,
+
+2005 ). Howe ver, complement ary studies indica te that T3 was ascribed
+
+to a debris ﬂ ow of 5 m thick and T4 is of very small ext ension. The post
+
+1832 – 188 5 Cal AD incision of terrace T2 that se als the MFT could either
+
+be related to ent ropic in ﬂ uence or to upl ift above a blind tip of the MHT;
+
+two great eart hquakes of MMI VIII wer e quoted in this area for the 19t h
+
+century ( Kh attri, 1987; Qui tmeyer and Jacob, 19 79 ) and also shocked
+
+Kathmandu ( Chitrakar an d Pandey, 1986 ); w e favor the 1866 AD event
+
+rather than the1833 AD event that occurred eas tward (see Section 2.2 ).
+
+Fig. 11. A sketch of the stress level that affected the Kathmandu soft-sediment. Stress
+
+level curves for MM X, XI, XII Intensities deduced from a combination of Eqs. (1) and
+
+(3) . The thick horizontal lines refer to the intensity of 1833 and ~ 11 kyr BC events and
+
+to the thickness of the associated soft-sediment deformation. The thick curve refers to a
+
+possible strength curve. Gray domain refers to the uncertainty concerning this curve.

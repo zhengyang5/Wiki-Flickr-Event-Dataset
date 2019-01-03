@@ -1,0 +1,57 @@
+Among the first to experience it will be Korea’s wild boars
+
+The first to experience the future of wireless technology, well before most humans, will be South Korea’s wild boars. That’s because 5G, the fifth-generation wireless network, is making its worldwide debut at the Winter Olympics in Pyeongchang.
+
+The technology will be used to ward off the porcine pests who roam the mountainous region around the Games with fast-acting systems that shoot rays, spew gases and emit tiger roars.
+
+That’s just the start of 5G -- South Korea’s attempt to showcase the first-in-the-world commercial use of the technology that’s not scheduled to roll out globally until 2020. At the Games, shuttle buses run with no humans at the wheel, and 360-degree images in real time show competing figure skaters as they glide around the ice.
+
+Fifth-generation wireless networks are designed to be wicked fast, about 100 times faster than 4G. At 10 gigabits a second, 5G can send a full-length high-definition movie in seconds. It also paves the way for the "internet of things," where devices from refrigerators to traffic lights to dog collars can talk to each other.
+
+The tech industry is counting on the new capabilities: 5G will be important for developing artificial intelligence, drones, self-driving vehicles, robots and other machines that transmit massive data in real time, said Sandra Rivera, Intel Corp.’s California-based senior vice president overseeing network platforms. In other words, if computers talk to each other like children in 4G now, they’ll soon speak like grown-ups in 5G.
+
+“It really is, we call it, the era of machines,” Rivera said in an interview. “Machines are coming, and the 5G is a big enabler with that true convergence of computing and communications.”
+
+The Pyeongchang showcase, engineered by South Korean telecom carrier KT Corp., uses technology from Intel, Ericsson AB and Samsung Electronics Co. Left out is Huawei Technologies Co., which is also racing to develop 5G technology.
+
+After the Games are over, the technology will go offline as developers analyze the data and work out kinks. 5G is due to be rolled out by South Korea’s wireless carriers next year.
+
+In the past, sporting events have helped introduce new technology, such as the high-speed trains unveiled at the 1964 Tokyo Olympics. Color television also went mainstream after the Games in Japan, which will host the Summer Games in 2020.
+
+About 1 billion people worldwide are likely to be 5G-enabled within five years, and that will lead to $12.3 trillion in global economic output by the mid-2030s, according to researchers from Ericsson and IHS Markit.
+
+Due to its speed, 5G opens possibilities that even engineers still aren’t aware of, much like the explosion of apps after the release of the iPhone.
+
+Read More on How 5G Will Juice Up Your Phone: QuickTake Q&A
+
+“The technology has great promise to enable new types-of-use cases,” said Chris Lane, a Hong Kong-based analyst at Sanford C. Bernstein & Co. “However, it will take many years for the full functionality to be developed and for applications that make use of this to appear.
+
+As part of the Pyeongchang rollout, tiny 5G-linked cameras attached to bobsleds will stream live video from the point of view of the pilots. The 360-degree videos of figure-skating events will allow viewers to stop the action to view twists and turns from every angle. Self-driving shuttle buses have interior video screens showing live coverage of events in 5G instead of windows, and use 5G to navigate the roads.
+
+"In the previous Olympics, it took a long time for people to send photos and videos to share with their friends, but now everything is going quickly and smoothly,” Sung Baik-you, spokesman for the Pyeongchang Olympics committee, said Tuesday while also confirming that a cyberattack had paralyzed internet networks on the Games’ opening day last Friday.
+
+Rampaging Boars
+
+In the countryside near the Olympic venue, KT is applying 5G to the more humble cause of repelling wild boars. Tens of thousands of them rampage through potato and carrot fields and potentially threaten the safety of Olympics tourists. 5G’s ability to quickly relay information is what will allow the network to surpass what’s possible with 4G.
+
+“Wild boars are unbelievably smart animals and you need smarter gear to scare them away,” said Han Taek-sik, a KT network engineer.
+
+When he spoke with Pyeongchang residents, farmer after farmer told him they wanted technology that could improve their livelihoods -- and that wild boars were their biggest worry. Nationwide, three people were killed and 21 injured by wild boars between 2012 and 2016, according to South Korea’s environment ministry.
+
+"World’s first or not, 5G means nothing if it doesn’t help us do better farming,” said Kim Hyun-ji, a resident who handles administrative affairs for the village. "We’re glad we will no longer need to rely on hunters and electric wires."
+
+Old Methods
+
+Old-fashioned methods to contain the animals haven’t worked well. The government allows hunting, but that hasn’t stopped the boars’ increasing numbers and has also drawn protests from animal activists.
+
+Many farmers have set up electric fences to protect their fields, but in the past decade alone at least nine people have been electrocuted after accidentally touching the fences. The current 4G-powered system currently can’t tell wild boars from deer or humans, Han said, confusing anything approaching as a threat. The quality of images sent from them is also so low they can’t be analyzed to gain intelligence on wild boars and their behavioral patterns.
+
+A shopkeeper shows a smartphone game inside the 5G Village Cafe. Photographer: Jean Chung/Bloomberg
+
+Who Is Winning: Bloomberg's Olympic Medal Tracker
+
+Once 5G is up and running for good, the upgrade will be able to use 360-degree cameras and drones, according to Han.
+
+"There’s a lot of hype about 5G as a revolution, but most people here don’t even know how their smartphones work," Han said. "They don’t have to know 5G, as long as 5G helps the devices that help these people live better lives."
+
+— With assistance by Adrian Leung, Heejin Kim, and Bruce Einhorn

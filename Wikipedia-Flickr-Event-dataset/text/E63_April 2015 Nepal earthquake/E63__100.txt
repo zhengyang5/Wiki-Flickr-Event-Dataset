@@ -1,0 +1,75 @@
+The aftermath of the 7.8-magnitude earthquake that struck Nepal at 11.56 am on 25 April was chaotic. The quake struck at a depth of 9.3 miles, and combined with the tremors and aftershocks that followed has killed at least 5,000 people. That number is still growing.
+
+That same morning, a different kind chaos sprang up thousands of miles away, in disparate directions, across the globe -- the effort to use data and satellite maps to help first responders before they even hit the ground.
+
+Advertisement
+
+That effort, to date, has seen 2,182 digital volunteers, trawling 14,700 km2 worth of high resolution satellite imagery, identifying 3,128 damaged buildings. "In the week after a large event we are data carnivores -- anything that will make our job easier is used," Dale Kunce, helping coordinate the American Red Cross effort, told WIRED.co.uk.
+
+This is how a natural disaster is mapped in 48 hours.
+
+Read next 9 of the best Firefox add-ons to make your life easier 9 of the best Firefox add-ons to make your life easier
+
+Hour one
+
+In Longmont, Colorado, DigitalGlobe instructs the WorldView-3 satellite, its newest model orbiting at 617km above Earth, to start capturing the region.
+
+The American Red Cross team in Washington DC begins building a "shake map". Using US Geological Survey EarthExplorer data, that map shows the areas hit hardest by the earthquake.
+
+Simultaneously, the International Federation of Red Cross and Red Crescent Societies (IFRC) initiates the "surge desk", and puts a formal request in to its international teams to help.
+
+The beginnings of mapping a disaster zone are messy. More data sources can be sought and added as time goes on, but from the off agencies know people on the ground will need a basic set off maps to begin their coordination efforts. "We always have people on the ground," says Kunce. "Many of my American and British colleagues were in Nepal when the earthquake struck and were responding within hours. We usually prioritise areas that we can identify quickly from secondary data. We then move to areas depending on assessments and information from disaster responders on the ground. Working in mountainous areas is difficult. My team and others at the Red Cross are working hard to prepare the disaster responders with as much information as possible so they can do their jobs most effectively."
+
+Back in the UK, the work needed to achieve that had already begun. "Our team was activated on 26 April, but we were preparing on Saturday as soon as we heard," GIS (geographical information system) analyst Paul Keating, from the London Red Cross team, tells WIRED.co.uk. The focus was on completing simple base maps for the field assessment and emergency response units. These maps look at the areas most affected, using OSM to identify villages in these zones.
+
+Advertisement
+
+OSM has itself been operating since 2006, using maps supplied by Bing to overlay data crowdsourced by a pool of global digital volunteers. "The humanitarian team is a group within the wider OSM community that has a slightly chaotic, distracted internet nature," OSM coder Harry Wood told WIRED.co.uk. The community contributing to OSM in times of emergency is partly made up of aid employees, but the majority are laypeople, volunteers that want to help in a more tangible way. "OSM kicked into action immediately as we saw it on the news," adds Wood. "People all round the world tend to leap into action and contribute."
+
+Read next 11 of the best Google Chrome extensions to make your life easier 11 of the best Google Chrome extensions to make your life easier
+
+Importantly for this particular relief effort, Nepal already had a thriving OSM community. "We've found that no two disasters are alike," says Wood. "And in this instance Nepal had a pretty active local mapping community partly led by Living Labs. So we actually already had a detailed map of that city -- more detailed than any other map."
+
+OSM has been in sporadic touch with Living Labs, which is active on Twitter and pointing its social media followers to update aNepal damage reporting page built using Ushahidi's visual data management system. "We believe they are all safe," says Wood. "They've been sending pictures of the disaster response work. The whole team had to move outside into the yard because they were worried about the aftershocks."
+
+Advertisement
+
+Day one
+
+American Red Cross team integrates data from the 2011 Nepal Census to show where the most people were affected into its shake map.
+
+At the International Federation of Red Cross and Red Crescent Societies, the London base answers the call for help, which in turn coordinated with the Humanitarian OpenStreetMap (OSM) Team, and they with Kathmandu Living Labs, a grassroots OSM team that has been mapping the locale to improve urban planning. The results? 2,182 OSM mappers have made 58,250 edits to highways and 91,850 edits to buildings.
+
+In the hours that follow, data sources pour in from around the globe. The focus shifted to introducing detail of the mountainous region and preparing population maps. "If we see something missing, we just trace it in," says Wood. "We're getting into the really detailed stuff, including mountain roads that are missing, and every building we see."
+
+The team has been refining the process and its OSM tools since it first formerly organised after the Haiti earthquake. Once the area that needs mapping is defined, a task manager splits them up into grids, enabling people to work in such a way that there is no overlapping.
+
+As the OSM projects become more and more high profile, large numbers of new people are contributing. "Most interesting during this activation, is that more than half of the contributors are completely new to OSM and are making their very first edits," Kunce told WIRED.co.uk. Whilst that's undoubtedly a good thing, many are making mistakes and need to be trained along the way.
+
+Read next Huawei's P20 and P20 Pro are serious rivals for Samsung Huawei's P20 and P20 Pro are serious rivals for Samsung
+
+A validation system has been put in place to account for this, with a second pair of eyes cross-checking every bit of data put into a different square. More experienced mappers that have been contributing for years will act as another check point in the system, making wide-ranging edits by looking at the enire map and identifying areas that have been underserved.
+
+OSM data is just one of four key sources the UK and US Red Cross teams collect their imagery from. The others include: GIS-compatible data from GADM (a spatial database of the world's administrative areas), Natural Earth and the UN Office for the Coordination of Humanitarian Affairs. The latter is naturally a key player, and its Nepal team promptly sent data to the US Red Cross over the weekend. "They had in fact done extensive work already and we're using that to create maps of the population affected within Kathmandu to identify regions that need the most help," says Keating. Using the maps, the teams have identified open spaces likely to be used to setup camps for displaced persons. "The people whose houses are structurally compromised are not allowed to go back in," adds Keating. "There are still fears about aftershocks so they are essentially living in tents in open areas -- areas we are mapping."
+
+Day two...
+
+DigitalGlobe's WorldView-3 data is uploaded to the satellite company's crowdsourcing platform Tomnod where, to date, 4,534 volunteers have already analysed 14,700 km2 worth of imagery, making 21,975 "tags" of 3,128 damaged buildings, 1,191 locales of major destruction and 1,129 damaged roads.
+
+"The areas of Nepal affected by the earthquake were within WorldView-3's field of view yesterday during one of its 15 orbits around the Earth; we just had to tell it where to look," DigitalGlobe's Turner Brinton tells WIRED.co.uk.
+
+Post-event, satellite data is vital to the relief effort, combined with information coming in on social media and news outlets. UN group UNOSAT helps acquire imagery from multiple sources and distribute them -- sometimes the OSM teams won't even know the source of the images. "The data means we can put in map updates to do with any really obvious building or bridge collapses -- we can take roads off the maps." All the data is vital for coordinating the relief effort and getting first responders to the dispersed population, identified on day one.
+
+DigitalGlobe has been aiding first responders for years, making its imagery available as soon as possible after the Haiti earthquake of 2010. "It is a critical component in providing first responders and aid groups with an understanding of conditions on the ground," DigitalGlobe's Turner Brinton tells WIRED.co.uk. "We have been imaging the affected areas [in Nepa] for the past several days, though heavy cloud cover has hampered our efforts somewhat." "Each event is different. Earthquakes are sudden events for which we have little time to plan and react, whereas hurricanes, droughts, and wildfires typically afford us at least some lead time." The team has an operational protocol in place to re-plan where their satellites should point to collect the best imagery needed for the situation. "Once this imagery is acquired, it's prioritised in our production system so that it can be published in an expedient manner." Then, depending on the situation, it can be shared with governments, agencies coordinating first responders and the public.
+
+Satellite footage of the nine-storey, 61.88-metre-tall tower at Sundhara in Kathmandu, before and after the earthquake DigitalGlobe
+
+Advertisement
+
+The team has also shared "critical pre-event" imagery dating from 1 April as a point of comparison for rescue workers and mapping teams. "In early April, we did not know that an earthquake would strike Nepal on the 25th, but because our satellite constellation allows us to image nearly 60 percent of the world’s land area each month, we did have relevant pre-event imagery that was only a few weeks old."
+
+...And beyond
+
+DigitalGlobe, and every other team mentioned above, are far from the only contributors -- the data sources keep coming in. Around 5pm on 27 April, the national French space agency CNES and the UK's Airbus Defence and Space uploaded imagery of Kathmandu, taken by the Pleiades satellite that same day, to the OSM France server, along with an image of the same area taken in November. Kunce says 189 national societies around the globe are supporting the Nepal Red Cross, and separate efforts to collate and make sense of news and social media updates are ongoing.
+
+Meanwhile, a community of digital mapping volunteers continues to plug away as that information pours in. In the time it took to write this article, a further 21 mappers joined the OSM effort, and a further 2,855 edits have been made to Nepal's crumbling buildings

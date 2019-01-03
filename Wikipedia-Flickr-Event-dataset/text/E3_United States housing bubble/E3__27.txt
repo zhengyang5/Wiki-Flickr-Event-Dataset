@@ -1,0 +1,93 @@
+« Opportunity cost illustrated | Main | How Mobile Is Capital Internationally? »
+
+August 24, 2006
+
+New home sales continue to fall
+
+No question about it, the housing downturn is here now, and it's big.
+
+The Census Bureau today released their estimates for the number of new homes sold through July. On a seasonally adjusted basis, July sales were down 4% from June, which in turn were down 13% (logarithmically) from their average value during 2005.
+
+
+
+One can get a little clearer picture of what is going on by looking at the raw seasonally unadjusted data. New home sales are highly seasonal, strongest in the summer months. In a typical year, July new home sales would be 32% higher (logarithmically) than they had been in December. This year, July sales were less than 5% above December, or 27% below what we'd expect to see for this season in a typical year.
+
+
+
+On a year-to-year basis, seasonally unadjusted new home sales in July were down 25% (logarithmically) from July 2005, and indeed below the July values for either 2003 or 2004; (see the nice graphs at Calculated Risk). So how bad is that? In the last 42 years (a period that includes 6 economic recessions), there was only one year in which we've seen a weaker December-to-July gain. The good news is that record year was 1994, in which the economy did not go into a recession, but instead was the prototypical "soft landing" which the Fed hopes to repeat this time. Can the Fed pull it off again? In 1994, the economy was not under the strain from high oil prices that we're currently experiencing. And I continue to have concerns that as the perception sets in that home prices are falling rather than rising, we may see some significant shifts in consumer sentiment and budget constraints that could introduce a dramatic new dynamic to the current situation. Barry Ritholtz spells it out if you're looking for some more reasons to worry.
+
+Technorati Tags: housing, new home sales, macroeconomics
+
+Posted by James Hamilton at August 24, 2006 09:37 AM
+
+Trackback Pings
+
+Listed below are links to weblogs that reference New home sales continue to fall:
+
+» Housing Bubble to Deflate;
+
+Recession to Follow from EclectEcon
+
+(I posted this a year ago this coming weekend):
+
+
+
+That [headline is] the prognostication of economist Ed Leamer: [Read More]
+
+Tracked on August 24, 2006 01:41 PM
+
+I did not see any numbers on median housing prices in your posting. However, I just saw a CNN headline that median house prices are down 10.5% since April. Does this make things worse or just more of the same?
+
+Posted by: Barkley Rosser at August 24, 2006 11:31 AM
+
+My concern is housing COSTS. My experience here in Northern California is that one either pays the seller or pays the banker. That is, low interest rates drive up housing prices. High interest rates drive down or hold flat housing prices. With net immigration, population pressure, and a decent economy, housing demand continues.
+
+Posted by: Joseph Somsel at August 24, 2006 01:25 PM
+
+When capital is cheap, ie low mortgage rates (10 yr treasury)The asset becomes expensive, and vise versa. But we all want asset appreciation,and what will happen now is the asset deprecation will far outweigh the low intrest rates of the last few years. One is better off buying a cheap asset with expensive money, than the other way around, which is the case of the current housing bubble.
+
+Posted by: Anonymous at August 24, 2006 03:52 PM
+
+Barkley, there's a lot of month-to-month variation in the median prices reported by Census. April was the highest of any of the last 12 months, so taking the decline since then has to be an exaggeration. The July 2006 median price was in fact a little above the July 2005 median price. I think prices have come down over the last 6 months, but I'm a little uncomfortable defending a particular number for how much. The critical question for me is how the market might change if there comes to be a widespread recognition that house prices are headed down.
+
+Posted by: JDH at August 24, 2006 05:33 PM
+
+James, you ask, "Can the Fed pull it off again?" Doesn't the answer to this question depend upon the rate of flow of oil from the ground? Unless that rate increases materially, which it won't, "inflation" will remain higher than the Fed prefers, in which case you can bet on further rate increases and further pain in the housing statistics. Of course, oil "demand destruction" might set in and/or Daniel Yergin might for once be telling the truth. I wouldn't bet on either.
+
+Posted by: Thomas James at August 24, 2006 07:02 PM
+
+Jim, Some further checking suggests that nationwide median house prices were essentially flat over the past month. Sorry about the misleading report. Of course we know in housing markets, with sellers trying to hold out for preferred prices, that demand declines usually show up first in a volume of sales decline, which is clearly going on.
+
+Posted by: Barkley Rosser at August 25, 2006 08:15 AM
+
+Barkley: Some analysts argue that builders are throwing in a lot of extras to make the sale, keeping prices level. I don't know from direct experience, but I'd think the builders absolutely hate having a price decline. All those who just purchased scream bloody murder. So the builder would prefer to keep the price level by throwing in all kinds of extras, including loan terms, appliances, upgrades, pools, cars, trips, and anything to get that buyer into the house at the existing price. Makes sense to me. So flat prices are probably not a good sign. The declines have already started but are masked by extras.
+
+Posted by: T.R. Elliott at August 25, 2006 09:05 AM
+
+T.R. Ellition -> You're spot on. There are changes that prices do not reflect. As you pointed out, the builders throw in extras because they don't want to lower the price. It's probalby more selfish for them because once they start lowering their prices it'll be hard to get them back up. Also for home sales, the real estate agent has a lot of incentive to keep the sale price high since they're paid a commision based on that. That's why you see things like the seller overing the closing cost instead of lowering the price of the home by $5 or $10k. What's inflation right now? 4.1% on an annual basis? Seems like median prices for homes are declinging in value of real dollars.
+
+
+
+Posted by: Allen at August 25, 2006 09:21 AM
+
+I do not see the drop in home sales as alarming. Sales have indeed declined from the pace last year, but that was a frothy marked headed toward a bubble. We needed to back off of that pace or problems would have developed. The current sales pace is in the range seen in 2003, which was record year at the time. We are still quite strong by historical standards, just not in line with the results from the frothy, speculative conditions seen in 2005.
+
+Posted by: Kater at August 25, 2006 12:26 PM
+
+All the talk of a bubble actually distorts the truth. The strong market in housing over the past months was interest rate driven. We were actually seeing the capitalization of interest rates. A family with a 4% mortgage would pay about $1,200 per month on a $250,000 home. At 6% this same family could only afford a $200,000 home. As interest rates fell families sold the old house and moved to a more expensive house. This increased demand made prices increase. Now that interest rates are going up families are living with what they have. Builders on the other hand are stuck with inventory. A friend who works construction told me this past week that the builders have stopped all new construction. Housing prices have not declined but construction has nearly ended. It will be difficult to jump start housing because those who had the means are already in their new homes and will not move unless rates become attractive. There is a housing slump but it has been created by interest rates. But if you look at housing the past few months as a bubble you will overlook the signals from the market. Also you will miss the complicity of the FED in creating the problem.
+
+Posted by: Dick at August 25, 2006 01:31 PM
+
+Obviously you aren't getting it kater, sales just aren't coming off 2005 highs, but declining down toward 2003. Be afraid, very afraid.
+
+Posted by: Johnson at August 25, 2006 04:04 PM
+
+With much hand wringing, the discussion, at least among the media, is about decline/not decline. The stats in light of historical context indicate how far down should be the discussion, and the ramifications for the average household. A well run, financially at least, family in the suburbs with kids in high school, etc, will no be selling their house because the market tells them it is now worth $300,000 instead of $500,000. Just like they did not sell when their neighbors house sold for $600,000 last year. Having paid $150,000 for it ten years ago, they could not provide an answer to the necessary question of "where would we move to?" The wealth effect with be the transmission mechanism. Not having the luxery of a cheap line of credit to cover emergencies, or indulgences, they will buckle down and address debt. In light of fuel prices pushing up the cost of driving their leased SUV by 40 percent, the family budget is going to be squeezed very hard indeed. I will be watching back to school purchasing stats very closely. Now lets talk about the speculators, the wannabe real estate moguls buying condos before the building has been built. They are in for a rough ride with condos they cannot sell nor rent. The first waive will walk away from the purchases forgoing their downpayment. The next group of "smart" investors will be able to buy the units from the developer for the original price less the downpayment in a "fire sale". Smug with themselves, they will have to address the abundance of vacancies in the rental market and accept rents that do not cover the entire cost of their new sources of "tax losses". The next group will be the those that stretched themselves to the breaking point with equity loans but cannot curb their spending. They will approach their creditor for the customary increase in loan and will find the tap closed. And be presented with a request to re-apply for the entirety of the loans outstanding. A application that will likely be denied or accepted a prohibiatively high terms. Amongs gasps of "but you already have the loan" they will find that they cannot service it at current rates. This the deep damage that fills our shelters, rehab and other social services. When these houses -- rather than condos -- rather than condo's hit the market we are approaching the maximum rate of decline. Now I may be mistaken and two teachers may indeed be able to service a mortge of $500,000 at 10 percent but that would require math that I am not capable of performing.
+
+Posted by: Phraxis at August 26, 2006 08:02 AM
+
+The funny thing is, that the gloomy scenario painted is good for at least some people. My wife and I have been paying down debt and saving money for a couple of years now in preparation for buying our first home. Meanwhile housing prices have soared. I won't shed a lot of tears if they actually decline just as we are getting to the point where we can start making offers.
+
+Posted by: Nordic at August 28, 2006 02:27 PM
+
+Post a comment

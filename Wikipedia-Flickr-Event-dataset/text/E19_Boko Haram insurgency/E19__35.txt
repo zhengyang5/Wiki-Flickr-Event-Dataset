@@ -1,0 +1,13 @@
+The Nigeria Security Tracker (NST), a project of the Council on Foreign Relations' Africa program, documents and maps violence in Nigeria that is motivated by political, economic, or social grievances. Different groups in Nigeria resort to violence. The militant Islamist movement Boko Haram is active in northern Nigeria. Violence among ethnic groups, farmers, and herdsmen sometimes acquires religious overtones. A new generation of Niger Delta militants threatens war against the state. Government soldiers kill civilians indiscriminately. Police are notorious for extrajudicial murder.
+
+Methodology
+
+The Nigeria Security Tracker (NST) tracks violence that is both causal and symptomatic of Nigeria’s political instability and citizen alienation. The data are based on weekly surveys of Nigerian and international media.
+
+The data start with May 29, 2011, the date of Goodluck Jonathan’s inauguration as president. It was an event that highlighted the increasing bifurcation of the country on regional and religious lines. The NST is updated weekly.
+
+Relying on press reports of violence presents methodological limitations. There is a dearth of accurate reporting across certain regions, death tolls are imprecise, and accounts of incidents vary. There is the potential for political manipulation of media. Given these limitations, the NST makes every effort to collect information from multiple sources. Nevertheless, NST statistics should be viewed as indicative rather than definitive. Download the whole dataset as an excel spreadsheet here.
+
+For more details on conflict in sub-Saharan Africa, please see the Sub-Saharan Security Tracker.
+
+The Nigeria Security Tracker is edited by Ralph Bunche Senior Fellow for Africa Studies John Campbell.

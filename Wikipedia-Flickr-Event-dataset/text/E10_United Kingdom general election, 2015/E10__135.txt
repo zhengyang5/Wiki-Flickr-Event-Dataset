@@ -1,0 +1,71 @@
+The result appears conclusive – the Conservatives won a majority with almost 51 per cent of the all seats available, up from 47 per cent in 2010. But a closer look at the results reveals some interesting trends both for the two main parties, and some impressive forward strides from the SNP, UKIP and the Greens. A closer look at the figures of the two main parties (Figure 1), suggest Labour actually moved forward at a greater rate than the Conservatives. Labour’s overall share of the vote increased by 1.5 percentage points, compared with the Conservatives 0.7 points, and this despite the SNP taking huge chunks of Labour’s vote in Scotland. However, had Labour kept the same share of the vote in Scotland as in 2010, Labour would have still had a lower share than the Conservatives overall – 33.5 versus 36.8 per cent. In contrast, it would have made a far bigger difference to Labour, in terms of vote share at least, had the majority of the lost Liberal Democrat share moved over to Labour. The lost Lib Dem share between 2010 and 2015 (15.2%), would have amounted to an additional 4.7 million votes in 2015 – enough votes to sway to the overall result of this election.
+
+In London, Labour did far better than in the UK overall, achieving 43.7 per cent of the vote – an increase of over seven points on 2010 compared with 0.3 point increase for the Conservatives. This led to Labour gaining seven seats in London, giving them 45 of the 73 London constituencies.
+
+Figure 1 Seats, votes and share, 2010 and 2015, UK
+
+London Constituencies only
+
+Figure 2 shows that the SNP share of the vote in the seats they contested was over 50 per cent – up 30 percentage points since 2010. UKIP had the second largest increase, rising from an average of 3.6 to 13.8 per cent. Both UKIP and the Greens received more than four times the number of votes they received in 2010, while the SNP trebled their total.
+
+Figure 2 Average vote share per constituency, UK
+
+
+
+This table only includes parties that stood in both 2010 and 2015 in a constituency.
+
+In terms of seats changing hands, there were two main stories. Firstly, in Scotland the SNP gained 50 seats, 39 from Labour and 10 from the Liberal Democrats. Secondly, the Liberal Democrats, lost a further 39 seats to Labour and the Conservatives (a loss of 49 across the UK). Most of the other seats that changed party were between Conservative and Labour but they more or less cancelled each other out, with Conservatives taking nine from Labour, while Labour took ten from the Conservatives. The chart shows where the three parties that made gains in this election, won their seats from.
+
+Figure 3 The source of the gained seats, Great Britain
+
+
+
+Chart excludes the three gains made in Northern Ireland. The gains take account of by-elections that took place between 2010 and 2015.
+
+So Labour did improve their vote share in most constituencies across the UK, other than in Scotland, but they came from a relative position of weakness in 2010 and had a lot to do in many areas if they were to catch the Conservatives. However, in areas that Conservatives held onto in 2015 the gap between Labour and the Conservative actually increased slightly from 27.9 to 28.8 points because while Labour improved the Conservatives improved even more. This was not the case in London, where Labour narrowed the gap in Conservative held seats from 27.2 to 24.5 points on average.
+
+Even with their 39 Scottish seats, Labour only held 258 seats in 2010 compared with the Conservatives 306, so Labour had a lot to do to overhaul this deficit, especially given that the Conservatives held 178 seats with a majority of greater than 15 points in 2010, and also because where the Liberal Democrats held seats in 2010, the Conservatives were more commonly the closest opposition. This meant that if and when the Lib Dem share fell, it was less likely Labour would be in a strong enough position to win these seats. In the seats that the Lib Dems lost to either Labour or Conservative in 2015, the average Labour share in 2010 was only 15.2%, compared with the Conservatives 32.3%. Even though Labour increased their share in those areas by more than the Conservatives in 2015 (up 5.9 point and up 1.7 points on average respectively), Labour were coming from a far weaker position. Consequently, the Conservatives took 27 from the Liberal Democrats and Labour only took 12.
+
+Labour did make some progress towards taking some of the Conservative share in the UK overall. In 222 constituencies there was a Conservative to Labour swing. In comparison there were 151 with a Labour to Conservative swing. However, it was too little improvement, given their position in many constituencies in 2010. Labour made clearer progress in London with a swing towards them in 56 seats compared with a swing to Conservatives in 12 areas.
+
+Figure 4 Aggregate of the types of swing in UK constituencies
+
+
+
+Labour held 144 ‘safe’ seats in 2010 (majority of more than 15 points) but with the huge turnaround in Scotland, it transpired that 34 of these were not safe at all. Following the 2015 result, the Conservatives now hold 235 seats with a greater than 15 point majority, while Labour hold only 158 with the same buffer.
+
+Labour’s share did increase (on average) slightly even in the Conservative held constituencies, but this was the least that could be expected with the Lib Dem vote falling so much (from 23.4 to 7.1 per cent in Conservative held areas) and UKIP supposedly taking votes from the Conservatives. In reality, UKIP won a slightly higher share of the vote in constituencies that Labour held rather than Conservatives, and UKIP achieved an average of 14 per cent of the vote in both constituencies that Labour and Conservatives won, showing that UKIP are not any stronger in traditional Conservative areas. In terms of pure numbers, it looks on paper as if voters moved from Lib Dem to UKIP but it was probably a lot more complex than that, and is impossible to unpick these moves between parties with the data available.
+
+Figure 5 Average vote share trend 2010-2015 by seat status, UK
+
+
+
+This table only includes parties that stood in both 2010 and 2015 in a constituency. A fuller version of this table is available from the dataset page – link at the foot of the page.
+
+
+
+UKIP dominated the biggest swings with far more large increases than any other party. In 277 constituencies they had a greater than 10 point increase and in a further 273, they had some increase. It’s worth noting that UKIP didn’t have a candidate standing in 92 areas in 2010, and 26 in 2015. The Conservatives didn’t have a single large increase, while Labour had 34. Labour had 414 smaller increases and the Conservatives 383. The Lib Dems did not have any increases in share at all, but 550 large falls. Most of Labour’s 47 big falls occurred in Scotland. Take a look at the map to see a geographical presentation of change in vote share.
+
+In London, Labour improved in 69 areas, with 14 of these being greater than 10 points. UKIP also had 14 large increases, but worth noting that UKIP didn’t stand in 13 constituencies in 2010, so technically speaking by putting forward a full slate this time, they improved in all 73 areas in London.
+
+Figure 6 Degree of swing by party
+
+
+
+A large increase/decrease is defined as greater than 10 percentage points here. These charts only include parties that stood in both 2010 and 2015 elections.
+
+
+
+The Conservatives either came first or second in 511 of the 650 constituencies (up from 496 in 2010). This was higher than Labour’s 485, although Labour did increase theirs considerably from 417 constituencies in 2010. In 2010, the Liberal Democrats had 300 first or second places, and this fell to just 71 in 2015. Conversely, UKIP’s number increased from 0 to 121 (all but one were second places). Take a look at the map to see the parties in second/third place across the UK.
+
+Figure 7 Number of constituencies each party finished first or second, UK
+
+
+
+But despite the Conservatives not making any big improvements across the 650 constituencies, they did manage to achieve 37 per cent of the vote, and 51 per cent of the seats. In comparison, Labour achieved 30 per cent of the vote and 36 per cent of the seats, which as a ratio of votes to seats, is still greater than one. Conservatives ratio climbed to 1.4, which was their highest since 1992 but still not as high as the ratio for Labour between 1997 and 2005. All the other parties together achieved 33 per cent of the vote but only 14 per cent of the seats, giving a ratio of around 0.4, which is about the same as it has been over the last five elections but has been the source of recent renewed calls for consideration of proportional representation.
+
+Figure 8 Votes to seats ratio 1992-2015, UK
+
+
+
+A full record of results, including the data for the charts here, is available on the Datastore.

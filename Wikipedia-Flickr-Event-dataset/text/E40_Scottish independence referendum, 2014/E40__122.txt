@@ -1,0 +1,125 @@
+4. Overall Fiscal Position and Public Sector Debt
+
+4.1 This chapter assesses Scotland's overall fiscal position. The focus of the chapter is on Scotland's estimated net fiscal balance (the difference between tax revenue and government expenditure) and Scotland's notional share of UK public sector net debt.
+
+Assessing the Sustainability of the Public Finances
+
+4.2 There are two primary indicators of the sustainability of a country's public finances, the annual budget balance and the overall stock of public sector debt.
+
+4.3 The budget balance measures the difference between public spending and tax revenue in a given year. It therefore determines the government's annual borrowing requirement. The stock of public sector debt is the cumulative value of all outstanding debts owed by the government. It is also a factor in determining the amount that a government has to pay each year in interest payments. Both indicators are generally measured as a share of GDP to provide an indication of the scale of debt or deficit relative to the size of the economy.
+
+4.4 It is possible for a government to run an annual budget deficit (a shortfall between income and expenditure) in a manner which is sustainable. This is because if the economy is growing quicker than the rate of debt accumulation, the debt to GDP ratio will still fall. As such, the burden of the debt will be reduced, relative to the country's ability to service it.
+
+4.5 The sustainability of a country's public sector debt therefore depends on the rate at which the stock of debt is increasing relative to the growth of the economy. If debt is stable or falling as a share of GDP it is generally sustainable. However, if debt is increasing as a share of GDP this is unsustainable in the long run.
+
+4.6 The prevalence for countries to run net fiscal deficits is reflected in the public finance data collected by the OECD . The OECD provides estimates of the annual budget balances for seventeen of its members for each year between 1980 and 2014. This shows that a number of countries, including France and Austria, are estimated to have run a fiscal deficit in every year during this period. Likewise, the USA and UK have only run budget surpluses on three and four occasions respectively during this period. South Korea and Norway were in deficit for the fewest number of years. In the case of Norway this reflects, in part, their effective use of the tax revenues received from oil and gas production.
+
+4.7 Looking at the aggregate public finances of all OECD countries shows that over the 35 year period between 1980 and 2014 there has been only one year when the group as a whole has not run an overall budget deficit.
+
+Chart 4.1 - OECD Countries: Number of Years in Deficit: 1980-2014 (35 Year Period)
+
+Source: OECD Economic Outlook Database
+
+Scotland's Net Fiscal Balance
+
+4.8 The primary estimate of Scotland's overall annual budget balance is the net fiscal balance. The net fiscal balance measures the difference between total public sector expenditure and revenue. It is comparable to the estimates of UK public sector net borrowing published by the Office for National Statistics. An alternative measure of Scotland's fiscal position is the current budget balance, which is also published by the ONS for the UK . This measures the difference between current expenditure and current receipts and is discussed further in Box 4.1.
+
+4.9 Scotland's net fiscal balance as a share of GDP in each year from 2007-08 to 2011-12 is outlined in the chart below. The equivalent UK figures are also provided. Two trends are evident from the data.
+
+4.10 Firstly, over the five years to 2011-12 as a whole, whilst in deficit, Scotland was estimated to be in a relatively stronger fiscal position than the UK . Since 2007-08, Scotland has run an average net fiscal deficit of £8.3 billion (5.9% of GDP ). During the same period, the UK ran an average annual deficit of £111 billion, equivalent to 7.6% of GDP .
+
+4.11 Secondly, the results in Chart 4.2 demonstrate the impact that the recession has had on Scotland's public finances. In line with many other countries, Scotland has observed a large increase in its net fiscal deficit after 2008-09 as a result of the global recession. This trend is reflected across virtually all advanced economies. Among the 35 members of the OECD , only Norway and Switzerland did not run a fiscal deficit in 2009.
+
+4.12 Box 4.1 provides estimates of Scotland's current budget balance (the difference between current revenue and current expenditure) in the five years from 2007-08 to 2011-12. The results show that over this period Scotland is estimated to have run an average current budget deficit equivalent to 2.9% of GDP whilst the UK ran an average current budget deficit equivalent to 5.0% of GDP .
+
+Chart 4.2 - Net Fiscal Balance: Scotland and UK (% of GDP )
+
+Source: GERS 2011/12
+
+Box 4.1 - Current Budget Balance
+
+The current budget balance illustrates the difference between current revenue and current expenditure. It therefore excludes capital expenditure. The current budget balance measures the degree to which current taxpayers meet the cost of paying for the public services they consume today and a contribution to debt interest payments. If a country is running a current budget balance or surplus it may still have to borrow to fund capital expenditure. However, such borrowing will be for long term investment which can be expected to increase the economy's productive capacity in future years. In effect, no borrowing is being used to fund day to day government services.
+
+The chart below shows Scotland's estimated current budget balance as a share of GDP since 2007-08. In 2007-08 and 2008-09 Scotland was either running a current budget surplus or a small deficit. In comparison, the UK was in deficit in both years. Looking at earlier years shows that Scotland also ran a current budget surplus in 2005-06 and 2006-07. In comparison, the UK has not run a current budget surplus since 2001-02
+
+Since 2009-10 Scotland and the UK 's fiscal positions have deteriorated. This has resulted in both countries running comparatively large current budget deficits in 2009-10 and 2010-11 compared to historical averages. However, as Chart 4.3 illustrates, Scotland continued to run a smaller current budget deficit than the UK . Scotland has also seen a more rapid recovery in its current budget than the UK . By 2011-12, Scotland's current budget balance was estimated to have fallen to 2.3% of GDP , compared to 6.0% of GDP in the UK .
+
+Looking at the period 2007-08 to 2011-12 as a whole, Scotland ran an average current budget deficit equivalent to 2.9% of GDP . Over the same period, the UK ran an average current budget deficit equivalent to 5.0% of GDP .
+
+Chart 4.3 - Current Budget Balance: Scotland and UK (% of GDP )
+
+Source: GERS 2011/12
+
+Scotland's Relative Fiscal Position
+
+4.13 Under the current constitutional framework aggregate levels of public spending and taxation in Scotland and the UK are inherently linked. Therefore, when analysing Scotland's public finances it is informative to consider Scotland's net fiscal balance relative to the rest of the UK .
+
+4.14 Looking specifically at 2011-12, the most recent year for which data and estimates are available, shows that the UK had a deficit equivalent to 7.9% of GDP . In comparison, Scotland ran a net fiscal deficit equivalent to 5.0% of GDP .
+
+4.15 One way in which the relative financial positions of Scotland and the UK in 2011-12 can be illustrated is by analysing the difference in net fiscal balances as a share of GDP between the two countries. This allows the relative size of the economies to be controlled for when comparing their fiscal positions. In 2011-12 Scotland's estimated deficit was 2.9 percentage points smaller, as a share of GDP , than the equivalent UK deficit. When expressed in cash terms, this difference is equivalent to £4.4 billion, or £824 per person in Scotland.
+
+4.16 Extending this analysis over the past five years shows that Scotland has been in a relatively stronger fiscal position than the UK over this period. When expressed in cash terms, Scotland's relatively stronger fiscal position over this period as a whole is equivalent to £12.6 billion. This equates to £2,375 per person. This means that over the period 2007-08 to 2011-12 as a whole, Scotland could have had higher spending, for example on infrastructure investment, and/or lower taxation and still had a smaller estimated fiscal deficit than the UK .
+
+Box 4.2 - Sensitivity to North Sea Revenue
+
+As outlined on Chapter 3, a key difference between the Scottish and UK public finances is the proportion of tax revenue accounted for by oil and gas production.
+
+Chart 4.4 Cumulative North Sea
+
+Revenue: 2007-08 to 2011-12
+
+Source: GERS 2011/12 and Scottish Government analysis
+
+The primary determinants of offshore tax receipts are the level of production, oil and gas prices and operating and exploration costs. Whilst production has followed a fairly consistent trend in recent years, prices have been more volatile. Oil prices increased from $55 a barrel at the start of 2007 to a peak of $140 in July 2008. They subsequently fell to $35 before returning to over $100 a barrel in 2012.
+
+These price changes have affected the tax revenue generated by the industry. For example, between 2008-09 and 2009-10 Scottish offshore receipts fell from £11.8 billion to £5.9 billion as oil prices fell following the onset of the global recession. However, despite the 50% fall in North Sea revenues during 2009-10, Scotland continued to have a smaller fiscal deficit, as a share of GDP , than the UK . Scottish oil and gas revenues would have had to have fallen by a further £660 million (11%) for Scotland to have had a larger fiscal deficit than the UK during 2009-10.
+
+Between 2007-08 and 2011-12 as a whole the North Sea contributed £43.4 billion in tax revenue to Scotland, as illustrated in Chart 4.4. Even if North Sea revenues had actually been 29% lower than the outturn, Scotland would still have had a smaller cumulative deficit over the past five years than the UK .
+
+Public Sector Net Debt
+
+4.17 When considering the sustainability of a country's public finances, it is important to consider the overall stock of debt, as well as the level of borrowing in a specific period.
+
+4.18 Under the current fiscal framework, UK public sector net debt is incurred for the country as a whole, and not directly for Scotland or any other part of the UK . As such, there are no outturn figures for Scotland's share of UK net debt. Two approaches which can be used to allocate a notional share of UK net debt to Scotland are presented below.
+
+Population Share
+
+4.19 GERS allocates Scotland a per capita share of UK debt interest payments. The same approach could therefore be used to allocate Scotland a share of the corresponding debt.
+
+4.20 UK public sector net debt at the end of 2011-12 stood at £1.1 trillion. Scotland's per capita share would have been equivalent to £92 billion (62% of GDP ). This would represent a lower debt to GDP ratio than for the UK as a whole (72%), reflecting the fact that Scotland has a higher level of GDP per capita (including North Sea oil) than the UK .
+
+4.21 Scotland's notional public sector net debt in 2011-12 would have to have been £15 billion higher than its per capita share for Scotland to have the same debt to GDP ratio as the UK .
+
+Historic Share
+
+4.22 A country's public sector net debt can be viewed as the sum of its historic annual borrowing, minus any debt repayment. Therefore, an alternative way to calculate Scotland's notional share of UK public sector debt is to base it on Scotland's historical fiscal position.
+
+4.23 Information on aggregate Scottish public spending and tax receipts from 1980-81 onwards on a consistent basis is published on the Scottish Government website[76]. Chart 4.5 provides estimates of Scotland's overall net fiscal balance as a percentage of GDP from 1980-81 onwards using this data. The results show that during the early 1980s, Scotland ran a substantial net fiscal surplus, driven by the significant growth in North Sea revenues. Scotland's fiscal position weakened through the 1990s but since 2001-02 has been broadly in line with that of the UK .
+
+4.24 Over the period 1980-81 to 2011-12 as a whole, Scotland is estimated to have run an average annual net fiscal surplus equivalent to 0.2% of GDP . The UK is estimated to have run an average annual net fiscal deficit worth 3.2% of GDP .
+
+Chart 4.5 - Estimated Net Fiscal Balance (1980-81 to 2011-12)
+
+4.25 As approximately 90% of UK public sector net debt has been incurred since 1980, assessing Scotland's fiscal position over this period gives an indication of the amount of UK net debt which has been incurred on behalf of Scotland.
+
+4.26 Between 1980-81 and 2011-12, Scotland is estimated to have run a cumulative net fiscal deficit equivalent to £49 billion. This means that over this period as a whole, total public spending for Scotland exceeded tax revenue by £49 billion. This equates to 5.1% of the cumulative UK deficit over the same period (£968 billion).
+
+4.27 Applying this ratio to UK public sector net debt in 2011-12 would result in a notional share for Scotland of £56 billion, this is equivalent to 38% of Scottish GDP .
+
+4.28 Chart 4.6 compares the above estimates of Scotland's share of UK public sector net debt for 2011-12 as a share of GDP . The equivalent UK figure is also included for reference.
+
+Chart 4.6 - Scotland - Notional Public Sector Net Debt (2011-12)
+
+Source: Scottish Government analysis
+
+4.29 Chart 4.7 shows Scotland's notional share of UK public sector gross debt in 2011 on an internationally comparable basis using the above methodologies. Using either a per capita or historic share of UK debt, Scotland's notional debt to GDP ratio is estimated to be lower than in half the EU -15 countries, including the UK , Germany and France.
+
+Chart 4.7 - General Government Gross Debt: EU -15 (% of GDP )
+
+Source: Eurostat - General Government Gross Debt and Scottish Government analysis
+
+Conclusions
+
+4.30 In summary, Scotland has run an overall net fiscal deficit in recent years, as has the UK . This is common among national governments.
+
+4.31 Despite being in deficit, between 2007-08 and 2011-12 Scotland has been in a relatively stronger fiscal position than the UK . When expressed in cash terms, Scotland's relatively stronger fiscal position compared to the UK during this period is estimated to be equivalent to £12.6 billion. This means that over the past five years, Scotland could have had higher spending, for example on infrastructure investment, and/or lower taxation and still had a smaller fiscal deficit than the UK .

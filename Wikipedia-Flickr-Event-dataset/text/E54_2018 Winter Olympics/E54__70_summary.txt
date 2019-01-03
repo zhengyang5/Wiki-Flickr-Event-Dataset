@@ -1,0 +1,5 @@
+This year’s Winter Games in PyeongChang, South Korea will host the first large-scale public demonstrations of 5G video streaming technologies, broadcasting industry group IBC reports today, as well as the world’s first major 8K HDR video production.
+On the 5G front, the International Olympic Committee has worked with Intel and Korea Telecom to create 5G wireless infrastructure at select Winter Games venues.
+Thanks to real-time 5G video links to bobsled cameras, viewers at home will be able to experience Olympic bobsledding from “an extraordinary bullet’s eye view” at the front of any sled picked by TV producers.
+Other 5G demonstrations will be viewable only in special zones using demo 5G viewing devices.
+NHK is expected to roll out satellite 8K video feeds in 2020.

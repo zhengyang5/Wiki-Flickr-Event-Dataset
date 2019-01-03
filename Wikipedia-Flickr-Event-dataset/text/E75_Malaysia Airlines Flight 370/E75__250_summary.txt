@@ -1,0 +1,5 @@
+The tragic disappearance of MH370 in March put the spotlight on aircraft surveillance like never before.
+The ongoing uncertainty surrounding the last moments and whereabouts of MH370 has left many people surprised at the realities of current aircraft tracking and surveillance technologies.
+IATA has launched the Aircraft Tracking Task Force (ATTF) focused on identifying near-term options for global tracking of aircraft.
+Aircraft surveillance is an ATC function for the purpose of providing a separation service, whereas tracking is about being able to independently locate an aircraft at any given point.
+Space based ADS-B has the potential to provide near global aircraft surveillance.

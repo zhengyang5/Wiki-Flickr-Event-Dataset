@@ -1,0 +1,3 @@
+FiveThirtyEight is publishing forecasts for the 2015 parliamentary election developed by Chris Hanretty, Ben Lauderdale and Nick Vivyan, a group of U.K. academics. Their model combines opinion polls, historical election results and census data.
+
+For updated predictions on election night, visit our live blog »

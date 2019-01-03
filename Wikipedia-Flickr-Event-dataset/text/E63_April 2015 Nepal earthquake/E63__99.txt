@@ -1,0 +1,159 @@
+From OpenStreetMap Wiki
+
+From April 25 to June 8 2015, a significant crowdsourcing effort of the OSM community with more than 7,500 contributors from around the world supported the logistic of the Nepal government, UN Agencies and International organizations responding the Nepal Earthquake human relief. Thanks to the various organizations that supported us, including the Aerial imagery providers, the Mapathon organizers and other Digital Humanitarian Organzations that worked closely with us to monitor the situation. This Activation is now closed.
+
+
+
+
+
+The Response
+
+The Humanitarian OpenStreetMap Team Coordination volunteers and the Kathmandu Living Labs (KLL) Volunteers conjointly assured identification of mapping needs and interfaced with the various humanitarian organizations that responded to the Nepal population needs in Kathmandu and the remote villages in the mountains. KLL also interfaced with the Nepal government and provided various services to the teams arriving in Kathmandu.
+
+Roads and buildings were rapidly mapped with the remote support of the OpenStreetMap community from around the world. From post-disaster imagery, Spontaneous camps were located in Kathmandu. Potential helicopter landing areas in the mountains were also identified. The various mapping services offered are described below.
+
+Map and Data Services
+
+About OpenStreetMap
+
+OpenStreetMap offers an online map and spatial database that is updated by the minute. Various online maps are based on OpenStreetMap, including Navigation tools such as OSRM. Tools and services allow data extracts for GIS specialists, routable data for Garmin GPS, GPS navigation with smartphones and other device-compatible downloads. With an Internet connection, regular syncing is possible, because there is open access to the community-contributed data as it comes in. Also bulk with downloads of OpenStreetMap data are ideal for use offline. In addition, maps can be printed to paper, if needed.
+
+Browse the Activation Area to get a feel for the data that is currently available. Different map styles, including a special Humanitarian style, can be selected on the right side of the screen. Though some data may not render (appear) on the online map, it can be exported from the underlying database for other uses requiring more detail (See export section below).
+
+Paper Maps
+
+Large poster-size maps and letter-size paper atlases of custom areas can be printed:
+
+FieldPapers Paper Maps with grid for field survey or general navigation purposes,
+
+with grid for field survey or general navigation purposes, MapOSMatic Large Paper Maps with grid, street index and POI, good for command centers, hospitals, etc.
+
+with grid, street index and POI, good for command centers, hospitals, etc. Kathmandu Living Labs Quake Maps printable PDF extracts of major cities
+
+Exporting OpenStreetMap data
+
+There is more than one source for the same file format. This should assure a constant access to data if any problems arise from one host.
+
+Information about the various OSM export formats
+
+OpenStreetMap Response
+
+Ongoing updates about this activation are posted on the HOT mailing list
+
+Coordination and discussion may also happen on HOT's IRC Channel (direct link) or Mumble Server
+
+The general Nepal remote mapping guide may be useful for help with identifying Nepalese features
+
+How You Can Contribute
+
+Edit the Map
+
+You can contribute from the Internet by tracing buildings, roads, waterways, etc. To react rapidly to support humanitarians deploying, we need a lot of contributors for remote editing. Visit LearnOSM.org to get started. See the specific LearnOSM Task Manager tutorial. The best way to learn is to participate to Mapathons where experience contributors of your community will show you the basics of editing.
+
+More experienced OSM contributors are invited to read the guidelines on Tagging Roads in Nepal and to revise the classification of roads. You also can assure the quality of the mapping by validating the Task manager tasks or using the various OSM Quality control tools.
+
+are invited to read the guidelines on Tagging Roads in Nepal and to revise the classification of roads. You also can assure the quality of the mapping by validating the Task manager tasks or using the various OSM Quality control tools. Humanitarian field teams and knowledgeable local people also are essential. You can complete the map by adding the names of roads or various infrastructure items. You even can edit the map using small mobile devices. In addition, applications are available for online or offline mapping.
+
+Add a Note or report an Error using the Notes feature on the Online Map. OSM contributors will edit the map from your comments.
+
+Task Manager projects
+
+The following projects have been set-up on the OSM Tasking Manager. The complete list of HOT projects for this 2015 Nepal event are all listed (alongside others) on http://tasks.hotosm.org/ :
+
+
+
+
+
+Overview of tasks and imagery coverage on uMap
+
+Summary statistics of all tasks can be found on the Nepal Mapping Progress Dashboard
+
+General map improvements
+
+As well as small square shaped contributions, we can look to make more wide ranging improvements. Reviewing/improving the overall map data consistency is very useful, but that is also most prone to edit conflicts so please save often and understand in the busy time like this you might encounter edit conflicts.
+
+Any local knowledge like infrastructure, buildings or road names that you know and can positively identify, are extremely helpful to responding organizations.
+
+Mapping roads is a high priority, the Nepal roads page for proposed road conventions or guidelines for road categorization is a good reference.
+
+OpenStreetMap is a editable map, so we can improve it if there's anything missing/wrong (Beginners' guide). This is particularly useful if you have any local knowledge or you can survey things on-the-ground (names of streets etc.).
+
+People who have local knowledge but do not know how to edit OpenStreetMap are still vital to our aid efforts. You can share your local knowledge with the OpenStreetMap "Notes" feature. This lets you drop a marker and attach a note with information about the location/building/road that an experienced OSM mapper will then put in the OSM database. For simple instructions on how to share your knowledge with our mappers please see this quick guide to using notes:
+
+How to easily share local knowledge with OSM Notes
+
+Imagery and Reference Maps
+
+Pleiades, Airbus Defense & Space
+
+2014-04-27 Pleiades 2014-11-29 and 2015-04-27 have been used for post-disaster IDP camps identification in Kathmandu.
+
+Imagery Requests
+
+Fresh and archive satellite imagery is being requested through international activations charter and imagery providers. HOT has identified areas that need high resolution imagery for both base mapping and damage assessment. Areas requested are highlighted in bright blue on this map:
+
+http://umap.openstreetmap.fr/en/map/hot-imagery-coordination_37804#9/28.0623/85.2251
+
+Imagery hosted by Google Crisis Response
+
+DigitalGlobe, Airbus D&S and Skybox imagery prepared, tiled, and hosted by the Google Crisis Response team, and shown on Google CrisisMap is allowed to be traced in OSM. See Nepal imagery hosted by Google Crisis Response for a list of images and corresponding URLs.
+
+Bing
+
+Bing imagery coverage as of 2015-04-25 with TM #994 and #995 overlay. (coverage source TMS: https://ant.dev.openstreetmap.org/bingimageanalyzer/tile.php/{z}/{x}/{y}.png)
+
+DigitalGlobe
+
+"DigitalGlobe opens access to #Nepal satellite data. http://services.digitalglobe.com UN: nepal PW: forcrisis​"
+
+Indian Space Research Organization
+
+Cartosat-2 post-earthquake for Kathmandu imagery as of 2015-04-27.
+
+Mapbox
+
+For some of TM #1001 the Bing imagery may be cloudy or unavailable, MapBox has coverage, but not at all zoom levels.
+
+Formosat-2
+
+http://nepal-quake.colife.org.tw/ Still pending license clarification
+
+ESA Sentinel-1A
+
+https://www.asf.alaska.edu/sentinel/nepal-data-feeds/ (License seems compatible)
+
+Public domain topo maps
+
+There are two sets of public domain topographic maps available which cover large portions of Nepal. Both sets are 1:250,000 scale, which means they are only really useful for adding place names, of which the maps list thousands. Before we manually copy in place names from these maps we will manually merge in the GNS place names for the area, which will cut down on some of the work. After that is done, we will create task manager jobs to go through and systematically enter all of the place names on these topographic maps.
+
+Layer JOSM TMS Url View US Army Map Service (AMS) tms[15]:http://mapwarper.net/layers/tile/345/{zoom}/{x}/{y}.png View online
+
+Other Data
+
+Other Resources
+
+Nepal Earthquakes Reporting Site (Kathmandu Living Labs Ushahidi)
+
+Disaster OpenRouteService for Nepal including POI, damaged buildings etc. (GIScience HD)
+
+EMSC (European Mediterranean Seismological Centre) provides real time earthquake information
+
+Write-ups and in the News
+
+Documented Usage
+
+Map Visualizations
+
+Reach Initiative Kathmandu Reference Maps: [1]
+
+American Red Cross Map Library: [2]
+
+MapAction Reference and Orientation Maps: [3]
+
+ReliefWeb/PDC: [4]
+
+Nepal Earthquake Map - April 25, 2015/Overview: [5]
+
+Online Maps
+
+Disaster OpenRouteService for Nepal including POI, damaged buildings etc. (GIScience HD) http://www.openrouteservice.org/disaster-nepal (more info: http://giscienceblog.uni-hd.de/2015/04/28/disaster-openrouteservice-for-nepal/ )

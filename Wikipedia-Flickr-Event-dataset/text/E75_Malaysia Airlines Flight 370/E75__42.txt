@@ -1,0 +1,59 @@
+Some 72 hours after contact with the Boeing 777 flying over the Gulf of Thailand was lost, what really happened to Malaysia Airlines MH370 flight remains a mystery.
+
+It’s almost impossible to say what happened to Malaysia Airlines MH370 flight until the remains of the aircraft, its Flight Data Recorder and Cockpit Voice Recorder are found and analysed, along with all the other data, by investigators.
+
+That said, we can surely sum up what we currently know and what we still don’t know about the fate of the Boeing 777 9M-MRO flying from Kuala Lumpur to Beijing on Mar. 8, 2014.
+
+Facts:
+
+Malaysia Airlines flight MH370 has disappeared from radars about 40 minutes after take off from Kuala Lumpur. According to the ADS-B data the wide body was cruising at 35,000 feet at 471 knots. Last ADS-B data from the aircraft was collected at 17:21:03.
+
+Weather was fairly good and no turbulence was reported before the aircraft was lost.
+
+Between 17:19 and 17:20 the aircraft turned right, changing heading from 25 to 40 degrees. Someone said this is a sign the aircraft was turning back to Kuala Lumpur or had already experienced an in-flight problem. However, the change in heading was probably performed in accordance with the FPL (Flight Plane) as the plane did the same, at the same position, on Mar. 4, 2014.
+
+The last location tracked by Flightradar24 is Lat: 6.97 Lon: 103.63.
+
+The FR24 coverage in that area is good up to 30,000 feet: at lower altitudes, aircraft are invisible to the network’s receiving stations.
+
+What happened after 17:21:03?
+
+ADS-B transponders transmit data twice per second but FlightRadar24.com samples data (speed, position, altitude) every 10-60 second depending on altitude: MH370 data was collected every half minute during the last 10 minutes.
+
+So, the receiving station was expecting to collect and store data from MH370 around 17:21:33. Since no data was saved past 17:21:03 there are three possibilities:
+
+a) The aircraft disintegrated mid-air;
+
+b) The aircraft plunged more than 5,000 feet in 30 seconds (from 35,000 to less than 30,000, where, as said, it was invisible to radars): a steep dive that would equal to 10,000 feet per minute rate of descent or more;
+
+c) The aircraft onboard ADS-B transponder was switched off or failed.
+
+What we don’t know yet:
+
+Since no debris was found yet, we don’t know what happened aboard MH370. Actually, we can’t even be 100 percent sure it crashed (even if it is likely). As already explained, it may take days or weeks to find the debris at sea, months to recover parts of the plane from the sea (even though the Gulf of Thailand is not as deep as the Atlantic Ocean and recovery would be faster than that of AF447 which crashed in 2009).
+
+It is still hard to say whether the two passengers using stolen passports had an active role in the mishap.
+
+Several theories:
+
+– Structural collapse: unlikely. The aircraft was flying at cruising altitude. No turbulence reported. Still, possible.
+
+– Hijacking went wrong: the crew may have suffered a cockpit intrusion and the aircraft might have plunged because of a fight in the cockpit. Or the hijacking attempt may have been conducted by the pilot or copilot (as happened for recent Ethiopian airlines flight).
+
+– Terrorist attack: possible, even if the lack of claim of responsibility makes it a bit less likely as time goes by.
+
+– Suicide: unlikely, as suicide victim usually leaves a message behind.
+
+– Uncommanded bomb detonation: terrorists were carrying a bomb to China, but the bomb detonated unexpectedly.
+
+– Unknown aircraft system failure: a catastrophic failure to any on board system or the lack of cabin pressurization that forced the crew to perform a sudden steep descent but left the plane uncontrollable or the crew unconscious as is dived towards the sea. The fact that the crew did not radio any mayday is not relevant: “aviate, navigate, communicate” meaning that before using the radio pilots have to keep the aircraft in the air, navigate towards the nearest landing field and then communicate the emergency to the ATC (Air Traffic Control).
+
+– Midair collision with another plane: much unlikely. At 35,000 feet both aircraft should have been under radar control or at least visible, unless it was some sort of military/stealth plane climbing to or descending from higher altitudes.
+
+– Missile: fired from a ship or from another plane, by mistake or on purpose (unlikely).
+
+All the articles about MH370 can be read here (scroll down).
+
+Image credit: FR24
+
+Related articles

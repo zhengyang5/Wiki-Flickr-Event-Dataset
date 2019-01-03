@@ -1,0 +1,47 @@
+Published online 29 April 2009 | Nature 458, 1082-1083 (2009) | doi:10.1038/4581082a
+
+News
+
+New influenza virus tests pandemic emergency preparedness.
+
+Face masks are being used — in Toluca, Mexico, and elsewhere — to try to stop the virus spreading. M. TOVAR/AP PHOTO
+
+Researchers are scrambling to study the evolution and spread of the novel H1N1 strain of swine influenza whose leap to humans was officially confirmed last week. The possible imminent onset of a swine-flu pandemic is also testing international preparedness plans put into place to deal with something else: the much-feared H5N1 avian flu virus that has spread across Asia, Europe and Africa since 2003.
+
+The genetic make-up of this swine flu virus is unlike any that researchers have seen. It is an H1N1 strain that combines a triple assortment first identified in 1998 — including human, swine and avian influenza — with two new pig H3N2 virus genes from Eurasia, themselves of recent human origin.
+
+"It has been mixing all over the place, and so the genetics are quite complicated," says John McCauley, a virologist at the UK Medical Research Council's National Institute for Medical Research in London. "Where the hell it got all these genes from we don't know," says Robert Webster, a flu virologist at St Jude Children's Research Hospital in Memphis, Tennessee. "But this is a real super-mixed-up virus."
+
+As Nature went to press, more than 150 people were thought to have died from the virus in Mexico, with some 1,600 cases suspected there. At least 87 cases have been confirmed in other countries, including the United States, Canada, New Zealand, the United Kingdom, Spain and Israel.
+
+On 27 April, the World Health Organization (WHO) raised its pandemic threat from phase 3 — a new flu virus infecting humans but with limited human-to-human spread — to phase 4, with community outbreaks that mark "a significant upwards shift in the risk for a pandemic". The scale runs to 6: a full-blown pandemic.
+
+"The scary thing is that this virus seems enormously transmissible," says Webster. In New York, for instance, at least 28 students at a school in Queens have come down with it.
+
+The US Centers for Disease Control and Prevention (CDC) and the WHO are trying to nail down how many of the reported deaths in Mexico are due to swine flu and how many are due to other causes. "The spectrum of illness is still a matter of doubt and conjecture," says David Ozonoff, an epidemiologist at the Boston University School of Public Health in Massachusetts. For instance, rumours swirled that archaeologist Felipe Solis, the director of the National Museum of Anthropology in Mexico City who had met recently with US President Barack Obama, died on 23 April as a result of the swine flu. Mexican authorities later reported he died of cardiac arrest linked to pneumonia.
+
+No human immunity
+
+The virus seems to have first taken hold in Mexico in mid-March; it was identified when Mexican authorities sent samples from a flu patient that it could not subtype to the Canadian Public Health Agency. After cases in California, the CDC announced the existence of the virus on 23 April.
+
+“Where the hell it got all these genes from we don't know.”
+
+
+
+The genetics of the virus are so novel that humans are unlikely to have much immunity to it, scientists say. The current seasonal flu vaccine, which targets a different H1N1 strain, also isn't likely to offer any protection. Discussions are under way as to whether a new vaccine for the swine flu strain should be produced. The WHO has recommended that vaccine makers continue to manufacture the seasonal flu strain but begin thinking about how to manufacture large doses of a vaccine that incorporates a weakened version of the current swine flu strain. For now, the virus is treatable with the influenza drugs oseltamivir (Tamiflu) and zanamivir (Relenza).
+
+So far, cases in the United States and elsewhere seem to have been relatively mild compared with those in Mexico. Tashiro Masato, a virologist at the National Institute of Infectious Diseases in Tokyo, warns against drawing any conclusions from this. He notes that the sample of cases from the United States is too small to pick up even single-digit mortality rates. If transmission rates turn out to be high (see 'Research questions to answer'), mortality rates of even a few per cent could lead to millions of deaths, as in the pandemic of 1918.
+
+For the moment the pathogenicity and mortality range is wide and uncertain, says McCauley — "anything between the lethal 1918 and the mild 1968 pandemic". The high transmission rates in areas such as New York are worrying, says Mark Lipsitch, an epidemiologist of the Harvard School of Public Health in Boston, Massachusetts. But a better idea should be forthcoming as testing ramps up, and health authorities get a clearer picture of the ratio of deaths to those infected.
+
+The new virus, however, comes nowhere near the mortality rates of H5N1, which have averaged around 63% globally and reached as high as 82% in Indonesia. "The risk and threat of H5N1 remain as before", Masato warns.
+
+Epidemiologists are largely applauding the speed and scale of the response to the swine flu outbreak since it was formally identified last week, even though Mexican and international disease surveillance systems failed to pick it up promptly at the start. Several scientists speculate that the initial cases were months ago and perhaps outside Mexico. Ambitious WHO plans to quickly detect and extinguish an emerging pandemic before it grew, by distributing flu drugs, were thus not useful.
+
+ADVERTISEMENT
+
+But once the virus was officially announced, governments have swung into action. The United States, for instance, has released one-quarter of its 50 million stockpiled doses of oseltamivir and zanamivir for treatment in the affected states. The international response is being largely attributed to the amount of pandemic planning undertaken since the threat of a H5N1 pandemic emerged. Gene sequences of the virus samples, for instance, have been promptly shared on the Global Initiative on Sharing Avian Influenza Data (GISAID) database. Sequence information can have practical significance — for example, in designing PCR primers, to make rapid diagnosis tests that broaden and speed up surveillance.
+
+Many virologists think they are in for the long haul. "Will this fizzle out? It doesn't look like it to me," says McCauley. "For me this is the time to start deploying national pandemic plans. We need to act now."
+
+For Nature 's coverage of the swine flu outbreak, see www.nature.com/swineflu.

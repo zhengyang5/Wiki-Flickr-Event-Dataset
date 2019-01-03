@@ -1,0 +1,73 @@
+Image copyright Getty Images
+
+Technology companies have defended their handling of extremist content following the London terror attack.
+
+Prime Minister Theresa May called for areas of the internet to be closed because tech giants had provided a "safe space" for terrorist ideology.
+
+But Google said it had already spent hundreds of millions of pounds on tackling the problem.
+
+Facebook and Twitter said they were working hard to rid their networks of terrorist activity and support.
+
+Google, which owns Youtube, along with Facebook, which owns WhatsApp, and Twitter were among the tech companies already facing pressure to tackle extremist content.
+
+That pressure intensified following Saturday night's attack, which killed seven people and injured 48. The so-called Islamic State group has claimed responsibility for the attack.
+
+Speaking outside Downing Street on Sunday, Mrs May said: "We cannot allow this ideology the safe space it needs to breed.
+
+"Yet that is precisely what the internet, and the big companies... provide."
+
+Culture Secretary Karen Bradley said tech companies needed to tackle extremist content, in a similar way to how they had removed indecent images of children.
+
+"We know it can be done and we know the internet companies want to do it," she told the BBC on Monday.
+
+Media playback is unsupported on your device Media caption Watch: How the attacks unfolded
+
+'No place on our platform'
+
+Google said it had invested heavily to fight abuse on its platforms and was already working on an "international forum to accelerate and strengthen our existing work in this area".
+
+The firm added that it shared "the government's commitment to ensuring terrorists do not have a voice online".
+
+Facebook said: "Using a combination of technology and human review, we work aggressively to remove terrorist content from our platform as soon as we become aware of it - and if we become aware of an emergency involving imminent harm to someone's safety, we notify law enforcement."
+
+Meanwhile, Twitter said "terrorist content has no place on" its platform.
+
+Home Secretary Amber Rudd said on Sunday that tech firms needed to take down extremist content and limit the amount of end-to-end encryption that terrorists can use.
+
+End-to-end encryption renders messages unreadable if they are intercepted, for example by criminals or law enforcement.
+
+Analysis - Dave Lee, BBC North America technology reporter
+
+Silicon Valley is both on the offensive and defensive.
+
+Defensive in that they are protecting their reputations as companies that put in a lot of work to stamp out extremist content online, but offensive in making it clear they do not feel "kneejerk" regulation is the way to solve the issue.
+
+The tech industry is mostly in agreement on this. They believe that end-to-end encryption, while perhaps frustrating to police, is a technology that means everyone's communications are far more secure.
+
+The logic put forward by experts is that if there's a way to break into a terrorist's smartphone without his permission - then there's a way to break into your smartphone too.
+
+On Monday, Apple will be holding its annual developers' conference in San Jose. I'm not expecting chief executive Tim Cook to talk about the issue - he won't want to willingly draw his company into the debate - but you can fully expect Apple to put its weight behind any movement that seeks to increase security.
+
+And the company will speak out, as it often has, against any attempts from authorities to compel tech firms to give them a so-called "back door" into their systems.
+
+'Intellectually lazy'
+
+The Open Rights Group, which campaigns for privacy and free speech online, warned that politicians risked pushing terrorists' "vile networks" into the "darker corners of the web" by more regulation.
+
+The way that supporters of jihadist groups use social media has changed "despite what the prime minister says", according to Dr Shiraz Maher of the International Centre for the Study of Radicalisation (ICSR) at King's College London.
+
+They have "moved to more clandestine methods", with encrypted messaging app Telegram the primary platform, Dr Maher told the BBC.
+
+Professor Peter Neumann, another director at the ICSR, wrote on Twitter: "Blaming social media platforms is politically convenient but intellectually lazy."
+
+'Tool for extremists'
+
+However, Dr Julia Rushchenko, a London-based research fellow at the Henry Jackson Centre for the Response to Radicalisation and Terrorism, told the BBC that more could be done by tech giants to root out such content.
+
+She felt that the companies erred on the side of privacy, not security. "We all know that social media companies have been a very helpful tool for hate preachers and for extremists," Dr Rushchenko said.
+
+Investors suggested that tech firms would be more willing to take further action against extremist content if shareholders and advertisers pressured them to do so.
+
+Jessica Ground, a UK fund manager at Schroders, told the BBC: "It's going to be an interesting debate how you put the pressure points. It could be the money rather than the governments."
+
+Simon Howard, chief executive of UKSIF - the UK Sustainable Investment and Finance Association, said: "We'll need all the technology companies to do a bit more and we'll have to decide what the UK legal framework in which they do that is."

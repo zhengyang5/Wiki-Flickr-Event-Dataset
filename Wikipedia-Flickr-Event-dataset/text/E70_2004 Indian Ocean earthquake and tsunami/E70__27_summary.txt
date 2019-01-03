@@ -1,0 +1,5 @@
+However, observation is difficult, since the additional height is one of the signals of ocean variability.
+Until the Indian Ocean tsunami on 26 December 2004, tsunami observations by satellite altimeters had been relatively insignificant.
+The signal was not clearly observed because of its weak amplitude, close to 8 cm, and the great ocean variability in this area.
+Altimeter Sea Level Anomalies account for many different ocean signals such as large-scale and mesoscale ocean variability.
+It must be noted that satellite altimetry is not sufficient for the early detection and warning of tsunamis.

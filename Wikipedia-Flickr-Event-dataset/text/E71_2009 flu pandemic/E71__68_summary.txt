@@ -1,0 +1,5 @@
+The official swine flu deaths are from patients who were confirmed by lab tests to have been infected with the H1N1 strain.
+That's why the 2,000 or so certified flu deaths represent an underestimate of the flu's real cost.
+But a statistical technique called regression allows us to find the value of X such that the formula[Total deaths] = [Deaths if there were no such thing as flu] + X*[number of confirmed flu cases]Advertisementmatches the data as closely as possible.
+The rightmost term, X*[number of confirmed flu cases], is then our estimate for the number of deaths you can attribute to flu.
+And if 18,000 specimens test positive for flu over the course of a year, you'd blame 36,000 deaths on the flu.

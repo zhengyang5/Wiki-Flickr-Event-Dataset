@@ -1,0 +1,5 @@
+Tsunami Information NUMBER 1(Estimated Tsunami Arrival Time and Height)Issued at 14:50 JST 11 Mar 2011Estimated Tsunami Arrival Time and HeightTsunami Forecast Region Estimated Tsunami Arrival Time Estimated Tsunami Height <Tsunami Warning (Major Tsunami)> IWATE PREF.
+15:10 JST 11 Mar 3 m <Tsunami Warning (Tsunami)> CENTRAL PART OF PACIFIC COAST OF HOKKAIDO 15:30 JST 11 Mar 1 m PACIFIC COAST OF AOMORI PREF.
+15:20 JST 11 Mar 0.5 m OGASAWARA ISLANDS 16:00 JST 11 Mar 0.5 m SAGAMI BAY AND MIURA PENINSULA 15:30 JST 11 Mar 0.5 m SHIZUOKA PREF.
+17:00 JST 11 Mar 0.5 m TANEGASHIMA AND YAKUSHIMA AREA 17:10 JST 11 Mar 0.5 m AMAMI ISLANDS AND TOKARA ISLANDS 17:10 JST 11 Mar 0.5 m*1 mark: Arrival of tsunami inferred.
+Earthquake Information Occurred at 14:46 JST 11 Mar 2011 Region name SANRIKU OKI Latitude 38.0N Longitude 142.9E Depth about 10 km Magnitude 7.9

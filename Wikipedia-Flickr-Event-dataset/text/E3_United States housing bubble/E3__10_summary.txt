@@ -1,0 +1,5 @@
+Land Prices for 46 Metro AreasThe data provided here contain estimates of the average value of housing, land, and structures, and price indexes for land and housing, for the average single-family detached owner-occupied housing unit in each of 46 large metropolitan areas in the United States.
+The land price and quantity data are derived from data on housing values and structures costs, and from price indexes for housing and construction costs.
+House values are reported directly in that survey, and construction costs are based on the age and square footage of the house.
+House prices are extrapolated forwards and backwards from the benchmark year using metro-area CMHPI and Case-Shiller-Weiss (when available) house price indexes.
+63 (1), p. 352-384; data located at Land and Property Values in the U.S., Lincoln Institute of Land Policy http://www.lincolninst.edu/resources/

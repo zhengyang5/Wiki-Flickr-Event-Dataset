@@ -1,0 +1,115 @@
+→ Chronology of Updates:
+
+2 June | 12-18 May | 4-11 May | 5 May | 3 May | 2 May | 28 April | 27 April | 26 April | 21 April | 20 April | 19 April | 18 April | 15 April | 14 April | 13 April | 12 April | 11 April | 10 April | 9 April | 8 April | 7 April | 6 April | 5 April | 4 April | 3 April | 2 April | 1 April | 31 March | 30 March | 29 March | 28 March | 27 March | 26 March | 25 March | 24 March | 23 March | 22 March | 21 March | 20 March | 19 March | 18 March | 17 March | 16 March | 15 March | 14 March | 13 March | 12 March | 11 March | Full Update
+
+IAEA BRIEFING ON FUKUSHIMA NUCLEAR ACCIDENT (7 April 2011, 18:00 UTC)
+
+Presentations:
+
+→ Summary of Reactor Status
+
+→ Status of Fukushima Units
+
+→ Fukushima Radiological Monitoring and Consequences
+
+→ Fukushima Marine Environment Monitoring
+
+→ Watch Video
+
+On Thursday, 7 April 2011, the IAEA provided the following information on the current status of nuclear safety in Japan:
+
+1. Current Situation
+
+Overall, the situation at the Fukushima Daiichi plant remains very serious although there are early signs of recovery in some functions such as electrical power and instrumentation.
+
+On 6 April it was reported that the leakage of water from the sidewall of the pit closest to the sea has stopped after coagulation agents (liquid glass) were injected into the holes drilled around the pits. Work continues to prevent further releases to the sea.
+
+According to the TEPCO Press Release of 4 April, approximately 10 000 T of water from the radioactive waste treatment plant and 1 500 T of subsurface waters stored in the sub drain pits of Unit 5 and 6 are being discharged to the sea to provide room to store water with higher levels of radioactivity in a safer manner. TEPCO has estimated that these discharges would increase the effective dose to a member of the public by 0.6 mSv, if he/she were to eat seaweed and seafood from 1 km from the discharge point every day for a year. It should be noted however that the movements of all ships, including fishing boats, are restricted within a 30km zone from the NPP.
+
+In Unit 1 fresh water is being continuously injected into the reactor pressure vessel through the feed-water line at an indicated flow rate of 6 m3/h using a temporary electric pump with off-site power. Fresh water is being injected continuously into the RPVs through the fire extinguisher lines in Units 2 and 3 at indicated rates of 8 m3/h and 7 m3/h respectively using a temporary electric pump with off-site power.
+
+As of 6 April, TEPCO started injecting nitrogen gas to Unit 1 containment vessel to provide an inerted atmosphere to reduce the possibility of hydrogen combustion within the containment vessel.
+
+On Unit 1 the indicated temperature at the feed water nozzle of the RPV is 224 °C and at the bottom of RPV it is 117 °C. Instrumentation "B" for Reactor Pressure indicates that the pressure in the RPV is increasing and instrumentation "A" indicates that it has stabilized. NISA has indicated that some instruments in the reactor vessel may not be working properly. Drywell pressure has increased slightly due to the injection of nitrogen. In Unit 2 the indicated temperature at the feed water nozzle of the RPV is stable at 143 °C. The temperature at the bottom of the RPV was not reported. Indicated Drywell pressure remains at atmospheric pressure. The indicated temperature at the feed water nozzle of the RPV in Unit 3 is 88 °C and at the bottom of the RPV is about 115 °C.
+
+Additional water was injected via the Spent Fuel Cooling System line to the spent fuel pool by a temporary pump on 4 April.
+
+There has been no change in status on Units 4, 5, 6 and the Common Spent Fuel Storage Facility.
+
+2. Radiation Monitoring
+
+On 6 April, low levels of deposition of both I-131 and Cs-137 were detected in 4 and 6 prefectures respectively. The values reported for I-131 ranged from 3.4 to 10 becquerels per square metre, for Cs-137 from 4.9 to 19 becquerels per square metre. Gamma dose rates continue decreasing. There is no significant change in gamma dose rates reported for 6 April compared to yesterday.
+
+As of 5 April, I-131 and Cs-134/137 was detectable in drinking water in a small number of prefectures. All values were well below levels that would initiate recommendations for restrictions of drinking water. As of 6 April, one restriction for infants related to I-131 (100 Bq/l) is in place as a precautionary measure in only one village of the Fukushima prefecture.
+
+TEPCO is responsible for near-shore sampling, taking samples of surface seawater. Samples near discharge areas are collected daily. Until 3 April a general decreasing trend was observed. However, after the discharge of contaminated water at 4 April, an increase from about 11 kBq/l as measured at 09:00 UTC to 41 kBq/l at 14:00 UTC for I-131; from 5.1 kBq/l at 09:00 UTC to 19 kBq/l for both, Cs-134 and Cs-137 at 14:00 UTC was recorded. On 5 April a decrease was observed as compared to the previous day, with seawater concentration of 5 kBq/l for Cs-137 and 11 kBq/l for I-131.
+
+Since 4 April TEPCO added 3 new sampling points 15 km offshore, in addition to the already established 3 sampling points at the same distance, this resulting in a total of 6 sampling points situated along a north-south transect at a distance of 15 km from the coast.
+
+Levels of radionuclides reported at these locations for 5 April are in the range 57 - 200 Bq/l for I-131, 18 - 310 Bq/l for Cs-134 and 18 - 320 Bq/l for Cs-137.
+
+There were no new data for 30 km off-shore monitoring, carried out under the responsibility of MEXT, compared to yesterday's briefing.
+
+On 6 April the marine expert from the IAEA Environment Laboratories Monaco completed his mission in Japan. From 2 to 4 April he embarked on the research vessel MIRAI to observe the sampling conducted 30 km offshore. He visited the JAEA laboratory in Tokai where the gamma spectrometric analyses are performed. He briefed representatives of the Japanese Government.
+
+Since our written briefing of yesterday, data related to food contamination were reported on 6 April by the Japanese Ministry of Health, Labour and Welfare. These reported analytical results covered a total of 78 samples taken on 3 April (2 samples), 4 April (39 samples), 5 April (35 samples) and 6 April (2 samples). Analytical results for 52 of the 78 samples for various vegetables, spinach and other leafy vegetables, fruit (strawberries) and unprocessed raw milk in eight prefectures (Fukushima, Gunma, Hyogo, Ibaraki, Kanagawa, Niigata, Saitama and Yamagata) indicated that I-131, Cs-134 and/or Cs-137 were either not detected or were below the regulation values set by the Japanese authorities. However, it was reported that analytical results for 26 of the total 41 samples taken in Fukushima prefecture for various vegetables, spinach and other leafy vegetables indicated that I-131 and/or Cs-134/Cs-137 exceeded the regulation values set by the Japanese authorities.
+
+On 5 April, the Japanese Ministry of Health, Labour and Welfare issued a press release indicating that a new provisional regulation value was set for I-131 at a limit of 2000 Bq/kg in fishery products.
+
+As of 4 April, food restrictions (distribution and/or consumption) are in place in four prefectures (Fukushima, Ibaraki, Tochigi, and Gunma) and in certain locations in Chiba prefecture (Katori City, Tako Town and Asahi City).
+
+In Fukushima, there are restrictions on the consumption of leafy vegetables, headed and non-headed leafy vegetables (e.g. spinach, komatsuna, cabbage), and flower-headed brassicas (broccoli, cauliflower). There are also restrictions on the distribution of headed and non-headed leafy vegetables, flower-headed brassicas (including turnips), spinach, kakina and unprocessed raw milk produced in the prefecture.
+
+In Ibaraki, there are restrictions on the distribution of unprocessed raw milk, parsley, spinach and kakina produced in the prefecture.
+
+In Chiba, there are restrictions on the distribution of spinach produced in Katori City and Tako Town. There are also restrictions on the distribution of spinach, chingensai, shungiku, sanchu, celery and parsley produced in Asahi City.
+
+In Gunma and Tochigi, there are restrictions on the distribution of spinach and kakina produced in these prefectures.
+
+3. IAEA Activities
+
+The two agency experts in BWR technology are in Japan to have a direct exchange of views with the Japanese counterparts. They met with officials of NISA, TEPCO, the Japanese Atomic Energy Commission and the Nuclear Safety Commission. They visited the off-site emergency response center and the Fukushima Daiichi site. A third agency expert will join the team in Tokyo to have follow-up meetings with TEPCO and NISA at the end of the week.
+
+The following countries have submitted monitoring data and/or links to national websites where data is available: Austria, Belgium, Bulgaria, Canada, China, Finland, France, Greece, Iran, Ireland, Italy, Malaysia, Poland, Romania, Russian Federation, Singapore, Spain, Sweden, Switzerland and Ukraine.
+
+IAEA UPDATE: NEW EARTHQUAKE IN JAPAN (7 April 2011, 17:30 UTC)
+
+The IAEA confirms that an earthquake occurred in Japan at 14:32 UTC, 7 April. The IAEA International Seismic Safety Centre has rated it as a 7.1 magnitude, revised from an initial 7.4 magnitude. The epicenter of the earthquake was 20 km from the Onagawa nuclear power plant and approximately 120 km from the Fukushima Daiichi and Daini nuclear power plants.
+
+The IAEA has been in contact with NISA and can confirm the status of the following nuclear facilities:
+
+Fukushima Daiichi Nuclear Power Plant
+
+NISA confirms that no changes have been observed at the on-site radiation monitoring posts. The injection of water into the reactor pressure vessels of Units 1, 2 and 3 was not interrupted.
+
+Fukushima Daini Nuclear Power Plant
+
+NISA confirms that no changes have been observed of the readings at the on-site radiation monitoring posts.
+
+Onagawa Nuclear Power Plant
+
+All reactors have been in cold shutdown since the 11 March earthquake.
+
+NISA has confirmed that two out of the three lines supplying off-site power to the site were lost following the 7 April earthquake. Off-site power continues to be supplied through the third line.
+
+Cooling of the spent fuel pool was temporarily lost, but has subsequently been restored.
+
+No change has been observed in the readings from the on-site radiation monitoring post. The status of the plant is currently being checked.
+
+Tokai Daini Nuclear Power Plant
+
+The Tokai Daini nuclear power plant remains in cold shutdown since the 11 March earthquake. No abnormality has been observed.
+
+Higashidori Nuclear Power Plant
+
+NISA has confirmed that the Higashidori NPP was in shutdown and in a maintenance outage at the time of the 7 April earthquake. Off-site power has been lost. Emergency power supply to the site is operating. All the fuel had been removed from the reactor core and stored in the spent fuel pool. Cooling of the spent fuel pool is operational.
+
+Tomari Nuclear Power Plant (in Hokkaido)
+
+At the time of the 7 April earthquake Tomari Unit 1 and Unit 2 were in operation. Following the 7 April earthquake, the Hokkaido Electric Power Company reduced the generating power to 90% of capacity.
+
+Rokkasho Reprocessing Plant
+
+NISA confirms that the Rokkasho Reprocessing Plant and uranium enrichment facility lost off-site power. Emergency power supply to the site is operating.
+
+The IAEA will issue further information as soon as it becomes available.

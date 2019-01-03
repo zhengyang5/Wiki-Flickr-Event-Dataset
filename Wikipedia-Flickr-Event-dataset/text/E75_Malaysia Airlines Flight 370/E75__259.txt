@@ -1,0 +1,51 @@
+In this Thursday, Jan. 29, 2015, file photo, a man views a fleet of Malaysia Airline planes on the tarmac of the Kuala Lumpur International Airport, in Malaysia. The head of one of the world's top air crash investigation agencies says not enough is being done to adopt already available technologies that can help prevent another plane with hundreds of passengers from simply disappearing like MH370. (AP Photo/Joshua Paul) Airline-safety standards are changing in the wake of the disappearance of Malaysia Airlines Flight 370 nearly two years ago, but the head of one of the world's top air crash investigation agencies says it's not happening fast enough.
+
+On Wednesday, the International Civil Aviation Organization, the U.N. agency that sets global aviation standards, moved to address some of the more glaring safety gaps. Planes in "distress" will have to automatically report their position and other critical information at least every minute to help searchers find the wreckage. But the requirement will only apply to planes built six years from now or later.
+
+It could take even longer to implement another ICAO change requiring new planes have a reliable means to recover information stored in "black box" data and cockpit voice recorders, rather than scouring the ocean floor for the boxes. Several existing technologies could do that, but ICAO's timeline means it could be a decade or more before planes equipped with those technologies begin entering service.
+
+Chris Hart, chairman of the U.S. National Transportation Safety Board, told The Associated Press that more should be done to put available technologies to use quickly.
+
+"We are concerned about the slow pace of progress at both the national and international levels," Hart said. "We believe this is long overdue."
+
+Here's a look at what has changed, what has not and what is in the works.
+
+FLIGHT TRACKING
+
+As a result of MH370, ICAO has approved a requirement that all airliners report their position about every 15 minutes over open ocean by November 2018. Pilots of planes flying over open ocean have typically reported their position about every 30 minutes.
+
+Inmarsat, a provider of satellite flight tracking services, has offered free tracking to all long-haul carriers. But there are gaps in Inmarsat's coverage of the globe.
+
+Another aircraft-tracking provider, Aireon LLC, has partnered with Iridium Communications, which has a network of 66 low-orbit satellites, and says it plans to offer flight tracking of virtually all of the world's airspace beginning in 2018. In order to use the system, planes must be equipped with special satellite communications technology known as ADS-B.
+
+Besides flight tracking, ADS-B can be used to prevent collisions and allow planes to fly closer together. Aircraft manufacturers are already including the technology in new planes, but airlines are still in the process of equipping older planes, which is expensive.
+
+The United States has set a deadline of 2020 for airlines operating in its airspace to equip their planes. There is no international deadline.
+
+FINDING WRECKAGE
+
+Flight tracking is helpful, but may not narrow a search area enough to reliably find a plane. Instead, aviation officials want planes to automatically send out position reports at least once per minute when they are trouble.
+
+At normal flight speeds, minute-by-minute reports would provide authorities with a search area of a little over 100 square miles. If reports are less frequent, the search area grows much larger.
+
+ICAO's newly adopted requirement for automatic, minute-by-minute reports by planes in distress applies only to planes made after Jan. 1, 2021.
+
+Many planes are already equipped to send periodic short automatic messages to ground stations via VFR radio or satellite using a digital datalink system. In 2009, a burst of such brief messages from Air France flight 447 provided searchers enough information to find wreckage from the plane just days after it disappeared over the Atlantic Ocean. However, it still took two years before the plane's black boxes were recovered.
+
+In the case of MH370, the Boeing 777 was also equipped with the technology to send such messages, but the service wasn't in use. Airlines typically use the systems to relay information on how the plane and its engines are functioning so that maintenance personnel and equipment can be positioned at its next destination if needed.
+
+FLIGHT RECORDERS
+
+MH370's flight data recorder was equipped with an underwater locator beacon designed to last 30 days. ICAO standards adopted before the plane's disappearance require the beacons to last 90 days beginning in 2018.
+
+This week, ICAO approved a requirement that new aircraft designs approved after Jan. 1, 2021, have some means for retrieving a plane's recorders, or the information contained in them, before the recorder sinks to the ocean floor. One possibility is a deployable recorder that automatically ejects from a plane upon impact and floats to the ocean's surface. They're widely used in military aircraft, but Boeing says cases where they'll be needed are likely to be fewer than instances in which they accidently deploy, potentially causing injuries and property damage.
+
+An alternative is to have planes in distress automatically relay the data via satellite to ground stations, eliminating the need to search for the box. But there are many unanswered questions about security and custody of the information.
+
+Even then, it might be 2028 or later before planes with either deployable recorders or a means to transmit the recorder's data before a crash enter service because of the time lag between the approval of new plane designs and when they are ready to fly.
+
+The new requirements don't include cockpit voice recordings. MH370 contained a two-hour voice recorder that recorded in a continuous loop. Even if the recorder is ever found, it is likely that critical information from early in the flight was erased.
+
+ICAO also adopted a standard this week requiring planes manufactured after Jan. 1, 2021, to include 25-hour voice recorders to capture an entire flight, as well as crew preparations beforehand. The requirement doesn't apply to planes already in service, which can have lifespans of 20 years or more.
+
+Explore further: NTSB: Planes should have technologies so they can be found

@@ -1,0 +1,53 @@
+Content on this page was developed during the 2009-2010 H1N1 pandemic and has not been updated.
+
+Objective: To provide interim guidance on appropriate specimen collection, storage, processing, and testing for patients with suspected novel influenza A (H1N1) virus infection.
+
+Case Definition
+
+A confirmed case of novel influenza A (H1N1) virus infection is defined as a person with an influenza-like illness with laboratory confirmed novel influenza A (H1N1) virus infection by one or more of the following tests:
+
+real-time RT-PCR viral culture
+
+
+
+Duration of Viral Shedding
+
+The duration of shedding with novel influenza A (H1N1) virus is unknown. Therefore, until data are available, the estimated duration of viral shedding is based upon seasonal influenza virus infection. Infected persons are assumed to be shedding virus and potentially infectious from the day prior to illness onset until resolution of fever. Infected persons should be assumed to be contagious up to 7 days from illness onset. Some persons who are infected might potentially shed virus and be contagious for longer periods (e.g. young infants, immunosuppressed, and immunocompromised persons).
+
+Testing for novel influenza A (H1N1) virus
+
+Clinicians should consider testing suspected cases of novel influenza A (H1N1), especially those with severe illness, by obtaining an upper respiratory specimen to test for novel influenza A (H1N1) virus.
+
+Preferred respiratory specimens
+
+The following should be collected as soon as possible after illness onset: nasopharyngeal swab, nasal aspirate or a combined nasopharyngeal swab with oropharyngeal swab. If these specimens cannot be collected, a nasal swab or oropharyngeal swab is acceptable. For patients who are intubated, an endotracheal aspirate should also be collected. Bronchoalveolar lavage (BAL) and sputum specimens are also acceptable. Specimens should be placed into sterile viral transport media (VTM) and immediately placed on ice or cold packs or at 4°C (refrigerator) for transport to the laboratory. Recommended infection control guidance is available for persons collecting clinical specimens in clinics and other clinical settings and for laboratory personnel.
+
+Swabs
+
+Ideally, swab specimens should be collected using swabs with a synthetic tip (e.g. polyester or Dacron®) and an aluminum or plastic shaft. Swabs with cotton tips and wooden shafts are not recommended. Specimens collected with swabs made of calcium alginate are not acceptable. The swab specimen collection vials should contain 1-3ml of viral transport medium (e.g. containing, protein stabilizer, antibiotics to discourage bacterial and fungal growth, and buffer solution).
+
+Storing clinical specimens
+
+All respiratory specimens should be kept at 4°C for no longer than 4 days.
+
+Shipping clinical specimens
+
+Clinical specimens should be shipped on wet ice or cold packs in appropriate packaging. All specimens should be labeled clearly and include information requested by your state public health laboratory. Suspected case specimens shipped from the state public health laboratory to CDC should include all information required for seasonal influenza surveillance isolate or specimen submission.
+
+Recommended tests
+
+Real-time RT-PCR is the recommended test for confirmation of novel influenza A (H1N)1 cases. Currently, novel influenza A (H1N1) virus will test positive for influenza A and negative for H1 and H3 by real-time RT-PCR. If reactivity of real-time RT-PCR for influenza A is strong (e.g. Ct <30) it is more suggestive of a novel influenza A (H1N1) virus. Confirmation as novel influenza A (H1N1) virus by real-time RT-PCR was originally performed only at CDC, but at this time may be available in your state public health laboratory.
+
+Other influenza tests
+
+Rapid influenza antigen test
+
+Some commercially available rapid tests can distinguish between influenza A and B viruses. A patient with a positive rapid test for influenza A may meet criteria for a suspected case of novel influenza A (H1N1) virus infection. However, it is not possible to differentiate from seasonal influenza A viruses. Also, these tests have unknown sensitivity and specificity to detect human infection with novel influenza A (H1N1) virus in clinical specimens, and have suboptimal sensitivity to detect seasonal influenza viruses. Therefore, a negative rapid test could be a false negative and should not be assumed a final diagnostic test for novel influenza A (H1N1) virus infection.
+
+Immunofluorescence (DFA or IFA)
+
+These tests can distinguish between influenza A and B viruses. A patient with a positive for influenza A by immunofluorescence may meet criteria for a suspected case. However, it is not possible to differentiate from seasonal influenza A viruses. Immunofluorescence depends upon the quality of a clinical specimen, operator skills, and has unknown sensitivity and specificity to detect human infection with novel influenza A (H1N1) virus in clinical specimens. Therefore, a negative immunofluorescence could be a false negative and should not be assumed a final diagnostic test for novel influenza A (H1N1) virus infection.
+
+Viral culture
+
+Isolation of novel influenza A (H1N1) virus is diagnostic of infection, but may not yield timely results for clinical management. A negative viral culture does not exclude infection with novel influenza A (H1N1) virus.

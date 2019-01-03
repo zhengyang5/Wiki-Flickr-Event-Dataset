@@ -1,0 +1,85 @@
+
+
+Even yesterday, it would have been too much to say that blogger, tweeters, Facebook users, Anonymous and Wikileaks had "brought down" the Tunisian government, but with today's news that the country's president Zine El Abidine Ben Ali has fled the country, it becomes a more plausible claim to make.
+
+Of course there was more to such demonstrations than some new technology. An individual act of desperation set off the last month of rioting, as a college-educated young man set himself on fire after police confiscated his unlicensed fruit and vegetable cart. Tunisia's high unemployment rate, rampant corruption and rising food prices added to the anger at Ben Ali's 20-plus-year rule.
+
+People risked their lives in the street, with some getting a bullet for their troubles, but the internet played a significant role in organizing these protests and in disseminating news and pictures of them to the world.
+
+After the worst unrest in his reign, Ben Ali this week promised not to run for "election" again and to give the country a free press and the right to assemble. He fired his cabinet. It wasn't enough. Protestors sensed weakness, and today they forced Ben Ali from Tunisia. He fled ignominiously with his family for any state that would have him.
+
+Here's a guide to the part of this battle fought in cyberspace over the last month.
+
+Web blocking: Soon after the protests began, Tunisia ramped up its attempts at controlling the internet. These started simply enough, with straight-up site blocking. In an open letter to the Tunisian government, the Committee to Protect Journalists outlined the online repression:
+
+We are troubled to learn that your government's practice of blocking websites – including CPJ Web pages on Tunisia – has recently intensified. Local journalists told CPJ that additional news websites, as well as numerous Facebook pages carrying critical content, blogs, and journalists' e-mail accounts have been blocked by the state-run Tunisian Internet Agency since protests erupted on December 17. Regional and international media have reported that numerous local and international news websites covering the street protests were blocked in Tunisia. One report placed your country, along with Saudi Arabia, as the worst in the region regarding Internet censorship. A 2009 CPJ study found Tunisia to be one of the 10 worst countries worldwide to be a blogger, in part for the same reasons.
+
+We'll take that Facebook password, please: It soon got much worse. The Committee to Protect Journalists said its own research found that "the [state-run] Tunisian Internet Agency is harvesting passwords and usernames of bloggers, reporters, political activists and protesters by injecting hidden JavaScript" into many popular site login pages.
+
+This extended to sites like Facebook, where the main login page mysteriously had 10 additional lines of code inserted when it arrived at Tunisian computers. (Such code injection is technically simple using various pieces of deep-packet inspection gear, and it was made easier by the fact that the Tunisian government would periodically block secure HTTPS connections.)
+
+That code grabbed the username and password, embedded them into a bogus Facebook URL, and then attempted to load the nonexistent page. It's unclear why this was done, though speculation is that the hack was a simple way to grab passwords. The Tunisian Internet Agency could simply log all attempts to hit the bogus Facebook link without the liability of listing one of its servers in the code itself.
+
+CPJ noted in a separate report that "unknown parties have subsequently logged onto these sites using these stolen credentials, and used them to delete Facebook groups, pages and accounts, including Facebook pages administrated by Sofiene Chourabi, a reporter with Al-Tariq al-Jadid, and the account of local online video journalist Haythem El Mekki. Local bloggers have told CPJ that their accounts and pictures of recent protests have been deleted or otherwise compromised."
+
+Al-Jazeera interviewed an anonymous source who had crafted a Greasemonkey script that could strip this additional code from login pages. On January 6, it had already been installed over 1,500 times.
+
+On January 11, the Electronic Frontier Foundation publicized the Greasemonkey script but also asked Facebook in particular to consider a few technical changes:
+
+Make Facebook logins default to HTTPS, if only in Tunisia, where accounts are especially vulnerable at this time. Google and Yahoo logins already default to HTTPS. Consider allowing pseudonymous accounts for users in authoritarian regimes, where political speech under your real name is dangerous and potentially deadly. Many Tunisian activists are unable to reinstate Facebook accounts that have been erased by the Tunisian government because they were not using their real names.
+
+Finding bloggers, pirates: The Tunisian government, not content to simply grab account information and delete the offending material, also began hauling bloggers into police custody.
+
+On January 7, Reporters Without Borders had at least five confirmed cases of bloggers and online activists being arrested. Here's one:
+
+Four or five police plainclothes officers arrested the blogger and activist Hamadi Kaloutcha at his home at around 6 am, seizing a computer and a central processing unit. They told his wife they were taking him to the nearest police station and "just have a few questions for him," and "that will only take a few hours." There has been no news of him since.
+
+Several of those arrested, including Kaloutcha, were members of the Pirate Party of Tunisia; the Pirate Party U.K. later issued several statements deploring the disappearances.
+
+"Pirate Parties around the world condemn these acts against freedom of expression, human rights and democracy, and call upon governments take firm action against Tunisia for these recent events," one said. A later note said that one detainee had been beaten, and it said that several of the bloggers were accused of "degradation of state property on account of anonymous DDoS attacks."
+
+And who specializes in anonymous distributed denial of service (DDoS) attacks against unfriendly websites? That's right, it's …
+
+
+
+Anonymous: The internet's many-headed hydra, Anonymous, launched "Operation Tunisia," trying to attack the Tunisian government instead of the copyright holders which have been its targets for the last few months.
+
+Al-Jazeera checked in with some of the activists, one of whom explained that Anonymous first got involved when the Tunisian government tried to block access to Wikileaks.
+
+"We did initially take an interest in Tunisia because of WikiLeaks, but as more Tunisians have joined they care more about the general internet censorship there, so that's what it has become," another Anon said. It is hard to generalize the Anons' diverse range of motivations and ever-changing targets, but most appear to share an outrage over the Tunisian government's censorship and phishing activities, and a sense of solidarity with Tunisian web users. Attacking government-linked websites is much more dangerous for those living within Tunisia, they noted, who risk arrest if they are identified by the authorities. "Although many Tunisians understandably do not feel comfortable participating in this operation out of precaution, I estimate there [were] about 50 Tunisians participating, to whom we provide the means and knowledge to properly secure their online behavior from exposure to their government," one Anon activist wrote via email.
+
+Wikileaks and pet tigers: Why would the Wikileaks revelations of recent months matter to a country like Tunisia? Because of some exceptionally frank dispatches from Robert Godec, the U.S. Ambassador to Tunisia.
+
+In one of the cables, Godec reports on a private dinner he had with Mohammad Sakher El-Materi, the president's son-in-law and a very wealthy man. Given the public dissatisfaction with a regime built on cronyism and suffused with corruption, Godec's report fueled public anger at the regime when it appeared late in 2010.
+
+The report was stuffed with candid details like these:
+
+El-Materi's house is spacious, and directly above and along the Hammamet public beach. The compound is large and well guarded by government security. It is close to the center of Hammamet, with a view of the fort and the southern part of the town. The house was recently renovated and includes an infinity pool and a terrace of perhaps 50 meters. While the house is done in a modern style (and largely white), there are ancient artifacts everywhere: Roman columns, frescoes and even a lion's head from which water pours into the pool. El Materi insisted the pieces are real. He hopes to move into his new (and palatial) house in Sidi Bou Said in eight to ten months. The dinner included perhaps a dozen dishes, including fish, steak, turkey, octopus, fish couscous and much more. The quantity was sufficient for a very large number of guests. Before dinner a wide array of small dishes were served, along with three different juices (including Kiwi juice, not normally available here). After dinner, he served ice cream and frozen yoghurt he brought in by plane from Saint Tropez, along with blueberries and raspberries and fresh fruit and chocolate cake... El Materi has a large tiger ("Pasha") on his compound, living in a cage. He acquired it when it was a few weeks old. The tiger consumes four chickens a day. (Comment: The situation reminded the Ambassador of Uday Hussein's lion cage in Baghdad.) El Materi had staff everywhere. There were at least a dozen people, including a butler from Bangladesh and a nanny from South Africa. (NB This is extraordinarily rare in Tunisia, and very expensive.)... The family's favorite vacation destination spot is the Maldives Islands… Nesrine said she loves Disney World, but had put off a trip this year because of H1N1 flu. Nesrine has, for sometime, had Tamiflu nearby (even taking it on trips). Originally it was out of fear of bird flu. She packs it for El Materi too when he travels. Nesrine said she has visited several US cities. El Materi had only been to Illinois recently in connection with the purchase of a plane… Throughout the evening, El Materi often struck the Ambassador as demanding, vain and difficult. He is clearly aware of his wealth and power, and his actions reflected little finesse.
+
+Godec also wasn't afraid to pass on blunt reports of corruption among Tunisia's leaders:
+
+According to Transparency International's annual survey and Embassy contacts' observations, corruption in Tunisia is getting worse. Whether it's cash, services, land, property, or yes, even your yacht, President Ben Ali's family is rumored to covet it and reportedly gets what it wants. President Ben Ali's extended family is often cited as the nexus of Tunisian corruption. Often referred to as a quasi-mafia, an oblique mention of "the Family" is enough to
+
+indicate which family you mean. Seemingly half of the Tunisian business community can claim a Ben Ali connection through marriage, and many of these relations are reported to have made the most of their lineage.
+
+One member of the family apparently even stole a French yacht, painting over it and having it delivered to Tunisia, where it was spotted and finally returned.
+
+Writing at Foreign Policy, Christopher Alexander noted that this leak, and several other cables, did more than just stoke anger at the regime; they gave people a sense that the United States might share their concerns.
+
+"Given Ben Ali's reputation as a stalwart U.S. ally," Alexander wrote, "it mattered greatly to many Tunisians – particularly to politically engaged Tunisians who are plugged into social media – that American officials are saying the same things about Ben Ali that they themselves say about him. These revelations contributed to an environment that was ripe for a wave of protest that gathered broad support."
+
+Tweeting the news: For those craving up-to-the minute news, Twitter has become a terrific source. Writers like Dima Khatib of Al-Jazeera and columnist Sultan Al-Qassemi are providing aggregation and opinion on a moment-to-moment basis.
+
+"Take a breath people," Khatib wrote today as Ben Ali fled his country. "We are living history. Tunisians have given us the best gift ever. I am happy to be living today."
+
+And, as The New York Times notes, bloggers across the Arab world have been cheering on the Tunisian demonstrations.
+
+Oh, the irony: Tunisia, never a friend to openness and freedom of speech, was nevertheless a backer of the "internet." Indeed, Tunis was the location for a U.N. meeting in 2005 that produced the "Tunis Agenda," a document that called for the creation of the Internet Governance Forum (IGF).
+
+IGF is largely toothless, but in the last five years its annual meetings have been an important place for dialog about the future of the very tool that helped drive the Tunisian government from power.
+
+New beginnings: Tunisia has a chance for a change of direction, though at this early date it is of course impossible to predict much about the country's future. For the formerly well-connected "Family" in Tunisia, though, the good times appear to be over. On Twitter, commenters have obsessively followed the movements of his private plane, which has apparently been denied access to France and is now heading to one of the Gulf States.
+
+As for El-Materi, the son-in-law with the private tiger, Al-Jazeera says that he too has made it out of the country and is heading for Dubai.
+
+Bloggers, Internet activists, and Facebook users may have helped push a regime out of power, but it doesn't look even they have enough power to force Ben Ali and his family into a real-life reckoning.

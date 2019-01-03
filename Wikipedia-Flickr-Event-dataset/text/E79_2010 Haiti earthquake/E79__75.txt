@@ -1,0 +1,45 @@
+The events in Haiti this week have been truly shocking.
+
+As I wrote on Wednesday, if there was one country in the world that really didn't need this kind of catastrophe then the Caribbean nation was it.
+
+Its infrastructure is wobbly at the best of times and watching the photographs and video from Port-au-Prince has been heart-wrenching.
+
+I spent Thursday morning with the director general of the European Space Agency to talk about the eye-catching events coming up in 2010, but it was no surprise when he wanted to mention first the events in Haiti.
+
+Natural disasters are the occasion when that fleet of metal boxes orbiting hundreds of kilometres above our heads really come into their own.
+
+A map of roads and public buildings in Port-au-Prince. (SERTIT http://sertit.u-strasbg.f)
+
+The first thing an emergency response needs is an up-to-date view of the land affected.
+
+Which roads and bridges are still intact? Which remote areas look to have been worst hit?
+
+Where is the best place for a base-camp? And if terrestrial communications are down, which satellite assets can be used to co-ordinate the relief effort, not just for phones but to drive computers as well?
+
+Many space agencies have signed up to something called the International Charter [on] Space and Major Disasters.
+
+It was initiated back in 2000 by Esa, and the French (Cnes) and Canadian (CSA) space agencies; but then quickly acquired other signatories including important US bodies like Noaa and the US Geological Survey.
+
+The UK, too, is involved. It has a very particular contribution to make through the Guildford-based Disaster Monitoring Constellation company, which manages a six-strong fleet of optical and near-infrared imaging satellites that can - as a team - picture the entire Earth's surface in one day.
+
+When the Charter is activated, the signatories re-task their satellites to get the data most urgently needed in a devastated region.
+
+The Charter was activated this week - of course it was.
+
+The French Civil Protection authorities, Public Safety Canada, the American Earthquake Hazards Programme of the USGS and the UN Stabilisation Mission in Haiti called for spacecraft to turn their eyes on Haiti.
+
+You can see on this page one of the first maps generated from satellite imagery taken within 24 hours after the Magnitude 7.0 quake.
+
+It's being used to identify roads and major public buildings reported to have been damaged. The map relies on data provided by Japan's ALOS spacecraft and France's Spot-5 satellite.
+
+I know it doesn't look like it here because of the way it is rendered but the original has 10m resolution (Go to the SERTIT Rapid Mapping Service to see some of the latest maps in more detail).
+
+Others sats have been deployed as well, including Esa's leading Earth observation spacecraft, ERS-2 and Envisat.
+
+These satellites have a radar capability, which, unlike optical sensors, sees the ground whatever the weather.
+
+Radar is particular useful because you can detect how the ground has actually moved by comparing data gathered before and after a quake.
+
+This type of information will be important in assessing future seismic hazard in the region, so it's not just in the immediate aftermath of a natural disaster like this that satellites return on their investment.
+
+Watch this space.

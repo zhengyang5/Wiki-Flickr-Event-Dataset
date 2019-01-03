@@ -1,0 +1,81 @@
+“These latest disclosures are important,” said Steven Aftergood, the director of the Project on Government Secrecy at the Federation of American Scientists. “They indicate how the contours of the law secretly changed, and they represent the transformation of the Foreign Intelligence Surveillance Court into an interpreter of law and not simply an adjudicator of surveillance applications.”
+
+The Raw Take order appears to have been the first substantial demonstration of the court’s willingness after Sept. 11 to reinterpret the law to expand government powers. N.S.A. officials included it as one of three court rulings on an internal timeline of key developments in surveillance law from 1972 to 2010, deeming it a historic event alongside once-secret 2004 and 2006 rulings on bulk email and call data.
+
+A half-dozen current and former officials defended the order as lawful and reasonable, saying it allowed the government to best use its experts on Al Qaeda — wherever they worked — to find nuggets of intelligence hidden in hours of phone calls or volumes of emails. They also noted that the agencies receiving the data must still apply privacy protections after evaluating Americans’ information. An N.S.A. spokeswoman declined to comment about the ruling.
+
+Advertisement Continue reading the main story
+
+Still, Marc Rotenberg, the executive director of the Electronic Privacy Information Center, argued that the easing of privacy protections mandated by the Foreign Intelligence Surveillance Act of 1978 increased the risk of abuse and should not be a secret.
+
+“The framers of FISA intended to narrowly restrict the ability of the government to disseminate this information because it has a very low standard enabling access to communications,” he said. “If the FISA court removed those safeguards, it obviously raises questions about compliance with the intent of the act.”
+
+The number of Americans whose unfiltered personal information has been shared among agencies is not clear. Since the Sept. 11 attacks, the court has approved about 1,800 FISA orders each year authorizing wiretaps or physical searches — which can involve planting bugs in homes or offices, or copying hard drives — inside the United States. But the government does not disclose how many people had their private conversations monitored as a result.
+
+Other Americans whose international phone calls and emails were swept up in the N.S.A.’s warrantless wiretapping program after it was legalized in 2007 might have increased those numbers. After Congress amended the surveillance act to authorize the program, the court allowed raw sharing of personal information from it, too, according to leaked and declassified documents.
+
+The new disclosures come amid a debate over whether the surveillance court, which hears arguments only from the Justice Department, should be restructured for its evolving role. Proposals include overhauling how judges are selected to serve on it and creating a public advocate to provide adversarial arguments when the government offers complex legal analysis for expanding its powers.
+
+Easing Barriers
+
+The Bush administration sought the Raw Take order as it was trying to lower various bureaucratic barriers that impeded counterterrorism specialists across the government from working together.
+
+Timothy Edgar, a Brown University visiting professor who worked at the Office of the Director of National Intelligence and at the White House from 2006 to 2013, said that after the Sept. 11 attacks “there was a big movement to make sure sharing took place early on and at a tactical level.”
+
+“Without the ability to have a small group of people that would be able to share intelligence at an earlier stage, at a raw stage,” he added, “it was hard to cooperate at a more technical level.”
+
+Advertisement Continue reading the main story
+
+Some efforts took place in public. In May 2002, the surveillance court rejected a request to dismantle a “wall” that inhibited criminal prosecutors from working closely with intelligence investigators using FISA surveillance; that fall, a review court overturned the ruling. Meanwhile, the administration was also pushing in private to get around obstacles to sharing information among intelligence agencies.
+
+Congress had enacted FISA after revelations about decades of abuses of surveillance undertaken in the name of national security — like the F.B.I.’s taping of the Rev. Dr. Martin Luther King Jr. ’s extramarital affairs and its sharing of the information with the Kennedy White House. The law required agencies to “minimize” private information about Americans — deleting data that is irrelevant for intelligence purposes before providing it to others.
+
+Exceptions had been narrow, like when an agency needed decoding or translating help from a counterpart. The Justice Department’s 2002 motion — formally called “In Re Electronic Surveillance and Physical Search of International Terrorist Groups, Their Agents, and Related Targets” — argued that the court could interpret that exception more permissively.
+
+People familiar with the request said it cited passages from a 1978 report by the House Intelligence Committee that explained what lawmakers intended the original FISA bill to mean.
+
+One section says that when information has not yet been examined and another agency is going to perform that task, minimization requirements are not yet in effect. Another explains that lawmakers intended that “a significant degree of latitude be given in counterintelligence and counterterrorism cases” regarding the retention or sharing of information “between and among counterintelligence components of the government.”
+
+Newsletter Sign Up Continue reading the main story Please verify you're not a robot by clicking the box. Invalid email address. Please re-enter. You must select a newsletter to subscribe to. Sign Up You agree to receive occasional updates and special offers for The New York Times's products and services. Thank you for subscribing. An error has occurred. Please try again later. View all New York Times newsletters.
+
+Justice Department officials argued that those passages showed that it would be consistent with congressional intent to allow wider sharing of unevaluated, unminimized information among analysts at the N.S.A., the F.B.I. and the C.I.A. The court agreed, granting the order.
+
+Current and former officials said only trained analysts with a need to see the raw information may access it. Still, Jameel Jaffer, a lawyer for the American Civil Liberties Union , noted that the government had cited stringent minimization rules to justify FISA surveillance as complying with the Constitution.
+
+“It seems that at the same time the government has been touting the minimization requirements to the public, it’s been trying behind closed doors to weaken those requirements,” he said.
+
+The newly disclosed documents also refer to a decision by the court called Large Content FISA, a term that has not been publicly revealed before. Several current and former officials, speaking on the condition of anonymity, said Large Content FISA referred to sweeping but short-lived orders issued on Jan. 10, 2007, that authorized the Bush administration to continue its warrantless wiretapping program.
+
+Advertisement Continue reading the main story
+
+The Bush administration had sought a ruling to put the program, which had been exposed by The New York Times, on a firmer legal footing. Attorney General Alberto R. Gonzales disclosed a week after the decision that a judge had issued “innovative” and “complex” orders bringing the program under the surveillance court’s authority. But when they came up for renewal that April, another surveillance court judge balked and began requiring cumbersome paperwork, prompting the administration to seek a legislative solution, an intelligence official later explained.
+
+The documents do not explicitly say the Large Content FISA orders were the January 2007 decisions but are consistent with that explanation.
+
+Two classification guides say that the N.S.A. used the orders during a transition to the enactment of the Protect America Act, an August 2007 law in which Congress legalized the program. It was replaced with the FISA Amendments Act in 2008.
+
+The government has never provided details about the court’s reasoning in pronouncing the program lawful. But the orders are also mentioned in a classified draft of an N.S.A. inspector general report that Mr. Snowden disclosed, which calls them “Foreign Content” and “Domestic Content” orders. The report cites a legal theory that reinterpreted a key word in the original FISA — the “facility” against which the court may authorize spying because a terrorism suspect is using it.
+
+Facilities had meant phone numbers or email addresses, but a judge accepted an argument that they could instead be the gateways connecting the American communications network to the world, because Qaeda militants were probably among the countless people using those switches. Privacy protections would be applied afterward, the report said.
+
+Asked about Large Content FISA orders, Vaneé Vines, an N.S.A. spokeswoman, said: “Since the enactment of the Protect America Act and the FISA Amendments Act, all collection activities that come within the scope of those statutes have been conducted pursuant to those statutes.”
+
+Foreign Governments
+
+The Raw Take order, back in 2002, also relaxed limits on sharing private information about Americans with foreign governments. The bar was higher for sharing with outsiders: Raw information was not provided, and even information deemed relevant about a terrorism issue required special approval.
+
+Under procedures described in a 1984 report, only the attorney general could authorize such dissemination. But on Aug. 20, 2002, Attorney General John Ashcroft , citing the recent order, secretly issued new procedures allowing the N.S.A. to provide information to foreign governments without his clearance.
+
+Advertisement Continue reading the main story
+
+“If the proposed recipient(s) of the dissemination have a history of human rights abuses, that history should be considered in assessing the potential for economic injury, physical harm, or other restriction of movement, and whether the dissemination should be made,” he wrote.
+
+Access within the N.S.A. to raw FISA information was initially limited to its headquarters at Fort Meade, Md. But in 2006, the N.S.A. expanded sharing to specialists at its code-breaking centers in Hawaii , Texas and Georgia . Only those trained would obtain access, but a review demonstrated that wider sharing had already increased risks. A document noted that the agency was mixing two types of FISA information, each subject to different court-imposed rules, along with other records, and “it is possible that there are already FISA violations resulting from the way data has been stored in these databases.”
+
+The sharing of raw information continued to expand after the enactment of the FISA Amendments Act. On Sept. 4, 2008, the court issued an opinion, which remains secret but was cited in another opinion that has been declassified, approving minimization rules for the new law. A video explaining the new rules to N.S.A. employees noted that “C.I.A. and F.B.I. can have access to unminimized data in many circumstances.”
+
+A footnote in a now-declassified October 2011 opinion shows that the N.S.A. did not share one category of raw data: emails intercepted at network switches, as opposed to those gathered from providers like Yahoo . For technical reasons, the switch tactic intercepts tens of thousands of purely domestic and unrelated emails annually.
+
+Around early 2012, the court approved the expansion of sharing to a fourth agency, the National Counterterrorism Center, a clearinghouse for terrorism threat information. A May 2012 document says the “fact that NCTC is in receipt of raw or unminimized FISA information” is classified at a level reserved for data whose disclosure would “cause serious damage” to national security.
+
+Intelligence officials, when pressed, offered no rationale for why public knowledge of the court’s interpretation of legal limits on sharing information met that standard.

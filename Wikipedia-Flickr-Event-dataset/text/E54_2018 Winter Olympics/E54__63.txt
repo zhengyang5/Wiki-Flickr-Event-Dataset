@@ -1,0 +1,101 @@
+PyeongChang is shaping up to be the most innovative Olympics ever, with advances in 8K and 5G production and an avalanche of OTT content.
+
+The International Olympic Committee is no stranger to using the latest technology to attain pinnacles of sports production but in recent times there’s been another imperative to innovate.
+
+The Games may be second only to soccer as the world’s most widely enjoyed type of sporting event but compared to many other sports it tends to appeal to an older fan base. Reaching a younger audience is the principal driver behind fresh attempts to jazz up the Games by innovating production technologies and distributing to new platforms.
+
+The Winter Games, in PyeongChang, South Korea is no exception, featuring a mix of tried and trusted and more experimental techniques.
+
+Notably this includes what is believed to be the largest ever live 8K UHD production.
+
+What’s more the 8K production features High Dynamic Range – a world first on this scale. Host broadcaster Olympic Broadcast Services (OBS) is also testing 5G to transmit video live to air – another first - and has a new service dedicated to social media.
+
+“There are always very high expectations about production quality in addition to which we have to satisfy fans of niche sports as well as reach a far wider audience,” explains Sotiris Salamouris, Chief Technology Officer, OBS.
+
+“In addition, Winter Games tends to feature a lot of action driven sports which particularly appeal to the younger generation. For all those reasons we need to do something exceptional.”
+
+The 8K UHD coverage is being conducted in tandem with Japanese broadcaster NHK and it’s on a far bigger scale than the single camera 8K pilot made in Rio.
+
+This time, some 90 hours of 8K content will be captured in HDR (BT.2020) using the HLG format devised by NHK and the BBC.
+
+NHK leads the 10-camera three OB production on events including figure skating, ski jumping and snowboarding.
+
+Of course, the 8K pictures won’t be seen by many people outside of a special theatre in the International Broadcast Centre, nor beyond private screens in Japan which plans to start national satellite transmission in the format by 2020.
+
+However, according to OBS, several rights holders (not just NHK) are taking the full 8K feed for test purposes, some with a view to showcasing the Tokyo games in four years’ time live to cinemas or other large audience venues.
+
+The production serves a practical purpose too since the 8K UHD HDR feed will be down-converted on site to provide a 4K HDR output which is being taken by broadcasters including NBCU.
+
+There’ll be a separate 4K SDR (BT.709) version too, but the baseline production remains HD 1080i for which OBS is fielding over 400 cameras plus more than 250 specialist cameras and aerial shots from helicopter and a drone.
+
+Read more How big is the eSports opportunity?
+
+5G live production
+
+There are huge expectations around 5G as the technology moves from experimentation to commercialisation but the International Olympic Committee (IOC) has stolen a march here too with what may well be the first live to air 5G video application.
+
+Small 4K fixed lens cameras have been fitted to the front of Olympic bobsleighs (some with dummy modules of the same weight and profile) to offer an extraordinary bullet’s eye view which will be cut into the live production. Although the cameras are 4K the transmission output will be HD.
+
+“These real-time links are only possible with the low latency (almost zero delay) of 5G,” explains Salamouris. “This is a very important proof of the value of 5G technology not just for distribution to mobile but for contribution links. We are very interested in exploring the use of 5G further with a view to replacing traditional contribution solutions over RF.”
+
+KT (Korea Telecom) has installed the 5G network and base stations around the bobsleigh track and at other Winter Games venues including the Gangneung Olympic Park, home of the ice arena.
+
+A partnership with Olympic sponsor Intel will showcase other 5G applications.
+
+While not part of the host broadcast and viewable only by spectators in special zones using 5G-ready mobile devices, these trials include time-sliced views of skaters in motion and the ability to track competitors over the Olympic Cross Country course with the ability to select different views in real-time.
+
+Social media Content
+
+One particular OBS innovation is an indication of an ongoing shift in Olympic programming strategy. Content+ is a source of animations, maps, analytics and a series of short 1-3 minute videos curated by OBS and made available to publishers on a globally accessible web portal.
+
+“The idea is that this will facilitate broadcasters to distribute the Games better through social media,” explains Salamouris.
+
+“It’s not just the traditional coverage that we put there in shorter form. It’s primarily content designed to work well in social media such as more behind the scenes video, individual stories; athletes preparing - things that you don’t usually see in the traditional coverage.”
+
+According to a 2017 poll of 18,000 European internet users conducted by Ampere Analysis, 54% of those who said they enjoy the Olympics were over 45 years old while 55% of those who enjoy soccer are under 44 years old.
+
+Recent decisions by the IOC to add new sports like karate, surfing and skateboarding to the Summer Games have been made with that in mind.
+
+The Paris Games of 2024 is even being lined up for the introduction of eSports as an official Olympic event.
+
+PyeongChang represents an important step on the road to authenticating computer gaming since Intel is organising an eSports competition ahead of the opening ceremony.
+
+The dual branding of the Intel Extreme Masters PyeongChang with that of the Olympic rings and the parallel promoting in Korea of Ubisoft game ‘Steep Road to the Olympics’, is a sign that the IOC is eager tap the huge global fanbase of young eSports enthusiasts – a good third to a half of whom are female.
+
+On the same basis, covering the Olympics through multiple platforms and especially online services has been considered the way forward since before London 2012. The Ampere study shows that of respondents that took Subscription Video on Demand (SVoD) services, almost 45% are under 34 years old.
+
+“Younger consumers are more engaged with online services and also show higher engagement with social networks making it clear that promoting the Olympics through those routes is important [for the IOC],” suggests analyst Alexios Dimitropoulos.
+
+Each successive Games becomes the most consumed online with PyeongChang being confidently billed as the most connected Games yet by both the IOC and rights holders like Eurosport.
+
+The Discovery Communications-owned broadcasters plans more than 4,000 hours of digital coverage including 860 hours of live action – basically all of the OBS output.
+
+Eurosport, which paid €1.3 billion (£920 million) to cover four Games until 2024, has all but abandoned linear TV saying it will make every minute available online via its OTT platform Eurosport Player.
+
+This will make it the first fully digital Olympics for Europe, it claims. To capitalise on this it has slashed the cost of access to Eurosport Player from €6.99 a month to one Euro for the duration of the Games.
+
+The need to reach Millennials on social media is vital to Eurosport’s effort. It has a self-described ‘Radical Van’ on site, a mobile facility for creation of bespoke content to Facebook Live and other social networks.
+
+It has also hired US-based producer Cycle to create multi-language editorial for publication on Snapchat in Europe as part of a wider agreement Discovery has for producing mobile-first shows for Snapchat’s Discover platform.
+
+In addition, it has an AR studio called The Cube for experts to analyse key events surrounded by 3D graphics such as ski jumper frozen at the point of take-off.
+
+NBCU expand access
+
+Traditional broadcasters are adapting too. NBCU, owned by US cable giant Comcast, paid U$7.65 billion to show the Olympics on TV and online through 2032, also has a pact with Snapchat to share clips of NBC’s Olympics content.
+
+In addition, Snapchat will carry coverage of the Games that BuzzFeed will co-produce with NBC for the Snapchat Discover media hub. The Wall Street Journal estimates that advertising revenue shared by Snap and NBCU as a result of the deal around the Winter Games could reach $75 million
+
+However, NBCU also knows it needs to shake up its linear coverage after facing criticism of coverage of Sochi.
+
+In 2014 the network live-streamed the Olympics to cable customers but re-aired popular events during primetime leaving many viewers susceptible to spoilers. This time around, NBC will broadcast live in all US time zones on channels including NBC, NBCSN, CNBC and USA Network, on NBCOlympics.com and over the NBC Sports app.
+
+The broadcaster promises more than 2,400 hours of coverage, the most ever it will have aired from a Winter Olympics.
+
+The 4K HDR transmission is being used to promote the capabilities of Comcast’s Xfinity set top box.
+
+Along with Eurosport it is also offering 50 hours of live virtual reality coverage produced by OBS. Intel VR rigs and picture processing will capture 180-degree video of events including alpine skiing, curling, snowboarding and skeleton distributed to users with Windows Mixed Reality headsets, Samsung Gear VR and Google Daydream via the NBC Sports VR app.
+
+“We trialled VR in Rio but we had just one camera placement,” says Salamouris.
+
+“This time the production is much more sophisticated. Watching sports for a long period of time in VR works less well than a ‘lounge experience’ which is what we are deploying in PyeongChang. This is where viewers can immersive themselves in VR as if from the venue but also come out of that feed and look around a virtual lounge.”

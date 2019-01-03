@@ -1,0 +1,33 @@
+HSBC Exposed U.S. Financial System to Money Laundering, Drug, Terrorist Financing Risks Senate Subcommittee Holds Hearing and Releases Report
+
+WASHINGTON – Global banking giant HSBC and its U.S. affiliate exposed the U.S. financial system to a wide array of money laundering, drug trafficking, and terrorist financing risks due to poor anti-money laundering (AML) controls, a Senate Permanent Subcommittee on Investigations probe has found.
+
+“In an age of international terrorism, drug violence in our streets and on our borders, and organized crime, stopping illicit money flows that support those atrocities is a national security imperative,” said Sen. Carl Levin, D-Mich., subcommittee Chairman. “HSBC used its U.S. bank as a gateway into the U.S. financial system for some HSBC affiliates around the world to provide U.S. dollar services to clients while playing fast and loose with U.S. banking rules. Due to poor AML controls, HBUS exposed the United States to Mexican drug money, suspicious travelers cheques, bearer share corporations, and rogue jurisdictions. The bank’s federal bank regulator, the OCC, tolerated HSBC’s weak AML system for years. If an international bank won’t police its own affiliates to stop illicit money, the regulatory agencies should consider whether to revoke the charter of the U.S. bank being used to aid and abet that illicit money.”
+
+The Subcommittee conducted a year-long investigation into HSBC and has detailed its findings in a 330-page report to be released at the hearing Tuesday, along with more than 100 documents, including bank records and internal emails. The hearing, which begins at 9:30 a.m., will include testimony from HSBC officials and federal regulators.
+
+The Subcommittee investigation focused on HSBC’s key U.S. affiliate, HSBC Bank USA, N.A., known as HBUS, which functions as the U.S. nexus for HSBC’s worldwide network. HSBC has 7,200 offices in more than 80 countries and 2011 profits of $22 billion; HBUS has 470 branches across the United States with 4 million customers. HBUS provides accounts to 1,200 other banks including more than 80 HSBC affiliates. Called correspondent banking, HBUS provides these banks with U.S. dollar services, including services to move funds, exchange currencies, cash monetary instruments, and carry out other financial transactions. Correspondent banking can become a major conduit for illicit money flows unless U.S. laws to prevent money laundering are followed.
+
+
+
+In 2010, HSBC was cited by its federal regulator, the Office of the Comptroller of the Currency (OCC), for multiple severe AML deficiencies, including a failure to monitor $60 trillion in wire transfer and account activity; a backlog of 17,000 unreviewed account alerts regarding potentially suspicious activity; and a failure to conduct AML due diligence before opening accounts for HSBC affiliates. Subcommittee investigators found that the OCC had failed to take a single enforcement action against the bank, formal or informal, over the previous six years, despite ample evidence of AML problems.
+
+The Subcommittee investigation focused on five areas of abuse:
+
+--Servicing High Risk Affiliates. HSBC’s U.S. bank, HBUS, offered correspondent banking services to HSBC Bank Mexico, and treated it as a low risk client, despite its location in a country facing money laundering and drug trafficking challenges, high risk clients like casas de cambio, high risk products like U.S. dollar accounts in the Cayman Islands, a secrecy jurisdiction, and weak AML controls. The Mexican affiliate transported $7 billion in physical U.S. dollars to HBUS from 2007 to 2008, outstripping other Mexican banks, even one twice its size, raising red flags that the volume of dollars included proceeds from illegal drug sales in the United States.
+
+--Circumventing OFAC Safeguards. Foreign HSBC banks actively circumvented U.S. safeguards at HUBS designed to block transactions involving terrorists, drug lords, and rogue regimes. In one case examined by the Subcommittee, two HSBC affiliates sent nearly 25,000 transactions involving $19.4 billion through their HBUS accounts over seven years without disclosing the transactions’ links to Iran.
+
+--Disregarding Terrorist Financing Links. HBUS provided U.S. dollars and banking services to some banks in Saudi Arabia and Bangladesh despite links to terrorist financing.
+
+--Clearing Suspicious Bulk Travelers Checks. In less than four years, HSBC cleared $290 million in obviously suspicious U.S. travelers cheques for a Japanese bank, benefiting Russians who claimed to be in the used car business.
+
+--Offering Bearer Share Accounts. HSBC offered more than 2,000 accounts to bearer share corporations, despite the high risk of money laundering and illicit conduct that results since their ownership can be readily transferred without a trail.
+
+The report recommends a number of changes at HSBC’s U.S. bank, including higher scrutiny of HSBC affiliates for money-laundering risk, closing accounts of banks linked to terror financing, and steps to ensure the bank does not process transactions with prohibited entities such as terrorists, drug lords, and rogue regimes. It also recommends overhauling the AML controls on travelers cheques and eliminating bearer share accounts.
+
+The report also offers several criticisms of the OCC’s AML oversight. It recommends that the agency follow the lead of regulators at other banks and treat money laundering as a threat to a bank’s safety and soundness, rather than as a consumer compliance concern. It also recommends the OCC change its practice of foregoing statutory violations when a bank’s AML program does not meet one or more of four minimum statutory requirements. In addition, it recommends that the OCC take stronger action when a bank hits a threshold number of AML statutory violations or Matters Requiring Attention from bank management.
+
+
+
+“HSBC’s compliance culture has been pervasively polluted for a long time,” Levin said. “Its recent change in leadership says it’s committed to cleaning house. That commitment is welcome surely, but it will take more than words for the bank to change course. Just as certain is the need for tough regulation by the OCC.”

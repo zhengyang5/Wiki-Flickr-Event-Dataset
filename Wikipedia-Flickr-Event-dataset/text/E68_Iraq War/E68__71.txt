@@ -1,0 +1,659 @@
+The Wages of War: Iraqi Combatant and Noncombatant
+
+Fatalities in the 2003 Conflict Project on Defense Alternatives Research Monograph # 8
+
+Carl Conetta
+
+20 October 2003
+
+The Wages of War: Iraqi Combatant and Noncombatant Fatalities in the 2003 Conflict Project on Defense Alternatives Research Monograph # 8
+
+Carl Conetta
+
+20 October 2003
+
+It's not pretty. It's not surgical. You want surgical, you should have left the place alone. You try to limit collateral damage, but they want to fight. Now it's just smash-mouth football.
+
+- Chief Warrant Officer Pat Woellhof with USMC units in Nasiriyah, April 2003(1)
+
+If there is one Bin Laden now, there will be 100 Bin Ladens afterward
+
+- Hosni Mubarak in speech on the Iraq war, 31 March 2003(2)
+
+I am going to kill America - not today, after 10 years
+
+- father of nine-month-old Iraqi girl killed by cluster bomblet
+
+
+
+
+
+1. Introduction
+
+The motivating premise of this study is that nations cannot wage war responsibly or intelligently without careful attention to its costs. The broader context in which "Operation Iraqi Freedom" was conducted -- that is, the campaign against terrorism -- makes attention to the repercussions of war even more urgent. Effective action against terrorism depends in fair part on an effort to win hearts and minds. Success in this effort turns significantly on issues of legitimacy and responsible action, especially with regard to the use of force. And the first principle of responsible action is to take account of its effects.
+
+It may not be possible to predict or determine with absolute precision any of the many costs of conflict -- economic, human, or environmental. But this does not relieve us of the need and responsibility to develop a "working estimate given available evidence" -- which is what the present study aims to do with regard to fatalities. Fortunately for this analysis, the available evidence is very substantial, including journalistic coverage of civilian casualty incidents, surveys of hospitals, burial societies, and graveyards, and battlefield observations made by embedded reporters and by military personnel on both sides. Seldom in history has a conflict been so closely scrutinized on the ground while it occurred as was the 2003 Iraq war.
+
+Our analysis of the evidence leads to the conclusion that between 10,800 and 15,100 Iraqis were killed in the war. Of these, between 3,200 and 4,300 were noncombatants -- that is: civilians who did not take up arms. Expressed in terms of their mid-points, our estimates are:
+
+
+
+
+
+Total Iraqi fatalities: 12,950 plus or minus 2,150 (16.5 percent) Iraqi non-combat fatalities: 3,750 plus/minus 550 (15 percent) Iraqi combatant fatalities: 9,200 plus/minus 1,600 (17.5 percent)
+
+Calculated on the basis of these mid-points, approximately 30 percent of the war's fatalities were noncombatant civilians.
+
+These are "working" estimates in the sense that they are based on a body of evidence (including operational statistics) that will change with the release or discovery of new information. The tallies we offer are "estimates" in the sense that they pose fatality totals (in several classes) which have been extrapolated from information that is only partial. The uncertainties inherent in this process are partly conveyed by expressing our estimates as ranges, which can be viewed as margins of error.
+
+New information may allow us to narrow our estimated fatality range or it could somewhat shift the range upward or downward. However, because the present fact base is so rich, we are confident that the actual Iraqi fatality total falls somewhere within the range we have calculated. At any rate, the strategic significance of a casualty toll -- its relevance to policy -- does not depend on achieving a single firm number or a zero margin of error. In strategic terms, the difference between 11,000 and 15,000 fatalities (our approximate upper and lower limits) is only marginally significant. Whether the war's death toll registers at the upper or lower end of this range, its repercussions would be about the same. In other words: the achieved degree of precision is sufficient to usefully inform policy.
+
+2. Organization and method
+
+Our estimate of Iraqi war dead is based on an analysis and synthesis of several types of data:
+
+Journalistic surveys of hospital and burial society records, with a primary focus on determining the number of civilian war fatalities. Chief among these are surveys conducted and published by the Associated Press, Knight-Ridder press syndicate, and the Los Angeles Times. These are supplemented by media and Nongovernmental Organization (NGO) reports and compilations of individual casualty incidents, which include testimony from eyewitnesses, hospital personnel, aid workers, and the families of the dead. Among the supplementary compilations used in this report is one published by PDA: Civilian Casualties in the 2003 Iraq War: A Compendium of Accounts and Reports (Commonwealth Institute, May 2003).
+
+Observations and estimates of fatalities in combat by military commanders and embedded journalists, with an ostensible focus on combatant fatalities. These are compiled and reviewed in Appendix 1. Survey and assessment of reported Iraqi combatant fatalities in the 2003 War;
+
+Journalist interviews with Iraqi commanders and military personnel that detail their experience of the effects of coalition firepower; and,
+
+
+
+Official Operation Iraqi Freedom (OIF) combat statistics as well as data from other recent US military operations, which has special relevance to estimating the effects of coalition artillery and air power.
+
+As noted above, the estimation of noncombatant casualties depends principally on journalistic surveys of hospital and burial records. These are examined, first, for the Baghdad area and then for areas outside Baghdad. For the Baghdad area, the surveys and other information sources are sufficiently complete to allow for reasonable estimates of both noncombatant and combatant fatalities, which together constitute the total war dead for the city. For areas outside Baghdad, however, the surveys of hospital records are less complete. And there are no published counts of unregistered graves. Extrapolation from this smaller sample is possible, of course, but it runs a greater risk of error. The associated uncertainty is expressed as a broader range between the higher and lower ends of our estimates.
+
+
+
+The estimation of nation-wide combatant casualties comprises three data reviews: The first draws on field observations and casualty estimates by US military personnel and embedded reporters. The second assesses the impact of aerial bombardment, drawing principally on operational data and casualty reports made by Iraqi officers and enlisted personnel. The third assesses the likely fatal effects of coalition long-range artillery, drawing on operational data and metrics for artillery effectiveness. No one of these data reviews provides a complete picture. Their fusion, however, serves as a basis for extrapolating total Iraqi combatant fatalities. The hospital and burial survey data examined in the first section, which includes some insights about combatant casualties in Baghdad, provides a partial check on the plausibility of the combatant estimates made in the second section.
+
+The estimates of Iraqi fatalities in combat made by embedded reporters and US military personnel in the field ostensibly excluded noncombatants. This, too, is a proposition that cannot be accepted at face value. In our review of this data we assumed that some proportion of the observed and reported Iraqi "combatant" fatalities were actually noncombatant fatalities.
+
+A second likely problem with the estimates of Iraqi combat fatalities made by field observers is casualty inflation. To help control for this problem, we gave greatest weight to estimates by eyewitnesses and to estimates that covered events of limited scope for which substantiating detail was available. Estimates by military or civil authorities above the division level are excluded from our count except when they are consistent with estimates made by those closer to the battlefield. Even estimates by lower-level commanders and embedded journalists are adjusted, usually downward, in light of narrative details and other background information.
+
+3. Iraqi noncombatant fatalities in the 2003 war
+
+3.1. Baghdad
+
+It is most fruitful to begin an assessment of civilian noncombatant war fatalities with an estimation of the total Iraqi war dead in Baghdad. This temporarily tables the difficult but vital issue of distinguishing between combatants and noncombatants.
+
+Several relevant data points are provided by three hospital surveys conducted by US newspapers and news services:(3)
+
+A survey of 19 Baghdad area hospitals, conducted by a team of Knight Ridder News Service reporters found that 1,101 civilian war fatalities had been recorded in Baghdad's major hospitals. Another 1,255 dead were categorized by the hospitals as "probably civilians".
+
+News Service reporters found that 1,101 civilian war fatalities had been recorded in Baghdad's major hospitals. Another 1,255 dead were categorized by the hospitals as "probably civilians".
+
+A survey of 27 Baghdad area hospitals by the Los Angeles Times found reports of at least 1,700 civilian war fatalities during the period 20 March to 26 April. (Those for the period after 9 April included people who succumbed to war injuries and victims of unexploded ordnance.)
+
+found reports of at least 1,700 civilian war fatalities during the period 20 March to 26 April. (Those for the period after 9 April included people who succumbed to war injuries and victims of unexploded ordnance.)
+
+An Associated Press survey of 60 hospitals throughout Iraq included 24 in Baghdad which recorded 1,824 civilian fatalities for the period 20 March through 20 April.
+
+Estimates of bodies recovered from ad hoc or unregistered graves by Muslim burial societies and their volunteers. In Baghdad, these recovered bodies were not included in hospital counts. (4) They encompass 600 civilians claimed recovered by four burial societies, an estimated 1,000 civilians recovered by the Red Crescent Society, and 50-100 graves of Iraqi military personnel at the international airport. (We assume there is substantial overlap between the Red Crescent and burial society estimates.)
+
+or unregistered graves by Muslim burial societies and their volunteers. In Baghdad, these recovered bodies were not included in hospital counts. They encompass 600 civilians claimed recovered by four burial societies, an estimated 1,000 civilians recovered by the Red Crescent Society, and 50-100 graves of Iraqi military personnel at the international airport. (We assume there is substantial overlap between the Red Crescent and burial society estimates.)
+
+Records at Rashid Hospital, which served the military exclusively, showing 260 military fatalities.(5)
+
+By no means do these data points cover all the Baghdad war fatalities. Yet, taken together, they provide a strong foundation for beginning an estimate of the total war dead in the city.
+
+3.1.1. Reconciling the Baghdad hospital records on civilian dead
+
+All three hospital surveys report difficulty in gaining access to acceptable records in some hospitals. Thus, none of the surveys are complete. In some cases, hospital records were not available, or daily records were not available (as one of the surveys required), or hospitals failed to distinguish between civilian and non-civilian dead in their written records. In such cases, the journalists either disregarded the whole lot or attempted to examine the original records themselves.
+
+The surveys also differed in scope. Interestingly, the Knight-Ridder survey, which covers the fewest hospitals, seems to find the highest number of possible civilians. This is because it includes as a separate category 1,255 dead who doctors thought were "probably civilians," although the hospitals had not yet made a final, official determination of their status.
+
+Insofar as we are attempting, first, to estimate the total Baghdad war dead regardless of their civilian/non-civilian status, the Knight-Ridder survey among the three presents the best place to begin. It establishes a bare minimum of 2,356 war dead. Does this number encompass all the hospital cases covered by the other surveys? A closer look shows that it does not. Although the three surveys surely overlap, they clearly are not entirely coextensive.
+
+A large proportion -- 90 percent -- of the civilians and "probable civilians" reported in the Knight-Ridder survey come from three hospitals located near the Baghdad International Airport: the Karama, Askan, and Yarmouk. Of the total 2,356 deaths reported by the Knight-Ridder team, 2,100 came from these three. Undoubtedly, most of these casualties were associated with the nearby airport battles and with the armored incursions conducted by the US Third Division, which passed through nearby areas.
+
+The Knight-Ridder team recorded only 256 total dead at the remaining 16 facilities they visited. However, several hospitals other than the three near the airport were reported during the war to have been overwhelmed with casualties. And it is easy to find in the broader universe of Baghdad area hospitals surveyed by the newspaper teams many more dead than the Knight-Ridder survey would allow. For instance,
+
+The Al-Adnan hospital reported 85 civilian dead;
+
+The Mansour reported 200 -- including 30 children; (6)
+
+
+
+Mahmoudiya Hospital in south Baghdad also reported 200 dead; and
+
+
+
+The al-Kindi hospital in central Baghdad registered 192 civilian deaths as of 9 April.
+
+3.1.2 Other categories of Baghdad war dead
+
+There are several other major categories of war fatalities that are not accounted for in the 2,876 deaths noted above:
+
+First are the military personnel who were either brought to military hospitals or were registered at civilian facilities as members of the military. In either case, these would have been excluded from the journalists' surveys. Second are the dead who had been buried at or near the scene of their deaths, having never been brought to the hospitals. These, too, are not counted in the provisional total. Many of these bodies were recovered or being recovered by burial societies and Red Crescent volunteers. Third are the dead who were unrecoverable -- either buried under rumble, incinerated, or blown to pieces.
+
+Military hospitals and wards
+
+There were in Baghdad at least three hospitals designated to receive military personnel: the Rashid, Zafaraniya, and Yarmouk.(7) Other hospitals as well would have received some military casualties and dead -- and they would have designated at least some of these dead as "military."(8) Doctors' motivation for this was not an abstract commitment to separate military from civilian dead, but a desire to facilitate the identification of the dead by family members.(9) Unlike most civilians who suffered death and injury in Baghdad, military personnel might have been posted to Baghdad from all over the country. Family members searching for them might seek them through military channels or depend on information such as their rank, home unit, or assignment to find them.
+
+One indication of the number of military dead are the 260 recorded at the Rashid Hospital, which served the military almost exclusively.(10) The Yarmouk -- a civilian hospital -- also was overwhelmed with clearly military casualties, but their number was never made public.(11) The LA Times survey quotes the explanation offered by the hospital's Director of Statistics:
+
+We were divided, with a special sector for the military and a general in charge of it, a doctor. No one dared to ask them about their numbers. And then they were gone.(12)
+
+For the purposes of this report we set the minimum of uniform military dead in hospitals at 500, which includes the 260 military dead recorded at Rashid. We will use 1,200 as an upper-end estimate for the uniformed military dead who might have been identified as military and treated at hospitals throughout the city, either military or civilian ones.
+
+Undocumented burials in Baghdad
+
+Independent of the hospital toll, the LA Times article cites estimates by several of the city's burial societies that they had discovered 600 civilians and "many more" military personnel buried in undocumented graves. Some of these would have been hastily buried near where they died by local citizens or by the US military -- sometimes in "mass" graves. Islamic burial societies or teams from the Red Crescent (often alerted by the US military) acted to disinter these dead, identify them and their families, and ensure a proper burial.(16) Slowing the progress was lack of access to some city areas, such as the airport, still under tight US military control a month after the war's official end. As late as 8 June, Iraqi health officials were still negotiating for access to between 50 and 100 bodies buried at the International Airport.(17)
+
+The LA Times article cites an estimate by Haidar Tari, who led the Red Crescent burial teams, that there might be as many as 3,000 people in such graves -- one-third of them civilians. Ali Ismail, another Red Crescent official, separately reported that 1,000 graves had already been discovered in the Baghdad area as of the middle of May.(18) However, while there is strong evidence that such graves existed in substantial numbers throughout Iraq and that many untended bodies cluttered the scene of engagements in Baghdad and elsewhere, there is little to support the notion that 3,000 people were so buried in Baghdad alone.(19)
+
+We accept 1,000 undocumented burials as our minimum estimate. These we take to encompass a minimum of 50 at the international airport and the estimates of both the Red Crescent and the four surveyed burial societies. (Clearly, our minimum estimate discounts a portion of the claims and assumes overlap between the Red Crescent and burial society estimates). As a provisional upper-end estimate we accept 1,600 undocumented buried bodies, which would allow for 100 at the airport and would also marginally accommodate the impression of burial society members that dead military personnel outnumbered the 600 recovered bodies that they claimed were civilian.
+
+Unrecovered dead in Baghdad
+
+The final category of war dead comprises those who might be undiscovered (or undiscoverable), buried beneath rubble. Recovering bodies from destroyed multi-storey buildings presents a special problem. A case in point is the 11 September 2001 terrorist attack on the World Trade Center in New York City.(20) Of the 2,792 people listed as missing in the attack, only 1,464 were positively identified as late as February 2003. Approximately 700 of these were identified by means of DNA matching alone. Indeed, only 291 bodies were found whole. The last body was found in April 2002 -- seven months after the event. Clearance efforts to that point had required 3 million hours of labor. Debris from the attack weighed an estimated 1.5 million tons. Also recovered were nearly 20,000 body parts -- some of these only by the sifting process at special landfill sites.
+
+Another exemplary case on a smaller scale involves recovery of the dead from the Jenin refugee camp in the West Bank following the early April 2002 Israeli incursion.(21) During the incursion 250 buildings were either demolished or severely damaged . Most of these were small two- and three-storey structures. A few weeks after the Israeli withdrawal human rights groups asserted that 53 residents of the camp had been killed during the incursion. However, within a month, another 13 bodies were found in the debris. In early August -- nearly four months after the fighting -- four more bodies were discovered: three in piles of debris that had been removed from the site and one body of a person who had been crushed into the floor of his home. Exacerbating recovery work in Jenin was the fact that a fair portion of the damaged structures were not merely destroyed but leveled and plowed under.
+
+Returning to Baghdad and the 2003 war: Press reports suggest that more than 30 large government, military, and regime buildings in Baghdad and more than 80 smaller structures were destroyed or very severely damaged during the war, requiring reconstruction.(22) Some of these -- especially the government buildings -- were subsequently looted and burned. There are no estimates of how many casualties were associated specifically with collapsed buildings, although the regime reported few deaths from the bombing of its sites. Also, recovery work with regard to the smaller structures would have been much less challenging in Baghdad than had been the case in Jenin, where the destruction was highly concentrated and recovery efforts were impeded by the Israelis. Even in the worst cases of collateral damage in Baghdad -- such as the Al Shaab (26 March), Al Shula (28 March), and al-Mansour (7 April) neighborhood bombings -- rescue and recovery work commenced quickly. In this light we set the maximum number of Iraqis not recovered from collapsed structures in Baghdad by the end of April at 50 -- a nominal figure.
+
+3.1.3. Total war dead in Baghdad
+
+Combining the estimates for the various categories of war dead in Baghdad yields a total of between 4,376 and 5,526 fatalities, encompassing combatants and noncombatants, civilians and uniformed military:
+
+
+
+
+
+Nominal civilian dead at hospitals: 2,876 + Military dead in military hospitals and wards: 500 - 1,200 Unrecovered dead buried at Baghdad International Airport: 50 - 100 Dead buried in ad hoc graves elsewhere in the city: 950 - 1,500 Undiscovered dead: 0 - 50
+
+These estimates are based on a known -- that is recorded or counted -- quantity of at least 3,786 dead: 2,876-plus dead at civilian hospitals, 260 at the Rashid, 50 or more at the international airport, and 600 or more indentified by burial societies.
+
+3.1.4. The problem of distinguishing combatants and noncombatants
+
+A central issue in estimating civilian dead is separating combatants from noncombatants within this category. The conventional concern with civilian casualties stems from the presumed status of civilians as noncombatants. But the noncombatant status of civilians cannot be simply assumed. In the Iraq war, militias and other combatants not in uniform played a major role. Hospitals tended to classify the dead as civilian as long as they had no form of military identification or clothing and there was no other evidence to the contrary. This might have allowed proper classification of the dead and injured in most cases, but not all. This is made clear in the Knight Ridder survey with regard to some of the dead at hospitals.
+
+The "probable civilian" dead at Al Karama hospital
+
+As noted above, at three hospitals the Knight Ridder reporters found that some of the dead were unofficially categorized as "probably civilians" -- 1,255 in total. A significant subset of this category -- 450 dead -- were at the Al Karama hospital, where records also indicated that only
+
+30 percent of the "probable civilians" were women or children. But this proportional distribution does not accord with the demographics of the general Iraqi population. A closer analysis suggests that as many as 45 percent of the "probable civilian" dead at Al Karama were actually combatants. (These could have been civilian combatants or military personnel out of uniform.)
+
+The proportion of presumed civilian noncombatant dead who are women and children is an important clue to the actual number of noncombatant deaths. This ratio provides a metric by which we can guard against mistaking civilian combatants for noncombatants.
+
+Children and young people below the age of 14 years constitute 42 percent of the Iraqi population. Among those 15 years and older, the population divides almost equally into men and women; men are slightly more numerous. Thus, in a population of civilian dead we might expect 70 percent to be women and children. It is reasonable to assume, however, that men would be somewhat over-represented among civilian noncombatant casualties because they are more likely to have been out in public during the battle of Baghdad (when most of the casualties occurred).
+
+The extent to which risk-taking by noncombatant males might have affected the sample of civilian dead should not be overstated, however. A portion of the civilian fatalities were families fleeing the city, who unfortunately collided with the allied advance.
+
+Modeling the noncombatant population
+
+The Baghdad noncombatant population would have divided into four different "risk groups" of unequal size: those at risk anywhere due to strategic bombardment -- a very large group; those additionally at risk because they lived in the path of the two major American advances into the city -- a sizable group; those at high risk because they sought to flee the city in vehicles during the American advance; and those at high risk because they moved openly in the city during the final American assaults. Only the last group would have been predominantly male. (Of course, the highest risk factor would have been borne by combatants, almost all male, who actively sought confrontation with coalition forces.)
+
+A factor that would have significantly influenced the balance of risk among the four noncombatant groups was the late exodus from Baghdad of thousands of Iraqi families. These civilians hoped to reduce their risks as the American assault on the city suddenly accelerated; instead, they inadvertently exposed themselves to the coalition onslaught. As observed by Central Command spokesperson Maj. Gen. Victor E. Renuart, "The battlefield extends across the country now and it's really not safe for the Iraqi people to try to leave the cities and drive away to avoid danger."(23) Such warnings, while good intentioned, could hardly pierce the rising din of air, artillery, and armored assaults or stem the panic these assaults created. A report in the Guardian, a British newspaper, fairly summarizes the chaos that ensued in the days following the American seizure of the Saddam airport:(24)
+
+Although Iraqi officials continued to reassure residents that coalition forces would not enter the capital, few seemed convinced. In a grim e-mail from Baghdad on Sunday, Huguenin-Benjamin [of the International Committee for the Red Cross] described a "frenetic" scene Saturday morning as thousands of Baghdad citizens jammed the roads in taxis, cars and even horse-drawn carts.... "Entire families were moving from their homes," he wrote. "Families are camping overnight in their cars to escape the shelling."
+
+The scene this describes was underway the day before the first US armored thrust into the city. The predictable result was that Baghdad civilians were killed or injured as American forces and firepower swept through sectors of the city and engaged Iraqi combatants.(25) In one incident, at a south Baghdad interchange, two dozen civilian vehicles were inadvertently destroyed -- their occupants torn apart or incinerated -- by a US mechanized task force that was responding to an attack from nearby Fedayeen. Women and children were among the recognizable dead remaining in the wreckage days later.(26)
+
+Taking these factors into account, a reasonable estimate is that civilian noncombatant casualties would divide into 54 percent women and children, 46 percent men.(27) This is a ratio of 7:6, rather than the expected 7:4 and it reflects an assumed average risk factor for males that is twice that for women and children. This would lead us to expect male noncombatant fatalities to be 85 percent as numerous as those of women and children, given a general population in which males constitute 30 percent of the total while women and children constitute 70 percent.(28) This metric is key to analyzing populations of ostensibly civilian victims.
+
+In the case of the "probable civilian" dead at Al Karama hospital: If this were indeed a typical, homogenous group of civilian noncombatants, then the established fact of 135 fatalities among women and children would lead us to expect a matching group of 115 dead noncombatant males -- for a total of 250. However, the relevant pool of "probable civilians" actually comprised 450 dead of which 315 were male. So, this sizable sample might contain as many as 200 combatants in civilian attire, which is 44.4 percent of the total.
+
+Other demographic data on Iraqi casualties
+
+Some demographic data on civilian casualties in Baghdad is also available from a Spanish NGO that documented 42 cases of civilian attack in the capital involving over 100 individuals during the period 20 March through 5 April.(29) Notably, their data excludes the days of intense street fighting that began on 5 April. Most of the incidents they recount clearly involve urban aerial bombardment, which should produce a more random sampling of collateral civilian victims -- that is: a sample that more closely mirrors the demographics of Iraqi society. Although their aggregate data does not distinguish the gender of victims, they do report on their age distribution. And this closely approximates the demographics of the Iraqi population, specifically: the number of children in their sample approximates the percentage of children in the general population. This data can be easily reconciled with the data from Al Karama hospital on the supposition that a surge in male victims was associated with the large-scale clashes between coalition and Iraqi combatants that began occurring in the city around 3 April. But this also entails assuming that some of these male combatants were mis-classified as noncombatants.
+
+Apart from the Baghdad data, a demographic skew towards males is also evident in data on nearly 800 civilian casualties in the cities of Karbala, Najaf, and Diwaniya collected by another NGO, the Campaign for Innocent Victims in Conflict.(30) In this case, however, the skew is not as pronounced as in the Al Karama hospital sample. (Males represent approximately 60 percent of the casualties in the CIVIC sample; 70 percent of the fatalities at Al Karama; and 30 percent of the general population.) Unlike the survey by the Spanish NGO, the work of CIVIC began after the cessation of hostilities. It sought to fully represent the population of civilian casualties and its data was not tied to a particular phase of the conflict (that is, either the air campaign or the ground campaign).
+
+Interestingly, the balance between women and children victims in the CIVIC sample conforms to the ratio in Iraqi society as a whole. That is: this particular numerical relationship meets demographic expectations. The demographic anomaly is restricted to the balance between men on one side and women and children on the other. Also interesting is the fact that the difference in casualty numbers between adult males and females is much more pronounced for younger cohorts than for older ones. For instance: in the cohort of Iraqis aged 20 to 29 years, males are four times more likely to have been injured than females; in the 50- to 69-year-old cohort, males outnumber females by approximately 2:1. Thus, the skew in the casualty data concerns not only gender, but also age: younger males are especially over-represented. These discrepancies can be easily resolved on the assumption that some number of this sample were combatants.
+
+As noted above, our method assumes that civilian casualties would not exactly match Iraqi population demographics because both social custom and the efforts of Iraqis to safeguard their families would alter the risk factors among men, women, and children. Nonetheless, the demographics of the CIVIC sample would more closely match a reasonable expectation for a noncombatant population if it contained only half as many males above the age of 14 years. If half the sample's males are regarded as combatants, then those remaining would be in a 3:4 ratio to women and children. This adjustment entails regarding about 30 percent of the total original sample as combatants.
+
+Combatants and noncombatants among the civilian dead in Baghdad
+
+Extrapolating from the sample at Al Karama hospital, we treat as combatants 44.4 percent of the entire category of 1,255 "probable civilians" reported by hospital officials to the Knight Ridder team. Thus, we regard 697 of these dead as noncombatants and 558 of them as combatants. The factors applied to other categories of the dead are pegged to this sample.
+
+The difficulty of sorting out combatants and noncombatants among the civilian dead also applies to the estimates made by burial societies (600 dead) of undocumented graves (cited in the LA Times report) and the larger estimate by the Red Crescent (1000 graves, which may overlap with those reported by the burial societies). And it applies, although to a lesser extent, to the more assured hospital reports of civilian dead in both the Knight Ridder report and the other two hospital surveys. In these cases, hospitals had made a "final determination" of the status of the dead -- that is, death certificates were issued -- or the reporters had examined the original (often hand-written) hospital notes on the deceased. Still, significant discounting is due.
+
+Although the doctors' "final determination" of status might screen some residual cases of mistakenly categorized military personnel, it would not catch them all. Indeed, the Knight Ridder survey gives the impression that the "final determination" was more a bureaucratic step than an analytical one. And there is a more fundamental problem: hospitals had no formal category for "civilian combatants," although some doctors did note militia membership when this was obvious. The principal distinction they drew was between civilians and military personnel -- and this is not synonymous with the distinction between noncombatants and combatants. As a matter of fact, some civilians -- such as security personnel, Fedayeen, Baath Party activists, and police -- also acted as combatants.
+
+For these reasons, we discount by 30 to 40 percent all the remaining dead categorized assuredly as "civilian" by doctors in the hospital surveys -- a category that comprises 1,621 dead. This assumes that the "final determination" of the deceased's status by hospital personnel only marginally improved on the example of Al Karama. Thus, of the 1,621 dead categorized by hospitals as assuredly civilian, we accept only between 973 and 1,135 as noncombatants. The remaining dead in this category, which number between 486 and 648, we count as combatants.
+
+Regarding the combined total for "civilian" and "probable civilian" dead at Baghdad's hospitals -- a group comprising 2,876 people in all: we count between 1,670 and 1,832 of these as noncombatants and between 1,044 and 1,206 as combatants.
+
+Turning to the other categories of dead in Baghdad:
+
+The minimum of 500 assumed military dead in hospitals (which includes the 260 dead recorded at Rashid military hospital) are all counted toward our minimum estimate as combatants. The upper-end estimate of 1,200 uniformed military dead in all hospitals (including Rashid) counts toward our upped-end combatant total.
+
+military dead in all hospitals (including Rashid) counts toward our upped-end combatant total.
+
+The 50-100 graves at the international airport are all categorized as military.
+
+For our minimum estimate we divide the 950 graves that we accepted from the Red Crescent and burial society totals into approximately one-third noncombatant and two-thirds combatant -- that is: 320 noncombatants and 630 noncombatants.
+
+
+
+As noted above, apart from the graves at the international airport, we accepted 1,500 as the maximum number of undocumented graves in order to take into account uniformed miliary found in such graves, which the burial societies said outnumbered nominal civilians. The difference between the maximum and minimum estimates -- 550 graves -- is also allocated approximately one-third to noncombatants and two-thirds to combatants.
+
+Our estimate of fatalities that may lie hidden beneath rubble, which is a nominal figure, we divide equally between combatants and noncombatants.
+
+Total war dead: 4,376 - 5,726, with a mid-point of 5,051 Combatants: 2,224 - 3,531, with a mid-point of 2,878 Noncombatants: 1,990 - 2,357, with a mid-point of 2,174
+
+The minimum number of fatalities actually recorded by Baghdad hospital staff and burial society members is at least 3,786. The portion of the estimate that exceeds this baseline should be treated as a projection meant to cover obvious lapses in the surveys and burial society records -- especially regarding uniformed military personnel.
+
+
+
+
+
+Table 1. Estimated Baghdad War Fatalities Based on Hospital and Burial Surveys 19 March - 20 April Category Combatant Noncombatant Total Nominal "civilian" dead
+
+in Baghdad hospitals 1,044 - 1,206 1,670 - 1,832 2,876 Uniformed military dead at hospitals 500 - 1,200 500 - 1,200 The dead in ad hoc graves
+
+at the international airport 50 - 100 50 - 100 The dead in ad hoc graves elsewhere 630 - 1,000 320 - 500 950 - 1,500 Unrecoverable dead 0 - 25 0-25 0 - 50 TOTALS 2,224 - 3,531 1,990 - 2,357 4,376 - 5,726
+
+Note that the mid-point for the total war dead equals the sum of the mid-points for combatant and noncombatant deaths. However, the minimum figure for the total war dead does not equal the sum of the minimums for combatants and noncombatants. Nor does the maximum for the total war dead equal the sum of the maximums for combatants and noncombatants. This is because the calculated values for combatant dead and noncombatant dead are not entirely independent of each other. In part, they would vary inversely. So, it is not possible for both sub-components to register simultaneously at their minimums or simultaneously at their maximums.
+
+3.2. Noncombatant death toll outside Baghdad
+
+3.2.1. Noncombatant death toll in Basra, Nasiriyah, Al Hilla, Najaf
+
+Basra: 220-256 noncombatant fatalities
+
+Relevant data points in the calculation of the noncombatant war dead in Basra include the following:
+
+The General Hospital in Basra reported 400 dead as of 7 April, the "majority of them civilians." (32) The city's Teaching Hospital reported 200 dead. (33) Together they reported almost 2,000 wounded. (Basra has four large hospitals, three of them major surgical centers of which the General and Teaching hospitals are two; all told the city has 11 hospitals, small and large.)
+
+The city's Teaching Hospital reported 200 dead. Together they reported almost 2,000 wounded. (Basra has four large hospitals, three of them major surgical centers of which the General and Teaching hospitals are two; all told the city has 11 hospitals, small and large.)
+
+The AP hospital survey found death certificates for 431 people in Basra hospitals, with hospital personnel estimating that 85 percent (or 365) of these were civilian. However, Basra hospitals did not provide the AP reporters with daily records of the civilian-military split, so none of the city's fatalities were counted in the AP's nation-wide tally.
+
+hospital survey found death certificates for 431 people in Basra hospitals, with hospital personnel estimating that 85 percent (or 365) of these were civilian. However, Basra hospitals did not provide the reporters with daily records of the civilian-military split, so none of the city's fatalities were counted in the nation-wide tally.
+
+Basra ambulance drivers and hospital workers estimated handling between 1000-2000 corpses prior to the conflict's end. (34) But this, presumably, is an estimate based on interviews with just a partial sample of the city's ambulance drivers and hospital workers.
+
+But this, presumably, is an estimate based on interviews with just a partial sample of the city's ambulance drivers and hospital workers.
+
+Undocumented graves and unburied corpses were also a problem in Basra, although news reports suggest that many of the bodies were subsequently delivered to hospital morgues, which were not as overwhelmed as those in Baghdad. (35) Thus, many of these dead may be included in Basra hospital tallies.
+
+Thus, many of these dead may be included in Basra hospital tallies.
+
+Newspaper accounts of individual incidents of accidental civilian death in Basra record more than 100 fatalities -- and these reports are certainly only partial in their coverage.(36)
+
+In an appendix to the present report we cite newspaper accounts and official estimates suggesting that more than 450 Iraqi combatants might have been killed in the immediate vicinity of Basra.
+
+Of the 431 Basra deaths recorded in the AP survey, the hospitals asserted that 85 percent were "civilians". Applying to this number our 30-40 percent discounting rule yields an estimate of between 220 and 256 noncombatant civilians. This implies that there were between 175 and 211 combatants in the civilian hospital system.
+
+Nasiriyah: 200-300 noncombatant deaths
+
+The range of available estimates of the war dead in Nasiriyah makes it difficult to produced an estimate that is both highly precise and reliable. We have settled on an estimate of between 200 and 300 noncombatant dead. There are several relevant data points for this calculation.
+
+There are four hospitals in the city. Near the war's official end the Saddam (now "General") Hospital in Nasiriyah -- one of two large ones in the city -- reported 713 dead. (37) Six hundred of these were supposed to be war related. Because the hospital ran out of death certificates, however, it issued only 412. An earlier report logged 250 civilians killed by aerial bombardment and artillery fire, which had prepared the way for more intensive ground action.
+
+Six hundred of these were supposed to be war related. Because the hospital ran out of death certificates, however, it issued only 412. An earlier report logged 250 civilians killed by aerial bombardment and artillery fire, which had prepared the way for more intensive ground action.
+
+Volunteer surveyors with the US-based Campaign for Innocent Victims in Conflict (CIVIC) are investigating claims of more than 1,100 civilian casualties in the city. This is consistent with 250 to 350 deaths.
+
+
+
+At the opposite end of the spectrum is the Associated Press survey that counted only 145 civilian deaths. Notably, this estimate incorporates only those hospital tallies that met its criteria of inclusion: death certificates had to be issued and daily records that distinguished military and civilian deaths had to be kept.
+
+survey that counted only 145 civilian deaths. Notably, this estimate incorporates only those hospital tallies that met its criteria of inclusion: death certificates had to be issued and daily records that distinguished military and civilian deaths had to be kept.
+
+When fighting grew intense in the Nasiriyah area and one of the city's hospitals came under attack, some of the area wounded were transferred north to Al Hillah.
+
+Notably, our estimate of civilian fatalities is higher than that published in the AP study. We have assumed that the AP study discounted some fatalities for formal reasons, as its methodology allows. At minimum, all the dead in Nasiriyah lacking death certificates at the time of the AP survey would have been disregarded. And all hospital records that were not based on keeping separate daily tallies of civilian and military fatalities would have been excluded. Also excluded would have been the dead in undocumented graves.
+
+Al Hillah: 105-120 noncombatant deaths
+
+The main hospital in Al Hillah reported 280 dead, including both military and civilian.(39) Accounts of individual casualty incidents included in the database that accompanies this memo record 48 civilian deaths for Al Hillah.(40) According to one journalist's report, the total for the city up until 1 April was 73 civilian deaths.(41) An International Red Cross worker who visited Al Hillah at the beginning of April reported:
+
+There has been an incredible number of casualties with very, very serious wounds in the region of Hillah. ...We saw that a truck was delivering dozens of totally dismembered dead bodies of women and children. It was an awful sight. It was really very difficult to believe this was happening.(42)
+
+The period preceding the Red Cross worker's report saw several bombing attacks on Al Hillah and the approach of the Third Division, including a battle in nearby Imam Aiyub.(44) But combat in the area continued intermittently for at least another week, culminating in the 101st Airborne Division's entry into the city on 8 April, which included artillery and helicopter attacks on military barracks, outposts, and suspected Iraqi troop positions.(45)
+
+Our estimate for Hillah assumes that approximately 20 percent of the dead recorded at the Al Hillah hospital were uniform military, as reported by the hospital's director.(46) Another 10-20 percent we assume were transferred from elsewhere, as noted above. Of the remainder we accept 60 percent as noncombatants. This implies between 105-120 local noncombatant deaths. The remainder we accept as non-uniform combatants, which together with the military dead account for 125 to 130 combatant deaths in the hospital system.
+
+Najaf: 176-205 noncombatant fatalities
+
+Hospitals in Najaf have reported 338 war related fatalities -- a large majority of these being civilians, according to the hospital accounts.(47) The Associated Press review of Najaf hospital records accepted 293 as civilian. Of this number, we accept between 176 and 205 as noncombatants. This implies a minimum of 133 to 176 combatant deaths in the city's hospitals, although there were probably many more of these unrecorded at hospitals. The Najaf area was the scene of especially intense fighting during 24 March-27 March. Based on reports by field commanders and embedded journalists we estimate in a subsequent section of this report that there were between 590 and 780 combatant fatalities in the general vicinity of Najaf.
+
+3.2.2 Noncombatant deaths elsewhere
+
+An estimate of the minimum total noncombatant civilian dead in Basra, Hillah, Najaf, and Nasiriyah that is consistent with the evidence adduced above would be 700 to 880. These cities together with Baghdad contain about 30 percent of Iraq's population. But the five do not exhaust the war's killing grounds.
+
+Aerial and artillery bombardment, major ground engagements, and numerous smaller skirmishes also occurred in, around, or near Halabja, Karbala, Kirkuk, Mosul, Samawah, Tikrit, and Umm Qasr -- among others. (The named cities contain more than 2 million people -- another nine percent of Iraq's population.) In the database accompanying this memo are recorded 39 individual incidents resulting in 650 civilian fatalities -- a very partial, somewhat random accounting.(48) Eleven of these incidents occurred outside the areas covered by the five city hospital data presented above. While representing only a portion of the incidents not covered in the hospital surveys, they do add a minimum of 272 deaths to the Iraqi civilian toll -- and the great majority of these would have been noncombatants, as it evident from the accounts. The Associated Press survey provides a complementary and more comprehensive source of statistics on the areas outside the five cities reviewed above. It accepted 906 recorded deaths of civilians in these areas. Because of the stringent criteria applied in the AP survey we accept between 60 and 70 percent of those it recorded as civilians to be noncombatants. This is between 540 and 630 fatalities.
+
+Many smaller and more remote hospitals were excluded from the AP survey, however. A total of 94 hospitals and medical centers exist in the governorates other than Baghdad that saw some significant fighting.(49) The AP team surveyed about 36 of these, presumably the largest and those reporting the highest casualty numbers. Although this sample is not complete, it may cover 75 percent of the beds in the relevant area and as much as 90 percent of the civilian hospital deaths. On this basis, we add an increment of 11 percent to our upper-range estimate of noncombatant fatalities outside Baghdad.
+
+Another element of incompleteness has to do with deaths and burials that occurred outside the hospital system. In Baghdad, we estimated that approximately 20 percent of all noncombatant deaths were in this category. There is evidence that in some cities (Basra) bodies disinterred from undocumented graves by volunteers were cycled into the hospital system, where they may have been counted among the hospital dead. In areas more remote from hospitals, however, the problem of undocumented burials may have been worse than in Baghdad. To marginally compensate for this element of incompleteness in hospital reports, we assume that the fatality estimates based on hospital records outside Baghdad represent only 85 percent of the noncombatant total, and we adjust our final estimate accordingly.
+
+3.3. Total Iraqi noncombatant death toll
+
+All told, the five cities reviewed above (including Baghdad), plus the more cursory review of areas outside these cities, give evidence consistent with total noncombatant deaths ranging between 3,230 and 4,327 through the end of April 2003.
+
+
+
+
+
+Table 2. Iraqi Noncombatant fatalities, 2003 war (adjusted total) Baghdad: 1,990 - 2,357 Outside Baghdad: 1,240 - 1,510 Increment to outside Baghdad total
+
+to compensate for survey incompleteness 0 - 165 Increment to outside Baghdad total
+
+to compensate for undocumented burials 0 - 295 Total estimate of Iraqi noncombatant fatalities: 3,230 - 4,327
+
+This estimate for civilian noncombatant fatalities can be rounded to 3,200 and 4,300, with a mid-point of 3,750. This can also be expressed as "3,750 noncombatant fatalities plus/minus 550" or as "3,750 noncombatant fatalities plus/minus 15 percent".
+
+4. Iraqi combatant fatalities in the 2003 war
+
+The surveys of hospital and burial data reviewed in the previous section gave evidence consistent with 2,224 - 3,531 combatant deaths in Baghdad and at least 1,000 - 1,280 elsewhere. However, these figures are byproducts or "residuals" of an analysis focused principally on determining civilian noncombatant casualties. Only in Baghdad was the data from hospital and burial societies sufficiently complete to support an estimation of total war dead, both combatant and noncombatant. For areas outside Baghdad, the analysis in Section 3 did not draw on any burial society data, nor did it include any data from explicitly military hospital and wards. Only in a handful of hospitals did medical personnel or administrators explicitly estimate the percentage of soldiers among the dead and wounded.
+
+Most of the data examined in the previous section came from hospitals concentrated in major towns and cities. Battles, however, often wove in and out of urban areas. Iraqi regular army and Republican Guard units, especially, were heavily engaged by coalition air power and artillery in less populated areas. Although some of the Iraqi combatant wounded would have entered local hospitals, others would have been handled within the military hospital system. Many of the dead would have been lost or buried in the field, especially if units had hastily abandoned their posts. And field units dispatched their dead whenever possible "for burial in their hometowns in private vehicles that often passed through American lines undetected," as revealed in a journalist's interview with an Iraqi battalion commander.(50)
+
+For these reasons, the estimates of Iraqi combatant dead made in Section 3 are not the final word on this class of casualties. In order to more faithfully estimate fatalities among Iraqi combatants both inside and outside Baghdad we extended our analysis in two ways:
+
+First, by compiling and refining combat fatality estimates made by US defense officials, Central Command staff, field commanders, and embedded journalists. An especially important subset of this data comprises estimates based on direct observation of combat engagements and their aftermath. These usually originate with military commanders below the division level, officers and enlisted personnel in small units, and embedded journalists.
+
+Second, by independently calculating likely Iraqi personnel attrition due to artillery and aerial bombardment. This calculation is based on munitions expenditure data, munitions effectiveness tables, and the testimony of Iraqi military personnel who experienced the effects of the coalition's long-range fire power.
+
+Observations of combat and its after effects made by military personnel and embedded journalists constitute an important empirical anchor for enemy casualty estimates. However, not all combat engagements and effects are well observed by those conducting them. The fatalities caused by long-range air power, for instance, may be largely unobserved by field personnel linked to the employing side. Similarly, much of the fatal effect of artillery employed at longer-ranges may be unobserved by those on the "right side" of the guns.
+
+In order to capture in our final tally some of the "unobserved effects" of combat we estimate the likely effects of artillery and air power acting at some distance (in time, space, or both) from the main body of coalition own troops. (This is done in Sections 4.2 and 4.3 below). Together, these two causes of death probably account for a majority of the unobserved, unreported combatant fatalities. Of course, some of the fatalities caused by long-range fire power would have been seen and counted in the fatality estimates made by field personnel and journalists. Our final estimate of total Iraqi combatant fatalities incorporates assumptions about the extent of this overlap. In accord with these assumptions we disregard a portion of the predicted artillery and aerial bombing deaths as having been "already counted."
+
+Based on the analysis that follows we estimate that the 2003 Iraq war produced between 7,600 and 10,800 Iraqi combatant fatalities. This estimate range expressed in terms of its mid-point is 9,200 plus/minus 1600 (17 percent).
+
+4.1. Reported field observation of Iraqi combatant deaths
+
+Our adjusted totals for reported combatant fatalities are presented below, organized in city-area clusters. (Also see Appendix 1. Survey of reported Iraqi combatant fatalities in the 2003 War.)
+
+The sources for these estimates are approximately 160 press reports containing numerical estimates of Iraqi combatant fatalities made by military personnel and embedded reporters.
+
+These estimates are associated with approximately 69 discrete combat events, both large and small. (A combat "event" -- that is, a firefight, engagement, or battle -- is considered "discrete" if it does not overlap with other combat events in the data pool.)
+
+As a complement to those press reports that contained quantitative data (ie. numerical estimates), we also drew on approximately 40 others that provided independent narrative detail or "qualitative" data on combat engagements without offering numerical estimates. Despite their lack of quantitative data, these narratives were useful for gauging the intensity, duration, and effects of combat. And they often provided a "check" on those reports that did offer numerical estimates.
+
+Reported Iraqi Combatant Fatalities in the 2003 War (adjusted to correct for casualty inflation) Baghdad area 1,700 - 2,120 Basra area (including Rumaylah, Az Zubayr, Abu al Khasib, Safwan, Umm Qasr, and Al Faw) 425 - 555 Nasiriyah area (including Tallil and areas to the north toward As Samawah and Ashatrah) 360 - 430 Samawah area 150 - 210 Diwaniyah area and Afak 95 - 120 Najaf area 590 - 780 Al Hillah area including Kifl 295 - 365 Hindiyah area 40 - 50 Al Kut area (including Numaniyah) 190 - 225 Karbala, Karbala gap, and north to Baghdad
+
+(including Mussayib and Latifiyah) 800 - 1,100 Northern Front (including Kirkuk, Mosul, Tikrit) 230 - 375 Special operations in western Iraq 20 - 40 Total observed and reported Iraqi combatant fatalities
+
+-- Baghdad: 1,700 - 2,120
+
+-- Outside Baghdad: 3,195 - 4,250 4,895 - 6,370
+
+In assessing and "adjusting" the estimates offered by field observers we have sought to control for casualty inflation -- a prevalent form of bias. Our method for mitigating this bias is presented in Appendix 1. In brief, we settled on estimates that best reconciled multiple types and sources of information relevant to each combat event. Special weight was given to estimates made by military personnel and embedded journalists at the brigade level or below. Our default assumption was that the field estimates tended to exaggerate fatalities by factors ranging from 25 percent to 250 percent, thus requiring reduction ranging from 20 percent to 60 percent.(51) (This assumption derived both from historical precedent and from several instances in which multiple, divergent fatality estimates were made.) For each of the casualty estimates coming from the field we chose reduction percentages based on our assessment of the extent of corroborating detail and convergence (or "agreement") among data sources.
+
+It is worth repeating that the reported estimates do not represent total Iraqi combatant fatalities for the areas under review. As noted above, field observations suffer from various degrees of incompleteness. The problem of incompleteness is addressed in subsequent sections of the report. Our final estimates for total Iraqi combatant fatalities is calculated in Section 4.4.
+
+4.2. Estimating the fatal effects of long-range artillery
+
+Commensurate with the intensity and duration of ground combat, the role of artillery in Operation Iraqi Freedom was substantial.(52) The artillery of the 3rd US Infantry and 101st US airborne divisions together with V Corps artillery assets fired more than 17,500 shells, more than 1000 Multiple Launch Rocket System (MLRS) rockets, and 400 Army Tactical Missiles (ATACMS).(53) These units represent a large majority of the US Army artillery assets in the field during the period covered by this report. In addition, the Marine Corps claims to have fired more than 20,000 artillery shells.(54) British forces fired more than 2,000 rounds of improved conventional shells (cluster bombs) and undoubtedly many more unitary shells. The British total might easily have been in the range of 6,000 to 8,000 rounds, given that the 75 howitzers they deployed for OIF constituted between 20 percent and 25 percent of the artillery at the disposal of coalition forces.(55) This implies that the total quantity of big caliber artillery shells and ground-based missiles used in the war significantly exceeded 40,000. (By comparison, air-delivered munitions numbered about 30,000. During the 1991 Gulf War, more than 227,000 air-delivered munitions and well-over 100,000 artillery shells and surface-to-surface missiles and rockets were employed.)(56)
+
+Under a range of plausible assumptions, the amount and type of artillery fire employed in Operation Iraqi Freedom is sufficient to have caused between 1,500 and 3,000 combatant fatalities.(57) This estimate assumes an expenditure of 45,000 big-caliber rounds and surface-to-surface missiles. Based on this expenditure, the estimate was calculated using artillery effectiveness tables for MLRS, 155-mm, and 105-mm artillery. These tables roughly reflect historical experience and field tests. The range of the estimate reflects different assumptions about the size of the units attacked, their degree of dispersion, their level of personnel strength, and their environment or terrain (urban versus open). The estimate range also reflects different assumptions about how much of the artillery effort was "observed fire" versus "unobserved fire", how many improved conventional munitions were used, and how much of the effort was devoted to delivering purely suppressive fires. We also assume that the performance of US personnel and equipment matched historical precedent with regard to skill.(58)
+
+Most of the fatal effects of artillery would be displaced in time and space from the view of ground unit personnel and the embedded reporters traveling with them. This is because artillery fire cuts a broad swath of destruction in front of and around ground units as they advance. Most coalition artillery systems have maximum ranges of 20 to 35 kilometers. Extended-range MLRS rockets can reach out to more than 45 kilometers, however, and Army Tactical Missiles (ATACMS) have ranges of 150 km to more than 300 km, depending on the model of ATACMS used. Ground maneuver units would eventually move into some but not all of the areas swept by artillery fire. Thus, some but not all of artillery's fatal effects would be observed eventually. And this means that there would be some overlap between the "observed fatalities" estimated in the previous section and our calculated estimate of artillery's fatal effects. Our final projection of total Iraqi combatant casualties, which is calculated in Section 4.4, employs a range of plausible estimates for the degree of overlap.
+
+4.3 Estimating the fatal effects of long-range air power
+
+In addition to providing support for the close battle, air power served in several missions whose casualty effects would not have been fully observed by field personnel and embedded journalists. For our purposes we divide these "deep" air missions into two broad categories: (i) air interdiction of ground forces and (ii) attack on strategic, air supremacy, and "military system" targets.
+
+Air interdiction of ground forces is distinguished from the close air support mission by its focus on targets that are some distance from one's own troops. Functionally, close air support missions help decide the immediate battle, while air interdiction missions shape the battlefield and help determine tomorrow's battle.
+
+Turning to the second category -- strategic, air supremacy, and "military system" targets:
+
+Strategic targets encompass those that directly affect a nation's will or its underlying capacity to wage war. They also include those targets that affect the capacity of a nation's leaders to sustain their rule and to govern. Finally they include a nation's capacity to develop and employ strategic weapons -- that is: weapons of mass destruction.
+
+Air supremacy targets include a nation's air defense system and its air power assets (including air fields).
+
+By military system targets we mean those that affect an enemy's capacity to employ, sustain, and replenish its field force. These include military infrastructure and supply systems (including bases, barracks, and depots) as well as command, control, and communication capabilities.
+
+In Operation Iraqi Freedom, coalition fighters and bombers flew about 20,700 sorties and struck more than 19,000 aim points, delivering 29,900 munitions of which 19,948 or 68 percent were of guided types and 9,251 were unguided.(59) A reasonable assumption based on campaign statistics is that interdiction of Iraqi ground units in the field involved more than 12,000 of the aim points (or 60-plus percent) and more than 20,000 of the expended bombs and missiles (or 67-plus percent of the total).(60) In this estimate, approximately 58 percent of the weapons used against the Iraqi army in the field would have been of guided types.
+
+Most of the effort against Iraqi ground troops was focused on Republican Guard divisions and on a handful of stalwart regular divisions that formed part of the defensive ring south of Baghdad.(61) None of these divisions were at full strength, except perhaps the Medina (which was reinforced by elements of other divisions). All told, the Republican Guard plus several stalwart regular divisions probably comprised 85,000 troops. Another 35,000 Iraqi troops in five or six regular divisions played some role in the fight -- or, at least, came under attack before withdrawing -- in the north and the southeast.(62) We assume that there were another 60,000 Iraqi troops in the field who played little role in the fighting and drew relatively little coalition fire.
+
+A look back at the 1991 air campaign
+
+By contrast, in the 1991 Operation Desert Storm (ODS), coalition fighters and bombers flew almost 60,000 sorties and conducted more than 41,000 strikes of which more than two-thirds were directed against ground force targets, including not just troops but also their installations and depots.(63) Approximately 227,000 bombs and missiles were expended by US fixed-wing aircraft during ODS and 14,825 of these were of guided types.(64)
+
+The total percentage of weapons employed against ground force and related targets was approximately 73 percent. All told, about 165,000 munitions were delivered against ground force and related targets in Desert Storm; approximately 6,000 of these were precision weapons and 159,000 were unguided.(65)
+
+The total number of Iraqi army personnel deployed in the theater of operations was probably about 360,000 at the start of the air war -- an estimate that takes into account the fact that Iraqi divisions were substantially under strength. The number further declined to approximately 210,00 in the course of the air war as Iraqis deserted their units. During the 1991 Gulf War, the personnel attrition for Iraqi ground units that was attributable to the air war phase of the conflict averaged 2.5 percent of the total deployed at the beginning of the air campaign, according to interviews with senior Iraqi officer POWs.(66)
+
+Comparison of OIF and ODS air campaigns
+
+One third as many fighter and bomber sorties were flown in OIF as in ODS and only 13 percent as many air-delivered munitions were used. However, the proportion of guided weapons was much higher -- 67 percent versus 6.5 percent; indeed, their absolute number was 35 percent greater. Commensurate with the increased number and proportion of guided munitions employed in OIF, there were more targets engaged per sortie than in ODS. And, presumably, these engagements were much more effective -- also as a function of the increased reliance on guided munitions. Thus, the reduced effort implied by flying only one-third as many fighter and bomber sorties does not imply a commensurate reduction in impact.
+
+Turning specifically to a comparison of the two efforts against Iraqi ground forces, several differences stand out:
+
+Approximately 64 percent fewer air-delivered munitions were employed per enemy soldier in OIF than in ODS. This corresponds to 165,000 munitions for 360,000 soldiers (0.46 per soldier) in Desert Storm and 20,000 for 120,000 (0.167 per soldier) in Operation Iraqi Freedom.
+
+
+
+Many more of the weapons used against ground troops in Operation Iraqi Freedom were guided weapons: about 58 percent versus less than 4 percent in Desert Storm. In absolute terms: almost twice as many precision or guided weapons were used against ground forces in OIF than in ODS.
+
+
+
+Although fewer munitions per active enemy soldier were used in OIF, they were delivered in a much shorter time period than in Operation Desert Storm: less than three weeks in OIF versus six weeks in ODS. Still, the average intensity of attack on ground forces -- measured as bombs dropped per soldier per day -- was somewhat less in the recent war than in 1991: about 8.3 bombs per 1,000 soldiers every day in OIF versus 10.7 bombs per 1,000 soldiers every day in ODS. (67) However, as noted above, a much greater proportion of the munitions delivered during OIF were of guided types.
+
+However, as noted above, a much greater proportion of the munitions delivered during OIF were of guided types.
+
+Many more aerial cluster bombs were used in Operation Desert Storm than in OIF -- both in absolute terms and in proportion to the total number of weapons expended and the size of the force attacked. The 1991 Gulf War saw US air forces employ approximately 57,000 aerial cluster bombs -- about 25 percent of all the aerial bombs and missiles used in the war. By contrast, in Operation Iraqi Freedom approximately 1,500 aerial cluster bombs were used by both US and British air forces -- about 5 percent of all the aerial bombs and missiles employed by the Anglo-American coalition.(68) In Desert Storm, one cluster bomb was dropped for every six Iraqi soldiers in the field; in OIF, one was dropped for every 80 Iraqis who fought (or one for every 120 or so who spent some time in the field). Notably, in ODS none of the aerial cluster bombs were guided, while in OIF approximately 80 percent were guided.
+
+The use of fewer bombs per soldier -- especially fewer cluster munitions -- would seem to entail a lower casualty rate. Increasing the proportion of guided munitions also has been linked, at least in public consciousness, with lower casualty rates. Of course, what the reliance on guided munitions actually conveys is an ability to strike one's chosen target and achieve one's intended affect using fewer bombs. Whether or not this produces fewer casualties depends on one's target and intent. For instance, if the aim is to destroy convoys, interdict unit redeployments, or blunt the capacity for infantry attack, then the use of guided weapons would produce a higher casualty rate per bomb than would reliance on unguided weapons.
+
+With regard to cluster munitions, which are area weapons that spread bomblets over an area of 10 to 18 acres: more accurate delivery would probably mean a higher casualty rate among the personnel of the targeted unit. Moreover, if an army is relatively well dispersed in smaller units (company size or smaller), increased reliance on guided delivery of cluster bombs probably means a higher casualty percentage overall.
+
+By some estimates, the use of advanced guided weapons allows the user to reduce munitions expenditures by a factor of between 15 and 60. Relevant to OIF, we accept 25:1 as a conservative mid-point estimate for the reduction in bomb expenditure allowed by using a mix of PGMs instead of unguided munitions.(69) Thus, it should not be surprising if US air power was able to achieve levels of Iraqi unit destruction in OIF surpassing those achieved in Desert Storm,despite the use of much less ordnance. At the same time, the level of personnel attrition might be lower if more of the air effort is focused on destroying individual pieces of equipment, rather than units or troop concentrations. But this also depends on Iraqi personnel learning quickly enough to gauge and put "safe distance" between themselves and their equipment. Relevant to this is the relative lack of a "ramp-up" period in the OIF air campaign -- that is, a period during which the intensity of air attacks increased gradually.
+
+Intensity of attack: 1991 versus 2003
+
+In one sense the intensity of the bombing campaign was lower in OIF than in ODS: fewer bombs were dropped per soldier per day. Of course, a truer measure of intensity would look at effects on the ground -- specifically, lethality -- and this would require taking the proportion of precision and guided weapons into account. Moreover, the variance in bombs dropped per day was greater in ODS than in OIF. Desert Storm was distinguished by a long initial period during which air attack on ground forces gradually intensified.
+
+During the first two weeks of Operation Desert Storm, the intensity of attacks on ground units was significantly below the average for the war. Indeed, the attacks did not reach peak intensities until the fourth week of the campaign. This was sufficient time for those Iraqi troops under attack to learn to steer clear of their vehicles and weapon systems, and it was sufficient time for the lesson to generalize throughout the Iraqi field army. Also relevant was the fact that Iraqi units were already well dug-in and dispersed when the 1991 air campaign began, having begun their field deployment as much as five months earlier. These factors helped keep the unit personnel attrition rate low, despite six weeks of bombardment.
+
+By contrast, in 2003, there were no clear signs of Iraqi military field deployments or preparations prior to mid February -- just a few weeks before fighting began.(70) Once the war commenced, US attacks on Iraqi ground units rapidly intensified, reaching and surpassing their average level in less than a week. This gave units little time to adapt. A greater percentage of units might have had to learn "the hard way" to put sufficient distance between themselves and their equipment.
+
+An analysis in Air Force Magazine concludes that the rapid application of air power was key to the sudden collapse of Republican Guard divisions:(71)
+
+Because the Republican Guard divisions did not capitulate, coalition air power hammered them from the beginning of the air war, first with precision strikes against a small number of key targets and later with crushing blows from B-52 heavy bombers dropping both unguided iron bombs and precision weapons. That was a shift from Desert Storm, when those units came in for heavy bombing only after other target sets had been worked over. By early April -- after barely two weeks of combat -- [Combined air component commander Lt. General Michael Moseley] was able to report, "The preponderance of the Republican Guard divisions that were outside of Baghdad are now dead."
+
+Iraqi Rate of Desertion
+
+Desertion rates -- which were higher in the 2003 war than in 1991 -- are a factor that might have helped keep Iraqi personnel attrition to percentages below those registered in 1991. In the 1991 Gulf War, the greatest personnel loss to units was due to desertion: 42 percent of personnel simply left their posts.(72) During the 2003 war, both the level and rate of desertion seemed even higher, reaching 90 percent in some units by early April. Mass desertion by enlisted personnel was often precipitated by or even led by the desertion of officers.(73) Nonetheless, for many units, collapse seemed to be preceded by a period of their holding fast in defensive positions, attempting some substantial counter-offensive actions, and undergoing withering coalition aerial and artillery assaults. The tipping point for the field army came at the end of the war's second week.
+
+To summarize and compare the dynamics in the two wars: In 1991, a gradual increase in the intensity of air attack over a four week period was matched by Iraqi ground force adaptation and a slowly mounting wave of desertions. In the 2003, intense air attacks on ground troops came early, allowing little effective adaptation by ground troops, thus contributing to the catastrophic collapse of the ground force after only two weeks.
+
+Unit Personnel Attrition: Evidence from the field
+
+How did Iraqi field units fare under air attack in terms of casualties? The available direct evidence -- mostly from journalists' interviews and surveys of battlefields, hospitals, and cemeteries -- is contradictory at first glance, pointing variously to attrition rates both high and low.
+
+One survey of seven battlefields, local hospitals and cemeteries, eyewitness testimony, and interviews with surviving Republican Guard personnel suggests a low number of casualties for a fair cross section of the force -- consistent with a fatality rate of less than one percent.(74)
+
+Other sources suggest much higher rates:(75)
+
+One distraught Iraqi battalion commander from a division deployed on the eastern side of Baghdad reported that one-third of his unit was killed by air attacks between 31 March and 3 April. All told, 1,400 out of 4,000 men in his parent brigade were supposedly killed. However, this number may be a face-saving exaggeration.
+
+
+
+
+
+Another account, from a conscript serving with a 2,000 person unit of the Republican Guard defending Kut, reported more than 150 deaths in a few days of bombardment -- 7.5 percent attrition.
+
+
+
+
+
+A third account by a captain commanding a missile artillery unit reported the loss of six percent of unit personnel in a single attack.
+
+
+
+
+
+A commander of an air defense unit to the east of Baghdad reported 10 percent fatalities: 25 dead out of a unit of 250.
+
+
+
+
+
+A private with a gun artillery battalion on the outskirts of Baghdad reported 5 percent fatalities.
+
+The differing accounts and observations regarding personnel attrition can be reconciled by understanding that the experience of ground units under attack would vary greatly.
+
+Air defense and artillery units would have been subjected to especially heavy attack by cluster bombs;
+
+
+
+
+
+Several Iraqi divisions were singled out for intense bombardment -- notably the Medina and Baghdad Republican Guard divisions -- both because of their pivotal position, blocking the approach to Baghdad, and as a demonstration to other Iraqi units; (76) and
+
+and
+
+
+
+Whenever Iraqi units attempted to move -- especially in convoy -- they made themselves exceedingly vulnerable to efficient air attack and, thus, ran the risk of high casualties.
+
+Calculating Iraqi combatant fatalities due to air interdiction
+
+A hypothesis consistent with all the reports is that a small portion of Iraqi units (perhaps 5 percent) suffered attrition rates of more than 10 percent. A larger segment of the force (perhaps 15 percent) might have suffered rates ranging between 1 percent and 10 percent. This 20 percent of severely degraded units would have comprised (i) major elements of the Medina and Baghdad divisions, (ii) some of those units that had attempted to redeploy south of Baghdad, and (iii) air defense and artillery units across the force.
+
+The remainder of the force -- fully 80 percent of the units or more -- would have suffered rates of less than one percent, which would be consistent with the Time survey. This could produce an overall personnel loss of between 1.4 and 1.8 percent which, for a force of 120,000, would imply between 1,700 and 2,200 fatalities. This requires taking the Iraqi major's report as substantially exaggerated (at least with regard to his parent brigade). However, the hypothesis would allow that more than half of the Iraqi troop deaths were concentrated in a handful of very unlucky (or very heroic) brigades and battalions. The rest would have learned -- as the coalition intended -- that it was better to quit than fight.
+
+The hypothesis also allows that unit personnel attrition was proportionately lower in OIF than in ODS -- perhaps 1.6 percent on average versus 2.5 percent -- but that the attrition rate (percentage of personnel killed over time) was higher: 1.6 percent achieved in less than three weeks versus 2.5 percent achieved in six. This higher attrition rate -- 0.53 percent per week vs 0.41 -- could be attributed either to the increased reliance on precision munitions, the lack of a ramp-up period in the bombing campaign, or both. The greatest restraint on the level of unit personnel attrition would have been the high level of desertion, which rapidly depleted units after two weeks.
+
+Most important to understanding the contribution of ground force interdiction to the early, catastrophic collapse of the Iraqi field army is that these air attacks, concentrated in the second week of the war, may have cost the Iraqis 1 percent of their active fighters -- that is, 1,200 -- over a period of seven days beginning just one week into the war. Nothing like this happened early in Desert Storm. Moreover, with the attacks heavily focused on a minority of Iraqi units, they would have produced (and did produce) localized experiences of sudden and great devastation. This would have communicated throughout the force, both by word and by the fact of some units beginning to take flight, and could have had a cascading effect.
+
+Not counted above is the 22 March bombardment of Ansar al-Islam camp in Kurdish-held territory, which supposedly killed between 60 and 100 militants. Other major air attacks included the 29 March bombardment of a meeting of 200 Hussein supporters in Basra and a reported 4-5 April attack on Arab volunteer camps outside Kut, which was said to claim as many as another 600. The Basra attack has been included in the section on combined armed engagements. There are few details regarding the alleged attack near Kut, so none of the reported fatalities are included here. We accept 30 to 50 fatalities for the 22 March Ansar attack and add these to the totals for combatant fatalities due to air attacks outside major cities. This brings our estimate for air interdiction of field units to between 1,730 and 2,250 fatalities.
+
+4.3.2. The attack on strategic, air supremacy, and "military system" targets.
+
+During Operation Iraqi Freedom these target sets may have comprised as many as 900 individual targets or target areas.(81) These targets were struck with approximately 4,000 air-delivered weapons.(82) By comparison, in the 1990-1991 Gulf war, the US coalition attacked about 2,000 targets in these sets using between 8,000 and 9,000 weapons.(83) In Appendix 2, which addresses the 1990-1991 Gulf War, we conclude that a reasonable estimate of the Iraqi fatalities resulting from attacks on these targets during that earlier conflict is 3,000 to 6,000 personnel. A straight-forward extrapolation from this experience to Operation Iraqi Freedom would imply a casualty toll about 45 percent as high, assuming that numbers of casualties vary directly with the numbers of targets and munitions employed. However, the number of Iraqi combatant casualties incurred by these types of attack in OIF is probably much less than such an extrapolation would imply, for several reasons:
+
+First, a significant percentage of the larger targets in these sets were in urban areas. Air war executors usually took pains to attack fixed targets in urban areas at times when collateral casualties would be minimized. This often meant attacking at night -- when some of the targets would have been nearly empty.
+
+Second, the targets often seemed vacated, at any rate. This might indicate that the Iraqi leadership had learned something about the US mode of strategic attack from observing America's previous three wars. Or, Iraqi leaders may have paid attention when US defense officials virtually telegraphed the broad outlines of their bombing priorities in advance of the war. The Iraqi leadership and armed forces adapted in other ways as well: the Iraqi air force was dispersed and Iraqi air defense units used their radars sparingly or not at all in recognition that they would draw fire. Finally, the US list of WMD targets, refined assiduously during the years of weapon inspections, also probably led to numerous attacks on facilities that had been long abandoned.
+
+These considerations lead us to conclude that the fatality rate associated with these types of missions was much lower during the recent Iraq war than during the 1990-1991 Gulf War. We accept an estimate of between 450 and 900 fatalities due to attacks on these target sets. This implies a fatality rate per target that is approximately one-third as great as the one calculated for the 1990-1991 Gulf war. A significant proportion of these casualties would have been civilians -- many of whom would have likely been counted in the hospital surveys examined earlier. Thus, for Iraqi military casualties in these attack we adopt an estimate of between 250 and 500 fatalities. Further we assume that none of these casualties would have been counted among those observed and reported by US field commanders or embedded journalists.
+
+4.4 Total Iraqi combatant fatalities
+
+From previous sections we carry forward the following inputs to the calculation of total Iraqi combatant fatalities:
+
+
+
+1. Reported combatant deaths in Baghdad
+
+(based on field observations, corrected for inflation) 1,700 - 2,120 2. Reported combatant deaths outside Baghdad
+
+(based on field observations, corrected for inflation) 3,195 - 4,250 3. Combatant deaths due to artillery fire 1,500 - 3,000 4. Combatant deaths due to air interdiction of ground units 1,730 - 2,250 5. Combatant deaths due to attack on strategic and related targets 250 - 500
+
+The last three inputs are independent of each other, but there is significant overlap between this subset and the first two sources, which include in their numbers the observed portion of artillery and air interdiction fatalities.
+
+Our final estimate of total Iraqi combatant fatalities will comprise several sub-components:
+
+Fatalities due to longer-range artillery,
+
+Fatalities due to air interdiction of ground troops,
+
+Fatalities due to air attack on strategic and related targets, and
+
+Fatalities incurred during close, combined arms combat.
+
+First, as noted above, some portion of observed combatant deaths are due to long-range artillery and air interdiction and, thus, are already counted under those categories. They cannot also be counted under close combat deaths.
+
+Second, some portion of observed fatalities would have been civilian noncombatants that were mistaken for combatants. These would have been already counted in the total for noncombatants.
+
+Finally, some percentage of Iraqi close combat fatalities would have been unobserved. As in the case of deaths due to longer-range artillery and air interdiction, the observation of close combat fatalities would have been incomplete.
+
+Between 30 and 40 percent of all combatant deaths due to air interdiction attacks were included in the fatality estimates made by field observers, and
+
+Between 40 and 60 percent of all combatant deaths due to longer-range artillery were included in the fatality estimates made by field observers.
+
+To address the concern about mis-identified civilians we also assume that:
+
+Between 8 and 12 percent of the deaths that field observers reported as combatants were actually noncombatant civilians mistakenly identified. These fatalities would have been included in the noncombatant totals calculated separately in Section 3 and, thus, must be excluded here. This percentage range is extrapolated from reports by embedded journalists of combat incidents in which civilians were mistakenly targeted, killed, or injured.
+
+Observed close combat fatalities (including close air support): 1,608-4,741 Observed fatal effects of longer-range artillery: 600-1,800 Observed fatal effects of air interdiction: 519-900 Noncombatants mistakenly reported as combatant fatalities: 390-765
+
+Notably, this matrix excludes the possibility of all the sub-components registering simultaneously at their maximum or at their minimum values. This is because some of the estimates are dependent on others and in an inverse relationship -- ie. as some rise, others must fall. For instance, the minimum value for observed close combat fatalities (1,608) assumes (i) the minimum value for total observed fatalities (4,895), (ii) the highest percentage of mistakenly identified civilians (12 percent or 587), and (iii) the maximum values for observed fatalities due to artillery and air interdiction (1,800 and 900 respectively).
+
+As a final step in deriving a range for actual close combat fatalities, we postulate that:
+
+Estimates of Iraqi combatant fatalities made by field observers and included in our database probably missed between 25 and 35 percent of the combatant deaths caused by direct fire weapons, short-range indirect fire weapons, and close air support. Thus, to close the gap between observed and actual close combat deaths, the range of values must be boosted by between 33 and 54 percent.(86)
+
+The first is the incompleteness of our pool of combat incidents, which we concluded (in Appendix 1) might have missed 10 to 15 percent of all incidents (weighted by number of casualties). Especially notable were lapses in reporting on operations in northern Iraq, Marine Corps operations in Baghdad, and special forces operations nation-wide.
+
+The second element of incompleteness concerns unobserved close combat deaths. This pertains even to those incidents included in our database. Neither military personnel nor embedded reporters could have observed all the effects or after-effects of close combat. This, because many of the weapon systems in use had ranges of several kilometers and were sufficiently energetic to collapse buildings and pierce armor and concrete at range.(87) Primae facie, it is plausible that at least 15 to 20 percent of close combat fatalities went unobserved by personnel or journalists "on the scene."
+
+Deaths in close combat (direct fire weapons, short-range indirect fire,
+
+and close air support)(88) 2,140 - 7,300 Fatalities due to longer-range artillery 1,500 - 3,000 Fatalities due to air interdiction of ground troops 1,730 - 2,250 Fatalities due to air attack on strategic and related targets 250 - 500
+
+Again, the inter-relation among these components does not allow all the components to register simultaneously at their maximum values or at their minimum values. Notably, low numbers for close combat deaths tend to be associated with high numbers for fatalities due to artillery and air interdiction.(89) The fatality sub-estimates can generate final totals that range from slightly below 7,600 to slightly above 11,000, although the extremes represent unlikely cases. Using mid-point values for the inputs and assumptions that undergird the array produces an Iraqi combatant death toll of approximately 9,200. Adopting a confidence margin of about 17.5 percent (or 1600) captures almost the full range of casualty totals consistent with the sub-estimates. Thus, our conclusion:
+
+The Iraqi combatant fatality total that most reasonably reflects the existing evidence is 9,200 dead plus/minus 1,600 (or plus/minus 17.5 percent).
+
+5. Total Iraqi fatalities in the 2003 war
+
+Adding together our estimates of Iraqi noncombatant fatalities (3,750 plus/minus 550) and combatant fatalities (9,200 plus/minus 1,600) yields our estimate for total Iraqi fatalities in the war: 12,950 plus or minus 2,150 (16.5 percent). Rounding this off, our analysis suggests that as few as 11,000 Iraqis may have been killed in the war or as many as 15,000. It is likely that approximately 30 percent of the fatalities were noncombatants -- that is: civilians who did not take up arms.
+
+The strength of this estimate is that it integrates and reconciles multiple sources of information with regard to both military and civilian, combatant and noncombatant causalities. Specifically, it:
+
+Accords with available hospital and burial records, taking into account their incompleteness and the problem of distinguishing combatant and noncombatant civilians;
+
+
+
+
+
+Encompasses battlefield estimates made by US commanders and embedded journalists, while correcting for both "casualty inflation" and incompleteness;
+
+
+
+
+
+Takes into consideration a large sample of well-reported individual incidents of civilian casualties -- while guarding against double counting; and
+
+
+
+
+
+Makes reasonable assumptions about the effect of artillery and aerial bombardment on Iraqi field units, while reconciling these with both the testimony of Iraqi soldiers and a journalistic survey of seven battlefields.
+
+A report from Najaf cemetery at the war's end suggest as many as 2,000 excess burials due to the conflict.(90) This represents a 400 percent increase in burials compared to the same period last year. Other Najaf cemetery reports suggest a smaller percentage increase: 150 percent. The cemetery, which covers more than four square miles and contains more than 2 million graves, is the largest in the Muslim world and it is the preferred burial place for Shiites everywhere, due to its association with the tomb of Ali bin Abi Talib, Mohammed's son-in-law, who gave birth to Shiism.
+
+Depending on the accuracy and completeness of the cemetery reports, the postwar influx of dead to Najaf could imply between 4,000 and 10,000 total war fatalities in the Iraqi Shiite community alone. Our own estimate of Iraqi war dead can accommodate between 4,000 and 8,000 deaths in the Shiite community, but probably not more. Thus, although there is substantial overlap between the two projections, the evidence from Najaf may favor a mid-point for total fatalities that is somewhat higher than our own.
+
+The most widely known tally of reported Iraqi civilian fatalities is that conducted by Bodycount.org.(91) Its total for civilian fatalities during the period covered by our report is approximately 5,450 - 7,100, with a mid-point of about 6,275. The sources, methods, and goals of the Bodycount study differ from ours in several respects. Bodycount sought to integrate hospital and other fatality surveys with numerous press reports of individual casualty incidents. By contrast, our approach regarding noncombatants was to extrapolate (or project) a fatality total for the nation based mainly on the press surveys of hospital and burial records. Although we drew on our own database of selected, individual civilian casualty incidents to guide this extrapolation, we did not -- by and large -- attempt to directly integrate casualty numbers from individual incidents as reported in the press.(92) This, because we judged the problem of double-counting between the two data sources to be largely unresolvable. In a few localities, however, the data from individual incidents was helpful in setting lower limits for our estimates. In our overall assessment, we concluded that the hospital and burial data was sufficiently strong and extensive to form the basis for an extrapolation that would capture all civilian fatalities.
+
+Another difference between our effort and Bodycount's is that our specific claim regards the probable number of fatalities among noncombatant civilians -- not simply civilians. In this sense, there is no direct comparison between our estimate and Bodycount's tally. However, if we take into account our average reduction factor for screening combatants -- which is about 38 percent -- the two tallies can be brought roughly into accord.
+
+6. Casualty comparison: Iraqi Freedom and Desert Storm
+
+Complicating any attempt to compare operations Iraqi Freedom and Desert Storm with regard to casualties are the disagreements that surround the estimation of casualties in the 1991 Gulf War. Here, we accept the view that more than 3,500 Iraqi civilians and probably more than 20,000 Iraqi military personnel were killed. (More specifically, we estimate that there were between 20,000 and 26,000 Iraqi military fatalities in the first Gulf War. See Appendix 2. Iraqi Combatant and Noncombatant Fatalities in the 1991 Gulf War) The Iraqi fatality figure for the 1991 war does not include postwar deaths due to the destruction of the Iraqi infrastructure (which had a devastating public health impact) or those associated with the postwar anti-regime uprisings in the north and south.(93)
+
+Looking at only the casualties incurred during the two wars, several points of comparison are evident:
+
+The casualties imposed on Iraq by Operation Iraqi Freedom were only 50 percent those of Desert Storm. Using mid-point numbers: approximately 13,000 fatalities in OIF versus approximately 26,500. However, these were imposed in a much shorter period of time: about 25 days versus 42.
+
+
+
+The portion of war fatalities that were civilian noncombatants may have been twice as great in OIF as in ODS: almost 30 percent in OIF versus almost 15 percent in Desert Storm;
+
+
+
+In accord with this, the total number of Iraqi civilian noncombatants killed in OIF was remarkably close to the number killed in ODS and may have exceeded it. (Some estimates put the civilian toll of ODS lower than we do: in the range of 2,500-3,000 killed.)
+
+The rough equivalence in civilian fatalities between America's two wars with Iraq does not indicate the failure of precision weapons, however. One might alternately equate this outcome with the increased role of ground power (as will be illustrated below). But this would not really get at the heart of the matter, either. It is only an epiphenomenon. At heart, the recent war with Iraq killed as many civilians as the last one, 12 years ago, despite substantial advances in US precision attack capabilities because the war's objective -- regime change -- was far more ambitious strategically.
+
+Regime change is not the type of outcome easily won by air power alone. Regimes may be willing to surrender a stolen property (Kuwait) or even one of their own provinces (Kosovo) in order to gain relief from bombardment. But suicide is not the type of quid pro quo that regimes are normally willing to contemplate. Thus, usually, regime change must be imposed in detail -- and then similarly enforced.
+
+In the 2003 war, "regime change" required an engagement with Iraqi power that was more thorough and unrelenting than was the case in the first Gulf War. In 2003, America's armed forces had to do much more than dislodge Iraqi forces from Kuwait. They had to pursue Iraqi power to where it lived, flush it out, and then destroy, corral, or disperse it. This entailed more fighting in and around urban centers because these were also hubs of political power. And it implied getting in among the Iraqi people. Although intensive urban warfare was not required, coalition forces did have to close on key cities, gain control of vital assets and lines of communication, conduct repeated raids on centers of power throughout the country, chase down leadership personnel, and attrite or threaten the regime's military capabilities wherever they resided.
+
+The type of tasks associated with forceful regime change bring ground forces to the fore. This is because they are able to closely and flexibly articulate with their object. A single US army or marine division is able to surveil, deter, coerce, or independently engage thousands of "targets" simultaneously, ranging in size down to a single individual. "Engagement" comprises a wide range of actions, only some of which are violent. Those that are violent constitute a very broad spectrum in their own right, ranging from a single rifle shot to a torrent of fire and armor. Also, the actions of a ground division can be modulated in minute detail, its various components adapting continuously to changes in their immediate circumstances.
+
+One clear indication of the increased role of ground power in OIF is the number of days that ground units conducted combat operations multiplied by the number of ground units involved. We call the resulting measure "equivalent brigade-days of ground combat." Operation Desert Storm involved less than 150 equivalent brigade days of ground combat. Operation Iraqi Freedom involved more than 400 (through 15 April).
+
+Although there were no distinct phases of "air" and "ground" warfare in the recent conflict, there were distinguishable waves, one following closely on the other. Air power marched to Baghdad ahead of ground power and it rolled over Iraqi army units before coalition ground forces attempted to engage them decisively. Subsequently, coalition ground units (with air units in close support) imposed the coalition's war objectives on Iraq. Notably, there was a significant surge in casualties associated with this second wave -- the ground or "air-ground" wave -- which filled Iraqi hospitals as it moved. This, for several reasons:
+
+First, the advance of coalition ground units decisively and comprehensively challenged Iraqi forces in ways that air power alone never could. This prompted intense, two-sided combat on the ground level.
+
+Second, ground units are relatively vulnerable to detailed counter-attack. This, too, prompted Iraqis to take the tactical offensive when and where they thought they could.
+
+Third, relative to air assets, ground units tend to defend themselves more by firepower than by speed, stealth, or distance. When under extreme tactical threat -- a common circumstance -- ground units often respond ferociously. This is a function both of their vulnerability and their immersion in a sea of deadly threat.
+
+The fa

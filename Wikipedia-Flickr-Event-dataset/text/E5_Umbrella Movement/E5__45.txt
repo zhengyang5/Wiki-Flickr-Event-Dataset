@@ -1,0 +1,51 @@
+After users download the application, it has the ability to gain access to personal data like passwords and bank information, spy on phone calls and messages and track the physical location of the infected smartphone. It is unclear how many smartphones in Hong Kong have been hit, but in similar attacks in the past, one in 10 phones that received such a message became infected, according to Mr. Shaulov.
+
+What Prompted the Hong Kong Protests? Hong Kong belongs to China and operates under a policy of “one country, two systems.” Hong Kong, a British colony until 1997, when China resumed sovereignty, is governed by a mini-constitution, the Basic Law.
+
+The city maintains an independent judiciary, and residents enjoy greater civil liberties than residents of mainland China. Hong Kong has a robust tradition of free speech.
+
+Democratic groups say Beijing has chipped away at those freedoms, citing a proposed election law that would limit voting reforms.
+
+China had promised free elections for Hong Kong's chief executive in 2017. But the government rejected a call for open nominations, instead proposing that candidates would continue to be chosen by a committee dominated by Beijing.
+
+The current city leader, Leung Chun-ying, has clashed with the pro-democracy opposition. After the crackdown on protesters, some called for his resignation.
+
+“These really cheap social engineering tricks; they have a high rate of success,” he said.
+
+What makes the malicious app stand out is a version that can infect Apple iOS devices, though only those that have been “jailbroken,” or altered in a way that allows them to download software not available in the official Apple App Store.
+
+“This is the first time that we have seen such operationally sophisticated iOS malware operational, which is actually developed by a Chinese-speaking entity,” Mr. Shaulov said.
+
+Advertisement Continue reading the main story
+
+Mr. Shaulov’s company traced the fake app to a computer that closely resembled those scrutinized by Mandiant, an American security firm that published a 60-page study last year that linked hacking attacks on American companies to the Chinese military.
+
+It’s not the first time the democracy movement in Hong Kong has drawn sophisticated web attacks. In June, an unofficial referendum on Hong Kong’s political future that allowed people in Hong Kong to vote online drew one of the largest denial-of-service attacks in history, according to Matthew Prince, the chief executive of CloudFlare, which helped defend the referendum site from the attack. Such attacks are aimed at overwhelming a site with online traffic, causing it to shut down.
+
+The recent targeting of the protests in Hong Kong has been part of a sustained campaign — most likely carried out by Chiense intelligence — dating back to about a year ago, according to Dmitri Alperovitch, co-founder and chief technology officer of the security firm CrowdStrike. He said he expected cyberattacks to monitor and potentially discredit protest leaders to increase in the coming weeks.
+
+“We expect to see a more aggressive tempo by the Chinese, he said, “to try to spread disinformation, to try to compromise individuals that are involved from a public relations perspective.”
+
+Though it is hard to prove, Mr. Alperovitch said he believed the targeting of the protesters is the work of China’s Ministry of State Security, which is usually charged with tracking dissidents and others deemed a threat to stability in China. Tactics employed against Occupy Central, one of the groups protesting in Hong Kong, are similar to those used by the Ministry of State Security within China on minority groups from Tibet and Xinjiang provinces, he said.
+
+Slide Show
+
+One possibility is in that coming weeks the government could leak phone calls or even disinformation in an effort to discredit protest leaders or link them to foreign governments, according to Mr. Alperovitch. China often attributes unrest to agitation by foreign powers.
+
+“We’ve seen in the Russia-Ukrainian conflict, phone calls have been released. I wouldn’t be surprised if the Chinese steal the Russian playbook and adopt some of those same tactics,” he said.
+
+Protesters in the current demonstrations in Hong Kong are making use of a new app that allows them to send messages without a cellular or Internet connection. Introduced in March, FireChat makes use of a cellphone’s radio and Bluetooth communications to create a network of phones close to one another — up to about 80 yards. Though downloaded widely by the Hong Kong protesters after rumors spread that the Internet would be cut, many have been making use of the app in areas where crowds have overwhelmed the cellphone system.
+
+Newsletter Sign Up Continue reading the main story Please verify you're not a robot by clicking the box. Invalid email address. Please re-enter. You must select a newsletter to subscribe to. Sign Up You agree to receive occasional updates and special offers for The New York Times's products and services. Thank you for subscribing. An error has occurred. Please try again later. View all New York Times newsletters.
+
+Other technological help has come from Code4HK, the programmers’ group. Its website provides links to live video feeds of the demonstrations, offers updated Google maps showing where supply and medical stations are in protest areas, and maintains an open spreadsheet that shows what supplies are needed.
+
+Advertisement Continue reading the main story
+
+Within China, the cat-and-mouse game that often goes on between politically minded Internet users and the government’s censors continued. Since Saturday, the Facebook-owned Instagram service has been widely inaccessible, according to users and several Internet monitors, leading commentators to speculate that the government had closed access to the app to stanch the flow of images of the protests. The rate of deletions of posts on China’s version of Twitter, Weibo, has also soared in recent days, an indication of how concerned the government is that news of the protests might spread unrest to China, according to Fu King-wa, a professor of media studies at Hong Kong University.
+
+Despite the spike in deletions, David Bandurski, a researcher at the University of Hong Kong, said that the huge flow of posts and the reliance on humans to individually censor content meant that some posts were getting through. Possibly more so than on newer products like Tencent’s mobile messaging app WeChat, which he said showed more efficiency in blocking posts from its social network.
+
+Beneath one post from a Chinese journalist on Weibo, Mr. Bandurski said he saw “page after page of comments.”
+
+“It had become a public online square for people talking about what’s happening in Hong Kong,” he said.

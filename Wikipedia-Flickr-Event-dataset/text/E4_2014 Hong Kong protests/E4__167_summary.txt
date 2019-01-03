@@ -1,0 +1,5 @@
+The largest cyber attack in history has been carried out against independent media sites in Hong Kong over the past few months, according to the company protecting them, increasing in their intensity each time pro-democracy activists announced new activities or developments.
+Cloudflare provides DDoS protection service for Apple Daily and PopVote, the Hong Kong site which held an unofficial civil referendum on extending suffrage rights to Hong Kong.
+The attacks have hit other Cloudflare customers in Hong Kong, and increased in intensity whenever a significant news story emerged about the student protests - such as last week's news about a trio of Hong Kong student protest leaders who were denied travel permits to Beijing.
+"It’s safe to say the attackers are not sympathetic with the Hong Kong democracy movement, but I don’t think we can necessarily say it’s the Chinese government.
+“The thing that’s great about the Internet is you can be a protestor in Hong Kong and tell your story in New York or London,” says Prince.

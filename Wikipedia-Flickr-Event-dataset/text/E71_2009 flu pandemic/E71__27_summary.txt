@@ -1,0 +1,5 @@
+Objective: To provide interim guidance on appropriate specimen collection, storage, processing, and testing for patients with suspected novel influenza A (H1N1) virus infection.
+Case DefinitionA confirmed case of novel influenza A (H1N1) virus infection is defined as a person with an influenza-like illness with laboratory confirmed novel influenza A (H1N1) virus infection by one or more of the following tests:real-time RT-PCR viral cultureDuration of Viral SheddingThe duration of shedding with novel influenza A (H1N1) virus is unknown.
+Testing for novel influenza A (H1N1) virusClinicians should consider testing suspected cases of novel influenza A (H1N1), especially those with severe illness, by obtaining an upper respiratory specimen to test for novel influenza A (H1N1) virus.
+Currently, novel influenza A (H1N1) virus will test positive for influenza A and negative for H1 and H3 by real-time RT-PCR.
+A patient with a positive rapid test for influenza A may meet criteria for a suspected case of novel influenza A (H1N1) virus infection.

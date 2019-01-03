@@ -1,0 +1,33 @@
+Bacteria in the gulf mostly digested gas, not oil, study finds
+
+The discovery tempers hopes that microorganisms have eaten up most of the spilled oil in the gulf, as other scientists had recently suggested, the lead author says.
+
+"It's hard to imagine these bacteria are capable of taking down all components of oil," he said. "These stories about superbugs taking down all the oil — it's more complex than that."
+
+Still, lead author David L. Valentine, a professor of microbial geochemistry at UC Santa Barbara, said the findings temper hopes that microorganisms detected by scientists in the gulf have eaten up most of the oil there, as other scientists had recently suggested.
+
+The paper doesn't rule out the possibility that bacteria also are consuming oil from the spill, the authors said. Instead, it suggests that natural gas primed the growth of bacteria that may have gone on to digest "more complex hydrocarbons" — oil — as the spill aged and propane and ethane were depleted.
+
+Bacteria that attacked the plumes of oil and gas resulting from the Deepwater Horizon gusher in the Gulf of Mexico mainly digested natural gas spewing from the wellhead — propane, ethane and butane — rather than oil, according to a study published in the journal Science.
+
+Valentine and his team conducted their research in the gulf during 10 days in June. Lowering an array of sensors over the side of their ship, they analyzed ocean water to determine the presence of oil, then collected water samples at 31 locations 0.6 to 7.7 miles from what was then the active spill site.
+
+Comparing samples collected close to the leak's origin with older samples collected farther away, the researchers detected declining proportions of propane and ethane the older the sample. As levels of propane and ethane declined, the number of bacteria believed to be capable of digesting those chemicals — Cycloclasticus, Colwellia and Oceanospirillaceae — grew.
+
+The team observed other chemical changes that suggested the bacteria were at work digesting gas. They saw that types of propane and ethane that bacteria prefer to digest — ones containing carbon-12, a lighter isotope of carbon — were depleted in samples.
+
+And they found that the levels of oxygen (which bacterial populations consume as they grow) in the water fell in step with the falling levels of propane and ethane. They concluded that 70% of oxygen depletion was the result of microbial digestion of these natural gas chemicals, suggesting that most of the bacterial action was against gas, not oil.
+
+Richard Camilli, an associate scientist at the Woods Hole Oceanographic Institution in Massachusetts, said that these findings are the first to establish that the observed biodegradation in the deep plumes was limited mostly to natural gas.
+
+"This paper is opening the door to other questions," said Camilli, who was not involved with this research but published a paper in an August edition of Science on the size of the gulf spill's oil plume. "If it's disproportionately natural gas that's being degraded, what's going on with the crude oil components?"
+
+But Terry Hazen, head of Lawrence Berkeley National Laboratory's ecology department and lead author of another August paper in Science that documented growth of hydrocarbon-eating bacteria in the deep-sea plume and suggested microbes could consume much of the oil, said that "the three papers are complementary. All show different pieces of the puzzle."
+
+Valentine said he will now investigate if the bacteria began eating the spilled oil, or some component of it, as time passed.
+
+"We know there's gas consumption; we know these organisms are here. How did that transition over time?" he said. "Did they move to oil over time, or did they bias which components of the oil [were consumed] next? We don't know yet."
+
+He noted that many organisms that consume propane and butane can also consume other components of oil. But, he said, these longer, more complex hydrocarbons can be harder to digest.
+
+eryn.brown@latimes.com

@@ -1,0 +1,12 @@
+E30_8th_1		:https://www.flickr.com/photos/physioshane/7895463480/in/album-72157631387815474/
+E30_8th_2		:https://www.flickr.com/photos/physioshane/7895447736/in/album-72157631387815474/
+E30_8th_3		:https://www.flickr.com/photos/physioshane/14673969969/in/album-72157631387815474/
+E30_8th_4		:https://www.flickr.com/photos/physioshane/14673914100/in/album-72157631387815474/
+E30_8th_5		:https://www.flickr.com/photos/physioshane/14674063697/in/album-72157631387815474/
+E30_8th_6		:https://www.flickr.com/photos/physioshane/14860260362/in/album-72157631387815474/
+E30_8th_7		:https://www.flickr.com/photos/physioshane/14857522351/in/album-72157631387815474/
+E30_8th_8		:https://www.flickr.com/photos/physioshane/14860260262/in/album-72157631387815474/
+E30_8th_9		:https://www.flickr.com/photos/physioshane/14781892689/in/album-72157631387815474/
+E30_8th_10		:https://www.flickr.com/photos/physioshane/14739412080/in/album-72157631387815474/
+E30_8th_11		:https://www.flickr.com/photos/physioshane/9245041433/in/album-72157631387815474/
+E30_8th_12		:https://www.flickr.com/photos/physioshane/8965578359/in/album-72157631387815474/

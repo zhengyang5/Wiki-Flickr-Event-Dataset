@@ -1,0 +1,25 @@
+Intel has been targeting the sports industry as part of its bigger push into emerging technologies (and finding customers for the resulting new services), and today the company announced its latest play in that area. Intel has signed a wide-ranging deal with the International Olympic Committee to develop technology solutions for the Olympic Games, including developing applications and platforms for VR (including the first live broadcast in VR of Olympics events), 3D and 360-content; AI analytics; drones; and 5G services to bring the Olympics in a more direct way to more people, or in the words of Intel CEO Brian Krzanich, “Experience a prime seat while being anywhere in the world.”
+
+The efforts will start with the next Olympics in Pyeongchang in 2018, and go through to 2024.
+
+The news and some potential applications in these areas were unveiled at a press conference today with IOC president Thomas Bach and Intel CEO Brian Krzanich signing the deal live and Krzanich getting told that he will be an honorary torch bearer (apparently a surprise to him).
+
+There is no value on the deal being made public, but the Olympics have been known to bring in billions of dollars in sponsorship and payments for broadcast rights in order for broadcasters to make money off those ads. It was estimated that for one Olympics, the 2012 edition in London, several worldwide sponsors (including Acer and Samsung) ponied up $100 million each to the IOC.
+
+The rise of digital networks and new media technologies have compounded that opportunity exponentially, with more ways presenting that coverages, and more ways to reach more sports fans. Intel working on developing more of these services will directly feed into expanding that machine.
+
+“Intel’s vision is that building a better world is our business. Our vision is building a better world through sport,” said Bach. “So bringing together these two visions will allow us to make great progress with regard to experience through games, as well as promoting the values we are sharing. The Olympic games are about excellence in sport but also about connecting people and sharing this common experience of what it means to feel the Olympic spirit.
+
+“In our digital age we are living in now, people are making this experience in a different way. Some decades ago you could experience this only in a stadium, then broadcasting came up. And now with the digital age and cutting edge technology from Intel, athletes, spectators and all can share this experience in a different and innovative way. This is the vision of the Olympic agenda for 2020.”
+
+“We are excited to join the Olympic Movement and integrate Intel’s innovative technologies to advance the Olympic Games experience for fans around the world,” added Krzanich. “Through this close collaboration with the Olympic family, we will accelerate the adoption of technology for the future of sports on the world’s largest athletic stage.”
+
+Intel has made a number of moves in the arena of sports to ramp up its involvement in sports as a target vertical for the company’s efforts in emerging areas like VR. They have included acquisitions of Voke VR for immersive sports tech; Replay Technologies for 3D video tech; providing a March Madness experience in VR; and helping provide tech for the X-Games in Aspen and the NBA All-Star Weekend.
+
+Compared to the Olympics, the king of all sports events, all of these feel like prep work.
+
+It’s not clear which other companies will be working with the IOC for technology for the upcoming games. Other tech companies that have supported the Olympics in the past with tech implementations include Facebook, NBC and many more. But when it comes to larger sponsorship deals, these are less common, and pricier. Indeed, as we saw with IBM, which was sponsor for 38 years before backing away in 1998, those collaborations can be costly and potentially not worth the effort.
+
+Intel, which appears to be replacing McDonald’s as the primary global sponsor, is the 13th partner for the IOC, the companies said today. Other tech companies that are currently involved with sponsoring the Olympics include Alibaba, which will be the “cloud services” and “e-commerce platform services” sponsor until 2028.
+
+A recap of some of the areas where Intel says it will be working:

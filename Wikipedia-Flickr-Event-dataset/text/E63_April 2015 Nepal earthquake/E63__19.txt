@@ -1,0 +1,1 @@
+Javascript must be enabled to view our earthquake maps. To access USGS earthquake information without using javascript, use our Magnitude 2.5+ Earthquakes, Past Day ATOM Feed or our other earthquake feeds.

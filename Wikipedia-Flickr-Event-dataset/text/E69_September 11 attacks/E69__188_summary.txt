@@ -1,0 +1,5 @@
+This proposal addresses Recommendation 1 of the NIST WTC Report.
+This proposal addresses, in part, Recommendations 13, 14, 15, 23, and 24 of the NIST WTC Report.
+This proposal addresses, in part, Recommendations 13, 14, 15, 23, and 24 of the NIST WTC Report.
+This proposal addresses, in part, Recommendations 13, 14, 15, 23, and 24 of the NIST WTC Report.
+Emergency Responder Communication F171 (IFC) – This proposal is intended to address NIST Recommendation 24 of the NIST WTC Report.

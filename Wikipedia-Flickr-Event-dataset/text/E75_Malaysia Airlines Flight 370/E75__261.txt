@@ -1,0 +1,19 @@
+The service would be rolled out to all the 11,000 commercial passenger aircraft that are already equipped with an Inmarsat satellite connection – over 90 per cent of the world’s long haul commercial fleet.
+
+“Because of the universal nature of existing Inmarsat aviation services, our proposals can be implemented right away on all ocean-going commercial aircraft using equipment that is already installed," said Rupert Pearce, chief executive of Inmarsat.
+
+When flight MH370 went missing on March 8 2014, many were surprised to discover that not all aircraft are tracked automatically, allowing something as large as a Boeing 777 to effectively 'disappear off the radar'.
+
+The plane's position was lost because the aircraft communications addressing and reporting system (ACARS) – which collects on-board data such as location, altitude, heading and speed, and transmits it back to Inmarsat's network – was switched off.
+
+Although this is unusual, it is not hard to do. The switch is located either on a ceiling unit or on the deck between the pilot and co-pilot, down behind the throttles.
+
+Inmarsat's chief operating officer Ruy Pinto explained that, in some cases, pilots are obliged to turn the system off because the aircraft is lacking power or there is a fire on board. It was also speculated that a hijacker could have switched the system off deliberately to prevent it from transmitting the plane's position.
+
+The company said at the time that, if regulators wished to ensure that aircraft broadcast their position at regular intervals – as ships at sea are required to do over a certain tonnage – then this could be achieved via satellite. However, many airlines are reluctant to routinely use satellite tracking, due to the cost.
+
+Under Inmarsat's proposal, the satellite operator would carry the cost of providing the system itself, anticipated to be about $3 million a year. The company would hope to recoup costs as airlines moved to take up some of its premium services, it told the BBC.
+
+Inmarsat announced its offer ahead of a conference on aircraft tracking being hosted by the International Civil Aviation Organization (ICAO) in Montreal, Canada. Both ICAO and the International Air Transport Association (IATA), the trade association for the world's airlines, are currently considering how to enhance aviation safety services on a global basis, in the wake of MH370.
+
+Other suggestions include extending the power systems used by 'black box' flight, so that they can work underwater for at least 90 days, rather than 30 days, and increasing the minimum recording duration of the cockpit voice recorder from two hours to 20 hours.

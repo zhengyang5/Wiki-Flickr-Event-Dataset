@@ -1,0 +1,29 @@
+The Formula One season reaches its halfway point at the Hockenheimring this weekend. But some teams have already begun using the last of their allocated power unit components for the season.
+
+It is therefore becoming increasingly inevitable that drivers will collect penalties for using extra parts under the complicated new rules introduced this year.
+
+Each power unit is defined as six different components: the internal combustion engine (ICE), the Motor Generator Unit-Kinetic (MGU-K), the Motor Generator Unit-Heat (MGU-H), the energy store (ES), turbocharger (TC) and control electronics (CE). Each driver is allocated five of each per season.
+
+Power unit penalties ‘carry over’
+
+A driver will receive a ten-place grid penalty the first time they use a sixth power unit component. On any further occasion that driver uses a sixth component they will receive a further five-place grid penalty. This pattern repeats for a seventh power unit component and so on.
+
+On top of that, these sanctions work differently to other grid penalties in F1. Normally there is no consequence if a driver cannot serve their full grid penalty at a race – for example, if they have qualified last and receive a five-place penalty. However penalties relating to power unit components can be carried over to the next race.
+
+For example, If a driver qualifies 20th and receives a five-place grid penalty due to a power unit component change, they would be moved back to 22nd and carry a three-place penalty into the next race.
+
+These new penalties can only be carried over once, so if this driver were to qualify last for the following race, their three-place penalty would not carry over to the next round. Note this only applies to the change of power unit components, not gearboxes, the rules for which are unchanged.
+
+With ten races remaining, half the field are already on their last or penultimate example of at least one power unit component. Daniil Kvyat used his fifth engine and MGU-K at Silverstone, and several other Renault-powered drivers including Sebastian Vettel are increasingly at risk:
+
+No. Driver Car Engine ICE TC MGU-K MGU-H ES CE 1 Sebastian Vettel Red Bull Renault 4 4 4 4 2 4 3 Daniel Ricciardo Red Bull Renault 3 3 3 3 2 2 44 Lewis Hamilton Mercedes Mercedes 3 3 3 3 3 3 6 Nico Rosberg Mercedes Mercedes 3 3 3 3 2 3 14 Fernando Alonso Ferrari Ferrari 3 3 3 3 3 4 7 Kimi Raikkonen Ferrari Ferrari 3 3 3 4 3 3 8 Romain Grosjean Lotus Renault 3 4 3 3 2 3 13 Pastor Maldonado Lotus Renault 4 4 4 4 2 3 22 Jenson Button McLaren Mercedes 3 3 3 3 2 2 20 Kevin Magnussen McLaren Mercedes 3 3 3 3 2 2 27 Nico Hulkenberg Force India Mercedes 3 3 3 3 2 2 11 Sergio Perez Force India Mercedes 3 3 3 3 2 2 99 Adrian Sutil Sauber Ferrari 3 3 3 3 3 3 21 Esteban Gutierrez Sauber Ferrari 3 3 3 3 3 3 25 Jean-Eric Vergne Toro Rosso Renault 4 4 4 3 3 3 26 Daniil Kvyat Toro Rosso Renault 5 4 5 3 2 2 19 Felipe Massa Williams Mercedes 3 3 3 3 2 3 77 Valtteri Bottas Williams Mercedes 3 3 3 3 2 2 17 Jules Bianchi Marussia Ferrari 4 4 3 4 2 4 4 Max Chilton Marussia Ferrari 4 4 4 4 3 4 10 Kamui Kobayashi Caterham Renault 3 3 3 3 3 4 9 Marcus Ericsson Caterham Renault 3 3 3 3 2 3
+
+The situation between championship protagonists Lewis Hamilton and Nico Rosberg is all square at the moment. But if one of them were to need a sixth component in the latter stages of the season it could prove decisive in the championship.
+
+Having to take a ten-place grid penalty could prove twice as costly at the season finale in Abu Dhabi, where double points are being awarded for the first time this year. Given the right circumstances a driver may consider it preferable to pre-emptively change an engine component before that race, and instead take the penalty at a track where fewer points are available.
+
+And it will only get tougher for the teams next year. For 2015 the number of power unit components will be cut from five to four, providing there are no more than 20 races on the calendar.
+
+2014 F1 season
+
+Image © Red Bull/Getty

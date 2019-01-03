@@ -1,0 +1,81 @@
+Measuring the Size of an Earthquake
+
+Earthquakes range broadly in size. A rock-burst in an Idaho silver mine may involve the fracture of 1 meter of rock; the 1965 Rat Island earthquake in the Aleutian arc involved a 650 kilometer length of the Earth's crust. Earthquakes can be even smaller and even larger. If an earthquake is felt or causes perceptible surface damage, then its intensity of shaking can be subjectively estimated. But many large earthquakes occur in oceanic areas or at great focal depths and are either simply not felt or their felt pattern does not really indicate their true size.
+
+Today, state of the art seismic systems transmit data from the seismograph via telephone line and satellite directly to a central digital computer. A preliminary location, depth-of-focus, and magnitude can now be obtained within minutes of the onset of an earthquake. The only limiting factor is how long the seismic waves take to travel from the epicenter to the stations - usually less than 10 minutes.
+
+Magnitude
+
+Modern seismographic systems precisely amplify and record ground motion (typically at periods of between 0.1 and 100 seconds) as a function of time. This amplification and recording as a function of time is the source of instrumental amplitude and arrival-time data on near and distant earthquakes. Although similar seismographs have existed since the 1890's, it was only in the 1930's that Charles F. Richter, a California seismologist, introduced the concept of earthquake magnitude. His original definition held only for California earthquakes occurring within 600 km of a particular type of seismograph (the Woods-Anderson torsion instrument). His basic idea was quite simple: by knowing the distance from a seismograph to an earthquake and observing the maximum signal amplitude recorded on the seismograph, an empirical quantitative ranking of the earthquake's inherent size or strength could be made. Most California earthquakes occur within the top 16 km of the crust; to a first approximation, corrections for variations in earthquake focal depth were, therefore, unnecessary.
+
+Richter's original magnitude scale ( M L ) was then extended to observations of earthquakes of any distance and of focal depths ranging between 0 and 700 km. Because earthquakes excite both body waves, which travel into and through the Earth, and surface waves, which are constrained to follow the natural wave guide of the Earth's uppermost layers, two magnitude scales evolved - the m b and M S scales.
+
+The standard body-wave magnitude formula is
+
+m b = log 10 (A/T) + Q(D,h) ,
+
+where A is the amplitude of ground motion (in microns); T is the corresponding period (in seconds); and Q(D,h) is a correction factor that is a function of distance, D (degrees), between epicenter and station and focal depth, h (in kilometers), of the earthquake. The standard surface-wave formula is
+
+M S = log 10 (A/T) + 1.66 log 10 (D) + 3.30 .
+
+There are many variations of these formulas that take into account effects of specific geographic regions, so that the final computed magnitude is reasonably consistent with Richter's original definition of M L . Negative magnitude values are permissible.
+
+A rough idea of frequency of occurrence of large earthquakes is given by the following table:
+
+
+
+M S Earthquakes per year ---------- ----------- 8.5 - 8.9 0.3 8.0 - 8.4 1.1 7.5 - 7.9 3.1 7.0 - 7.4 15 6.5 - 6.9 56 6.0 - 6.4 210
+
+This table is based on data for a recent 47 year period. Perhaps the rates of earthquake occurrence are highly variable and some other 47 year period could give quite different results.
+
+The original m b scale utilized compressional body P-wave amplitudes with periods of 4-5 s, but recent observations are generally of 1 s-period P waves. The M S scale has consistently used Rayleigh surface waves in the period range from 18 to 22 s.
+
+When initially developed, these magnitude scales were considered to be equivalent; in other words, earthquakes of all sizes were thought to radiate fixed proportions of energy at different periods. But it turns out that larger earthquakes, which have larger rupture surfaces, systematically radiate more long-period energy. Thus, for very large earthquakes, body-wave magnitudes badly underestimate true earthquake size; the maximum body-wave magnitudes are about 6.5 - 6.8. In fact, the surface-wave magnitudes underestimate the size of very large earthquakes; the maximum observed values are about 8.3 - 8.7. Some investigators have suggested that the 100 s mantle Love waves (a type of surface wave) should be used to estimate magnitude of great earthquakes. However, even this approach ignores the fact that damage to structure is often caused by energy at shorter periods. Thus, modern seismologists are increasingly turning to two separate parameters to describe the physical effects of an earthquake: seismic moment and radiated energy.
+
+Fault Geometry and Seismic Moment, M O
+
+The orientation of the fault, direction of fault movement, and size of an earthquake can be described by the fault geometry and seismic moment. These parameters are determined from waveform analysis of the seismograms produced by an earthquake. The differing shapes and directions of motion of the waveforms recorded at different distances and azimuths from the earthquake are used to determine the fault geometry, and the wave amplitudes are used to compute moment. The seismic moment is related to fundamental parameters of the faulting process.
+
+M O = µSd ,
+
+where µ is the shear strength of the faulted rock, S is the area of the fault, and <d> is the average displacement on the fault. Because fault geometry and observer azimuth are a part of the computation, moment is a more consistent measure of earthquake size than is magnitude, and more importantly, moment does not have an intrinsic upper bound. These factors have led to the definition of a new magnitude scale M W , based on seismic moment, where
+
+M W = 2/3 log 10 (M O ) - 10.7 .
+
+The two largest reported moments are 2.5 X 1030 dyn·cm (dyne·centimeters) for the 1960 Chile earthquake ( M S 8.5; M W 9.6) and 7.5 X 1029 dyn·cm for the 1964 Alaska earthquake ( M S 8.3; M W 9.2). M S approaches it maximum value at a moment between 1028 and 1029 dyn·cm.
+
+Energy, E
+
+The amount of energy radiated by an earthquake is a measure of the potential for damage to man-made structures. Theoretically, its computation requires summing the energy flux over a broad suite of frequencies generated by an earthquake as it ruptures a fault. Because of instrumental limitations, most estimates of energy have historically relied on the empirical relationship developed by Beno Gutenberg and Charles Richter:
+
+log 10 E = 11.8 + 1.5M S
+
+where energy, E, is expressed in ergs. The drawback of this method is that M S is computed from an bandwidth between approximately 18 to 22 s. It is now known that the energy radiated by an earthquake is concentrated over a different bandwidth and at higher frequencies. With the worldwide deployment of modern digitally recording seismograph with broad bandwidth response, computerized methods are now able to make accurate and explicit estimates of energy on a routine basis for all major earthquakes. A magnitude based on energy radiated by an earthquake, M e , can now be defined,
+
+M e = 2/3 log 10 E - 2.9.
+
+For every increase in magnitude by 1 unit, the associated seismic energy increases by about 32 times.
+
+Although M w and M e are both magnitudes, they describe different physical properites of the earthquake. M w , computed from low-frequency seismic data, is a measure of the area ruptured by an earthquake. M e , computed from high frequency seismic data, is a measure of seismic potential for damage. Consequently, M w and M e often do not have the same numerical value.
+
+Intensity
+
+The increase in the degree of surface shaking (intensity) for each unit increase of magnitude of a shallow crustal earthquake is unknown. Intensity is based on an earthquake's local accelerations and how long these persist. Intensity and magnitude thus both depend on many variables that include exactly how rock breaks and how energy travels from an earthquake to a receiver. These factors make it difficult for engineers and others who use earthquake intensity and magnitude data to evaluate the error bounds that may exist for their particular applications.
+
+An example of how local soil conditions can greatly influence local intensity is given by catastrophic damage in Mexico City from the 1985, M S 8.1 Mexico earthquake centered some 300 km away. Resonances of the soil-filled basin under parts of Mexico City amplified ground motions for periods of 2 seconds by a factor of 75 times. This shaking led to selective damage to buildings 15 - 25 stories high (same resonant period), resulting in losses to buildings of about $4.0 billion and at least 8,000 fatalities.
+
+The occurrence of an earthquake is a complex physical process. When an earthquake occurs, much of the available local stress is used to power the earthquake fracture growth to produce heat rather that to generate seismic waves. Of an earthquake system's total energy, perhaps 10 percent to less that 1 percent is ultimately radiated as seismic energy. So the degree to which an earthquake lowers the Earth's available potential energy is only fractionally observed as radiated seismic energy.
+
+Determining the Depth of an Earthquake
+
+Earthquakes can occur anywhere between the Earth's surface and about 700 kilometers below the surface. For scientific purposes, this earthquake depth range of 0 - 700 km is divided into three zones: shallow, intermediate, and deep.
+
+Shallow earthquakes are between 0 and 70 km deep; intermediate earthquakes, 70 - 300 km deep; and deep earthquakes, 300 - 700 km deep. In general, the term "deep-focus earthquakes" is applied to earthquakes deeper than 70 km. All earthquakes deeper than 70 km are localized within great slabs of shallow lithosphere that are sinking into the Earth's mantle.
+
+The evidence for deep-focus earthquakes was discovered in 1922 by H.H. Turner of Oxford, England. Previously, all earthquakes were considered to have shallow focal depths. The existence of deep-focus earthquakes was confirmed in 1931 from studies of the seismograms of several earthquakes, which in turn led to the construction of travel-time curves for intermediate and deep earthquakes.
+
+The most obvious indication on a seismogram that a large earthquake has a deep focus is the small amplitude, or height, of the recorded surface waves and the uncomplicated character of the P and S waves. Although the surface-wave pattern does generally indicate that an earthquake is either shallow or may have some depth, the most accurate method of determining the focal depth of an earthquake is to read a depth phase recorded on the seismogram. The most characteristic depth phase is pP. This is the P wave that is reflected from the surface of the Earth at a point relatively near the epicenter. At distant seismograph stations, the pP follows the P wave by a time interval that changes slowly with distance but rapidly with depth. This time interval, pP-P (pP minus P), is used to compute depth-of-focus tables. Using the time difference of pP-P as read from the seismogram and the distance between the epicenter and the seismograph station, the depth of the earthquake can be determined from published travel-time curves or depth tables.
+
+Another seismic wave used to determine focal depth is the sP phase - an S wave reflected as a P wave from the Earth's surface at a point near the epicenter. This wave is recorded after the pP by about one-half of the pP-P time interval. The depth of an earthquake can be determined from the sP phase in the same manner as the pP phase by using the appropriate travel-time curves or depth tables for sP.
+
+If the pP and sP waves can be identified on the seismogram, an accurate focal depth can be determined.

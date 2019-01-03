@@ -1,0 +1,5 @@
+This section is not available for devices that don't support javascriptAfter a successful implementation of Goal-Line Technology (GLT) at the FIFA Club World Cup in Japan in December 2012, FIFA has decided to use GLT at the FIFA Confederations Cup Brazil 2013 and 2014 FIFA World Cup Brazil™.
+The aim is to use GLT in order to support the match officials and to install a system in all stadia, pending the successful installation, and pre-match referee tests.
+With different technologies on the market, FIFA has launched a tender today, setting out the technical requirements for the two forthcoming competitions in Brazil.
+The two GLT providers already licensed under FIFA’s Quality Programme for GLT, and other GLT providers currently in the licensing process (that must have passed all relevant tests as of today) are invited to submit tenders.
+Interested GLT companies will be invited to join an inspection visit to the Confederations Cup venues, currently scheduled for mid-March, with a final decision due to be confirmed in early April.

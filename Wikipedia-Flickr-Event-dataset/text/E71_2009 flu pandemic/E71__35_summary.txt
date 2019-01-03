@@ -1,0 +1,5 @@
+Another limitation of our study is that secondary cases were not confirmed by laboratory testing.
+It is therefore likely that some of the secondary cases were not cases of 2009 H1N1 influenza.
+Conversely, some of the household contacts with symptoms that did not meet the definition of acute respiratory illness or influenza-like illness were likely to have had 2009 H1N1 influenza.
+In general, the positive predictive value of acute respiratory illness for 2009 H1N1 influenza infection in persons who are not epidemiologically linked to a case patient is expected to be low.
+However, the probability that an acute respiratory illness is caused by the 2009 H1N1 virus is expected to be higher when the onset of symptoms occurs only a few days after the onset of symptoms in a household case patient with laboratory-confirmed 2009 H1N1 influenza.

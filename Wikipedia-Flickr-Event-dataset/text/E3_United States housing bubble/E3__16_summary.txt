@@ -1,0 +1,5 @@
+: Detección de burbujas inmobiliarias: el caso español, en Contribuciones a la Economía, mayo 2011, en http://www.eumed.net/ce/2011a/1.- Introducción.
+Revisada la literatura sobre el caso español lo cierto es que no es posible encontrar test específicos de detección de burbujas .
+En la sección 2ª revisamos las estrategias metodológicas más utilizadas en la identificación de burbujas inmobiliarias.
+Levin y Wright (1997, a) para el caso del Reino Unido incluye la renta y el tipo de interés reales.
+En la “Opción A” hemos supuesto que en el último trimestre disponible de la serie se cumple el equilibrio .

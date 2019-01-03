@@ -1,0 +1,5 @@
+The genetic makeup of influenza viruses allows frequent minor genetic changes, known as antigenic drift, and these changes require annual reformulation of influenza vaccines.
+More recently, two other influenza A pandemics occurred in 1957 (“Asian influenza”) and 1968 (“Hong Kong influenza”) and caused significant morbidity and mortality globally.
+Constant genetic changes in influenza viruses mean that the vaccines' virus composition must be adjusted annually to include the most recent circulating influenza A(H3N2), A(H1N1) and influenza B viruses.
+The network, a partnership of 112 National Influenza Centres in 83 countries, is responsible for monitoring the influenza viruses circulating in humans and rapidly identifying new strains.
+Antiviral drugs for influenza are an important adjunct to influenza vaccine for the treatment and prevention of influenza.

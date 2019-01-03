@@ -1,0 +1,5 @@
+To augment limited instrumental recordings of the M w 7.8 Gorkha, Nepal, earthquake on 25 April 2015 (Nepali calendar: 12 Baisakh 2072, Bikram Samvat), we collected 3831 detailed media and first-person accounts of macroseismic effects that include sufficiently detailed information to assign intensities.
+Within the Kathmandu Valley, intensities were generally 6–7 EMS.
+This surprising (and fortunate) result can be explained by the nature of the mainshock ground motions, which were dominated by energy at periods significantly longer than the resonant periods of vernacular structures throughout the Kathmandu Valley.
+Outside of the Kathmandu Valley, intensities were also generally lower than 8 EMS, but the earthquake took a heavy toll on a number of remote villages, where many especially vulnerable masonry houses collapsed catastrophically in 7–8 EMS shaking.
+We further reconsider intensities from the 1833 earthquake sequence and conclude that it occurred on the same fault segment as the Gorkha earthquake.

@@ -1,0 +1,55 @@
+There’s so much confusion about the satellite communications aspects of the MH370 incident that I thought it would be useful to give a little bit of background and an analogy to aid understanding of what we know and what we don’t, writes TMF Associates’ Tim Farrar.
+
+As with all analogies, this is perhaps oversimplified, but may help those without a detailed knowledge of satellite communications. I’m not a satellite designer, so I may also have overlooked some of the intricacies – please feel free to chime in with any corrections or amplifications.
+
+Read Part Two, Part Three and Part Four
+
+Firstly, it needs to be made clear that the radar transponder “squawks” and the satellite communications “pings” are from completely separate systems (just because its talking about a transponder, that is nothing to do with satellite transponders). The radar transponder sends an amplified signal in response to reception an incoming radar transmission, which has much more power than a simple reflection from the metal skin of the plane, and has additional information about the plane’s ID. If turned off, less sensitive civilian radar will struggle to pick up the plane’s reflection, though military (air defense) radar should still be able to see the plane. But military radar systems are looking for hostile forces and have missed civilian aircraft in the past (e.g. the Mathias Rust incident).
+
+Key point 1: The transponders are nothing to do with the satellite communications system.
+
+So let’s turn to the satellite communications system. There has been talk about ACARS transmissions for monitoring the status of the plane. That is a communications protocol, separate from the underlying satellite (or VHF radio) link. Think of ACARS as like Twitter. I can send a message from my cellphone, which may or may not include my location. When I’m at home, on WiFi, the message goes to Twitter via my home broadband connection. Similarly, when the plane is over land, the ACARS message goes over VHF radio to SITA, who then send it on to the destination (e.g. Rolls Royce if the purpose is engine monitoring, Malaysian Airlines if its an internal airline message, or the Air Traffic Control center if its a navigation related message).
+
+With Twitter, when I leave home, my cellphone connects to the cellular network, and my Twitter messages go over that. But it makes no difference to the message and Twitter doesn’t care. Somewhat similarly, when the plane goes over the ocean, the ACARS system sends its messages over the plane’s satellite connection instead, but it doesn’t affect the content of the message.
+
+Just like I use AT&T for my cellphone service, the plane’s satellite communication system is from Inmarsat, but so long as I have bought the right data service from AT&T, Twitter will work, and so long as I have an Inmarsat data service, ACARS will work fine.
+
+Key point 2: ACARS is an “app” (communications protocol) which can operate over different (satellite and VHF) communications links.
+
+I can sign out of Twitter on my cellphone and then won’t be able to transmit or receive Twitter messages. But that has nothing to do with whether my cellphone is connected to AT&T’s network. Similarly, the pilots can terminate ACARS sessions and stop reporting their position or other data (see for example this document), but that doesn’t affect whether the satellite terminal itself is connected to the Inmarsat network.
+
+Key point 3: ACARS reporting can be disconnected without affecting the underlying satellite communications link.
+
+On my cellphone, even if I’m not sending any data, AT&T needs to know if I’m registered on the network. When I turn on my phone, or move from cell to cell, the network exchanges data with the phone to make sure the network knows which cell the phone is located in. More importantly, even if I stay in one place with the phone in my pocket, the cellphone network checks in occasionally to make sure that the phone is still active (and say the battery hasn’t run out without the phone signing off from the network, or I haven’t gone into an underground car park and the connection has been lost), so that it knows what to do with an incoming call. You don’t normally notice that, because the timescales are pretty long (you don’t usually go into a car park for an hour or two). As another example, if I go to France with my AT&T phone, when I turn the phone on, it is registered in the Visitor Location Register (VLR), but eventually, after I stop using the phone there, my details are purged from the VLR.
+
+Similarly with the Inmarsat connection, the network needs to know if it should continue to assign network resources to a particular terminal in case a communications link needs to be established. Not every aeronautical terminal in the world will be active simultaneously, and indeed there are quite a few that are rarely if ever used, so Inmarsat doesn’t provision resources for all terminals to be used simultaneously. However, once a given terminal are turned on, it needs to be contactable while it is inflight. So the Inmarsat network checks in with the terminal periodically (it appears to be roughly once an hour), to ensure that it should continue to be included in the list of active terminals and gets a message back to confirm that it should remain registered. These are the “satellite pings” that have shown that MH370 was still powered on and active after the ACARS messages and radar transponder were turned off, because the terminal was responding to the requests from the Inmarsat network to confirm it was still connected.
+
+Key point 4: The “satellite pings” are due to the Inmarsat network checking that the terminal on board the aircraft is still connected to the Inmarsat satellite system and the terminal responding in the affirmative.
+
+So now the question is how accurately does the Inmarsat network know where the plane is located? To go back to my cellphone analogy, when the network is checking my phone is still connected, it looks in the last cell it was registered. If I move to a different cell, then my phone should check in with the network to request a new assignment. But AT&T doesn’t need to know my precise position within the cell, it just needs to know where to route an incoming call. Similarly with Inmarsat, there isn’t a need to know exactly where in a cell the plane is located, just that its there and not somewhere (or nowhere) else.
+
+Key point 5: The “satellite pings” indicate the plane is in a cell, but do not intrinsically give specific position information.
+
+How big is a “cell” on the Inmarsat network and why the confusion? First of all, we need to recognize that there are different Inmarsat network architectures for different generations of aeronautical terminals. Think of it like 2G, 3G and 4G phones. If I have a first generation iPhone then I can only use 2G (GSM+EDGE), an iPhone 3G can use 3G, and an iPhone 5 can use LTE. AT&T supports all of these phones, but in slightly different ways. Inmarsat introduced a new SwiftBroadband aeronautical service in 2010, using its latest generation Inmarsat 4 satellites (like AT&T’s LTE network). That has much smaller spot beams (“cells”) than the older Inmarsat 3 satellites. And the Inmarsat 3 satellites (like AT&T’s 3G network) in turn have regional spot beams as well as a “global” beam (covering an entire hemisphere) to support the oldest aeronautical terminals.
+
+As an aside, part of the SwiftBroadband communications protocol (essentially identical to BGAN) conveys (GPS-based) position information to the satellite when establishing a connection, so that the satellite can assign the terminal to the right spot beam. But it isn’t clear that GPS data is required as part of the “pings” which maintain registration on the network. That was one additional source of confusion about whether the specific position was being reported.
+
+In any case, it appears that MH370 had a Swift64 terminal onboard, not one of the latest SwiftBroadband terminals (that’s hardly surprising since SwiftBroadband is not yet fully approved for aeronautical safety services and is mostly used for passenger connectivity services at the moment, which don’t seem to have been available onboard). This is the equivalent of the iPhone 3G (not the oldest terminals, but not the newest either).
+
+In the Indian Ocean, the Swift64 service operates on the Inmarsat 3F1 satellite located at 64E (equivalent to AT&T’s 3G network not its latest LTE network), and can use both the regional and global beams, but it appears that Inmarsat’s network only uses the global beam for the “pings” to maintain network registration. Otherwise it would have been possible to rule out a location in the Southern Ocean.
+
+Key point 6: The “satellite pings” were exchanged with the Inmarsat 3F1 satellite at 64E longitude through the global beam.
+
+So how can anyone find the position within this enormous global beam? There are two potential ways to measure the location:
+
+1) Look at the time delay for transmission of the signal to the satellite. This would give you a range from the sub-satellite point if measured accurately enough, which would be a circle on the Earth’s surface.
+
+2) Measure the power level of the signal as received at the satellite. The antennas on the satellite and the plane amplify the signal more at some elevation angles than others. If you know the transmission power accurately enough, and know how much power was received, you can estimate the angle it came from. This again would produce a similar range from the sub-satellite point, expressed as a circle on the Earth’s surface.
+
+We can see that the search locations are based on exactly these curves at a given distance from the sub-satellite point. However, it is unlikely that the measurements are more accurate than within say 100 miles.
+
+We can also see that the arcs are cut off at each end. The cutoff due east of the sub-satellite point is likely due the fact that the transmissions would also potentially be received by Inmarsat’s Pacific Ocean Region satellite at that point, and if they weren’t, then that region would be ruled out. Its possible that the boundaries to the north and south have been established similarly by the boundaries of Inmarsat’s Atlantic Ocean Region satellite coverage, but they may instead be based on available fuel, rather than the satellite measurements per se.
+
+Key point 8: The position of the aircraft is being estimated based on the signal timing/power measured at the satellite. Its not based on the data content of any message and is not highly accurate.
+
+I hope that’s helpful. Let me know of any questions or need for further explanation. info@tmfassociates.com

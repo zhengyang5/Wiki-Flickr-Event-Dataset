@@ -1,0 +1,69 @@
+Sochi Games to Set Record for Live and VOD Streaming
+
+Adobe, NBCU, Elemental, Deltatre, LiveU, and more are readying streaming platforms that will deliver coverage to desktops and mobile devices around the globe.
+
+In a press release Laurent Frisch, director of France Télévisions Editions Numériques, said, “In recent years, we have experienced a change in the way our audience consumes media with an almost unquenchable desire for more quality sporting content on smart phones and tablets. The response to our London 2012 digital offering was overwhelmingly positive.”
+
+Along with second screen app developer Monterosa, Deltatre is providing a Games tablet app for CBC Television (now live). The app merges Deltatre's web content management system Forge with Monterosa’s API-driven cloud platform LViS Studio.
+
+Delatre has also designed and will power mobile apps during the Games for AFP (Agence France-Presse). The service provider has other undisclosed clients in Asia and Europe.
+
+Elemental tests 4K Olympics streaming
+
+Elemental Technologies is involved in a number of 4K ultra HD HEVC streaming trials for broadcasters during the Games. While none of these feeds will go to air, and Elemental isn't disclosing the partners' names, it notes that this is another stage on the road to ultra HD. Elemental might show some UHD video processed in real-time at public venues, as it did last year during the Osaka marathon.
+
+“Broadcasters are proving out workflows beyond the labs,” says Keith Wymbs, Elemental's vice president of marketing. “They are getting further along in their experiments with an eye on the World Cup later this year. I expect by then the demonstrations will really be pretty good.”
+
+There is a debate in the industry about whether or not ultra HD needs higher dynamic range and greater colour to excite consumers. In live sports the issue of higher frame rates to augment the higher resolution is more pertinent, says Wymbs.
+
+“I think over the course of 2014 you will see basic-level 4K systems come in, and that innovation will not stop. For us, going to 10 or 12-bit depth colour is a software change,” says Wymbs. “We've already shown 10-bit and up to 60fps in real-time for encoding, and we can easily show 120fps for files although we need decoders to do that. The HDR will be an increment operators can add to the Elemental platform with demand.”
+
+Several broadcasters will use the Winter Games to conduct 4K tests. The most ambitious is Russian pay TV operator NTV+ which aims to transmit 4K pictures to public viewing areas and cinemas within the country.
+
+Comcast, majority owner of Olympic rights holder NBCU, will record select events in 4K. That UHD video will stream to the Xfinity TV 4K appintegrated into new Samsung ultra HD TVs. AT CES, Comcast CTO Tony Werner said: “We like applications that take a lot of bandwidth. We have the capability to do it. We think it's highly manageable all the way through. What's more important is getting the content cycle to start."
+
+Meanwhile, NHK will capture a number of events at Sochi in Super-HiVision, its 8K ultra HD format, for public viewing. Olympics sponsor Panasonic plans to shoot the opening ceremony in 4K for its show reel, presumably on the 4K Varicam unit set to debut at NAB.
+
+Russian broadcaster Channel One is among several rights holders using technology from Elemental to stream coverage of the Games. In a system delivered by Russian IT supplier Open Technologies, Elemental will process nine channels of Channel One Olympics programming over IP to multiple devices.
+
+Broadcasting across Russia and the Commonwealth of Independent States (CIS), Channel One is the primary content distributor for the host country.
+
+During the Games, solutions from Elemental will stream Channel One live and time-shifted TV content in 12 Adobe HDS H.264 profiles to set-top boxes, computers, Android and iOS devices, and smart TVs.
+
+Elemental says it will deliver local, regional, and global coverage of the Games for about a dozen clients, spanning over 30 countries on four continents.
+
+“The main challenge is scale,” says Wymbs. “We're a U.S.-based company dealing with a lot of international clients out of Russia and handling different types of subtitling and language components, for example.
+
+“IP has unified a lot of video requirements in many ways but there are still a lot of tweaks and changes that need to occur. Broadcasters are at different stages in their understanding of online, and they have made different technology choices, so we have to field the technology to deal with that heterogeneous scenario.”
+
+BBC places multi-platform at heart of live
+
+The BBC's new multi live-event web platform will debut at Sochi. The new BBC Winter Games website automatically adapts its layout for computer, tablet, or mobile use.
+
+This site will be the home for all BBC Sochi coverage, including 650 hours of live video in up to 6 simultaneous streams in the U.K.
+
+One key decision was how to develop the Sochi site for the growing number of mobile and tablet devices visiting BBC Sport.
+
+“In a typical weekday we receive more than half of all visits from mobile phones and tablets, rising to two-thirds at the weekend, so designing a service which is optimised for those devices was really important,” explained Lucy McLean, executive product manager for BBC Sport and BBC Future Media, in a blog post.
+
+There are currently two BBC Sport websites, one for mobile and one for desktop. “Rather than making two versions of every event site we're building in 2014, we have adopted a responsive design approach and have built a single website which will adapt its layout for whatever device you are on,” McLean says.
+
+There are red button (interactive TV) streams on BT Vision, Freesat, Freeview, Sky, Virgin Media, and YouView, offering live content and highlights from Sochi. Connected TVs will have access to all six video streams, highlights, and headlines through the BBC Sport app for connected TVs on Virgin Media TiVo and both Sony 2013 and Samsung 2012 Smart TVs.
+
+Wireless uplink: Dejero and LiveU
+
+A number of broadcasters and news agencies will augment their satellite-delivered coverage of the Olympics with bonded wireless uplink solutions fed by camcorders or with video shot from smartphones.
+
+Among these solutions is technology from Dejero whose customers include Sky News. Last February, the British newscaster claimed the world's first intercontinental live video interview using Dejero's LIVE+ mobile app installed on an iPhone from the centre of a censorship protest in Guangzhou, China.
+
+At Sochi, Dejero will provide customers with access to two private, fully licensed Wi-Fi hotspots. One overlooks the Sochi Games park, and the other provides a panoramic view of the central square in the village of Krasnaya Polyana, the base location for alpine events.
+
+Brian Cram, Dejero's CEO, said in a statement: “Major international broadcasters know they can count on Dejero to provide the reliable technology and service they need to cover the world's biggest sports events, and to do it at a fraction of the cost of traditional satellite and microwave transmissions.”
+
+The London Olympics was a tipping point in the adoption of cellular uplink technology, notes Ronen Artman, vice president of marketing for LiveU. Over 2,500 hours were transmitted from more than 100 LiveU units during the 2012 Games.
+
+For Sochi, LiveU is offering a rental package and says demand has exceeded expectations. The package includes an LU70 unit and backpack equipped with multiple SIMs, transmission equipment, accessories, and transmission costs. LiveU’s technology is 4G-capable and 4G LTE capacity is available in Sochi though not necessarily at all locations.
+
+“The challenge of these Games will include not only the testing conditions but also competition for bandwidth,” says Artman. “This requires the most robust cellular bonding algorithms in order to ensure the quality of coverage that viewers expect for such global events. What was interesting to note in London was an increase in the coverage of minority sports alongside an increase in the variety of coverage across all competitions (such as an exclusive interview with Roger Federer as he walked off the practice court ahead of the final). Without the mobility and speed of deployment of cellular transmission technologies, none of this would have been possible.”
+
+Sochi stamp image via Olga Popova / Shutterstock.com.

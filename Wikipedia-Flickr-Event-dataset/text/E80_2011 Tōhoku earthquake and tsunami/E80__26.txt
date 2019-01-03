@@ -1,0 +1,1 @@
+[Earthquake and Seismic Intensity Information]Click on the date and time of the earthquake information issuance to see the following details: a) the observed Seismic Intensity (1 and above) and its location and region, b) the date and time of the earthquake, and c) its epicenter and magnitude.

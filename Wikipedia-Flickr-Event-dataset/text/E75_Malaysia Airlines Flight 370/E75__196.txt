@@ -1,0 +1,129 @@
+On March 8, a Malaysia Airlines Boeing 777-200ER departed from Kuala Lumpur with 227 passengers and 12 crew members. It departed at 12:41am (1441 GMT), and was due in Beijing at 6:30am (2230 GMT) that same day. It hasn’t been seen since. This report attempts to debunk some of the theories about that disappearance and make a new assertion about what might have befallen the passengers and crew of that ill-fated flight. Flight MH 370.
+
+Conspiracy theories don’t hold water because they ignore certain things that have to happen in conjunction with those events in order for them to be correct. What all the theories about the disappearance of this plane leave out are the important aircraft systems that would react (or try to) in any mishap involving the plane. Here are a few.
+
+The Cabin Emergency Depressurization Oxygen System. The “Rubber Mask Jungle” drops if the cabin pressure drops below a certain level – typically at 14,000 feet. The pilots can deploy the system manually or leave it set on automatic. But the pilots cannot turn it off.
+
+Conspiracy theories about shutting this off to kill the passengers fail to take the system design into account. That theory is also based on the claim that the plane climbed from 35k to 45k feet. Two problems with that claim. First, it exceeds the plane’s service ceiling by 3k and occurred in a few seconds on the recorded radar track that Flightradar.com has. An SR-71 can’t climb 10k feet in 5 seconds. This ascent occurred at the edge of the detection range of Kuala Lumpur’s ATC system. It is a radar anomaly. It didn’t happen.
+
+The Emergency Landing Transponders. Depending on the model, the 777 has either 4 or 6 of these transponders located throughout the fuselage. They automatically turn on when they detect rapid deceleration of the aircraft due to a crash landing. The pilots can manually turn this system on to broadcast its signal prior to a crash or ditching at sea or leave it on automatic, but they cannot turn it off.
+
+Conspiracy theories about a bomb going off and obliterating the plane so that all the ELBs are destroyed doesn’t account for the amount of explosives needed and their placement to hit them all at the same time. Musta been the same crew that packed 10,000 tons of explosives and ran a couple of thousand miles of det cord up and down the Twin Towers without anyone noticing anything.
+
+Additionally, we have thermal imaging Sats looking at the South China Sea (Korean and Chinese missile launches?) and they would have detected that explosion. The route was heavily traveled by planes and ships. The explosion and the flaming debris raining down for as much as three minutes would have been visible. A lit cigarette on a ship is visible for 5 miles at night. How far do you think you could see 150 tons of flaming fuel and debris raining down from the sky?
+
+ACARS (Aircraft Communications, Addressing and Reporting System): This functions as a kind of Telex system that allows the airline or airports to send voice or text messages to the plane and vice versa. It relies on Sat, VHF and HF broadcast frequencies to operate.
+
+What’s important is that this system continues to ping a handshake to the plane and the plane responds to it even if the unit is turned off in the cockpit. Because this system sends its signals on VHF and HF frequencies that are located in land based towers, it could be used as a tracking system for the aircraft if people on the ground sent continuous message traffic to the plane.
+
+They could see which VHF and HF towers got an acknowledgement response of those messages back from the plane and the relative signal strength to each and make some educated guesses about the location. They probably turned off the system for this reason.
+
+The plane landed in Pakistan/Afghanistan… somewhere. This theory sounds great, as long as you forget certain facts, one technical, the other political. First, one doesn’t just plop a “Triple-7” onto a dirt runway somewhere and cover it with palm fronds. It’s roughly the size of the Boeing 747 and weighs 330 tons fully loaded. Runways have to be long and specially built to handle the weight of planes in this classification.
+
+Of particular importance is the way the landing gear is configured to distribute this weight upon landing. If the runway is not constructed with these loads in mind, the asphalt will collapse under the weight and the landing gear will plow through the substrate layers and likely throw tires and collapse…. (That means crash). So unless those arguing this theory have an actual runway in mind that they can point to with a Pavement Classification Number (PCN) that can handle the Aircraft Classification Number (ACN) of the 777, it’s not worth much in terms of speculation.
+
+One theory floated in the media was that the plane had an electrical fire that instantly knocked out all the comms and transponders (not likely) and landed at an airfield in Malaysia up the coast with a PCN of 77, while the Triple-7s PCN was 89. Now, they might let you tear up a runway and an airliner in an emergency and land an ACN-79 on a PCN rated for nothing higher than a 77, but they won’t waiver you for a 12-point spread. That makes it for the season finale of “Air Disasters” on Smithsonian.
+
+The political consideration is the more important one. For 30 years Pakistan has been nurturing relations with China to the point that they conduct joint military exercises on their shared border. MH 370 had some 155 Chinese nationals on board. And these were not peasants on vacation. They were business men, likely connected to the Communist Party in China by relations or by direct membership. Would it be in Pakistan’s interests to have any hand in the murder of those people? Would Pakistan benefit by having a belligerent India with 1.2 billion people on their SE border and a newly belligerent China with 1.3 billion on their NE border?
+
+Other information that was skimmed over. Did a US Navy Submarine hear the plane impact the water off the Andaman Islands? On March 13th, Martha Raddatz, Senior Foreign Affairs Correspondent for ABC News filed a story about the comms systems being shut down separately with this statement: “U.S. officials said earlier that they have an “indication” the missing Malaysian Airlines jetliner may have crashed in the Indian Ocean and is moving the USS Kidd to the area to begin searching.” I believe this is one of the most credible pieces of information about the disappearance of this airliner to come from any source.
+
+First, it went to the Senior Foreign Affairs Correspondent from ABC News, not some stringer or foreign journalist. It’s probably a cultivated source of hers. Second, the source is carefully masked as a generic “US Official” which generally means a military source who doesn’t want to be identified for leaking information. Third is the word “indication” without elaboration except to tie it directly to the plane crashing into the sea. I’ve seen information obtained from submarines disclosed in this kind of obscure way before in the media. I think a USN Sub on patrol off Malaysia, perhaps transiting to the Persian Gulf, may have heard the airplane hit the water.
+
+Here is what may have transpired. A sub’s passive sonar station is constantly manned night and day. It consists of a series of arrays of hydrophones that run along the hull on both sides and a computer that can analyze the sounds the sub hears and help classify them for the combat information center on the sub.
+
+This computer can also determine a line of bearing on the contact and estimate the range (and even the depth if submerged) by comparing the sound signatures between hydrophones as they run along the hull. Its accuracy in predicting range decreases depending upon the distance of the sound source and other factors like temperature, depth, salinity and the thermocline layers that these factors combine to create.
+
+A 330 ton airliner hitting the water at 500-600 kts. would sound like a gigantic explosion underwater. And I mean gigantic, roughly 4,500 lbs of TNT going off and exerting a force of 20,000 psi on the water at the impact area. This would result in a giant over-pressure condition in the water that would emanate out as a shock wave (in contrast, the big depth charge explosions in WWII movies were only 300lb charges). It would have a huge sound signature that would travel tens, if not hundreds, of miles, depending upon conditions.
+
+If the sonar operator heard such a sound, they would give it a contact number and log it. At intervals during the day and night, the submarine un-spools an ultra-high frequency antenna buoy and transmits a micro-burst of radio energy to a Sat, which gives the subs position, course, heading, crew emails and various situation reports that would include contacts of interest or unusual occurrences that they think they should phone in. A large underwater explosion would probably qualify as an unusual occurrence.
+
+Raddatz’s report does not say what time that indication was obtained, which further suggests a submarine provided the information. Tell the time and place you heard the noise and you’ve got a good idea of that sub’s position. We can assume from the time the ACARS pings were being logged that this would have been early daylight of March 8th. That “indication” was considered so credible that the Navy diverted the USS Kidd to the area at high speed to investigate an area that was probably more narrowed down for it by the Pentagon.
+
+Unfortunately the connection between that underwater explosion and the missing airliner was not made by the Pentagon until the 11th or 12th, by which time the debris field would have dispersed considerably if any floating debris even existed.
+
+There were also reports from China of a seismic event along the flight path of MH 370, but that occurred at 0255 hrs, when we know the plane was still flying because the ACARS sat was still getting a handshake signal from the plane. The Chinese have since withdrawn this event as being not related to the incident.
+
+Not the debris we are looking for. The floating debris (described as white-ish) sited in the Great Southern Ocean 1,500 miles SW of Perth is probably not related to the crash. A check of the winds and currents in that area show that they are pushing NNW towards Australia rather than away from it. If you tracked that debris back three to four days on that wind and wave course, it would be a lot closer to Antarctica than the Andaman Islands.
+
+One of the pieces was estimated to be some 80 feet long. The wingspan of a 777 is just over 199 feet. That size implies an entire intact wing survived a ditching at sea. A couple of facts are counter intuitive to that possibility. First, the Great Southern Ocean is a very inhospitable place, prone to storms and 40 foot waves. A ditching at sea in those conditions would not leave an entire wing in one piece. Secondly, the slow deceleration of that ditching would have automatically activated the 777’s Emergency Landing Transponders (ELBs), which broadcast on HF many hundreds of miles. And we are informed that none of those ELBs ever activated (this becomes important later). This debris might just a be a big chunk of ice.
+
+The Malaysians are not incompetent, they are withholding information or misleading the public with conflicting reports, changing timelines, etc.
+
+We now know that the Malaysian authorities have revised the time line over and over because new evidence keeps contradicting their claims. Much like the scandals in Benghazi, the IRS, and Fast and Furious here in the US, the Malaysians release small pieces of incorrect data, get everyone arguing over what it means, and then release another piece of data that contradicts it.
+
+As an example: The initial claim was that the ACARS and flight data transponders were turned off after the co-pilot said “Alright goodnight” to air traffic controllers handing them off to Ho Chi Minh City ATC. This supported the supposition that hijackers took over the plane. Now we know these systems were turned off just before that transmission was made.
+
+Malaysian authorities claimed the plane took a hard right turn and climbed steeply, and then took up a new heading to the West. We now know that the Flight Management System altered that course (at the command of the flight crew) within 20 minutes of takeoff. The plane made a slow turn heading to the West that took it up to Southern Thailand in a large arc.
+
+The Malaysian authorities have all the flight data information and probably more coming from other sources. I’m pretty sure that the plane was transmitting Health Management System Information on that plane back to Boeing, even if the Malaysians weren’t subscribing to that service. Rolls Royce also has pretty complete data on what those engines were doing, including power settings, altitude, rpms and fuel state til shutdown.
+
+The Malaysians are withholding that data and misleading the public on purpose. To date, no one has asked Boeing about what information they might have, or whether Rolls Royce will release their data outside of Malaysian government control.
+
+Does the majority Muslim government fear reigniting sectarian violence if it is disclosed that the Muslim pilots were responsible for the crash?
+
+Malaysia has a long history of sectarian violence. Malaysia’s ethnic makeup is 60% Malay Muslim, with the rest consisting of ethnic Chinese, Indians and members of indigenous tribes. Faiths include Buddhism, Christianity, Hinduism and animism. The majority Christian faith is Catholic, numbering about 650,000, about 3% of the population.
+
+In spite of this ethnic mix, a political form of Islam is the growing force in the country, and there are two sets of laws – one for Muslims, the other for everyone else. The results are predictable.
+
+In 1950, a court decided that a child raised as a Muslim ought to be returned to her Catholic parents. The riots that ensued left 18 de ad, nearly 200 injured and extensive property damage.
+
+ad, nearly 200 injured and extensive property damage. In July 1964, a Muslim demonstration celebrating Muhammad’s birthday turned into several days of bloody riots – 23 dead and nearly 500 injured, cars and shops burned and troops restored order.
+
+A few months later a dead Muslim turned up in a pull taxi. Believing Chinese Malays were to blame another riot broke out. 13 killed and over 100 injured.
+
+More recently, in December 2009 the Malaysian high court handed down a decision that allowed non-Muslims to use the word “Allah” in their written publications (I know). Since that time, 10 Christian churches, two mosques and a Sikh temple have been vandalized or firebombed.
+
+Within this Muslim majority, led by the Islamist Party UMNO, is a more moderate, free market democratic faction of Muslims called the PKR, or People’s Justice Party, which forms an opposition coalition including Malaysian, other ethnic and religious minorities. Its leading politician is Anwar Ibrahim. Ibrahim was recently convicted of homosexual sodomy and sentenced to 5 years in what his supporters are calling a politically motivated prosecution.
+
+At first, Ibrahim denied he knew or recognized the name of MH 370 Captain Zaharie Ahmad Shah, but on March 18, he admitted that he not only knew his name, but that Capt. Shah was a relative of his son in-law and had met him several times. Cpt. Shah was also politically active and a close friend of PKR Supreme Council Member and Subang MP, R. Sivarasa.
+
+Shah’s YouTube channel was set up in April 2010 and features videos related to atheism and rationalism. He also linked The God Delusion documentary with atheist Richard Dawkins. Shah subscribed to the Dawkins Foundation for Science and Reason channel, as well. Shah may not have been a Muslim at all, but an atheist.
+
+Shah’s wife and three children moved out of the home the day before the flight disappeared. On the day of his final flight, Shah attended the sentencing hearing of Ibrahim and was said to be deeply upset about the verdict. Moments before takeoff, Shah made a phone call on his cell phone that authorities are trying to track back to the person he called.
+
+So, What Do I Think Happened?
+
+I think that Captain Shah and his co-pilot, First Officer Fariq Ab Hamid, conspired together to take the plane and passengers hostage in order to force the Malaysian Government to set aside the conviction of PKR opposition leader Anwar Ibrahim. It is fair to say that they worked together based on the following facts.
+
+First, air traffic controllers described the interactions with the flight crew as routine and normal. We know that this routine interaction was occurring even as the flight began to deviate from its approved flight plan about 20 minutes after takeoff. This deviation was the result of an alternate flight plan being executed by the Flight Management System computer.
+
+The air traffic controllers say they are certain that the voice saying “Alright, good night” was the voice of First Officer Hamid, and not Captain Shah. This is significant because normal procedure would have the non-flying pilot communicating with the tower and operating the Flight Management System – that would be the First Officer.
+
+Also significant is that any deviation from the filed flight plan would include an immediate notification by the flight crew to ATC of that change and the reason for it. The plane began to deviate from that flight plan after 20 minutes in flight without such notice to Kuala Lumpur ATC. And we have no report that this deviation was reported by the flight crew, or even noticed by KL ATC.
+
+Next, when the plane reached the limits of Kuala Lumpur’s ATC radar coverage, its Flight Data Transponder was turned off. This occurred two minutes after KL ATC handed the flight off to Ho Chi Minh ATC. There is a report that HCM ATC noticed after 3 minutes or so that the plane did not make contact with them, and would have reported that to KL ATC.
+
+What should have happened next is that KL ATC should have noticed that the Flight Data Transponder had been turned off. They would have tried to raise MH 370 by radio, tell them that their transponder was off, to switch to their alternate and ask why they did not contact HCM ATC. If they received no answer, they would have contacted another plane in the area and asked them to try to reach the MH 370 on their own radio. This is standard operating procedure, and yet there is no report of this happening.
+
+There is a report that another plane heard what they believed was mumbling on an open mike that is being attributed to MH 370, but there is no way to confirm this. Until the Malaysian authorities release the transcripts of the full and complete conversation between MH 370 and KL ATC, and disclose their actions upon learning the plane never made contact with HCM ATC, we aren’t going to know.
+
+I think the gentle turn to the NNW up to Thailand was done to not disturb the passengers, who would not have noticed the slow turn and were probably asleep for the most part on this red-eye to Beijing. In the dark, and over water, anyone still awake would have been looking out into inky blackness. If the plane had an inflight entertainment system which included a video map of the plane’s flight progress, this would have been shut off by the pilots, perhaps reporting to the passengers that it was broken.
+
+I think this may explain why no one made a call, text or tweet saying they had been hijacked. They didn’t know anything was wrong.
+
+As the plane flew into the Gulf of Thailand, I think it made a programmed gradual descent down below 5,000 feet and the pilot throttled it back to about 250 kts. On radar it would have looked like a small private plan or inter island cargo plane and would not have attracted much notice from Thailand, which paid it no notice apparently, or the Malaysian military, which also didn’t notice it until it was told to look for it days later.
+
+Again, at night and over water, the passengers would not have noticed a gradual descent and slowing of the plane. Shah was an experienced pilot. He probably knew how to exploit the gaps in radar coverage to avoid being noticed. The plane then crossed the Isthmus of Thailand at its narrowest and crossed a sparsely populated Myanmar on its way West and proceeded out over the Andaman Sea.
+
+I think Shah then placed the plane in a circling turn out over the water 200-300 miles out and made his demands known to the Malaysian authorities: Vacate the verdict against Ibrahim or I will dive this plane into the water. If successful, Shah might have planned to return to Kuala Lumpur, or to land in Australia and ask for political asylum, hoping the circumstance mitigated him being charged with air piracy and hijacking. Shah would have left himself enough time and fuel to get back to one of these destinations safely.
+
+Let us assume the Malaysian authorities, relieved that they were not dealing with a real terrorist, called Shah’s bluff or made promises Shah did not believe would be carried out. The deadline would have been before sunrise so the passengers would not realize they were still over water and not China. Shah and his co-pilot probably discussed this possibility.
+
+They may have flown about for another hour or two in dawn hours before finally deciding to open the throttles, point the plane at the deck at a steep dive angle and crash it into the ocean. The plane would have accelerated quickly in the few seconds it took to reach the water. The impact, as stated above, would exert about 20,000 pounds per square inch on the airliner as it struck the water.
+
+MH 370 was made of light but strong materials – aluminium and carbon fiber. They aren’t built to withstand such pressures. Any materials strong enough not to be obliterated in the impact would sink. The debris that remained would be very small. Water is incompressible. At 500-600 kts and 330 tons, the plane packed enormous inertia. It would be like hitting concrete. Here is what happened to an F4 Phantom (which has much less inertia behind it) when it was sledded into a concrete wall at 500 mph:
+
+The wingtips survived because they were past the edge of the wall.
+
+Because of the speed of the impact (about 700 feet per second) when it hit the water, the nose of the 200 foot airliner would have met the tail in just under 1/3 of a second. That would not be enough time for the deceleration sensors in the Emergency Landing Beacons to transmit an automatic distress signal. For the passengers, there would have been no pain, not even time to feel the crash. A merciful death.
+
+For the Malaysian authorities this would be a political disaster. Malaysian Airlines is state-owned. If they botched the negotiations with Shah, they would own a big part of the blame for that. If it’s true that the charges against PKR leader Ibrahim are trumped up, it’s even worse for the UMNO-led government, which is struggling to maintain power. The dead Chinese citizens on board are also a big problem for the government. Again, they were business men, not peasants on vacation.
+
+China is not going to be happy with an Islamist government’s railroading an opposition leader and getting Chinese nationals killed in the aftermath. A full disclosure from the government that this hijacking was a political act intended to secure the release of a wrongly convicted opposition leader could reignite sectarian violence in the country and topple the majority government. When you look at the Malaysian government’s parsing of information, or the outright falseness of it at times, I can’t help but conclude that their government may not want to ever disclose what really happened.
+
+Disclaimer – I don’t pretend to be an airline pilot, crash investigator or anything else. What I did do is read every story on the subject I could find critically, noticed inconsistencies between the various sources reporting, and start asking questions about those things to people I know who are smarter than me – an engineer, a rocket scientist, an active flight engineer and an airline pilot.
+
+I’ve linked to the sources I used in this piece. Other sources are more nerdy, like reading about the systems on the aircraft and how they should have reacted to a crash in conversations with live sources. More information may come to light that contradicts my theory. If so, I shall be happy to abandon it to the facts as they become known.
+
+(Featured Image Courtesy: ExtremeTech.com)

@@ -1,0 +1,5 @@
+Global IR Satellite provides worldwide cloud cover displayed on the map, refreshed every 60 minutes.
+Global Radar provides worldwide areas of intense precipitation on the map, refreshed every 30 minutes.
+Total precipitation shows areas of active precipitation on the map, refreshed 12 times a day.
+AIRMETS/SIGMETS issued by authorities forecasting significant weather events that are potentially hazardous to flights, refreshed every 30 min.
+Worldwide Flight Information Region and Upper Information Region boundaries overlayed on map.

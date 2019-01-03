@@ -1,0 +1,49 @@
+Boundaries of volcanic eruptions and ash clouds impacting aviation.
+
+Current weather for 3,000 airports in the world overlayed on map.
+
+Global IR Satellite provides worldwide cloud cover displayed on the map, refreshed every 60 minutes.
+
+Global Radar provides worldwide areas of intense precipitation on the map, refreshed every 30 minutes.
+
+Total precipitation shows areas of active precipitation on the map, refreshed 12 times a day.
+
+AIRMETS/SIGMETS issued by authorities forecasting significant weather events that are potentially hazardous to flights, refreshed every 30 min. Click on an AIRMET/SIGMET to see the full text.
+
+Forecasted areas of high level significant weather, available for up to a 24-hour period in six hour increments
+
+Recorded lightning strikes shown on the map, updated every 15 minutes.
+
+Wind speed and direction on the map, in 1,000 ft increments, refreshed 12 times a day.
+
+See where it is day and night on the map at a glance.
+
+Worldwide Flight Information Region and Upper Information Region boundaries overlayed on map.
+
+Various oceanic tracks, including North Atlantic Tracks overlayed on map.
+
+At-a-glance altitude and speed information when you hover over any portion of a selected flight's track.
+
+Navigational waypoints and airways for high and low altitude flight overlayed on map.
+
+Get an instant overview of the airport delay situation around the world or in a local region.
+
+Volcanic eruption (when applicable)
+
+Basic weather
+
+Cloud
+
+Total precipitation
+
+Intense precipitation
+
+Winds
+
+Lightning
+
+Airmets/Sigmets
+
+High level significant weather
+
+Please note that multiple active weather layers may increase page load time and decrease page performance.

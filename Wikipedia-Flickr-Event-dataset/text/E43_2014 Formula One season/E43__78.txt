@@ -1,0 +1,19 @@
+Following meetings in Sochi resulting from Jules Bianchi’s horrific accident in Suzuka, the FIA and the F1 teams are to trial a new system for controlling the speed of the cars in yellow flag caution zones during practice at the next race in Austin, Texas.
+
+The test is likely to happen at the end of the Free Practice 1 or Free Practice 2 session and is likely that it will be based on the idea of a set “delta time” for a given track sector, between marshals posts, for incidents requiring the double waved yellow flags, as the recovery of Adrian Sutil’s car was in Suzuka.
+
+The suggestion is that the reduced speed to achieve this will be in the region of 100km/h. Bianchi was believed to have been travelling at 212km/h through Turn 7 when he left the track in Suzuka, in spite of lifting off the throttle, as was acknowledged by FIA Race Director Charlie Whiting.
+
+It is important to stress that what will take place at Austin is just a test, it is not implementable this year as too much would need to be changed in the Electronic Control Units on the cars. This is work being done to engineer the best solution for the 2015 season.
+
+The approach agreed for this test is the same way that the FIA together with the F1 teams developed the Safety Car delta speed system. In that case, there was a test on the in-lap at the end of practice. This test will be similar and there will be a delta time to establish through the Yellow Flag sector. The coding change required for the test should not present too much of a problem, however there will be some work to do to get set up to monitor all the cars properly.
+
+This is another area, as with the changes on team radio messages, where next year all cars using a proper large dash display would make this easier to do too.
+
+It is likely that when developed and implemented the delta time for drivers passing through the yellow flag zone will be very effective as it takes away the decision as to whether to lift off and by how much away from the drivers, as now happens with the Safety Car delta lap time, which comes in automatically when the Safety Car is deployed.
+
+Drivers have been in the habit of lifting as little as possible in yellow flag zones in the past, barely a second of throttle lift. In wet conditions such as Suzuka, where the lap times are falling anyway as the conditions worsen, it is even less noticeable.
+
+In Suzuka Bianchi was racing against Marcus Ericsson behind, who had taken on a set of new wet tyres four laps earlier and was lapping 1.2 seconds per lap faster than Bianchi. Bianchi’s intermediate tyres were over 20 laps old, so he was in a scrap, but his sector times for the three laps before the accident were fairly consistent, rather than rising, showing that the worn intermediates were not struggling to cope with the conditions at the point when he crashed.
+
+Lewis Hamilton dedicated his Sochi win to Bianchi, who is still in a critical condition in a hospital in Japan. “It would be great to dedicate it to him and his family,” Hamilton said. “It would make a very small difference to them, but every bit of positive energy hopefully will help. We all need to be sending positive vibes that way.”

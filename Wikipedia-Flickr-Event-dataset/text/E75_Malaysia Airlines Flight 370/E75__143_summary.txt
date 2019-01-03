@@ -1,0 +1,5 @@
+As with all analogies, this is perhaps oversimplified, but may help those without a detailed knowledge of satellite communications.
+Key point 1: The transponders are nothing to do with the satellite communications system.
+So let’s turn to the satellite communications system.
+So now the question is how accurately does the Inmarsat network know where the plane is located?
+First of all, we need to recognize that there are different Inmarsat network architectures for different generations of aeronautical terminals.

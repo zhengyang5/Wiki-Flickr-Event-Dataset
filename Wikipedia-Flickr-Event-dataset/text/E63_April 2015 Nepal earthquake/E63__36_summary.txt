@@ -1,0 +1,5 @@
+(Seism Res Lett 87:957–962, 2015) to analyse the distribution of ground motions at near-field and regional distances.
+We show that the data are consistent with the instrumental peak ground acceleration (PGA) versus macroseismic intensity relationship developed by Worden et al.
+(Bull Seism Soc Am 102:204–221, 2012), and use this relationship to estimate peak ground acceleration from intensities (PGA EMS ).
+Ground motions were significantly amplified in the southern Gangetic basin, but were relatively low in the northern basin.
+The overall distribution of ground motions and damage during the Gorkha earthquake thus reflects a combination of complex source, path, and site effects.

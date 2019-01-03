@@ -1,0 +1,69 @@
+The fate of Flight MH370 has been shrouded in mystery ever since the Boeing 777 left Kuala Lumpur for Beijing in the early morning hours of March 8 with 239 people on board. While satellite data suggest the aircraft crashed in the southern Indian Ocean, international search efforts have so far failed to provide any concrete evidence as to the fate of the plane.
+
+This is why investigators decided to readjust the search south along a narrow arc identified as the most likely resting place of the jet. Australia's Prime Minister Tony Abbott - whose government is contributing to the international search - said the hunt for the plane would resume off the Western Australian coast in September.
+
+Without any identified wreckage, it has been hard to establish facts, thus prolonging the painful wait for the relatives and friends of those gone missing. But the plane's disappearance has also raised questions as to what the aviation industry is prepared to do to prevent such an incident from happening again, especially given that this is not the first time an airplane has disappeared without a trace for months or even years.
+
+It has been well established that Flight MH370 left Kuala Lumpur with no signs of distress and that 26 minutes after departure - while flying somewhere over the South China Sea - the Aircraft Communications Addressing and Reporting System (ACARS), which transmits key information on the plane's mechanical condition, was switched off for reasons still unknown.
+
+How can a plane simply vanish?
+
+The plane then dropped off civilian air traffic control screens after its transponder, which relays information on the plane's location and altitude, was shut down less than an hour into the flight. After the plane was plotted by military radar 45 minutes later, the only other indication as to where the jet was headed came from the analysis of a series of electronic signals known as "handshakes" between the plane and a satellite. But how is it possible that a passenger jet can simply disappear in mid-air in an age when information is just a few clicks away?
+
+International search efforts have so far failed to provide any concrete evidence as to the fate of the plane
+
+According to aviation expert Chris Yates, one explanation is that the aviation industry is simply not well-equipped in terms of its aircraft tracking capabilities. "The fact of the matter is that the industry has long been behind the times," the UK-based analyst told DW, adding that while there is constantly new technology applicable to the industry, the time it takes to transfer such innovation into the cockpit or airframe can be measured in years if not decades.
+
+"The regulatory framework for airplanes is extremely rigorous because one flawed decision can lead to the loss of aircraft in flight and, as a result, the loss of many lives." Another reason for this is the issue of cost. As Yates explains, airlines universally dislike safety recommendations or requirements that could result in them having to replace systems or parts of an aircraft at potentially huge cost and often fight "tooth and nail" to avoid having to do so.
+
+A 'tracking task force'
+
+Nonetheless, the industry says it is determined to tackle the issue. The International Air Transport Association (IATA) - which represents around 240 airlines - told DW that the aviation sector was committed to making sure that there are no other events where aircraft simply disappear or cannot be located. To this end, IATA's Director General and CEO, Tony Tyler, announced in April that a special task force - the Aircraft Tracking Task Force (ATTF) - would be formed to identify and recommend near-term options for aircraft tracking.
+
+The team's aim is to define a minimum set of performance requirements that any system should meet, thus allowing airlines to make their own decisions about how to best track their aircraft, based on their operations. According to Yates, the ATTF's draft options - set to be presented to the UN's International Civil Aviation Organisation (ICAO) in September - include a host of short, medium and long term goals aimed at better ensuring that information is provided in a timely fashion to the right people in order to support search and rescue, recovery and accident investigation activities.
+
+Enhancing the equipment
+
+Independent aviation expert Heinrich Grossbongardt also points out that aviation authorities in Europe and the US are working on new regulations for the locator beacons of the Flight Data Recorder and the Cockpit Voice Recorder, commonly known as black box. "This will comprise of significant longer battery life and an improved acoustic signal to make it easier to locate the boxes underwater," he says.
+
+The European Aviation Safety Agency (EASA) told DW that the new requirements include the extension of the transmission time of underwater locating devices (ULD), which will be fitted directly to the central part of the aircraft from 30 to 90 days.
+
+The agency also said it proposes to equip large airplanes flying over oceans with a new type of ULD that have a longer locating range than the ULDS installed in currently used flight recorders. Alternatively, aircraft may be equipped with a means to determine the location of an accident within six nautical miles accuracy. In addition, the minimum recording duration of Cockpit Voice Recorders installed on new large aeroplanes should be increased to 20 hours from two hours today, the Cologne-based agency told DW.
+
+There are also ongoing discussions about improving the Emergency Locator Transmitter, a device that automatically sends a signal of distress in case of a crash, which is received through a network of satellites. According to Grossbongardt, improved black boxes with longer battery life and a stronger vibration might take four or five years to be rolled out across the global fleet of long-haul jets.
+
+Oceans and remote areas
+
+Inmarsat, the UK-based satellite company which was able to determine Flight MH370's approximate path after the airliner vanished from radar screens, said that the loss of the plane reinforces the need for all aircraft to be tracked, especially when flying over ocean and other remote airspace, when out of range of ground-based radar systems. "Today, continual tracking of aircraft via satellite communication systems is only mandatory in certain regions of the world and we believe this should immediately be extended to all remote and oceanic routes," Jonathan Sinnatt, Director of Corporate Communications told DW.
+
+The loss of MH370 reinforces the need for all aircraft to be tracked, especially when out of range of ground-based radar systems, says Inmarsat
+
+The technology for real-time aircraft tracking is already available onboard most modern passenger jets. ADS-C allows for two way communication and is available via satellite, providing connectivity over land and the oceans. ADS-B broadcasts an aircraft’s position but is currently only available when in range of a ground station. But as Grossbongardt points out, the technology had until recently been seen mainly as a way of improving the efficiency of flight operations, but not as an important means of safety.
+
+"Some airlines used it, some did not. This view has changed since MH370", said Grossbongardt, who is also the managing director of Expairtise, a communications agency specializing in aviation and aerospace.
+
+Inmarsat has also pointed to other options such as a "black box in the cloud" service, which would stream black box data from an aircraft to the ground only in the event of a critical event, such as an aircraft performance anomaly. "In the event of a catastrophe while searching for the black box will remain vital to the investigation, having key data immediately available would certainly help in both understanding what has happened and also providing answers for families who may have lost loved ones," Sinnat said.
+
+Live streaming full flight data?
+
+But will this be enough to keep communication lines open with the aircraft? Jörg Handwerg, spokesperson of the German Air Line Pilots' Association 'Vereinigung Cockpit,' is of the view that despite such potential improvements, it will be virtually impossible to prevent airplanes from losing communications under any circumstances, especially if problems with the electrical systems on board emerge.
+
+Handwerg and his association also reject the idea of setting up a system designed to live stream full flight data, given that "too many questions regarding the issue remain unanswered". Some of these questions involve the purpose of the data and where it would be stored, the people allowed to access it, and the measures in place to protect employees from any potential manipulation and misuse of the data.
+
+A full flight data live stream to the ground would swamp the currently available broadband bandwidth, say experts
+
+"It would be a complete control of what the pilots do on board, which would not be in accordance with basic principles of labor law in many countries," says Handwerg, who also stresses that setting up such a system would not prevent accidents from happening, but rather lead to increased ticket prices.
+
+Yates points out that there is also a capacity issue that would need to be tackled before a full flight data live stream is even possible: "A significant amount of data is captured and stored on aircraft black boxes and it's widely accepted that a constant live stream to the ground would swamp the available broadband bandwidth."
+
+Tackling the 'blind spot'
+
+The unprecedented tragedy of Flight MH370 has shown that the aviation industry's capabilities of tracking aircraft are limited and should be substantially improved. The sector is only now beginning to address the issue, but as Yates emphasizes, the benefits of implementing effective measures to improve tracking are clear: "This will enhance the ability to fix the location of a downed airliner with a much greater degree of accuracy and thereby significantly enhance the timely search for possible survivors."
+
+According to Grossbongardt, such a move would also help strengthen passengers' trust in the industry: "Everybody is aware that the trust of the flying public in the safety and security of the global air transport system is the basis of the airline industry."
+
+"Improved tracking will enhance the ability to fix the location of a downed airliner with a much greater degree of accuracy," says Yates
+
+Air traffic has reached today's high level of safety because it learns from every accident and uses the information gained to improve technology, flight operations and regulations. Indeed, every day approximately 100,000 flights take to the sky and land without incident. In 2013, more than three billion people flew and there were 210 fatalities, according to IATA.
+
+However, there will always be a certain degree of uncertainty: "Our system today is a very solid system which is already very good, but as in all other areas of life it is not perfect and it will never be, no matter what technology we use," said Handwerg.

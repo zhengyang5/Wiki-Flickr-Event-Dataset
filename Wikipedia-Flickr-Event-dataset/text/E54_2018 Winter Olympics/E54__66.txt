@@ -1,0 +1,51 @@
+For those who travel to Pyeongchang at 300 kilometres per hour on the newly opened KTX bullet train from Seoul this week for the Winter Games, it will seem that the Olympic technology demonstration has already begun.
+
+An estimated 90 nations will take part in 102 events in 15 sports at South Korea’s Pyeongchang ski resort, but the event could very well go down in history for the technology it introduces to the world. From sensor-packed ski suits and virtual reality (VR) to “bullet time” and live 4K broadcasts, the 23rd Winter Olympics from February 9 to 25 looks set to be a showcase for the very latest hyped-up tech.
+
+Breaking the ice will be speed skating. Although it looks to be all about strength and explosive speed, the sport is as much about how low athletes can squat. Two Dutch athletes will be receiving feedback on their technique thanks to a fleet of sensors all over their bodies.
+
+Short-track speed skaters Suzanne Schulting and Sjinkie Knegt will both wear a Samsung SmartSuit, which will send real-time data on their exact body position to their coaches’ smartphones. An app will then analyse their racing posture and suggest how tiny changes in technique could improve their performance around the oval ice track.
+
+The coach can then send haptic vibrations to a wristband to communicate instructions. So what devices will the coaches use? Samsung Galaxy S8 phones, naturally. For now, the technology can’t be used by athletes in competition, only in training runs, but for a sport that relies so much on technique it could give the Dutch athletes the edge.
+
+Another use of mobile phone tech in Pyeongchang is less about speed and more about accuracy. Designed to take spectators between venues, automated buses developed by Korea Telecom (KT) will showcase way more than just driverless vehicles. Inside the buses will be transparent screens instead of windows showing live video from around the venue’s sporting arenas.
+
+However, most of the attention is being paid to giving every spectator a fully customised experience via their smartphones and tablets.
+
+In the Gangneung Ice Arena it’s going to be like something out of The Matrix. KT is promising to put hundreds of high definition cameras around the ice rink that will, thanks to some super-fast processing, allow spectators to watch and replay videos in 360-degree bullet time/time slice effect. Like that last twirl? So rewind, zoom in and watch a slow-motion video of any ice skater, from any angle.
+
+To deliver a 360-degree experience to thousands of spectators takes serious bandwidth, and while South Korea already has the fastest broadband in the world, it wants to move on to the next mobile broadband technology, called 5G.
+
+As a concept, 5G promises mobile broadband speeds up to 100 times as fast as 4G, with phones able to load a webpage in a millisecond (it now takes 80 milliseconds). By the time Tokyo 2020 comes around, new 5G mobile networks are expected to be greenlit around the world.
+
+However, KT and Intel have built a proof-of-concept 5G mobile network at the Gangneung Olympic Park, in Gwanghwamoon in Seoul, and at other Olympic venues across South Korea. Not only will it enable the superfast communications needed to keep that self-driving bus on the road and send those bullet-time video to tablets, but it will also help create live VR experiences.
+
+So if during the TV coverage you see skiers and snowboarders zoom past large camera rigs positioned in the middle of ski runs and beside jumps, don’t be alarmed – it’s just a VR machine. Intel’s True View multiview cameras will capture 50 hours of real-time 360-degree VR footage of 30 sports in Pyeongchang, including the opening and closing ceremonies, Alpine skiing, snowboarding and figure skating.
+
+Although it will be available for broadcasters worldwide, this is a technology showcase more than anything else. Besides, only viewers with Windows Mixed Reality, Samsung Gear VR, Google Cardboard or Google Daydream headsets can watch in VR.
+
+Provided largely as a package of next-day delay highlights, this experiment may only have a tiny audience, but it nevertheless marks VR’s first appearance at the Winter Olympics.
+
+KT and Intel will also be demonstrating a real-time 5G video system on the Alpensia ski slope. Skiers will wear GPS receivers to plot their exact position, and wireless transceivers will send back real-time video of their point of view. All that video will all be transmitted at gigabit speeds to VIP zones along the course so spectators can view the action from multiple angles using a multiscreen app on their phones.
+
+For a sport where the athletes whizz past spectators at 90mph, that makes a lot of sense. Ditto the bobsleigh, skeleton and luge events, which will also use positional sensors and miniaturised cameras to provide first-person video.
+
+Just in case all that tech wasn’t enough, Intel will also have 100 drones in the skies above Pyeongchang, all controlled by one pilot, though they’re only going to be used to perform a light show.
+
+Can the humble flat-screen TV compete? Perhaps not, but it’s only logical that TV tech gets a test run in Pyeongchang. After all, TV debuted at the Olympics in Berlin 1936 and satellite TV at Tokyo 1964, while South Korea is home to two of the world’s giant TV manufacturers, LG and Samsung. So it’s perhaps not surprising that this Olympic Games will be the first to be broadcast in 4K Ultra HD resolution.
+
+TV images will be captured in 3,840 x 2,160 pixels to fit the specifications of the latest 4K TVs. They will also be in HDR (short for high dynamic range), which shows a much bigger range of colours than was previously possible.
+
+The 4K HDR broadcasts, which also come with Dolby Atmos three-dimensional sound, are the result of work by the Olympic Broadcasting Services (OBS) and Japan’s state broadcaster NHK.
+
+“The performances of the best athletes in the world deserve to be captured with the best broadcast technology available,” says Yiannis Exarchos, chief executive of the OBS.
+
+However, this is also just an experiment; only the opening ceremony, ski jumping, figure skating, and snowboard big air will get the full 4K HDR treatment.
+
+That’s partly because 4K and other kinds of advanced broadcasting are still in their infancy; at the time of writing only NBC in the US had confirmed that it will broadcast the 4K HDR images into homes, and make the VR footage available via an app.
+
+In Hong Kong, TVB will broadcast 1,000 hours of Winter Olympics coverage.
+
+For spectators in the US, NBC will be adding a suite of 1,500 voice commands to their streaming app and web portal for spectators at home to shout, from “What Olympics events are on today?” to “What is the medal count?”.
+
+Even if we don’t all get to join in with everything, there’s going to be a lot of technology to talk about in South Korea this month.

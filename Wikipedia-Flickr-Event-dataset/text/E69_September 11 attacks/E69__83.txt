@@ -1,0 +1,57 @@
+Resilience may best describe how America treats adversity. It may also represent well how the broadcasters in New York City met this nation's most recent tragedy. There have been perhaps thousands of stories written about the events of Sept. 11, but there is one story that seems to have eluded the mass media — the one about the resilience of New York broadcasters in returning service to New York viewers.
+
+It was in the upper floors of the North Tower of the World Trade Center (WTC) in New York that the transmitters for most of New York's television stations and several FM radio stations resided. Of the twin 110-story towers, the North Tower was the most distinctive, crowned with its Dielectric broadcast antenna, which added 360 feet to the structure.
+
+The list of tenants in the World Trade Center's North Tower reads like a page out of New York City's TV Guide: WCBS-TV, Channel 2 (CBS - O&O); WNBC-TV/DT, Channels 4 and 28 (NBC - O&O); WNYW, Channel 5 (FOX - O&O); WABC-TV/DT, Channels 7 and 45 (ABC - O&O); WWOR-TV/DT, Channels 9 and 38 (UPN - FOX O&O); WPIX-TV/DT, Channels 11 and 33 (WB - Tribune O&O); WNET-TV/DT, Channels 13 and 61 (PBS - Educational Broadcast Corp.); WPXN, Channel 31 (PAX Net - Paxson O&O); and WNJU, Channel 47 (Telemundo O&O).
+
+In addition to these television stations, four radio stations were located there: WKCR-FM, 89.9MHz; WPAT-FM, 93.1MHz; WNYC-FM, 93.9MHz; and WKTU-FM, 103.5MHz.
+
+Up until the early 70s, nearly all New York OTA television was broadcast from the Empire State Building. At a height of 1250 feet, the Empire State Building was the tallest building at the time, which made it the logical choice for TV antennas. The addition of the broadcast antenna structure raised the height to 1472 feet.
+
+With the construction of the World Trade Center complex in lower Manhattan, local broadcasters found a new, higher structure for their antennas. Tower 1 was completed in 1972 at a height of 1368 feet and Tower 2 in 1973 at a height of 1362 feet; both 110 stories high. The foundation for each tower had to be extended more than 70 feet below ground level to rest on solid bedrock. From the observation deck of the World Trade Center, it was possible to see 45 miles in every direction.
+
+Few New York viewers realized the catastrophic effect that the loss of WTC-1 would have on the broadcast community — and their own viewing habits. Although off the air for a while, WCBS-TV (Channel 2) was able to switch to its auxiliary transmitter located on the Empire State Building. However, the remaining stations initially fell dark. About 30 percent of the New York viewing audience depends on over the air (OTA) broadcasting for television reception, so initially many thousands of viewers had little choice in what channels they could watch. Because cable systems in the New York area get their programming via fiber or satellite feeds, those systems continued.
+
+Major Edwin H. Armstrong's laboratory and first transmission site was thought by most to have been relegated to history. With the WTC tragedy, however, it has become perhaps the most important tower site on the East Coast. Shown here is the original laboratory building, which still houses some broadcast equipment.
+
+Within hours of the attack, broadcasters and potential vendors were discussing recovery. With support from a variety of manufacturers, available transmitters were soon identified by Harris, LARCAN, EMCEE and Thales Broadcast & Multimedia (formerly Thomcast). Dielectric, Andrew and RFS began working on transmission line and antennas.
+
+The plans were fairly straightforward — get back on the air as soon as possible, with whatever power was available, from any location. The final location selected by several stations as their new site turned out to be one quite significant in broadcast history. The selected location, just west of New York City in New Jersey, was the original site of Major Edwin H. Armstrong's laboratory and first transmission site. His laboratories and a tower remain there today. (See photos.)
+
+CBS fared best among the New York broadcasters. With a working backup on the Empire State Building, WCBS is now back at full power in NTSC, as well as DTV.
+
+LARCAN shipped a 6kW transmitter to WNBC-TV. Initially, there were some issues with the shipment of the LARCAN transmitters across the Canadian/U.S. border, but after a thorough inspection by customs and the FBI, the equipment was allowed to enter the U.S. and headed for New York. WNBC-TV also took delivery of a 20kW Harris transmitter in Alpine, NJ.
+
+Dielectric shipped antennas, feeders and accessories to WCBS-TV2, WNYW-TV5, WABC-TV7, WWOR-TV9, WPIX-TV11, WNET-TV13, WPXN-TV31 and WNJU-TV47.
+
+Andrew Corp. supplied Heliax cable to broadcasters at the emergency New Jersey broadcast site. They also supplied a standby broadcast antenna and transmission line to the Telemundo station in New York. According to Andrew representative Greta Brown, Andrew also supplied two diplexers and low pass filters to Harris for use on channels 4 and 11.
+
+Harris shipped new transmitters for WABC-TV, WNBC-TV, WNYW-TV and WWOR-TV on Sept. 11. WNYW-TV (FOX) is now back on the air from the Empire State Building with a 20kW Harris transmitter. A transmitter for WPIX was shipped on Sept. 12, and a new transmitter for WCBS is currently being built.
+
+Thales also delivered a 100kW transmitter to Pax's WPXN-TV (Channel 31) in West Orange, NJ. In the interim, several LPTV stations in East Orange, NJ, and Amityville, Long Island, NY, are carrying the station's signal. Thales delivered another 100kW transmitter to WNJU-TV, who will be joining the others at the Alpine, NJ, site. WNJU-TV (Telemundo) called EMCEE looking for a UHF transmitter. The manufacturer had a portable 1kW broadband unit in nearby Harrisburg, PA, and it was quickly sent to the station for temporary use.
+
+Harris Broadcast, LARCAN and Thales Broadcast & Multimedia also redirected transmitters destined for other customers.
+
+WABC-TV will install a 2kW transmitter in Alpine, NJ. The station returned to the air on Sept. 15 using a temporary panel antenna.
+
+WWOR-TV plans to resume operations from the Empire State Building soon. They took delivery of a LARCAN 3kW transmitter and a 2kW Harris, while Tribune's WPIX-TV has opted to use a 10kW Harris in Alpine, NJ.
+
+Everett Helm, director of RF engineering for Oregon Public Broadcasting (Portland, OR) said he'd been asked to ship a 10kW Thomcast loaner transmitter directly to WNET at the Alpine site. WNET was back with a temporary system using a 1kW LARCAN by Sept. 13.
+
+“The cooperation from broadcasters across the country, manufacturers and vendors has been outstanding,” said Frank Graybill of WNET-TV.
+
+He said that an engineer in a pickup truck drove up with a load of Heliax transmission line on Sept. 12, and told him to “use what you need.” If that wasn't enough, Graybill said he was surprised and pleased when he was able to get an antenna the same day from MYAT in Norwood, NJ.
+
+Initially, there were problems obtaining local property variances for the Alpine, NJ, site. Also, because the Alpine site is some 500 feet lower than WTC-1, few stations were prepared for the drastic changes in their coverage areas. Some stations have since decided to install translators that will help fill coverage gaps in key areas.
+
+New STLs and, in some cases, TSLs, had to be established for the stations at their new sites. Nucomm is located less than an hour away from New York and was able to provide emergency equipment quickly. Nucomm's president, Dr. John Payne said they received a call on Sept. 11 from WABC-TV to provide an STL from their studio facilities at Lincoln Square to the new transmitter site in Alpine, NJ. “We sent an engineer with the equipment to assist the ABC engineers and had the link up and running by midday Wednesday, Sept. 12,” Payne said.
+
+Nucomm also provided microwave relay links for New York One, Time Warner Cable's 24-hour news channel, and ENG systems for WNJU-TV and WNET-TV.
+
+Microwave Radio Communications (MRC) provided STL links for WPIX-TV and WCBS-TV. They are also supplying two-way STLs and TSLs for WWOR-TV and WNYW.
+
+Irrespective of the equipment and location, the sites where everything is being installed are only temporary. The Empire State Building site does not have the infrastructure to handle all the increased demand.
+
+The next step is for all the affected stations to turn their low-power emergency installations into full-power transmission facilities that can be used for several years. Despite all the talk of rebuilding the Trade Center towers, any reconstruction wouldn't be for many years. That means the Empire State Building and the Alpine tower are likely to remain the area's primary TV sites for a while.
+
+A long-term solution will be years in the making, but one benefit of the delay is likely to be a better mix of backup sites with new technology and better coverage for New York viewers.

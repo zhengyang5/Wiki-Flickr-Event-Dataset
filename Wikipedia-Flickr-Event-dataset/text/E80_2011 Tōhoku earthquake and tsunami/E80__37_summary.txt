@@ -1,0 +1,5 @@
+The Earth's tilt and rotational spin on its axis as it travels around the Sun causes our seasons.
+The earthquake in Japan moved the axis of rotation by around 16 cm.
+1 degree change to the tilt of the axis of the Earth would mean moving it by around 110 km.
+In order to conserve angular momentum, the changes in inertia are compensated by changes in the rate of rotation of the Earth about the axis.
+This increase in momentum makes the Earth spin faster and our days become slightly shorter by 1-2 milliseconds.

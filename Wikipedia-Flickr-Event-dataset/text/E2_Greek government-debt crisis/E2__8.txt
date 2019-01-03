@@ -1,0 +1,105 @@
+1) If you had to pick one chart that encapsulates Greece's crisis, it would be this one
+
+The roots of Greece's crisis are simple. Before Greece joined the eurozone, investors treated it as a middle-income country with poor governance — which is to say, a credit risk. After Greece joined the eurozone, investors thought that Greece was no longer a credit risk — they figured if push came to shove, other eurozone members like Germany would bail out Greece. They were wrong.
+
+As this chart, via the American Enterprise Institute's Desmond Lachman, shows, after Greece joined the eurozone, investors began lending to Greece at about the same rates as they lend to Germany. Faced with this sudden availability of cheap money, Greece began borrowing like crazy. And then when it couldn't pay back its debts, it turned out financial markets were wrong: Germany and other eurozone nations weren't willing to simply bail out Greece.
+
+That led the market to panic around 2010, and you can see interest rates on Greek debt spike once again. Those high interest rates make it basically impossible for Greece to borrow, and that makes it impossible for Greece to pay its debts.
+
+The result: Greece is insolvent, and the eurozone isn't as tight a union as the financial markets — and maybe the eurozone's member states — believed. That's the crisis.
+
+2) Greece's debt-to-GDP ratio is an insane 172 percent
+
+It's much higher than any other country in the eurozone. But making matters worse is the fact that the financial markets no longer see Greece as debt-worthy. No one wants to lend to Greece at reasonable rates, so Greece can't keep paying to service its current debts while carrying out basic government functions.
+
+3) This is the most important chart if you live in Greece
+
+Greece's problems are often framed as a financial crisis or a political crisis. But what they really are is a human crisis. Unemployment in Greece is over 25 percent now — higher than the United States during the Great Depression. And high unemployment is leading to political backlash.
+
+The latest round of the Greek crisis began when Greece rejected its two main political parties in favor of the far-left Syriza. The main reason? Syriza promised to free Greece from the grinding austerity that was leading to such widespread human misery. The only problem? Syriza had no actual plan for freeing Greece from austerity; it tried to renegotiate the terms of the eurozone's support for Greece and came away basically empty-handed.
+
+So Syriza is asking the Greek people to vote on whether to accept the eurozone's terms — and, by proxy, to remain in the eurozone. The vote is basically a final, desperate ploy for leverage, and one that's likely to fail. Either the Greek people endorse more of the same, which Syriza doesn't want, or they reject the eurozone's offer and basically have to leave the eurozone, which would also be a disaster.
+
+This is perhaps the most important, and most depressing, reality of the Greek crisis: There are no good outcomes that are remotely plausible.
+
+4) Greece's recession is worse than America's Great Depression
+
+This chart also comes via the American Enterprise Institute's Desmond Lachman, who presented it in testimony before Congress. His summation is about as concise a description of the economic nightmare the country is living through that you'll find, so I'll quote it at length:
+
+Over the past six years, Greece has experienced an economic depression on the scale of that experienced by the United States in the 1930s. Its economy has contracted by around 25 percent, its unemployment rate has exceeded 25 percent, and its youth unemployment has risen to over 50 percent. At the same time, despite five years of budget austerity and a major write-down of its privately owned sovereign debt, Greece's public debt to GDP ratio has risen to 180 percent. At the heart of Greece's economic collapse has been the application of draconian budget austerity within a Euro straitjacket. That straitjacket has precluded exchange rate depreciation or the use of an independent monetary policy as a policy offset to the adverse impact of budget belt-tightening on aggregate demand.
+
+In other words, the debt crisis destroyed Greece's economy, which in turn destroyed Greece's ability to pay back its creditors or employ its people, which in turn forced Greece to beg the eurozone and IMF for help, and the austerity measures they demanded destroyed Greece's economy even more.
+
+5) The crisis isn't just hurting the unemployed
+
+This chart, by Max Roser, shows how widespread the economic pain in Greece has been. It tracks Greek incomes since 1974, with different colored lines corresponding to different income groups.
+
+But no matter which income group you look at, the story is the same: Incomes are plummeting, often to levels not seen since the 1970s or '80s. This is one reason the anger in Greek society is so widespread: No economic group is safe from the crisis.
+
+6) Greeks are fleeing Greece
+
+Quartz Atlas" data-chorus-optimize-field="main_image"> Quartz Atlas">
+
+This is a particularly depressing chart about Greece's long-term prospects from Quartz. Before the crisis, Greece's population was growing. Since the crisis, it's shrinking. And it's a good bet that the people leaving Greece are some of the most economically productive. After all, it's a lot easier to emigrate if you have an engineering PhD and resources than if you lack in-demand skills and the money necessary to travel. But as rational as Greek emigration is, it means it will be that much harder for the Greek economy to recover.
+
+7) Money is fleeing Greek banks
+
+Greece is in the throes of a full-fledged bank run. You can see it in photos: The Greek people have been lining up at ATMs to pull their money out. But you can also see it in this chart, which shows Greek bank deposits falling to their lowest levels in a decade.
+
+The reason? Greeks are worried that Greece is going to leave the euro, in whole or in part. They worry that Greece is either going to return to its own currency or, in order to keep paying its debts, revert to some kind of temporary government scrip. Either way, whatever replaces euros will be worth a whole lot less than the euro, so anyone who can get their money out is doing it as fast as they can.
+
+Or, at least, they were doing it as fast as they can. Greece has shut down its banks and imposed limits on daily ATM withdrawals in order to end the run.
+
+8) This is now a Greek crisis, not a eurozone crisis
+
+A few years ago, Greece's crisis was the eurozone's crisis. After all, it wasn't just Greece sagging under the weight of debts it couldn't obviously pay back; it was Spain, Portugal, and Italy, to name just a few.
+
+But no longer. This chart, using Bloomberg data, shows the price of 10-year government bonds from Greece (orange), Portugal (blue), Spain (red), and Italy (green) over the past five years. Focus on the right edge of the chart. You can see prices on Greek bonds rising amid the latest panic. But Spain, Portugal, and Italy are unperturbed. The eurozone has convinced the financial markets that this a Greek problem, not a eurozone problem.
+
+While that may be good for the eurozone, it's bad for Greece, as it reduces the country's negotiating leverage. Four years ago, the eurozone believed it needed to save Greece to survive. Now it thinks it can survive a "Grexit" just fine.
+
+9) Greece has done a lot of austerity
+
+"#Greece has refused to take the tough steps that the other crisis-ridden countries have taken". Really? pic.twitter.com/5dO7za2Wmt — Simon Tilford (@SimonTilford) June 29, 2015
+
+As my colleague Matt Yglesias writes, the austerity question is a bit twisted when it comes to Greece. In America, austerity was a choice: markets were, and are, happy to lend us more money. In Greece, however, markets have no interest in lending to Greece, and so the alternative to accepting the austere conditions imposed by the Eurozone and the IMF is accepting the yet-more severe austerity that markets would force.
+
+That said, there is a peculiar narrative that Greece has somehow been resisting the imposition of austerity. That narrative is dead wrong.
+
+The unemployment numbers should put to rest any belief that the Greek people are somehow surviving this crisis unscathed, but if you want something more specific, then this chart, via the Center for European Reform's Simon Tilford, is useful. If you take 2007 as a baseline, Greece has cut government spending by much more than other eurozone countries.
+
+Indeed, as Paul Krugman wrote, "If you add up all the austerity measures, they have been more than enough to eliminate the original deficit and turn it into a large surplus."
+
+But Greece is in worse shape than ever. Why? Krugman again: "Because the Greek economy collapsed, largely as a result of those very austerity measures, dragging revenues down with it."
+
+The Greeks may not have had a choice other than austerity. But austerity has still been a disaster for them.
+
+10) The value of the euro held against the dollar — and that's been a disaster for Greece
+
+Google finance" data-chorus-optimize-field="main_image"> Google finance">
+
+This chart shows the value of the euro against the dollar, and the basic takeaway is simple: It's held pretty steady through Greece's crisis.
+
+That's been a disaster for Greece.
+
+The normal way a country like Greece would deal with these kinds of problems is to sharply devalue their currency in order to boost tourism and exports. But because Greece is part of the euro, and because they don't control eurozone monetary policy, they haven't been able to devalue. (Eurozone monetary policy is controlled by the European Central Bank, which is more or less controlled by Germany, and so, unsurprisingly, eurozone monetary policy has been much better for Germany than for Greece.)
+
+So membership in the eurozone has slammed Greece coming and going: It led to the crazy borrowing rates that fueled the crisis, and then it made the crisis much more painful for Greece.
+
+For more on the failure of the euro in the crisis, see this great piece from Tim Lee.
+
+11) Greece is crap at collecting taxes
+
+Speaking of tax revenues, there's no real need to belabor this, but Greece is unusually bad at collecting taxes. These numbers come from the Organization for Economic Cooperation and Development, and they show what an outlier Greece is when it comes to tax collection. This isn't the cause of Greece's crisis, but it's definitely not helping the country get out of it.
+
+12) Two views of Greece's economic boom — and crash
+
+This chart, which my colleague Matt Yglesias made with World Bank data and the program Paintbrush, is a bit odd, but it makes an important point. I'll let him explain it.
+
+The magenta line is more or less how things look to Greek people. Since 2008 or so, under the watchful eye of European Union elites (the central bank, the European Commission, the International Monetary Fund, the government of Germany, etc.), the Greek economy has completely collapsed. And the Greek population has been thrown into a state of dire immiseration. The yellow line reflects more how things look to European officialdom. Greece is about on track for where you would expect it to be if you extrapolated forward from the pre-euro era. The prosperity of seven years ago was a bubble, driven by imprudent lending and dodgy government finances. Meanwhile, though Greece is a lot poorer than it was it's not actually a poor country in the global sense. As a supplicant looking for charity, Greece is a lot less compelling than India or Guatemala or any number of sub-Saharan African countries.
+
+13) The Greek people don't think their voice counts in the eurozone (and they're right)
+
+This 2014 poll by the European Commission offers a damning look at the resentments building within the eurozone. Only 23 percent of Greeks — they are, confusingly for Americans, abbreviated as "EL" on the above chart — believe their voice is listened to within the eurozone. But perhaps more tellingly, only 52 percent of Germans — abbreviated as "DE" — feel the same.
+
+This speaks to the fact that while the Greeks feel completely oppressed by the eurozone, Germans, despite their strength, also feel like they're getting a raw deal because they've had to subsidize countries like Greece. Indeed, a March poll found that a majority of Germans wanted to see Greece leave the eurozone.

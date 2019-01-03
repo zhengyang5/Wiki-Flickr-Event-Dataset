@@ -1,0 +1,31 @@
+NFPA-285.
+
+This seemingly innocuous combination of letters and numbers is in fact a life-saving fire test protocol adhered to by the vast majority of America's builders and regulators.
+
+It is also why the Reynobond PE cladding that was used on Grenfell Tower is not thought to have been used on any buildings over 40ft high (approximately four storeys) in the US, despite it being made by an American company.
+
+If you want to put metal composite material cladding on a tall building in this country, you have to simulate, quite precisely, how it would perform in a fire.
+
+Video: PM pledges 'national investigation' in to the Grenfell Tower disaster
+
+That means getting one of only three certified testing labs to construct a full replica wall using the material, several stories high, complete with a window opening near the base.
+
+Testing staff then light a fire so that flames come out through the window and on to the cladding.
+
+They watch and measure if, how and where the exterior material burns.
+
+If temperatures at the top of the wall exceed 1,000 degrees Fahrenheit (537C), it is an automatic fail.
+
+Crucially, if flames spread more than 10ft vertically from the top of the window opening or 5ft horizontally, then it is an automatic fail.
+
+According to the National Fire Prevention Association, who drafted NFPA-285, the cladding used on Grenfell Tower has never passed their test.
+
+Video: How flammable is tower cladding? We test it
+
+NFPA engineer Robert Solomon told Sky News that to the best of his knowledge the NFPA-285 safety protocol is not used in the UK.
+
+He believes it that if it had been, then the proposed Grenfell Tower refurbishment materials would never have been allowed.
+
+He said: "Clearly, Grenfell had all these fire safety deficiencies anyway… all these things that would work against you if there were a fire.
+
+"And then the one thing they did in this renovation was make it even worse."

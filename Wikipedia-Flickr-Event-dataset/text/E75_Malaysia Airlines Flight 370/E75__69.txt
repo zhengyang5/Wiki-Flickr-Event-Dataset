@@ -1,0 +1,45 @@
+ON JANUARY 2nd, at 8pm local time, a strange vessel cast off and sailed out of the Port of Durban, in South Africa, heading east. Her hull was orange. Her superstructure bristled with antennae—some long and pointy, some sleek, white and domed. Her stern sported a crane and also a strange gantry, known to her crew as the “stinger”. Her bow looked so huge and ungainly as to be on the point of tipping her, nose first, into the depths. And below deck, invisible to those on shore, she carried eight autonomous submarines called HUGINs, each six metres long, weighing 1,800kg, and containing a titanium sphere to protect the sensitive electronics therein from the pressure of the ocean’s depths.
+
+The strange ship’s name is Seabed Constructor. She is a Norwegian research vessel, built in 2014 and owned by Swire Seabed, a dredging and surveying firm in Bergen. At the moment, though, she is leased to Ocean Infinity, a company based in Houston, Texas. And the task Ocean Infinity has hired her for is a hard one: to find whatever is left of flight MH370, a Boeing 777-200ER that left Kuala Lumpur on March 8th 2014 with 239 people on board and vanished over the Indian Ocean.
+
+Get our daily newsletter Upgrade your inbox and get our Daily Dispatch and Editor's Picks.
+
+
+
+
+
+
+
+
+
+
+
+
+
+The disappearance of MH370 is one of the great mysteries of modern civil aviation. The aircraft was bound for Beijing, but changed course suddenly over the South China Sea and broke off radio contact. It was last detected by radar near the northern tip of Sumatra, heading west-north-west into the open ocean. Subsequent transmissions to a communications satellite suggested that it crashed somewhere along an arc between 1,500km and 2,700km west of Australia.
+
+The search that followed was the largest in aviation history. It was mounted by Fugro, a Dutch firm, and paid for by the Malaysian, Chinese and Australian governments. Over the course of three years Fugro managed to scan 120,000 square kilometres of seabed. But it found nothing. The plan is for Ocean Infinity’s search to be paid for, on a “no find, no fee” basis, by Malaysia alone. Contracts have yet to be signed, but Oliver Plunkett, Ocean Infinity’s boss, has decided to go ahead anyway, to take advantage of the window of good weather that opens in the southern Indian Ocean in January and February.
+
+Ocean Infinity aims to cover the ground much faster than Fugro did. In prior cruises in the Atlantic, the firm has, according to Josh Broussard, its technical director, managed to scan 890 square kilometres a day using six autonomous submarines. With eight, Mr Broussard thinks that the new mission will be able to manage 1,200 a day—enough to have covered the original search area in just 100 days.
+
+The new search area, 25,000 square kilometres of sea floor chosen by investigators from the Australian Transport Safety Bureau (ATSB), is just north of the old one (see map). Fugro could infer MH370’s crash site only from its final, rather shaky, satellite signals. Ocean Infinity’s effort has been guided as well by wreckage washed ashore on the coasts of Africa and several islands in the Indian Ocean—hence the more northerly starting point. Seabed Constructor will reach that starting-point, which is about 35°S, and 2,200km off the coast of Western Australia, on or about January 17th, her crew having conducted a few final tests and calibrations of the HUGIN system en route, using remote-controlled robots to place dummy debris on the sea floor in order to see if the subs can find it. If searching the patch of ocean designated by the ATSB reveals nothing, then the ship will head farther north, towards the 30th parallel, which some independent experts believe is a better bet.
+
+An ocean of interest
+
+Fugro’s search used but a single autonomous submarine, and this was unable to dive below 4,000 metres, meaning it was not always close to the seabed. The HUGINs carried by Seabed Constructor can, however, go as deep as 6,000 metres. That permits them to reach most of the sea floor comfortably. And the fact that there are eight of them means different areas can be searched in parallel, and that some submarines will always be at sea.
+
+The HUGINs will be launched by the stinger, which extends out over the ship’s stern. Once underwater, the robot craft will communicate with the ship using an acoustic modem. The ship’s own modem, which will receive these signals, is fixed to the end of a long pole that extends down through her hull into the water.
+
+Each HUGIN comes with a 300kg lithium-polymer battery pack, good for a tour of duty lasting up to 60 hours. A downward-pointing sonar will map the contours of the seabed beneath the craft, but most of the searching will be done by side-mounted sonars scanning the bed on either side of the craft. These send out pings and measure the intensity with which they are reflected. Sand reflects less sound than metal does, meaning metal objects such as aircraft debris are easy to distinguish. And if something apparently metallic is detected, its nature can be confirmed using an on-board magnetometer.
+
+The HUGINs’ search patterns are set by people, but the craft will actually navigate with little reference to their mother ship. Every so often, the ship will send out a corrective ping to keep them on course. Mostly, however, they will employ dead reckoning, based on data from accelerometers, to steer themselves autonomously. They are also capable of picking their way without assistance over sheer underwater cliffs and mountains, and past crevices and gullies, using on-board cameras and machine-vision software.
+
+After its tour of duty, a HUGIN will be lifted back on-board ship and the data it has collected (up to two terabytes, recorded on a waterproof hard drive) downloaded into the ship’s data centre and turned into human-readable maps, a process that takes six hours. The HUGIN’s battery will be replaced with a fully charged one, any necessary repairs made, and the craft then sent back out into the ocean.
+
+A team of geologists and hydrographers will then pore over the maps, looking for signs of the missing plane. Surprisingly, for such a high-tech operation, this stage of the search will be entirely manual. Every block of sea floor that the HUGINs map will be examined by three sets of human eyes. Together, this survey team will come up with a list of possible targets, ranked from “E” to “A” (“nothing” to “that’s it”), to present to their bosses. If the data look good, a HUGIN will be sent down for a second, closer look, cameras at the ready.
+
+What happens next, if Ocean Infinity does locate what is left of the missing aircraft, is unclear. Friends and relatives of those aboard it will doubtless derive relief from knowing where the flight ended up. But merely finding the wreckage will not explain what happened on board the plane. That will require the discovery of the aircraft’s flight recorder.
+
+That object is therefore Ocean Infinity’s ultimate target. If it is found on this mission, Mr Broussard says the firm plans to bring it to the surface and then deliver it for analysis to the Australian authorities, who have the technical competence to assess it. A follow-up trip to examine the wreckage, and even bring it to the surface, would require further authorisation from the Malaysian government.
+
+Seabed Constructor is the most advanced civilian survey vessel on the planet today. If its array of technology cannot find MH370, then it is likely that nothing will, and that the mystery of MH370 will remain unsolved. Either way, though, the advance of technology may mean that it is the last such mystery. As the oceans are watched with ever closer scrutiny, from space and the depths, it is increasingly difficult for anything to get lost in the first place.

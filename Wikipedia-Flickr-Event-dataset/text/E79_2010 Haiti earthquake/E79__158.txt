@@ -1,0 +1,61 @@
+Shortly after the 2010 earthquake in Haiti, which killed more than 300,000 people and left more than 1 million homeless, politicians worldwide promised large amounts of aid, and the international aid industry geared up to tackle one of the largest and most complex emergencies in history.
+
+Less than three months after the earthquake struck on 12 January 2010, world leaders gathered in New York and pledged billions for long-term reconstruction – everything from energy and transport to agriculture, job creation and critical social services such as education, health and housing.
+
+Two years on, what's happened to all that money? Which countries have matched their pledges with hard cash? Who's holding back? How much has been spent on emergency relief programmes, and how much on longer-term reconstruction projects? And, crucially, what is there to show for all this?
+
+Figures released by the UN special envoy for Haiti show that only 53% of the nearly $4.5bn pledged for reconstruction projects in 2010 and 2011 has been delivered.
+
+Venezuela and the US, which promised the lion's share of reconstruction funds – more than $1.8bn together – have disbursed just 24% ($223m) and 30% ($278m) respectively. Japan and Finland are among the few donors to have fully met their pledges.
+
+At the New York conference donors also pledged $996m in debt relief. As of December 2011, $965m of the country's debt had been written off – with only the US, Norway and Finland falling short.
+
+Some crucial sectors face particularly large funding gaps, according to UN data. In 2010 and 2011, for example, donors disbursed just $125m of the $311m in grants allocated to agriculture projects. Only $108m of the $315m in grants allocated to health projects has been disbursed. While additional projects in each sector, worth millions, have been approved by donors, they have yet to disburse the cash.
+
+In contrast, while money for reconstruction has been relatively slow in coming, more pledged for emergency relief work has materialised. By the end of December 2011, donors had delivered 86% of the $2.5bn pledged. It's worth noting that few appeals are ever fully funded.
+
+Donors have delivered 77% of the additional $180m (on top of the $2.5bn) pledged for programmes responding to the country's unfolding cholera crisis. Last year, the head of Médecins Sans Frontières, Unni Karunakara, said the human cost of the cholera outbreak in Haiti was "a damning indictment" of the international aid system, as cholera is a disease that's easily treated and controlled – and given the thousands of NGOs working in what is one of the world's smallest countries.
+
+The UK, which did not pledge aid for reconstruction projects at the 2010 conference in New York, has disbursed $37.9m of the $39m promised for emergency relief work by the end of 2011. The UK has given $2.6m in aid for reconstruction outside the conference process.
+
+Donors have been sharply criticised over the last two years for failing to match the initial outpouring of international support for Haiti with money. But critics have also taken aim at where money has ended up. In a country sometimes dubbed a "republic of NGOs", only 6% of bilateral aid for reconstruction projects has gone through Haitian institutions, according to UN figures. Less than 1% of relief funding has gone through the government of Haiti.
+
+In a separate report, the US-based Centre for Economic and Policy Research found that only 23 out of 1,490 contracts awarded by the US government after the earthquake had gone to Haitian companies, accounting for just $4.8m of the total $194m awarded between January 2010 and April 2011. Contractors from the Washington area took 39.4% ($76m).
+
+We've pulled out all the data on funding for emergency relief and reconstruction programmes as collected by the UN special envoy for Haiti. Reconstruction figures are below, but you can always download the full data, which also includes both funding commitments and disbursements. Commitments signal that donors intend to send funds, but have not yet transferred them.
+
+Data summary
+
+Aid for reconstruction pledged and disbursed, in US $ millions Click heading to sort table. Download this data Donor Aid pledged for reconstruction (at New York conference) Aid disbursed for reconstruction (of New York pledges) % of aid disbursed (of New York pledges) Venezuela 930 222.6 23.9% USA 914.4 278.1 30.4% IDB 544 328.2 60.3% IMF 147.1 139.5 94.8% Spain 307.8 261.4 84.9% Canada 256.6 232.8 90.7% France 199.9 143.2 71.6% WorldBank 227.2 196.3 86.4% EC 298.7 178.7 59.8% Brazil 163.6 113.5 69.4% Norway 98.5 52.5 53.3% Japan 100 102.7 102.7% Germany 52.5 18.9 36.0% OAS 36 0.7 1.9% CDB 35 4.3 12.3% Switzerland 26.1 17.9 68.6% Sweden 17.1 10.7 62.6% Qatar 20 0 0.0% Ireland 16 14.1 88.1% Argentina 17.8 8.3 46.6% Australia 11.5 10.8 93.9% Finland 6.4 6.7 104.7% Kuwait 10 0 0.0% Belgium 8.9 0 0.0% Mexico 8 3.1 38.8% Russia 8 8 100.0% Oman 5 5 100.0% Nigeria 5 5 100.0% Colombia 4 4 100.0% Denmark 3.6 3.6 100.0% Korea 3.6 0 0.0% Uruguay 3.3 0 0.0% Luxembourg 2.7 1 37.0% Thailand 2.5 2.5 100.0% China 1.6 1.6 100.0% Monaco 1.3 0.4 30.8% Slovakia 1 0.2 20.0% Gambia 1 1 100.0% Mauritius 1 1 100.0% Senegal 1 0 0.0% Czech Rep. 0.8 0.8 100.0% South Africa 0.6 0.5 83.3% Slovenia 0.6 0.6 100.0% Poland 0.6 0 0.0% Benin 0.3 0 0.0% Turkey 0.3 0 0.0% Algeria 0.2 0.2 100.0% Latvia 0.2 0.1 50.0% Mali 0.2 0 0.0% Estonia 0.1 0.1 100.0% Georgia 0.1 0 0.0% Sudan 0.1 0 0.0% Total 4501.8 2380.4 52.9%
+
+• DATA: download the full spreadsheet
+
+NEW! Buy our book
+
+• Facts are Sacred: the power of data (on Kindle)
+
+More open data
+
+Data journalism and data visualisations from the Guardian
+
+World government data
+
+• Search the world's government data with our gateway
+
+Development and aid data
+
+• Search the world's global development data with our gateway
+
+Can you do something with this data?
+
+• Flickr Please post your visualisations and mash-ups on our Flickr group
+
+• Contact us at data@guardian.co.uk
+
+• Get the A-Z of data
+
+• More at the Datastore directory
+
+• Follow us on Twitter
+
+• Like us on Facebook
