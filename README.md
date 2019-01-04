@@ -3,7 +3,7 @@ This is to release the well-labeled but weakly-aligned dataset we collected for 
 
 The links of the images are included and can be downloaded from the URLs.
 
-Please cite the paper if you are using the dataset.
+Please cite the papers if you are using the dataset.
 
 1. Zhenguo Yang, Zehang Lin, Peipei Kang, Jianming Lv, Qing Li, Wenyin Liu, "Learning Shared Semantic Space with Correlation Alignment for Cross-modal Event Retrieval", 2019. (Manuscript)
 
