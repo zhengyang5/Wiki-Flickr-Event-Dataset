@@ -7,6 +7,5 @@ Please cite the papers if you are using the dataset.
 
 2. Runwei Situ, Zhenguo Yang*, Jianming Lv, Qing Li, Wenyin Liu, "Cross-Modal Event Retrieval: A Dataset and a Baseline using Deep Semantic Learning", In Proceedings of the Pacific-Rim Conference on Multimedia (PCM), 2018. 
 
-For any question regarding the dataset, please contact Dr. Zhenguo Yang (zhengyang5-c@my.cityu.edu.hk). Specifically, the researchers interested in the dataset should download and fill up the **Dataset Agreement Form** and send it back to us.
+For any question regarding the dataset, please contact Dr. Zhenguo Yang (zhengyang5-c@my.cityu.edu.hk). Specifically, the researchers interested in the dataset should download and fill up the **Dataset Agreement Form** and send it back to us. In case any problems about links for downloading the data, please contact me by email.
 
-The links of the images are included and can be downloaded from the URLs. (You can also download directly from this [URL](https://mail2gduteducn-my.sharepoint.com/:f:/g/personal/2111605074_mail2_gdut_edu_cn/EtUYoD-tMGRGu9kqVGj2s5wBQf0QgTteCN2Bs4HXMsSP_Q?e=c3t2dd). If the above URL are invalid, here is an alternative [URL](https://mail2gduteducn-my.sharepoint.com/:f:/g/personal/2111605074_mail2_gdut_edu_cn/EpTQodGCRZNLpHJNCOTxpB8B1TRqLm9Mi8cX4RY4KTvtKw?e=iUs9bf).)
